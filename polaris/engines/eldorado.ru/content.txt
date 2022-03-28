@@ -1,0 +1,23 @@
+<html>
+<head>
+<script src="https://static.stormwall.pro/jsav1.3.js" async defer></script>
+<link rel="stylesheet" href="https://static.stormwall.pro/captcha.css">
+</head>
+<body>
+<div class="content">
+
+<div id="error-frame" class="infoblock action-description invisible">
+	<img src="https://static.stormwall.pro/ajax-loader.gif" />
+</div>
+
+<script>setTimeout(function(){window.location=window.location.href.split('#')[0];},3000);</script>
+
+</div>
+<script>
+const cE = "v!:n!?3782!3j:?y93paatuaua2feydio8qkmq::v?!v2o7f7dwu5jeltreyy8mlah0v2x4gpj01";
+const cK = 31;
+const cN = "swp_token";
+const cO = ";path=/;max-age=3600";
+</script>
+</body>
+</html>

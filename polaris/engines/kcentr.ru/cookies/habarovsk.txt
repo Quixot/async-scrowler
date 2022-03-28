@@ -1,0 +1,36 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.market.yandex.ru	TRUE	/	FALSE	1627027411	market_cpa	1
+.yandex.ru	TRUE	/	TRUE	1942301011	skid	6656260221626768211
+.market.yandex.ru	TRUE	/	TRUE	2145906000	visits	1626768211-1626768211-1626768211
+.market.yandex.ru	TRUE	/	FALSE	2145906000	cmp-merge	true
+.market.yandex.ru	TRUE	/	FALSE	2145906000	reviews-merge	true
+market.yandex.ru	FALSE	/	FALSE	0	js	1
+market.yandex.ru	FALSE	/	TRUE	1626770013	ugcp	1
+market.yandex.ru	FALSE	/	TRUE	1626814802	dcm	1
+market.yandex.ru	FALSE	/	FALSE	1658304215	currentRegionId	213
+market.yandex.ru	FALSE	/	FALSE	1658304215	currentRegionName	%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%83
+market.yandex.ru	FALSE	/	FALSE	1658304215	mOC	1
+.yandex.ru	TRUE	/	FALSE	1689840215	is_gdpr	0
+.yandex.ru	TRUE	/	FALSE	1689840215	is_gdpr_b	CLmULxD7Og==
+.yandex.ru	TRUE	/	TRUE	1689840215	i	yXQE6TeWleat24HbBl5X+Z7EY9H85pOe+IKSjqf8bnUEany5QAlkXOdKePjBOQzAxdqDB9sNcygPvJJfgPPwoHJ/8E4=
+market.yandex.ru	FALSE	/	FALSE	0	fonts-loaded	1
+.yandex.ru	TRUE	/	FALSE	1942128217	yandexuid	8365503161626768211
+.yandex.ru	TRUE	/	FALSE	1658304217	ymex	1942128217.yrts.1626768217
+.yandex.ru	TRUE	/	FALSE	0	gdpr	0
+.yandex.ru	TRUE	/	FALSE	1658304218	_ym_uid	1626768217605805336
+.yandex.ru	TRUE	/	FALSE	1658304218	_ym_d	1626768219
+.yandex.ru	TRUE	/	FALSE	1626840220	_ym_isad	2
+market.yandex.ru	FALSE	/	FALSE	1658304222	regionChangeMethod	manual
+.market.yandex.ru	TRUE	/	FALSE	2145906000	yandexmarket	48%2CRUR%2C1%2C%2C%2C%2C2%2C0%2C0%2C76%2C0%2C0%2C12%2C0
+.yandex.ru	TRUE	/	FALSE	1626770032	_ym_visorc	b
+.yandex.ru	TRUE	/	FALSE	1629360237	spravka	dD0xNjI2NzY4MjM3O2k9MTcxLjIyLjE4Mi45MDtEPUVCODRDMkNEMEMyOTg2QzA1NkFGMEYwNTg5Mjc4NUNDMkI0QzEzRjU1NDBFMkM3OTFBNjg0Mjk3QTEyRjVDNDM7dT0xNjI2NzY4MjM3ODY4NDg4MjkzO2g9ZTQzNWNkNmQ4OGZlMDU0ZmM3MzNkNTM2YWE0MTRhNGE=
+.market.yandex.ru	TRUE	/	FALSE	1626775437	lr	76
+.market.yandex.ru	TRUE	/	TRUE	0	parent_reqid_seq	1626768211396%2Fac8f7ac8007ae73370465f7d89c70500%2C1626768237932%2F0a5370a11b6f0d85612ef47e89c70500
+

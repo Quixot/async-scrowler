@@ -1,0 +1,347 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ru" xml:lang="ru">
+
+<head>
+    <title>Каталог &raquo; Товары от производителя Polaris</title>
+
+<base href="http://elmall96.ru" />
+<link rel="shortcut icon" type="image/png" href="/img/favicon/196/favicon.png" />
+<meta http-equiv="Content-Language" content="ru" />
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta name="document-state" content="Dynamic" />
+<meta name="keywords" content="Эльмолл - интернет-гипермаркет." />
+<meta name="description" content="elmall96.ru - интернет-гипермаркет. Копьютеры, телефоны, плазменные панели, LCD-телевизоры, и другая электронная бытовая техника." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/base/jquery-ui.css" />
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/i18n/jquery.ui.datepicker-ru.min.js"></script>
+
+<script type="text/javascript" src="/js/carouFredSel-6.2.0/jquery.carouFredSel-6.2.0-packed.js"></script>
+
+<script type="text/javascript" src="/js/el.js?202107202346" charset="windows-1251"></script>
+<script type="text/javascript" src="/js/searcher.js" charset="windows-1251"></script>
+
+<script type="text/javascript" src="/js/keyboardLayout/jquery.keyboardLayout.js" charset="windows-1251"></script>
+<link rel="stylesheet" type="text/css" href="/js/keyboardLayout/jquery.keyboardLayout.css" media="screen" />
+
+<script type="text/javascript" src="/js/fancybox/jquery.mousewheel-3.0.2.pack.js" charset="windows-1251"></script>
+<script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.1.js" charset="windows-1251"></script>
+<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.1.css" media="screen" />
+
+<script type="text/javascript" src="/js/tableScroll/jquery.tablescroll.js" charset="windows-1251"></script>
+<link rel="stylesheet" type="text/css" href="/js/tableScroll/jquery.tablescroll.css" media="screen" />
+
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/swiper@7/swiper-bundle.min.css"
+/>
+
+<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+
+
+
+<link rel="stylesheet" href="/css/style.css?201405042455" type="text/css" />
+
+
+	<meta name="twitter:card" content="summary">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="http://elmall96.ru">
+	<meta property="og:title" content="elmall96.ru">
+	<meta property="og:description" content="Интернет гипермаркет elmall96.ru, Екатеринбург">
+	<meta property="og:image" content="http://elmall96.ru/img/logo/196/logo.png">
+
+</head>
+
+<body id="main_body_tag" class="G0:0:0:1823240153">
+
+
+<img src="../img/ajax_loader_128_128.gif" alt="loading..." id="loading" />
+<div id="message" class="borderRadius_5px"></div>
+<div id="dialog"></div>
+<div id="PUL" class="el_shadow"><div id="PUL_close"><img src="/img/button_cancel.png" alt="Закрыть" title="Закрыть" /></div><div id="PUL_body"></div></div>
+
+<table class="no_border_100">
+    <tr>
+        <td colspan="2" id="bhead">
+            
+
+<table>
+<tr>
+	<td>
+		<div id="bhead_mobile" width=100%>
+			<div  class="tel"  style="float: left;align=left;">
+				
+				    										<div class="tel">+7(343) 385-60-97</div>					<a style="color: #333E48;font-size: 16px;" title="++7(343) 385-60-97" href="tel:++7(343) 385-60-97">
+					<img src="/img/ph_icon.png">
+				    </a>
+				    
+							</div>
+			<div  style="float: left; position: relative; left: 30px; width=100%">
+				<img id="mobile_lupa" src="/img/lupa.png" style="float: left; align=right;">
+			</div>
+		</div>
+	</td>
+</tr>
+</table>
+<table class="no_border_100" id="head_tb">
+    <tr id="bhead_1">
+        <td class="el_shadow gradientBlock_1">
+            <table class="no_border_100">
+                <tr class="block25">
+                    <td id="bhead_1_1">
+			                        <span id="city_select">Регион: Екатеринбург</span>
+						                    </td>
+		    <td id="bhead_1_3">  
+                        <h1>У нас есть всё!</h1>                    </td>
+                    <td id="bhead_1_2">
+		       
+                        <a rel="nofollow" style="ptop:0px;right:355px;" href="/vip">VIP вход</a>                                            </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    
+    <tr id="bhead_2">
+        <td>
+            <table class="no_border_100">
+                <tr>
+                    <td id="bhead_2_1">
+                        <a href="http://elmall96.ru">
+                            <img id="site_logo" src="/img/logo/196/logo.png" alt="Интернет-гипермаркет elmall96.ru" title="Интернет-гипермаркет elmall96.ru" />
+                        </a>
+                    </td>
+                    <td id="bhead_2_2">
+                        <div class="el_shadow borderRadius_5px">
+                            <form action="http://elmall96.ru/search" id="searchForm">
+                                <input type="hidden" name="l" value="1" />
+                                <table class="no_border_100" id="bhead_2_2_sf">
+                                    <tr>
+                                        <td><input type="text" placeholder="Введите фразу для поиска" name="search_field" class="el_shadow borderRadius_5px" id="search_field" autocomplete="off" value="polaris" /></td>
+                                        <td width="100px"><input type="submit" class="VEBE_button borderRadius_5px" name="search_button" id="search_button" value="Найти" /></td>
+                                    </tr>
+                                </table>
+                                <table class="no_border_100">
+                                    <tr>
+                                        <td id="bhead_2_2_setc">
+                                            <!--noindex-->Например, <span id="example_search"><a rel="nofollow" href="/search?l=1&search_field=Makita DUC353Z">Makita DUC353Z</a></span><!--/noindex-->
+                                        </td>
+                                        <td id="bhead_2_2_date">
+                                            <!--noindex-->26 октября 2021 г.  15:12, UTC вторник<!--/noindex-->
+                                        </td>
+                                    </tr>
+                                </table>
+                            </form>
+                        </div>
+                    </td>
+                    <td id="bhead_2_3">
+                        <!--noindex--><div>НИЗКИЕ ЦЕНЫ</div>
+<div>БОЛЕЕ 100 000 ТОВАРОВ</div>
+<div>ОТСУТСТВИЕ ПРЕДОПЛАТЫ</div><!--/noindex-->
+			
+                    </td>
+		    <td id="bleft_1_2">
+				<!--noindex--><a href="/cart"><div id="cart_info" class="flash borderRadius_5px"><div id="cart_info_1">Корзина пуста</div><div id="cart_info_2">Выбирайте, покупайте, экономьте</div></div></a><!--/noindex-->
+		    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    
+    <tr id="bhead_3">
+        <td class="el_shadow gradientBlock_1" colspan="3" id="main_menu">
+            <!--noindex--><table class="no_border_100">
+                <tr class="block25">
+                    <td id="bhead_1_menu" width="200px">&nbsp;</td>
+                    <td id="bhead_3_menu">
+                        <a href="/catalog">Каталог</a>
+                        <a href="/brands">Производители</a>
+                        <a href="/cart">Корзина</a>
+                        <a href="/delivery">Доставка</a>
+                        <a href="/about">О компании</a>
+                        <a href="/contacts">Контакты</a>
+                        <a href="/show_order_status">Cостояние заказа</a>                                                						                    </td>
+                </tr>
+            </table><!--/noindex-->
+        </td>
+    </tr>
+</table>
+        </td>
+    </tr>
+    <tr>
+        <td id="bleft">
+            
+<table class="no_border_100 bleftd">
+    
+    <tr id="bleft_2">
+        <td class="el_shadow gradientBlock_2 block25"><!--noindex-->КОНТАКТЫ<!--/noindex--></td>
+    </tr>
+    <tr>
+        <td id="bleft_2_2"><!--noindex-->
+<div class="vcard">
+
+                    <div class="tel">+7(343) 385-60-97</div>    
+<div>e-mail: <span class="email"><a href="mailto:elmall66@inbox.ru" >elmall66@inbox.ru</a></span></div></div>
+<div><a href="/politica">Политика конфиденциальности</a></div>
+
+
+
+<div id="skype">
+
+</div><!--/noindex--></td>
+    </tr>
+    <tr id="bleft_3">
+        <td class="el_shadow gradientBlock_2 block25"><!--noindex-->ИНФОРМАЦИЯ<!--/noindex--></td>
+    </tr>
+    <tr>
+        <td id="bleft_3_2"><!--noindex-->
+
+
+
+
+
+
+
+
+
+
+
+
+<!--/noindex--></td>
+    </tr>
+</table>        </td>
+        <td id="bbody">
+            
+
+<div id="crumbs">
+        <a href="/brands">Производители</a>    &nbsp;<img src="/img/arrow_rigth_16_16.png" height="16" width="16" alt="&gt;" align="texttop" />&nbsp;    <a href="/brands?char=P">P</a>    &nbsp;<img src="/img/arrow_rigth_16_16.png" height="16" width="16" alt="&gt;" align="texttop" />&nbsp;    Polaris</div>
+
+
+	<div class="page_name_h1"><h1>Polaris</h1></div>
+    <table width="100%" class="no_border">
+        <tr><td colspan="2">&nbsp;</td></tr>
+        <tr valign="top"><td style="width: 50%">
+                        	                		                                <table width="100%" class="no_border">
+                    <tr><td><span class="base_group">Бытовая техника</span></td></tr>
+                    <tr><td>
+                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1413&amp;parameter[1]=5086">Утюги</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=3549&amp;parameter[1]=24429">Мультиварки</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1412&amp;parameter[1]=4979">Пылесосы</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1451&amp;parameter[1]=5085">Тостеры</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1476&amp;parameter[1]=5116">Увлажнители воздуха</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1477&amp;parameter[1]=5124">Водонагреватели</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=3549&amp;parameter[1]=25634">Чаши для мультиварки</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1468&amp;parameter[1]=5105">Щипцы</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1468&amp;parameter[1]=5087">Фены</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1466&amp;parameter[1]=5091">Напольные весы</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1439&amp;parameter[1]=5084">Соковыжималки</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1478&amp;parameter[1]=5113">Обогреватели</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1446&amp;parameter[1]=5102">Кофемолки</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1442&amp;parameter[1]=5088">Чайники электрические</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1443&amp;parameter[1]=5078">Блендеры</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1437&amp;parameter[1]=5100">мясорубки</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1448&amp;parameter[1]=5083">Миксеры</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1434&amp;parameter[1]=5044">Кофеварки</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1470&amp;parameter[1]=5082">Машинки для стрижки</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1460&amp;parameter[1]=6252">Электросушилки</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1424&amp;parameter[1]=27012">Отпариватели</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1478&amp;parameter[1]=6433">Конвекторы</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1413&amp;parameter[1]=6276">Парогенераторы</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1436&amp;parameter[1]=4978">Микроволновые печи</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=3553&amp;parameter[1]=5115">Грили</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1467&amp;parameter[1]=5079">Бритвы</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1471&amp;parameter[1]=5081">Электрическая зубные щетки</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1447&amp;parameter[1]=5080">Кухонные комбайны</a></span>
+                        <br />                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1447&amp;parameter[1]=6283">Насадки для кухонных комбайнов</a></span>
+                                                                    </td></tr>
+                    <tr><td>&nbsp;</td></tr>
+                </table><br />
+            		                </td><td>                <table width="100%" class="no_border">
+                    <tr><td><span class="base_group">Все для дома и дачи</span></td></tr>
+                    <tr><td>
+                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1523&amp;parameter[1]=6119">Кухонные весы</a></span>
+                                                                    </td></tr>
+                    <tr><td>&nbsp;</td></tr>
+                </table><br />
+            		                                <table width="100%" class="no_border">
+                    <tr><td><span class="base_group">Красота и здоровье</span></td></tr>
+                    <tr><td>
+                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=2378&amp;parameter[1]=6466">Маникюрные наборы</a></span>
+                                                                    </td></tr>
+                    <tr><td>&nbsp;</td></tr>
+                </table><br />
+            		                                <table width="100%" class="no_border">
+                    <tr><td><span class="base_group">Электроника</span></td></tr>
+                    <tr><td>
+                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1175&amp;parameter[1]=5137">зарядные устройства</a></span>
+                                                                    </td></tr>
+                    <tr><td>&nbsp;</td></tr>
+                </table><br />
+            		                                <table width="100%" class="no_border">
+                    <tr><td><span class="base_group">Авто</span></td></tr>
+                    <tr><td>
+                                                                        <span class="sub_group"><a href="/trade_list?brand=464&amp;group=1333&amp;parameter[1]=23005">Радиаторы масляные</a></span>
+                                                                    </td></tr>
+                    <tr><td>&nbsp;</td></tr>
+                </table><br />
+                    </td></tr>
+	    </table>
+
+
+        </td>
+    </tr>
+
+</table>
+
+
+
+
+
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter4180630 = new Ya.Metrika({id:4180630,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+			w.yaCounter23603389 = new Ya.Metrika({id:23603389,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/4180630" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<noscript><div><img src="//mc.yandex.ru/watch/23603389" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+<script type="text/javascript">
+function ymAJAX(TARGET_NAME) {
+    yaCounter4180630.reachGoal(TARGET_NAME);
+}
+</script>
+
+</body>
+
+</html>

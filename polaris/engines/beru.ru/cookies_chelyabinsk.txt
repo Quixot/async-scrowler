@@ -1,0 +1,21 @@
+.beru.ru	TRUE	/	FALSE	2145905999	Cookie_check	checked
+.beru.ru	TRUE	/	FALSE	2145905999	HISTORY_AUTH_SESSION	%7B%22isAuth%22%3Afalse%7D
+.beru.ru	TRUE	/	TRUE	2147483646	Session_id	noauth:1543902936
+.beru.ru	TRUE	/	FALSE	1575438979	_ym_d	1543902980
+.beru.ru	TRUE	/	FALSE	1543974980	_ym_isad	2
+.beru.ru	TRUE	/	FALSE	1575438979	_ym_uid	1543902980573736429
+.beru.ru	TRUE	/	FALSE	1543904783	_ym_visorc_47628343	b
+.beru.ru	TRUE	/	FALSE	1544006659	_ym_wasSynced	%7B%22time%22%3A1543902979703%2C%22params%22%3A%7B%22eu%22%3A0%7D%2C%22bkParams%22%3A%7B%7D%7D
+beru.ru	FALSE	/	FALSE	1543989395	available-delivery	56%3D1
+beru.ru	FALSE	/	FALSE	fonts-loaded	1
+.beru.ru	TRUE	/	TRUE	1859262932	i	NhzZ74muUvuJkRwlVD0t/87ABGD/MUulXO+k/cTo+V1DJvwcmnd8pynxXYwI6oPyX9LSASALjS2uVsXS/31+EZcu84o=
+.beru.ru	TRUE	/	FALSE	2145905999	mda	1
+.beru.ru	TRUE	/	FALSE	parent_reqid_seq	b5e508ee7b06eea2481902e2bd4998d6%2C2a61d997f0f12e0f09c9d351d33fe290
+beru.ru	FALSE	/	FALSE	1546494993	regionChangeMethod	manual
+.beru.ru	TRUE	/	FALSE	2145905999	reviews-merge	true
+beru.ru	FALSE	/	FALSE	uid	AABam1wGFtWbgwCdUqszAg==
+.beru.ru	TRUE	/	FALSE	2145905999	visits	1543902936-1543902936-1543902936
+beru.ru	FALSE	/	FALSE	2489982983	welcome_coin	%7B%22intro%22%3Atrue%2C%22entrypoint%22%3Atrue%7D
+.beru.ru	TRUE	/	FALSE	2145905999	yandexmarket	10%2CRUR%2C1%2C%2C%2C%2C2%2C0%2C0%2C56%2C0%2C0
+.beru.ru	TRUE	/	FALSE	2174622982	yandexuid	7058135701543902936
+.beru.ru	TRUE	/	FALSE	1859262982	yp	1543989382.yu.7058135701543902936

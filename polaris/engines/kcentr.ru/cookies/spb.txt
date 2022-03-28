@@ -1,0 +1,38 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+kcentr.ru	FALSE	/	FALSE	0	PHPSESSID	a84c980ebc25d1ce4c4b7cef8b975d31
+.kcentr.ru	TRUE	/	FALSE	1941027345	session_uuid	3441b9ba-5381-45c1-8b81-758b7a5ea49c
+.kcentr.ru	TRUE	/	FALSE	1630073745	terminal	0
+.kcentr.ru	TRUE	/	FALSE	1661091345	store[region]	c2deb16a-0330-4f05-821f-1d09c93331e6
+.kcentr.ru	TRUE	/	FALSE	1661091345	store[kladr]	78000000000
+.kcentr.ru	TRUE	/	FALSE	1661091345	store[city]	%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
+.kcentr.ru	TRUE	/	FALSE	1661091345	store[city_id]	2198
+.kcentr.ru	TRUE	/	FALSE	1629987355	rr-testCookie	testvalue
+.kcentr.ru	TRUE	/	FALSE	1637763346	_gcl_au	1.1.53216484.1629987346
+.kcentr.ru	TRUE	/	FALSE	1661523346	rcuid	6127a2137ce59a0001431d56
+.kcentr.ru	TRUE	/	FALSE	1661523346	rrpvid	666059494917616
+.kcentr.ru	TRUE	/	FALSE	1629989146	dSesn	bb9c1dfe-2135-f20b-c051-116fa0e217d1
+.kcentr.ru	TRUE	/	FALSE	1629989146	_dvs	0:kst0dq4z:Ee5_5OcAK~bDAgqBFDCVwg_r3hd4HXA8
+.kcentr.ru	TRUE	/	FALSE	1693059346	_userGUID	0:kst0dq4z:Oo8WS0osYONMfpA2Z5p9ZUzyYzQHJGRa
+.kcentr.ru	TRUE	/	FALSE	1629987647	rrwpswu	true
+kcentr.ru	FALSE	/search/399	FALSE	1631196947	g4c_x	1
+kcentr.ru	FALSE	/	FALSE	1693059347	rraem	
+.kcentr.ru	TRUE	/	FALSE	1658758547	tmr_lvid	1f47d954485f969dd74ad8539b4c21ca
+.kcentr.ru	TRUE	/	FALSE	1658758547	tmr_lvidTS	1629987347864
+.kcentr.ru	TRUE	/	FALSE	1661523348	_ym_uid	1629987348524291156
+.kcentr.ru	TRUE	/	FALSE	1661523348	_ym_d	1629987348
+.kcentr.ru	TRUE	/	FALSE	1629987408	_gat_UA-58067771-1	1
+.kcentr.ru	TRUE	/	FALSE	1630059348	_ym_isad	2
+.kcentr.ru	TRUE	/	FALSE	1637763349	_fbp	fb.1.1629987348167.1946910867
+.kcentr.ru	TRUE	/	FALSE	1629989149	_ym_visorc	w
+kcentr.ru	FALSE	/	FALSE	1630073750	tmr_detect	0%7C1629987350804
+.kcentr.ru	TRUE	/	FALSE	1693059361	_ga	GA1.2.1737422880.1629987348
+.kcentr.ru	TRUE	/	FALSE	1630073761	_gid	GA1.2.884099232.1629987348
+.kcentr.ru	TRUE	/	FALSE	1658758547	tmr_reqNum	18
+

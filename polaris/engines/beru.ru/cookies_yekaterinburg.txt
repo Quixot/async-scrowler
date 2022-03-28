@@ -1,0 +1,28 @@
+.beru.ru	TRUE	/	FALSE	2145905999	Cookie_check	checked
+.beru.ru	TRUE	/	FALSE	2145905999	HISTORY_AUTH_SESSION	%7B%22isAuth%22%3Afalse%7D
+.doubleclick.net	TRUE	/	FALSE	1606976706	IDE	AHWqTUkRyBU6gwP6sIdDQiW4Ff-0hxcdRTIoH1_yhH7i-ezxbtumr7gFPkwgGZAb
+.beru.ru	TRUE	/	TRUE	2147483646	Session_id	noauth:1543904654
+.yastatic.net	TRUE	/	FALSE	1551680681	_gcl_au	1.1.98419040.1543904682
+.beru.ru	TRUE	/	FALSE	1575440680	_ym_d	1543904681
+.beru.ru	TRUE	/	FALSE	1543976690	_ym_isad	2
+.beru.ru	TRUE	/	FALSE	1575440680	_ym_uid	15439046811011308902
+.beru.ru	TRUE	/	FALSE	1543906492	_ym_visorc_47628343	b
+.beru.ru	TRUE	/	FALSE	1544008360	_ym_wasSynced	%7B%22time%22%3A1543904680721%2C%22params%22%3A%7B%22eu%22%3A0%7D%2C%22bkParams%22%3A%7B%7D%7D
+beru.ru	FALSE	/	FALSE	1543991099	available-delivery	54%3D1
+beru.ru	FALSE	/	FALSE	fonts-loaded	1
+.beru.ru	TRUE	/	TRUE	1859264651	i	bhnm6g/txpqYV0R4ljKaFstlKKdsK8pa8uti1trX7lTPKPXz9pgPJ+UotKfQiZwKCz/TnCn1qMfXWrm3cDqwztz/m78=
+.yandex.ru	TRUE	/	TRUE	1859264680	i	gW9cowV8quYTkzFP2O+wDuFjRbpAYvZd4UDMB3v7lIY4GHNQrUkVuIePvdxuEqbwVGZWwaOz1r+Z9sYjxMhf6oVDQug=
+.beru.ru	TRUE	/	FALSE	2145905999	mda	1
+.beru.ru	TRUE	/	FALSE	parent_reqid_seq	54fad037a2c964ace983e1caac7a2068%2Ca9220782b308efd6c9c52bbfd8f7786a
+beru.ru	FALSE	/	FALSE	1546496697	regionChangeMethod	manual
+.beru.ru	TRUE	/	FALSE	2145905999	reviews-merge	true
+.mc.yandex.ru	TRUE	/	FALSE	1543905290	sync_cookie_csrf	3545052622fake
+beru.ru	FALSE	/	FALSE	uid	AABuBVwGHYxNtACtWVnbAg==
+.beru.ru	TRUE	/	FALSE	2145905999	visits	1543904655-1543904655-1543904655
+beru.ru	FALSE	/	FALSE	2489984691	welcome_coin	%7B%22intro%22%3Atrue%2C%22entrypoint%22%3Atrue%7D
+mc.yandex.ru	FALSE	/	FALSE	yabs-sid	1788375161543904692
+.beru.ru	TRUE	/	FALSE	2145905999	yandexmarket	10%2CRUR%2C1%2C%2C%2C%2C2%2C0%2C0%2C54%2C0%2C0
+.beru.ru	TRUE	/	FALSE	2174624690	yandexuid	2217154161543904654
+.yandex.ru	TRUE	/	FALSE	2147483646	yandexuid	2217154161543904654
+.beru.ru	TRUE	/	FALSE	1859264690	yp	1543991092.yu.2217154161543904654
+.yandex.ru	TRUE	/	FALSE	1859264680	yp	1859264681.yrtsi.1543904681

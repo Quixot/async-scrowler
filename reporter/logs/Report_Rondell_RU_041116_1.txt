@@ -1,0 +1,15 @@
+Initial: 352416 bytes 
+4.33
+Starting main LOOP...
+28
+End creating array. Starting writing to cells...
+35
+Starting report writing...
+Final: 78643360 bytes 
+Peak: 95173632 bytes 
+36.78
+sending email...Array
+(
+    [0] => alexandr.volkoff@gmail.com
+    [1] => rsp.bt.tech@gmail.com
+)

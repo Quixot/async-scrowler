@@ -1,0 +1,2 @@
+<?php
+//elmag.com.ua

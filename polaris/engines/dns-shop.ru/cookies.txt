@@ -1,0 +1,32 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+www.dns-shop.ru	FALSE	/	FALSE	1613029885	PHPSESSID	fb4c95b514b36763038ec39ef907938f
+www.dns-shop.ru	FALSE	/	FALSE	0	_csrf	924be71322c4ecdf9f2a86b514f49d1371841eb0fcc619b4cf707e8486d8560aa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22sLYQgZZFXfwr9pBp7TYxPKPek9jD8ZW9%22%3B%7D
+.dns-shop.ru	TRUE	/	FALSE	1643961085	phonesIdent	d027e5b2b0595c99bb2643aeca6b0940ea4fcb4cef6f750a451655a42f13b225a%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22phonesIdent%22%3Bi%3A1%3Bs%3A36%3A%222bfdb417-ae8f-4c71-8699-b4491fa5fa48%22%3B%7D
+www.dns-shop.ru	FALSE	/	FALSE	1615017085	rerf	AAAAAGAbp309o5pvAwXcAg==
+www.dns-shop.ru	FALSE	/	FALSE	1924991999	ipp_uid2	S2imtfWcJsxgfuE9/e0SaIZys7MyQYeefadPY4A==
+www.dns-shop.ru	FALSE	/	FALSE	1924991999	ipp_uid1	1612425083294
+www.dns-shop.ru	FALSE	/	FALSE	1924991999	ipp_uid	1612425083294/S2imtfWcJsxgfuE9/e0SaIZys7MyQYeefadPY4A==
+.dns-shop.ru	TRUE	/	FALSE	1643961088	cartUserCookieIdent_v3	95d72a08262f047e3f5bfea872e4191a9c3f5a5187dfd699a4a74a2436cad13aa%3A2%3A%7Bi%3A0%3Bs%3A22%3A%22cartUserCookieIdent_v3%22%3Bi%3A1%3Bs%3A36%3A%22afcb74de-5228-369d-9f2f-d76cbd827b25%22%3B%7D
+.dns-shop.ru	TRUE	/	FALSE	1643961091	_ym_uid	161242509285195785
+.dns-shop.ru	TRUE	/	FALSE	1643961091	_ym_d	1612425092
+.dns-shop.ru	TRUE	/	FALSE	1612497093	_ym_isad	2
+.dns-shop.ru	TRUE	/	FALSE	0	city_path	spb
+.dns-shop.ru	TRUE	/	FALSE	1643961093	current_path	1487c3e14ddc11357b5aef4ff50243b72b4cd1e3647fe7dcde62251f309e64a8a%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22current_path%22%3Bi%3A1%3Bs%3A65%3A%22%7B%22city%22%3A%22566ca284-5bea-11e2-aee1-00155d030b1f%22%2C%22method%22%3A%22manual%22%7D%22%3B%7D
+www.dns-shop.ru	FALSE	/	FALSE	0	ipp_key	v1612425326144/v3394bd400b5e53a13cfc65163aeca6afa04ab2/CU4SzSM+J0sFGM0sCZ9qRw==
+.dns-shop.ru	TRUE	/	TRUE	1612511733	auth_csrf	b2de92ecf88c17363ea5d4cb4750ffccb122e868f8b95b31ae0a0508d8fb38a7a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22auth_csrf%22%3Bi%3A1%3Bs%3A36%3A%220b081350-61ed-470c-a57c-47225406a3d6%22%3B%7D
+.dns-shop.ru	TRUE	/	FALSE	1612425344	rr-testCookie	testvalue
+.dns-shop.ru	TRUE	/	FALSE	1643961334	rrpvid	298336692550342
+.dns-shop.ru	TRUE	/	FALSE	1643961336	rcuid	601ba77e08718b0001cf410d
+.dns-shop.ru	TRUE	/	FALSE	1612427138	_ym_visorc	b
+.dns-shop.ru	TRUE	/	FALSE	1612425398	_gat	1
+.dns-shop.ru	TRUE	/	FALSE	1675497338	_ga	GA1.2.1167242484.1612425091
+.dns-shop.ru	TRUE	/	FALSE	1612511738	_gid	GA1.2.1947095830.1612425091
+.dns-shop.ru	TRUE	/	FALSE	1620201338	_fbp	fb.1.1612425093261.1253779649
+

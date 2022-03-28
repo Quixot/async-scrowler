@@ -1,0 +1,1462 @@
+HTTP/1.0 200 Connection established
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 03 Jun 2020 07:30:25 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=15
+Vary: Accept-Encoding
+P3P: policyref="/bitrix/p3p.xml", CP="NON DSP COR CUR ADM DEV PSA PSD OUR UNR BUS UNI COM NAV INT DEM STA"
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000
+Set-Cookie: globusid=xEsxgsF63PZhxX4atRTE7gpPOzFHw074; path=/; HttpOnly
+Set-Cookie: BITRIX_SM_ABTEST_s2=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; max-age=0; path=/; domain=online.globus.ru
+Set-Cookie: online_hyper_id=5011; expires=Thu, 03-Jun-2021 07:30:25 GMT; max-age=31536000; path=/; domain=.globus.ru; HttpOnly; secure
+Set-Cookie: IdmAuthTokenPrivate=1; expires=Wed, 03-Jun-2020 06:30:25 GMT; max-age=0; path=/; domain=online.globus.ru; HttpOnly; secure
+Set-Cookie: IdmUserUuidPrivate=1; expires=Wed, 03-Jun-2020 06:30:25 GMT; max-age=0; path=/; domain=online.globus.ru; HttpOnly; secure
+Set-Cookie: BITRIX_SM_GUEST_ID=45619425; expires=Sat, 29-May-2021 07:30:25 GMT; max-age=31104000; path=/; domain=online.globus.ru
+Set-Cookie: REGION_185_112_12_3=%7B%22code%22%3A%22UA-63%22%2C%22city_name%22%3A%22%5Cu0425%5Cu0430%5Cu0440%5Cu044c%5Cu043a%5Cu043e%5Cu0432%22%7D; expires=Thu, 04-Jun-2020 07:30:25 GMT; max-age=86400; path=/; domain=.globus.ru; HttpOnly; secure
+Set-Cookie: BITRIX_SM_ABTEST_s2=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; max-age=0; path=/; domain=online.globus.ru
+Set-Cookie: online_zone=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; max-age=0; path=/; domain=.globus.ru; HttpOnly; secure
+X-VARITI-CCR: 3359801821:1
+Set-Cookie: ipp_uid2=XmIWMF8a7LnCd4OB/xuSiu0o8F9X8c8Tw+3rClw==; expires=Tue, 31 Dec 2030 23:59:59 GMT; path=/
+Set-Cookie: ipp_uid1=1591169424849; expires=Tue, 31 Dec 2030 23:59:59 GMT; path=/
+Set-Cookie: ipp_uid=1591169424849/XmIWMF8a7LnCd4OB/xuSiu0o8F9X8c8Tw+3rClw==; expires=Tue, 31 Dec 2030 23:59:59 GMT; path=/
+Set-Cookie: rerf=AAAAAF7XUZEYHk00Ayo8Ag==; expires=Fri, 03-Jul-20 07:30:25 GMT; path=/
+P3P: policyref="/w3c/p3p.xml", CP="CUR ADM OUR NOR STA NID"
+
+<!doctype html>
+<html lang="ru" class="no-js html_catalog ">
+
+<head>
+    <title>Результаты поиска polaris</title>
+    <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="viewport" content="width=device-width" />
+    <noscript>
+        <style>
+            .lazyload {
+                display: none;
+            }
+        </style>
+    </noscript>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="preconnect" href="https://cdn-online.globus.ru">
+    <link rel="preconnect" href="https://api-maps.yandex.ru">
+    <link rel="preconnect" href="https://bitrix.info">
+    <link rel="preconnect" href="https://vk.com">
+    <link rel="preconnect" href="https://www.google-analytics.com">
+
+        <!-- Google Tag Manager -->
+
+        <script data-skip-moving="true">
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+
+        })(window, document, 'script', 'dataLayer', 'GTM-5RLCMXL');
+    </script>
+        <!-- End Google Tag Manager -->
+
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="https://cdn-online.globus.ru/bitrix/js/main/core/css/core_popup.min.css?153226928813169&_cvc=1591035850" type="text/css"  rel="stylesheet" />
+<link href="https://cdn-online.globus.ru/bitrix/js/main/core/css/core.min.css?15322692882854&_cvc=1591035850" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="https://cdn-online.globus.ru/local/templates/onlineshop/css/fonts.min.css?158989785736115&_cvc=1591035850" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="https://cdn-online.globus.ru/local/templates/onlineshop/css/plugins.min.css?158989785736488&_cvc=1591035850" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="https://cdn-online.globus.ru/local/components/globus/hyper.select/templates/.default/style.css?15898978577587&_cvc=1591035850" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="https://cdn-online.globus.ru/local/components/lk/im.registration/templates/.default/style.css?15898978574829&_cvc=1591035850" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="https://cdn-online.globus.ru/local/templates/onlineshop/template_styles.min.css?1589897857245020&_cvc=1591035850" type="text/css"  data-template-style="true"  rel="stylesheet" />
+
+
+
+        <noscript>
+        <style>
+            #js-catalog-theme [data-slick] {
+                opacity: 1
+            }
+
+            div.catalog-section__carousel-popular {
+                display: block
+            }
+
+            #carousel-recent-all.js-catalog-viewed-slick,
+            #carousel-recent-all-cross-sell,
+            #carousel-recent-all-shelf {
+                opacity: 1;
+                 !important;
+            }
+        </style>
+    </noscript>
+
+    <!--[if IE]>
+        <meta http-equiv="imagetoolbar" content="no" />
+    <![endif]-->
+</head>
+
+<body id="globus-app">
+    <div id="d-pannel">
+            </div>
+
+    <!-- Google Tag Manager (noscript) -->
+
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5RLCMXL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div id="d-wrap" class="page-wrap">
+        <header id="d-header" class="box-shadow clr_gray trans js-header">
+            <div class="d-grid d-pr">
+                <aside class="page-aside trans">
+                                            <a href="/">
+                                            <figure class="d-header__logo trans">
+                            <img src="/local/templates/onlineshop/img/logo.svg" alt="" />
+                        </figure>
+                                                </a>
+                                                                    <strong class="d-header__nav-toggle d-hidden" data-toggle='{
+                                                "target": "html",
+                                                "className": "is-nav-main-opened-mdl", "removeClass": "is-header-cart-opened is-header-wishlist-opened is-header-userarea-opened"
+                                            }'>
+                            <i class="ig ig-burger"></i>
+                            <i class="ig ig-close"></i>
+                            <span>Каталог товаров</span>
+                        </strong>
+                                                <nav class="nav_main clr_common d-lnk-txt trans_ha trans_hb"><div class="nav_main__body trans"><div class="nav_main__content js-scroll is-scroll-inner"><ul class="nav_main__content-list"><li data-parent="section_1" class="sub_hover"><a href="/catalog/aktsii/"><div class="menu-icon"><img src="/upload/uf/023/Star.svg"/></div><span class="menu-text">
+                                                                    Акции
+                                                                                                                                                                </span></a></li><li data-parent="section_2" class="sub_hover"><a href="/catalog/sobstvennoe-proizvodstvo/"><div class="menu-icon"><img src="/upload/uf/89b/Preorder-_2_.svg"/></div><span class="menu-text">
+                                                                    Собственное производство
+                                                                                                                                                                </span></a></li><li data-parent="section_3" class="sub_hover"><a href="/catalog/zdorovyy-vybor/"><div class="menu-icon"><img src="/upload/uf/272/healthy-food.svg"/></div><span class="menu-text">
+                                                                    Здоровый выбор
+                                                                                                                                                                </span></a></li><li data-parent="section_4" class="sub_hover"><a href="/catalog/molochnye-produkty-syr-yaytsa/"><div class="menu-icon"><img src="/upload/uf/f84/milk.svg"/></div><span class="menu-text">
+                                                                    Молочные продукты, сыр, яйца
+                                                                                                                                                                </span></a></li><li data-parent="section_5" class="sub_hover"><a href="/catalog/myaso-ryba-kulinariya/"><div class="menu-icon"><img src="/upload/uf/88c/fish-and-meat.svg"/></div><span class="menu-text">
+                                                                    Мясо, рыба, кулинария
+                                                                                                                                                                </span></a></li><li data-parent="section_6" class="sub_hover"><a href="/catalog/ovoshchi-frukty-zelen/"><div class="menu-icon"><img src="/upload/uf/ad0/vegetables.svg"/></div><span class="menu-text">
+                                                                    Овощи, фрукты, зелень
+                                                                                                                                                                </span></a></li><li data-parent="section_7" class="sub_hover"><a href="/catalog/khleb-konditerskie-izdeliya/"><div class="menu-icon"><img src="/upload/uf/3a8/bread-03.06.svg"/></div><span class="menu-text">
+                                                                    Хлеб, кондитерские изделия
+                                                                                                                                                                </span></a></li><li data-parent="section_8" class="sub_hover"><a href="/catalog/bakaleya/"><div class="menu-icon"><img src="/upload/uf/843/groccery.svg"/></div><span class="menu-text">
+                                                                    Бакалея
+                                                                                                                                                                </span></a></li><li data-parent="section_9" class="sub_hover"><a href="/catalog/zamorozhennye-produkty/"><div class="menu-icon"><img src="/upload/uf/823/frosted.svg"/></div><span class="menu-text">
+                                                                    Замороженные продукты
+                                                                                                                                                                </span></a></li><li data-parent="section_10" class="sub_hover"><a href="/catalog/napitki/"><div class="menu-icon"><img src="/upload/uf/c3d/drinks.svg"/></div><span class="menu-text">
+                                                                    Напитки
+                                                                                                                                                                </span></a></li><li data-parent="section_11" class="sub_hover"><a href="/catalog/alkogol/"><div class="menu-icon"><img src="/upload/uf/1e2/wine.svg"/></div><span class="menu-text">
+                                                                    Алкоголь
+                                                                                                                                                                </span></a></li><li data-parent="section_12" class="sub_hover"><a href="/catalog/kosmetika-i-gigiena/"><div class="menu-icon"><img src="/upload/uf/46a/cosmetic.svg"/></div><span class="menu-text">
+                                                                    Косметика и гигиена
+                                                                                                                                                                </span></a></li><li data-parent="section_13" class="sub_hover"><a href="/catalog/detskie-tovary/"><div class="menu-icon"><img src="/upload/uf/283/for-childs.svg"/></div><span class="menu-text">
+                                                                    Детские товары
+                                                                                                                                                                </span></a></li><li data-parent="section_14" class="sub_hover"><a href="/catalog/uborka-bytovaya-khimiya/"><div class="menu-icon"><img src="/upload/uf/d9f/cleaning.svg"/></div><span class="menu-text">
+                                                                    Уборка, бытовая химия
+                                                                                                                                                                </span></a></li><li data-parent="section_15" class="sub_hover"><a href="/catalog/dom-khobbi-tekhnika/"><div class="menu-icon"><img src="/upload/uf/a79/home-stuff.svg"/></div><span class="menu-text">
+                                                                    Дом, хобби, техника
+                                                                                                                                                                </span></a></li><li data-parent="section_16" class="sub_hover"><a href="/catalog/tovary-dlya-zhivotnykh/"><div class="menu-icon"><img src="/upload/uf/8f2/for-pets.svg"/></div><span class="menu-text">
+                                                                    Товары для животных
+                                                                                                                                                                </span></a></li><li data-parent="section_17" class="sub_hover"><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/"><div class="menu-icon"><img src="/upload/uf/2ca/for-drivers.svg"/></div><span class="menu-text">
+                                                                    Всё для автомобиля и дачи
+                                                                                                                                                                </span></a></li><li data-parent="section_18" class="sub_hover"><a href="/catalog/kantstovary-i-pechatnaya-produktsiya/"><div class="menu-icon"><img src="/upload/uf/b3d/books.svg"/></div><span class="menu-text">
+                                                                    Канцтовары и печатная продукция
+                                                                                                                                                                </span></a></li><li data-parent="section_19" class="sub_hover"><a href="/catalog/garderob-i-tekstil/"><div class="menu-icon"><img src="/upload/uf/31f/clothes.svg"/></div><span class="menu-text">
+                                                                    Гардероб и текстиль
+                                                                                                                                                                </span></a></li><li data-parent="section_20" class="not_sub_hover"><a href="/catalog/top-prodazh/"><div class="menu-icon"><img src="/upload/uf/64e/Best.svg"/></div><span class="menu-text">
+                                                                    Бестселлеры
+                                                                                                                                            <i class="ig ig-right"></i></span></a></li></ul></div><div data-section="section_1" class="nav_main__sub"><div><div><a js-head href="/catalog/aktsii/top-100/">Хиты продаж Продукты</a></div><div><a js-head href="/catalog/aktsii/khity-prodazh-non-food/">Хиты продаж Non-Food</a></div><div><a js-head href="/catalog/aktsii/tovary-za-fishki/">Товары за фишки</a><a href="/catalog/aktsii/tovary-za-fishki/posuda/">Посуда</a><a href="/catalog/aktsii/tovary-za-fishki/tovary-dlya-doma/">Товары для дома</a></div><div><a js-head href="/catalog/aktsii/sobstvennoe-proizvodstvo/">Собственное производство</a></div><div><a js-head href="/catalog/aktsii/molochnye-produkty-syr-yaytsa/">Молочные продукты, сыр, яйца</a></div><div><a js-head href="/catalog/aktsii/myaso-ryba-kulinariya/">Мясо, рыба, кулинария</a></div><div><a js-head href="/catalog/aktsii/ovoshchi-frukty-zelen/">Овощи, фрукты, зелень</a></div><div><a js-head href="/catalog/aktsii/bakaleya/">Бакалея</a></div><div><a js-head href="/catalog/aktsii/khleb-konditerskie-izdeliya/">Хлеб, кондитерские изделия</a></div><div><a js-head href="/catalog/aktsii/zamorozhennye-produkty/">Замороженные продукты</a></div></div><div><div><a js-head href="/catalog/aktsii/napitki/">Напитки</a></div><div><a js-head href="/catalog/aktsii/alkogol/">Алкоголь</a></div><div><a js-head href="/catalog/aktsii/kosmetika-i-gigiena/">Косметика и гигиена</a></div><div><a js-head href="/catalog/aktsii/detskie-tovary/">Детские товары</a></div><div><a js-head href="/catalog/aktsii/uborka-bytovaya-khimiya/">Уборка, бытовая химия</a></div><div><a js-head href="/catalog/aktsii/dom-khobbi-tekhnika/">Дом, хобби, техника</a></div><div><a js-head href="/catalog/aktsii/tovary-dlya-zhivotnykh/">Товары для животных</a></div><div><a js-head href="/catalog/aktsii/vsye-dlya-avtomobilya-i-dachi/">Всё для автомобиля и дачи</a></div><div><a js-head href="/catalog/aktsii/kantstovary-i-pechatnaya-produktsiya/">Канцтовары и печатная продукция</a></div><div><a js-head href="/catalog/aktsii/garderob-i-tekstil/">Гардероб и текстиль</a></div></div></div><div data-section="section_2" class="nav_main__sub"><div><div><a js-head href="/catalog/sobstvennoe-proizvodstvo/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/sobstvennoe-proizvodstvo/myasnoy-tsekh/">Мясной цех</a><a href="/catalog/sobstvennoe-proizvodstvo/myasnoy-tsekh/kolbasa-vetchina/">Колбаса, ветчина</a><a href="/catalog/sobstvennoe-proizvodstvo/myasnoy-tsekh/okhlazhdennoe-myaso-farsh/">Охлажденное мясо, фарш</a><a href="/catalog/sobstvennoe-proizvodstvo/myasnoy-tsekh/sosiski-sardelki-shpikachki/">Сосиски, сардельки, шпикачки</a></div><div><a js-head href="/catalog/sobstvennoe-proizvodstvo/shashlyk-barbekyu/">Шашлык, барбекю</a></div><div><a js-head href="/catalog/sobstvennoe-proizvodstvo/rybnyy-ryad/">Рыбный ряд</a><a href="/catalog/sobstvennoe-proizvodstvo/rybnyy-ryad/zamorozhennaya-ryba/">Замороженная рыба</a><a href="/catalog/sobstvennoe-proizvodstvo/rybnyy-ryad/kopchenaya-ryba/">Копченая и жареная рыба</a><a href="/catalog/sobstvennoe-proizvodstvo/rybnyy-ryad/okhlazhdennaya-ryba-i-polufabrikaty/">Охлажденная рыба и полуфабрикаты</a><a href="/catalog/sobstvennoe-proizvodstvo/rybnyy-ryad/solenaya-i-vyalenaya-ryba/">Соленая рыба</a></div><div><a js-head href="/catalog/sobstvennoe-proizvodstvo/kulinariya/">Кулинария</a><a href="/catalog/sobstvennoe-proizvodstvo/kulinariya/deserty-i-fruktovye-salaty/">Десерты и фруктовые салаты</a><a href="/catalog/sobstvennoe-proizvodstvo/kulinariya/ovoshchnye-nabory/">Овощные наборы</a><a href="/catalog/sobstvennoe-proizvodstvo/kulinariya/vtorye-blyuda/">Первые и вторые блюда</a><a href="/catalog/sobstvennoe-proizvodstvo/kulinariya/salaty-i-zakuski/">Салаты и закуски</a><a href="/catalog/sobstvennoe-proizvodstvo/kulinariya/soki/">Соки, компоты</a></div></div><div><div><a js-head href="/catalog/sobstvennoe-proizvodstvo/sushi-i-rolly/">Суши и роллы</a></div><div><a js-head href="/catalog/sobstvennoe-proizvodstvo/pekarnya/">Пекарня</a><a href="/catalog/sobstvennoe-proizvodstvo/pekarnya/khleb/">Хлеб</a><a href="/catalog/sobstvennoe-proizvodstvo/pekarnya/vypechka/">Выпечка</a></div><div><a js-head href="/catalog/sobstvennoe-proizvodstvo/konditerskie-izdeliya/">Кондитерские изделия</a><a href="/catalog/sobstvennoe-proizvodstvo/konditerskie-izdeliya/torty/">Торты</a><a href="/catalog/sobstvennoe-proizvodstvo/konditerskie-izdeliya/torty-na-zakaz/">Торты на заказ</a></div><div><a js-head href="/catalog/sobstvennoe-proizvodstvo/predzakaz-dlya-prazdnika/">Предзаказ для праздника</a><a href="/catalog/sobstvennoe-proizvodstvo/predzakaz-dlya-prazdnika/kulinariya/">Кулинария</a><a href="/catalog/sobstvennoe-proizvodstvo/predzakaz-dlya-prazdnika/ryba/">Рыба</a><a href="/catalog/sobstvennoe-proizvodstvo/predzakaz-dlya-prazdnika/sushi-i-rolly/">Суши и роллы</a><a href="/catalog/sobstvennoe-proizvodstvo/predzakaz-dlya-prazdnika/torty/">Торты</a></div></div></div><div data-section="section_3" class="nav_main__sub"><div><div><a js-head href="/catalog/zdorovyy-vybor/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/zdorovyy-vybor/organicheskie-produkty/">Органические продукты</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/detskoe-pitanie/">Детское питание</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/konditerskie-izdeliya/">Кондитерские изделия</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/konservy/">Консервы</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/krupy-i-makaronnye-izdeliya/">Крупы и макаронные изделия</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/masla-sousy-i-siropy/">Масла, соусы и сиропы</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/molochnye-produkty/">Молочные продукты</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/muka-i-vse-dlya-vypechki/">Мука и все для выпечки</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/napitki/">Напитки</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/sneki/">Снеки</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/spetsii/">Специи и пряности</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/superfudy-i-poleznye-dobavki/">Суперфуды и полезные добавки</a><a href="/catalog/zdorovyy-vybor/organicheskie-produkty/chay-i-kofe/">Чай и кофе</a></div><div><a js-head href="/catalog/zdorovyy-vybor/fermerskie-produkty/">Фермерские продукты</a></div><div><a js-head href="/catalog/zdorovyy-vybor/veganskie-produkty/">Веганские продукты</a><a href="/catalog/zdorovyy-vybor/veganskie-produkty/veganskie-kolbasy-delikatesy-i-myaso/">Веганские колбасы, деликатесы и мясо</a><a href="/catalog/zdorovyy-vybor/veganskie-produkty/veganskiy-shokolad/">Веганский шоколад</a><a href="/catalog/zdorovyy-vybor/veganskie-produkty/orekhovye-i-zlakovye-napitki/">Ореховые и злаковые напитки</a><a href="/catalog/zdorovyy-vybor/veganskie-produkty/rastitelnye-syry-tofu/">Растительные сыры, тофу</a><a href="/catalog/zdorovyy-vybor/veganskie-produkty/soevye-deserty-sousy-i-pasty/">Соевые десерты, соусы и пасты</a></div><div><a js-head href="/catalog/zdorovyy-vybor/bez-glyutena/">Без глютена</a><a href="/catalog/zdorovyy-vybor/bez-glyutena/konditerskie-izdeliya/">Кондитерские изделия</a><a href="/catalog/zdorovyy-vybor/bez-glyutena/makaronnye-izdeliya/">Макаронные изделия</a><a href="/catalog/zdorovyy-vybor/bez-glyutena/muka-i-smesi-dlya-vypechki/">Мука и смеси для выпечки</a><a href="/catalog/zdorovyy-vybor/bez-glyutena/produkty-bystrogo-prigotovleniya/">Продукты быстрого приготовления</a><a href="/catalog/zdorovyy-vybor/bez-glyutena/khleb-i-khlebtsy/">Хлеб и хлебцы</a></div><div><a js-head href="/catalog/zdorovyy-vybor/bez-laktozy/">Без лактозы</a><a href="/catalog/zdorovyy-vybor/bez-laktozy/molochnye-produkty/">Молочные продукты</a><a href="/catalog/zdorovyy-vybor/bez-laktozy/orekhovye-i-zlakovye-napitki/">Ореховые и злаковые напитки</a></div></div><div><div><a js-head href="/catalog/zdorovyy-vybor/bez-sakhara/">Без сахара</a></div><div><a js-head href="/catalog/zdorovyy-vybor/zdorovaya-dieta/">Здоровая диета</a><a href="/catalog/zdorovyy-vybor/zdorovaya-dieta/batonchiki/">Батончики</a><a href="/catalog/zdorovyy-vybor/zdorovaya-dieta/zdorovye-sneki/">Здоровые снеки</a><a href="/catalog/zdorovyy-vybor/zdorovaya-dieta/myusli-i-kashi/">Мюсли и каши</a><a href="/catalog/zdorovyy-vybor/zdorovaya-dieta/poleznye-dobavki-i-semena/">Полезные добавки и семена</a><a href="/catalog/zdorovyy-vybor/zdorovaya-dieta/rastitelnye-masla-i-urbechi/">Растительные масла и урбечи</a><a href="/catalog/zdorovyy-vybor/zdorovaya-dieta/khlebtsy/">Хлебцы</a></div><div><a js-head href="/catalog/zdorovyy-vybor/naturalnaya-kosmetika/">Натуральная косметика</a><a href="/catalog/zdorovyy-vybor/naturalnaya-kosmetika/detskaya-kosmetika/">Детская косметика</a><a href="/catalog/zdorovyy-vybor/naturalnaya-kosmetika/zhenskaya-gigiena/">Женская гигиена</a><a href="/catalog/zdorovyy-vybor/naturalnaya-kosmetika/shampuni-i-balzamy/">Уход за волосами</a><a href="/catalog/zdorovyy-vybor/naturalnaya-kosmetika/ukhod-za-zubami/">Уход за зубами</a><a href="/catalog/zdorovyy-vybor/naturalnaya-kosmetika/ukhod-za-litsom/">Уход за лицом</a><a href="/catalog/zdorovyy-vybor/naturalnaya-kosmetika/ukhod-za-rukami-i-nogami/">Уход за руками и ногами</a><a href="/catalog/zdorovyy-vybor/naturalnaya-kosmetika/ukhod-za-telom/">Уход за телом</a></div><div><a js-head href="/catalog/zdorovyy-vybor/ekologichnaya-bytovaya-khimiya/">Экологичная бытовая химия</a><a href="/catalog/zdorovyy-vybor/ekologichnaya-bytovaya-khimiya/sredstva-dlya-mytya-posudy/">Средства для мытья посуды</a><a href="/catalog/zdorovyy-vybor/ekologichnaya-bytovaya-khimiya/sredstva-dlya-stirki/">Средства для стирки</a><a href="/catalog/zdorovyy-vybor/ekologichnaya-bytovaya-khimiya/sredstva-dlya-uborki/">Средства для уборки</a></div><div><a js-head href="/catalog/zdorovyy-vybor/biorazlagaemye-tovary/">Биоразлагаемые товары</a></div></div></div><div data-section="section_4" class="nav_main__sub"><div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/moloko-slivki/">Молоко, сливки</a><a href="/catalog/molochnye-produkty-syr-yaytsa/moloko-slivki/moloko/">Молоко</a><a href="/catalog/molochnye-produkty-syr-yaytsa/moloko-slivki/slivki/">Сливки</a></div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/kislomolochnye-produkty/">Кисломолочные продукты</a><a href="/catalog/molochnye-produkty-syr-yaytsa/kislomolochnye-produkty/kefir/">Кефир</a><a href="/catalog/molochnye-produkty-syr-yaytsa/kislomolochnye-produkty/ryazhenka-prostokvasha-matsoni/">Ряженка, простокваша, мацони</a><a href="/catalog/molochnye-produkty-syr-yaytsa/kislomolochnye-produkty/tvorog-i-tvorozhnye-produkty/">Творог и творожные продукты</a><a href="/catalog/molochnye-produkty-syr-yaytsa/kislomolochnye-produkty/syrki-tvorozhnye/">Сырки творожные</a><a href="/catalog/molochnye-produkty-syr-yaytsa/kislomolochnye-produkty/smetana/">Сметана</a></div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/yogurt/">Йогурт</a><a href="/catalog/molochnye-produkty-syr-yaytsa/yogurt/yogurty-traditsionnye/">Йогурты традиционные</a><a href="/catalog/molochnye-produkty-syr-yaytsa/yogurt/yogurty-pitevye/">Йогурты питьевые</a></div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/syry/">Сыры</a><a href="/catalog/molochnye-produkty-syr-yaytsa/syry/syry-tverdye-i-polutverdye/">Сыры твердые и полутвердые</a><a href="/catalog/molochnye-produkty-syr-yaytsa/syry/syry-myagkie-i-tvorozhnye/">Сыры мягкие и творожные</a><a href="/catalog/molochnye-produkty-syr-yaytsa/syry/syry-rassolnye/">Сыры рассольные</a><a href="/catalog/molochnye-produkty-syr-yaytsa/syry/syry-s-plesenyu/">Сыры с плесенью</a><a href="/catalog/molochnye-produkty-syr-yaytsa/syry/syry-plavlenye/">Сыры плавленые</a><a href="/catalog/molochnye-produkty-syr-yaytsa/syry/syry-kopchenye/">Сыры копченые</a></div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/maslo-slivochnoe-margarin/">Масло сливочное, маргарин</a><a href="/catalog/molochnye-produkty-syr-yaytsa/maslo-slivochnoe-margarin/maslo-slivochnoe/">Масло сливочное</a><a href="/catalog/molochnye-produkty-syr-yaytsa/maslo-slivochnoe-margarin/margariny-i-spredy/">Маргарины и спреды</a></div></div><div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/kokteyli-deserty-kashi/">Коктейли, десерты, каши</a><a href="/catalog/molochnye-produkty-syr-yaytsa/kokteyli-deserty-kashi/kokteyli-napitki/">Коктейли, напитки</a><a href="/catalog/molochnye-produkty-syr-yaytsa/kokteyli-deserty-kashi/kashi-kiseli/">Каши, кисели</a><a href="/catalog/molochnye-produkty-syr-yaytsa/kokteyli-deserty-kashi/deserty-zhele/">Десерты, желе</a><a href="/catalog/molochnye-produkty-syr-yaytsa/kokteyli-deserty-kashi/mussy-pudingi/">Муссы, пудинги</a></div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/mayonez/">Майонез</a></div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/sgushchennoe-moloko-i-sgushchenka/">Сгущённое молоко и сгущёнка</a></div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/soevye-produkty/">Соевые продукты</a></div><div><a js-head href="/catalog/molochnye-produkty-syr-yaytsa/yaytsa/">Яйца</a></div></div></div><div data-section="section_5" class="nav_main__sub"><div><div><a js-head href="/catalog/myaso-ryba-kulinariya/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/myaso-ryba-kulinariya/myaso/">Мясо</a><a href="/catalog/myaso-ryba-kulinariya/myaso/govyadina/">Говядина</a><a href="/catalog/myaso-ryba-kulinariya/myaso/svinina/">Свинина</a><a href="/catalog/myaso-ryba-kulinariya/myaso/krolik/">Кролик</a><a href="/catalog/myaso-ryba-kulinariya/myaso/myasnye-polufabrikaty/">Мясные полуфабрикаты</a></div><div><a js-head href="/catalog/myaso-ryba-kulinariya/shashlyk-i-gril/">Шашлык и гриль</a></div><div><a js-head href="/catalog/myaso-ryba-kulinariya/myasnaya-gastronomiya/">Мясная гастрономия</a><a href="/catalog/myaso-ryba-kulinariya/myasnaya-gastronomiya/kolbasa/">Колбаса</a><a href="/catalog/myaso-ryba-kulinariya/myasnaya-gastronomiya/sosiski/">Сосиски</a><a href="/catalog/myaso-ryba-kulinariya/myasnaya-gastronomiya/sardelki-i-shpikachki/">Сардельки и шпикачки</a><a href="/catalog/myaso-ryba-kulinariya/myasnaya-gastronomiya/vetchina/">Ветчина</a><a href="/catalog/myaso-ryba-kulinariya/myasnaya-gastronomiya/delikatesy-pashtety-zalivnoe/">Деликатесы, паштеты, заливное</a></div></div><div><div><a js-head href="/catalog/myaso-ryba-kulinariya/ptitsa/">Птица</a><a href="/catalog/myaso-ryba-kulinariya/ptitsa/okhlazhdennaya-ptitsa/">Охлажденная птица</a><a href="/catalog/myaso-ryba-kulinariya/ptitsa/polufabrikaty-iz-ptitsy/">Полуфабрикаты из птицы</a><a href="/catalog/myaso-ryba-kulinariya/ptitsa/subprodukty/">Субпродукты</a></div><div><a js-head href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/">Рыба, икра, морепродукты</a><a href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/zamorozhennaya-ryba/">Замороженная рыба</a><a href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/solenaya-ryba/">Соленая рыба</a><a href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/okhlazhdennaya-ryba/">Охлажденная рыба и полуфабрикаты</a><a href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/moreprodukty-i-salaty/">Морепродукты и салаты</a><a href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/ikra/">Икра</a><a href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/sushenaya-i-vyalenaya-ryba/">Сушеная и вяленая рыба</a><a href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/kopchenaya-ryba/">Копченая рыба</a><a href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/rybnye-zakuski-i-preservy/">Рыбные закуски и пресервы</a><a href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/krabovoe-myaso-i-palochki/">Крабовое мясо и палочки</a><a href="/catalog/myaso-ryba-kulinariya/ryba-ikra-moreprodukty/zamorozhennye-moreprodukty/">Замороженные морепродукты</a></div><div><a js-head href="/catalog/myaso-ryba-kulinariya/kulinariya/">Кулинария</a><a href="/catalog/myaso-ryba-kulinariya/kulinariya/salaty-i-zakuski/">Салаты и закуски</a><a href="/catalog/myaso-ryba-kulinariya/kulinariya/pervye-i-vtorye-blyuda/">Первые и вторые блюда</a><a href="/catalog/myaso-ryba-kulinariya/kulinariya/deserty-i-fruktovye-salaty/">Десерты и фруктовые салаты</a><a href="/catalog/myaso-ryba-kulinariya/kulinariya/blinchiki-pitstsa-i-testo/">Блинчики, пицца и тесто</a><a href="/catalog/myaso-ryba-kulinariya/kulinariya/napitki/">Напитки</a><a href="/catalog/myaso-ryba-kulinariya/kulinariya/ovoshchnye-nabory/">Овощные наборы</a></div></div></div><div data-section="section_6" class="nav_main__sub"><div><div><a js-head href="/catalog/ovoshchi-frukty-zelen/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/ovoshchi-frukty-zelen/frukty-i-yagody/">Фрукты и ягоды</a><a href="/catalog/ovoshchi-frukty-zelen/frukty-i-yagody/yabloki-grushi/">Яблоки, груши</a><a href="/catalog/ovoshchi-frukty-zelen/frukty-i-yagody/banany-kivi-ekzoticheskie-frukty/">Бананы, киви, экзотические фрукты</a><a href="/catalog/ovoshchi-frukty-zelen/frukty-i-yagody/tsitrusovye/">Цитрусовые</a><a href="/catalog/ovoshchi-frukty-zelen/frukty-i-yagody/vishnya-chereshnya-vinograd/">Вишня, черешня, виноград</a><a href="/catalog/ovoshchi-frukty-zelen/frukty-i-yagody/arbuzy-dyni/">Арбузы, дыни</a><a href="/catalog/ovoshchi-frukty-zelen/frukty-i-yagody/yagody/">Ягоды</a></div><div><a js-head href="/catalog/ovoshchi-frukty-zelen/ovoshchi/">Овощи</a><a href="/catalog/ovoshchi-frukty-zelen/ovoshchi/korneplody/">Корнеплоды</a><a href="/catalog/ovoshchi-frukty-zelen/ovoshchi/ogurtsy-i-tomaty/">Огурцы и томаты</a><a href="/catalog/ovoshchi-frukty-zelen/ovoshchi/baklazhany-kabachki-perets/">Баклажаны, кабачки, перец</a><a href="/catalog/ovoshchi-frukty-zelen/ovoshchi/luk-chesnok/">Лук, чеснок</a><a href="/catalog/ovoshchi-frukty-zelen/ovoshchi/kapusta-i-prochie-ovoshchi/">Капуста и прочие овощи</a><a href="/catalog/ovoshchi-frukty-zelen/ovoshchi/ekzoticheskie-ovoshchi/">Экзотические овощи</a><a href="/catalog/ovoshchi-frukty-zelen/ovoshchi/ovoshchnye-nabory/">Овощные наборы</a></div></div><div><div><a js-head href="/catalog/ovoshchi-frukty-zelen/zelen-i-salaty/">Зелень и салаты</a></div><div><a js-head href="/catalog/ovoshchi-frukty-zelen/griby-i-solenya/">Грибы и соленья</a><a href="/catalog/ovoshchi-frukty-zelen/griby-i-solenya/griby-svezhie-i-marinovannye/">Грибы свежие и маринованные</a><a href="/catalog/ovoshchi-frukty-zelen/griby-i-solenya/solenya-ovoshchnye/">Соленья овощные</a><a href="/catalog/ovoshchi-frukty-zelen/griby-i-solenya/adzhika-khrenoder/">Аджика, хренодер</a></div></div></div><div data-section="section_7" class="nav_main__sub"><div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/khleb-lavash-lepeshki/">Хлеб, лаваш, лепешки</a><a href="/catalog/khleb-konditerskie-izdeliya/khleb-lavash-lepeshki/khleb/">Хлеб</a><a href="/catalog/khleb-konditerskie-izdeliya/khleb-lavash-lepeshki/lavash-i-lepeshki/">Лаваш и лепешки</a><a href="/catalog/khleb-konditerskie-izdeliya/khleb-lavash-lepeshki/khlebtsy-i-tartaletki/">Хлебцы и тарталетки</a></div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/shokolad-konfety-zhevatelnaya-rezinka/">Шоколад, конфеты, жевательная резинка</a><a href="/catalog/khleb-konditerskie-izdeliya/shokolad-konfety-zhevatelnaya-rezinka/shokolad-i-shokoladnye-izdeliya/">Шоколад и шоколадные изделия</a><a href="/catalog/khleb-konditerskie-izdeliya/shokolad-konfety-zhevatelnaya-rezinka/nabory-konfet/">Наборы конфет</a><a href="/catalog/khleb-konditerskie-izdeliya/shokolad-konfety-zhevatelnaya-rezinka/konfety-martsipan-drazhe/">Конфеты, марципан, драже</a><a href="/catalog/khleb-konditerskie-izdeliya/shokolad-konfety-zhevatelnaya-rezinka/shokoladnye-i-orekhovye-pasty/">Шоколадные и ореховые пасты</a><a href="/catalog/khleb-konditerskie-izdeliya/shokolad-konfety-zhevatelnaya-rezinka/zhevatelnaya-rezinka/">Жевательная резинка</a></div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/torty-i-pirozhnye/">Торты и пирожные</a><a href="/catalog/khleb-konditerskie-izdeliya/torty-i-pirozhnye/svezhie-torty-i-pirozhnye/">Свежие торты и пирожные</a><a href="/catalog/khleb-konditerskie-izdeliya/torty-i-pirozhnye/torty-i-pirozhnye-dlitelnogo-khraneniya/">Торты и пирожные длительного хранения</a></div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/marmelad-zefir-i-pastila/">Мармелад, зефир, пастила</a><a href="/catalog/khleb-konditerskie-izdeliya/marmelad-zefir-i-pastila/zefir-i-marshmellou/">Зефир и маршмеллоу</a><a href="/catalog/khleb-konditerskie-izdeliya/marmelad-zefir-i-pastila/marmelad/">Мармелад</a><a href="/catalog/khleb-konditerskie-izdeliya/marmelad-zefir-i-pastila/pastila/">Пастила</a></div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/pechene-pryaniki-vafli/">Печенье, пряники, вафли</a><a href="/catalog/khleb-konditerskie-izdeliya/pechene-pryaniki-vafli/pechene-galety-krekery/">Печенье, галеты, крекеры</a><a href="/catalog/khleb-konditerskie-izdeliya/pechene-pryaniki-vafli/pryaniki/">Пряники</a><a href="/catalog/khleb-konditerskie-izdeliya/pechene-pryaniki-vafli/vafli/">Вафли</a></div></div><div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/bulochki-i-sladkaya-vypechka/">Булочки и сладкая выпечка</a><a href="/catalog/khleb-konditerskie-izdeliya/bulochki-i-sladkaya-vypechka/bulochki-ponchiki-vatrushki/">Булочки, пончики, ватрушки</a><a href="/catalog/khleb-konditerskie-izdeliya/bulochki-i-sladkaya-vypechka/kruassany-i-sloyki/">Круассаны и слойки</a></div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/baranki-sushki/">Баранки, сушки, сухари</a><a href="/catalog/khleb-konditerskie-izdeliya/baranki-sushki/sushki-baranki/">Сушки, баранки</a><a href="/catalog/khleb-konditerskie-izdeliya/baranki-sushki/sukhari-khlebnye-palochki/">Сухари, хлебные палочки</a></div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/khalva-lukum-vostochnye-sladosti/">Восточные сладости</a><a href="/catalog/khleb-konditerskie-izdeliya/khalva-lukum-vostochnye-sladosti/khalva-lukum-chak-chak/">Халва, восточные сладости</a><a href="/catalog/khleb-konditerskie-izdeliya/khalva-lukum-vostochnye-sladosti/nuga-shcherbet-iris/">Нуга, щербет, ирис</a><a href="/catalog/khleb-konditerskie-izdeliya/khalva-lukum-vostochnye-sladosti/kozinaki/">Козинаки</a></div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/pirogi-i-pirozhki/">Пироги и пирожки</a></div><div><a js-head href="/catalog/khleb-konditerskie-izdeliya/keksy-i-rulety/">Кексы и рулеты</a><a href="/catalog/khleb-konditerskie-izdeliya/keksy-i-rulety/keksy/">Кексы</a><a href="/catalog/khleb-konditerskie-izdeliya/keksy-i-rulety/rulety/">Рулеты</a></div></div></div><div data-section="section_8" class="nav_main__sub"><div><div><a js-head href="/catalog/bakaleya/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/bakaleya/krupy-i-makaronnye-izdeliya/">Крупы и макаронные изделия</a><a href="/catalog/bakaleya/krupy-i-makaronnye-izdeliya/grechnevaya-krupa/">Гречневая крупа</a><a href="/catalog/bakaleya/krupy-i-makaronnye-izdeliya/ris/">Рис</a><a href="/catalog/bakaleya/krupy-i-makaronnye-izdeliya/makarony-i-pasta/">Макароны и паста</a><a href="/catalog/bakaleya/krupy-i-makaronnye-izdeliya/bobovye/">Бобовые</a><a href="/catalog/bakaleya/krupy-i-makaronnye-izdeliya/smesi-krup/">Смеси круп</a><a href="/catalog/bakaleya/krupy-i-makaronnye-izdeliya/drugie-krupy/">Другие крупы</a></div><div><a js-head href="/catalog/bakaleya/rastitelnye-masla-sousy/">Растительные масла, соусы</a><a href="/catalog/bakaleya/rastitelnye-masla-sousy/rastitelnye-masla/">Растительные масла</a><a href="/catalog/bakaleya/rastitelnye-masla-sousy/sousy-ketchupy-tomatnye-pasty/">Соусы, кетчупы, томатные пасты</a><a href="/catalog/bakaleya/rastitelnye-masla-sousy/gorchitsa-khren/">Горчица, хрен</a><a href="/catalog/bakaleya/rastitelnye-masla-sousy/uksusy-i-marinady/">Уксусы и маринады</a><a href="/catalog/bakaleya/rastitelnye-masla-sousy/desertnye-sousy-i-siropy/">Десертные соусы и сиропы</a><a href="/catalog/bakaleya/rastitelnye-masla-sousy/aziatskaya-kukhnya/">Азиатская кухня</a></div><div><a js-head href="/catalog/bakaleya/chay-kofe-kakao/">Чай, кофе, какао</a><a href="/catalog/bakaleya/chay-kofe-kakao/chernyy-chay/">Черный чай</a><a href="/catalog/bakaleya/chay-kofe-kakao/zelenyy-chay/">Зеленый чай</a><a href="/catalog/bakaleya/chay-kofe-kakao/travyanoy-i-fruktovyy-chay/">Травяной и фруктовый чай</a><a href="/catalog/bakaleya/chay-kofe-kakao/drugie-vidy-chaya/">Другие виды чая</a><a href="/catalog/bakaleya/chay-kofe-kakao/kofe-molotyy/">Кофе молотый</a><a href="/catalog/bakaleya/chay-kofe-kakao/kofe-rastvorimyy/">Кофе растворимый</a><a href="/catalog/bakaleya/chay-kofe-kakao/kofe-zernovoy/">Кофе зерновой</a><a href="/catalog/bakaleya/chay-kofe-kakao/kofe-v-kapsulakh/">Кофе в капсулах</a><a href="/catalog/bakaleya/chay-kofe-kakao/kakao-goryachiy-shokolad/">Какао, горячий шоколад</a><a href="/catalog/bakaleya/chay-kofe-kakao/kofeynye-napitki/">Кофейные напитки</a><a href="/catalog/bakaleya/chay-kofe-kakao/tsikoriy/">Цикорий, зерновые напитки</a></div><div><a js-head href="/catalog/bakaleya/konservy-i-myed/">Консервы и мёд</a><a href="/catalog/bakaleya/konservy-i-myed/ovoshchnye-konservy/">Овощные консервы</a><a href="/catalog/bakaleya/konservy-i-myed/fruktovye-konservy/">Фруктовые консервы</a><a href="/catalog/bakaleya/konservy-i-myed/myasnye-konservy/">Мясные консервы</a><a href="/catalog/bakaleya/konservy-i-myed/rybnye-konservy/">Рыбные консервы</a><a href="/catalog/bakaleya/konservy-i-myed/gribnye-konservy/">Грибные консервы</a><a href="/catalog/bakaleya/konservy-i-myed/sgushchennoe-moloko-i-sgushchenka/">Сгущённое молоко и сгущёнка</a><a href="/catalog/bakaleya/konservy-i-myed/med/">Мёд</a><a href="/catalog/bakaleya/konservy-i-myed/varene-dzhemy/">Варенье, джемы, пюре</a><a href="/catalog/bakaleya/konservy-i-myed/gotovye-blyuda/">Готовые блюда</a></div><div><a js-head href="/catalog/bakaleya/orekhi-sukhofrukty-semechki/">Орехи, сухофрукты, семечки</a><a href="/catalog/bakaleya/orekhi-sukhofrukty-semechki/orekhi/">Орехи</a><a href="/catalog/bakaleya/orekhi-sukhofrukty-semechki/sukhofrukty-i-tsukaty/">Сухофрукты и цукаты</a><a href="/catalog/bakaleya/orekhi-sukhofrukty-semechki/smesi-orekhov-i-sukhofruktov/">Смеси орехов и сухофруктов</a><a href="/catalog/bakaleya/orekhi-sukhofrukty-semechki/semechki/">Семечки</a><a href="/catalog/bakaleya/orekhi-sukhofrukty-semechki/sushenye-ovoshchi-i-griby/">Сушеные овощи и грибы</a><a href="/catalog/bakaleya/orekhi-sukhofrukty-semechki/urbech-i-pasty/">Урбеч и пасты</a></div></div><div><div><a js-head href="/catalog/bakaleya/muka-i-kulinarnye-ingredienty/">Мука и кулинарные ингредиенты</a><a href="/catalog/bakaleya/muka-i-kulinarnye-ingredienty/muka/">Мука</a><a href="/catalog/bakaleya/muka-i-kulinarnye-ingredienty/kulinarnye-ingredienty/">Кулинарные ингредиенты</a><a href="/catalog/bakaleya/muka-i-kulinarnye-ingredienty/smesi-dlya-vypechki/">Смеси для выпечки</a></div><div><a js-head href="/catalog/bakaleya/sol-sakhar-spetsii/">Соль, сахар, специи</a><a href="/catalog/bakaleya/sol-sakhar-spetsii/sakhar-i-zamenitel-sakhara/">Сахар и заменитель сахара</a><a href="/catalog/bakaleya/sol-sakhar-spetsii/sol/">Соль</a><a href="/catalog/bakaleya/sol-sakhar-spetsii/spetsii-i-pripravy/">Специи и приправы</a></div><div><a js-head href="/catalog/bakaleya/dieticheskie-produkty/">Диетические продукты</a><a href="/catalog/bakaleya/dieticheskie-produkty/otrubi-kletchatka-dobavki/">Отруби, клетчатка, добавки</a><a href="/catalog/bakaleya/dieticheskie-produkty/bezglyutenovye-i-soevye-produkty/">Безглютеновые и соевые продукты</a><a href="/catalog/bakaleya/dieticheskie-produkty/zameniteli-sakhara-i-diabetika/">Заменители сахара и диабетика</a><a href="/catalog/bakaleya/dieticheskie-produkty/produkty-dlya-pokhudeniya/">Продукты для похудения</a><a href="/catalog/bakaleya/dieticheskie-produkty/apteka-vitaminy/">Аптека, витамины</a><a href="/catalog/bakaleya/dieticheskie-produkty/sportivnoe-pitanie/">Спортивное питание</a></div><div><a js-head href="/catalog/bakaleya/chipsy-i-sneki/">Чипсы и снеки</a><a href="/catalog/bakaleya/chipsy-i-sneki/chipsy/">Чипсы</a><a href="/catalog/bakaleya/chipsy-i-sneki/batonchiki/">Батончики</a><a href="/catalog/bakaleya/chipsy-i-sneki/popkorn/">Попкорн</a><a href="/catalog/bakaleya/chipsy-i-sneki/sukhariki/">Сухарики</a><a href="/catalog/bakaleya/chipsy-i-sneki/myasnye-i-rybnye-sneki/">Мясные и рыбные снеки</a><a href="/catalog/bakaleya/chipsy-i-sneki/kukuruznye-palochki/">Кукурузные палочки</a><a href="/catalog/bakaleya/chipsy-i-sneki/drugie-sneki/">Другие снеки</a></div><div><a js-head href="/catalog/bakaleya/produkty-bystrogo-prigotovleniya/">Продукты быстрого приготовления</a><a href="/catalog/bakaleya/produkty-bystrogo-prigotovleniya/sukhie-zavtraki-myusli-granola/">Сухие завтраки, мюсли, гранола</a><a href="/catalog/bakaleya/produkty-bystrogo-prigotovleniya/khlopya-i-kashi/">Хлопья и каши</a><a href="/catalog/bakaleya/produkty-bystrogo-prigotovleniya/kiseli-zhele-deserty/">Кисели, желе, десерты</a><a href="/catalog/bakaleya/produkty-bystrogo-prigotovleniya/lapsha-supy-pyure/">Лапша, супы, пюре</a></div></div></div><div data-section="section_9" class="nav_main__sub"><div><div><a js-head href="/catalog/zamorozhennye-produkty/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/zamorozhennye-produkty/pelmeni-vareniki-khinkali/">Пельмени, вареники, хинкали</a><a href="/catalog/zamorozhennye-produkty/pelmeni-vareniki-khinkali/pelmeni/">Пельмени</a><a href="/catalog/zamorozhennye-produkty/pelmeni-vareniki-khinkali/vareniki/">Вареники</a><a href="/catalog/zamorozhennye-produkty/pelmeni-vareniki-khinkali/khinkali-chebureki-manty/">Хинкали, чебуреки, манты</a></div><div><a js-head href="/catalog/zamorozhennye-produkty/zamorozhennaya-ryba-i-moreprodukty/">Замороженная рыба и морепродукты</a><a href="/catalog/zamorozhennye-produkty/zamorozhennaya-ryba-i-moreprodukty/zamorozhennaya-ryba/">Замороженная рыба</a><a href="/catalog/zamorozhennye-produkty/zamorozhennaya-ryba-i-moreprodukty/zamorozhennye-moreprodukty/">Замороженные морепродукты</a></div><div><a js-head href="/catalog/zamorozhennye-produkty/pitstsa/">Пицца</a></div><div><a js-head href="/catalog/zamorozhennye-produkty/morozhenoe-deserty/">Мороженое, десерты</a></div></div><div><div><a js-head href="/catalog/zamorozhennye-produkty/zamorozhennye-frukty-ovoshchi-smesi/">Замороженные фрукты, овощи, смеси</a><a href="/catalog/zamorozhennye-produkty/zamorozhennye-frukty-ovoshchi-smesi/zamorozhennye-ovoshchi-i-smesi/">Замороженные овощи и смеси</a><a href="/catalog/zamorozhennye-produkty/zamorozhennye-frukty-ovoshchi-smesi/zamorozhennye-frukty-i-yagody/">Замороженные фрукты и ягоды</a><a href="/catalog/zamorozhennye-produkty/zamorozhennye-frukty-ovoshchi-smesi/zamorozhennye-griby/">Замороженные грибы</a></div><div><a js-head href="/catalog/zamorozhennye-produkty/zamorozhennye-blinchiki-testo-i-vypechka/">Замороженные блинчики, тесто и выпечка</a><a href="/catalog/zamorozhennye-produkty/zamorozhennye-blinchiki-testo-i-vypechka/zamorozhennoe-testo/">Замороженное тесто</a><a href="/catalog/zamorozhennye-produkty/zamorozhennye-blinchiki-testo-i-vypechka/zamorozhennye-blinchiki-i-oladi/">Замороженные блинчики и оладьи</a><a href="/catalog/zamorozhennye-produkty/zamorozhennye-blinchiki-testo-i-vypechka/zamorozhennaya-vypechka/">Замороженная выпечка</a></div><div><a js-head href="/catalog/zamorozhennye-produkty/zamorozhennye-gotovye-blyuda-i-polufabrikaty/">Замороженные готовые блюда и полуфабрикаты</a><a href="/catalog/zamorozhennye-produkty/zamorozhennye-gotovye-blyuda-i-polufabrikaty/pervye-blyuda/">Первые блюда</a><a href="/catalog/zamorozhennye-produkty/zamorozhennye-gotovye-blyuda-i-polufabrikaty/vtorye-blyuda-i-garniry/">Вторые блюда и гарниры</a><a href="/catalog/zamorozhennye-produkty/zamorozhennye-gotovye-blyuda-i-polufabrikaty/myasnye-i-rybnye-polufabrikaty/">Мясные и рыбные полуфабрикаты</a></div><div><a js-head href="/catalog/zamorozhennye-produkty/zamorozhennye-myasnye-subprodukty/">Замороженные мясные субпродукты</a></div></div></div><div data-section="section_10" class="nav_main__sub"><div><div><a js-head href="/catalog/napitki/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/napitki/soki-nektary/">Соки, нектары</a><a href="/catalog/napitki/soki-nektary/nektary-i-sokosoderzhashchie-napitki/">Нектары и сокосодержащие напитки</a><a href="/catalog/napitki/soki-nektary/soki/">Соки</a></div><div><a js-head href="/catalog/napitki/voda/">Вода</a><a href="/catalog/napitki/voda/voda-pitevaya-artezianskaya-i-rodnikovaya/">Вода питьевая, артезианская и родниковая</a><a href="/catalog/napitki/voda/voda-mineralnaya-i-lechebno-stolovaya/">Вода минеральная и лечебно-столовая</a></div><div><a js-head href="/catalog/napitki/limonady-toniki-gazirovannye-napitki/">Лимонады, тоники, газированные напитки</a></div><div><a js-head href="/catalog/napitki/morsy/">Морсы и компоты</a></div><div><a js-head href="/catalog/napitki/orekhovye-i-zlakovye-napitki/">Ореховые и злаковые напитки</a></div></div><div><div><a js-head href="/catalog/napitki/kvas/">Квас</a></div><div><a js-head href="/catalog/napitki/kholodnyy-chay-kofe/">Холодный чай, кофе</a></div><div><a js-head href="/catalog/napitki/energetiki-i-obogashchennye-napitki/">Энергетики и обогащенные напитки</a></div><div><a js-head href="/catalog/napitki/bezalkogolnoe-pivo/">Безалкогольное пиво</a></div><div><a js-head href="/catalog/napitki/bezalkogolnoe-vino/">Безалкогольное вино</a></div></div></div><div data-section="section_11" class="nav_main__sub"><div><div><a js-head href="/catalog/alkogol/vino/">Вино</a><a href="/catalog/alkogol/vino/tikhie-vina/">Тихие вина</a><a href="/catalog/alkogol/vino/igristye-vina/">Игристые вина</a><a href="/catalog/alkogol/vino/vinnye-napitki-i-vermuty/">Винные напитки и вермуты</a></div><div><a js-head href="/catalog/alkogol/pivo/">Пиво</a></div></div><div><div><a js-head href="/catalog/alkogol/krepkiy-alkogol/">Крепкий алкоголь</a><a href="/catalog/alkogol/krepkiy-alkogol/vodka/">Водка</a><a href="/catalog/alkogol/krepkiy-alkogol/viski/">Виски</a><a href="/catalog/alkogol/krepkiy-alkogol/rom-tekila-dzhin/">Ром, текила, джин</a><a href="/catalog/alkogol/krepkiy-alkogol/likyery/">Ликёры</a><a href="/catalog/alkogol/krepkiy-alkogol/nastoyki-balzamy/">Настойки, бальзамы</a><a href="/catalog/alkogol/krepkiy-alkogol/konyak-armanyak-brendi/">Коньяк, арманьяк, бренди</a></div><div><a js-head href="/catalog/alkogol/slaboalkogolnye-napitki/">Слабоалкогольные напитки</a></div></div></div><div data-section="section_12" class="nav_main__sub"><div><div><a js-head href="/catalog/kosmetika-i-gigiena/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/kosmetika-i-gigiena/predmety-lichnoy-gigieny/">Предметы личной гигиены</a><a href="/catalog/kosmetika-i-gigiena/predmety-lichnoy-gigieny/tualetnaya-bumaga/">Туалетная бумага</a><a href="/catalog/kosmetika-i-gigiena/predmety-lichnoy-gigieny/bumazhnye-polotentsa-salfetki-platochki/">Бумажные полотенца, салфетки, платочки</a><a href="/catalog/kosmetika-i-gigiena/predmety-lichnoy-gigieny/vatnye-diski-i-palochki/">Ватные диски и палочки</a><a href="/catalog/kosmetika-i-gigiena/predmety-lichnoy-gigieny/vlazhnye-salfetki/">Влажные салфетки</a><a href="/catalog/kosmetika-i-gigiena/predmety-lichnoy-gigieny/tovary-meditsinskogo-naznacheniya/">Товары медицинского назначения</a><a href="/catalog/kosmetika-i-gigiena/predmety-lichnoy-gigieny/kontratseptsiya-testy/">Контрацепция, тесты</a><a href="/catalog/kosmetika-i-gigiena/predmety-lichnoy-gigieny/urologicheskie-tovary/">Урологические товары</a></div><div><a js-head href="/catalog/kosmetika-i-gigiena/zhenskaya-gigiena/">Женская гигиена</a><a href="/catalog/kosmetika-i-gigiena/zhenskaya-gigiena/dezodoranty/">Дезодоранты</a><a href="/catalog/kosmetika-i-gigiena/zhenskaya-gigiena/prokladki-gigienicheskie/">Прокладки гигиенические</a><a href="/catalog/kosmetika-i-gigiena/zhenskaya-gigiena/prokladki-ezhednevnye/">Прокладки ежедневные</a><a href="/catalog/kosmetika-i-gigiena/zhenskaya-gigiena/tampony/">Тампоны</a><a href="/catalog/kosmetika-i-gigiena/zhenskaya-gigiena/sredstva-dlya-intimnoy-gigieny/">Средства для интимной гигиены</a><a href="/catalog/kosmetika-i-gigiena/zhenskaya-gigiena/sredstva-dlya-britya-i-depilyatsii/">Средства для бритья и депиляции</a></div><div><a js-head href="/catalog/kosmetika-i-gigiena/muzhskaya-kosmetika-i-gigiena/">Мужская косметика и гигиена</a><a href="/catalog/kosmetika-i-gigiena/muzhskaya-kosmetika-i-gigiena/vse-dlya-britya/">Все для бритья</a><a href="/catalog/kosmetika-i-gigiena/muzhskaya-kosmetika-i-gigiena/shampuni-i-geli-dlya-dusha/">Шампуни и гели для душа</a><a href="/catalog/kosmetika-i-gigiena/muzhskaya-kosmetika-i-gigiena/dezodoranty/">Дезодоранты</a></div><div><a js-head href="/catalog/kosmetika-i-gigiena/ukhod-za-telom/">Уход за телом</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-telom/gel-dlya-dusha/">Гели для душа</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-telom/zhidkoe-mylo/">Жидкое и густое мыло</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-telom/kuskovoe-mylo/">Кусковое мыло</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-telom/mochalki-i-gubki/">Мочалки и губки</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-telom/molochko-loson-krem-maslo/">Молочко, лосьон, крем, масло</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-telom/pena-i-sol-dlya-vann/">Пена и соль для ванн</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-telom/skrab-piling/">Скраб, пилинг</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-telom/solntsezashchitnye-sredstva/">Солнцезащитные средства</a></div><div><a js-head href="/catalog/kosmetika-i-gigiena/ukhod-za-rukami-i-nogami/">Уход за руками и ногами</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-rukami-i-nogami/ukhod-za-rukami/">Уход за руками</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-rukami-i-nogami/ukhod-za-nogami/">Уход за ногами</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-rukami-i-nogami/ukhod-za-nogtyami/">Уход за ногтями</a></div></div><div><div><a js-head href="/catalog/kosmetika-i-gigiena/ukhod-za-litsom/">Уход за лицом</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-litsom/kremy-geli-dlya-litsa/">Кремы, гели для лица</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-litsom/ukhod-za-kozhey-vokrug-glaz/">Уход за кожей вокруг глаз</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-litsom/losony-toniki/">Лосьоны, тоники</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-litsom/sredstva-dlya-snyatiya-makiyazha/">Средства для снятия макияжа</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-litsom/sredstva-dlya-umyvaniya/">Средства для умывания</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-litsom/skraby-pilingi-maski/">Скрабы, пилинги, маски</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-litsom/sredstva-dlya-ukhoda-za-gubami/">Средства для ухода за губами</a></div><div><a js-head href="/catalog/kosmetika-i-gigiena/ukhod-za-volosami/">Уход за волосами</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-volosami/shampuni-i-balzamy/">Шампуни и бальзамы</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-volosami/maski-i-ukhody/">Маски и уходы</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-volosami/vse-dlya-ukladki/">Все для укладки</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-volosami/sredstva-dlya-okrashivaniya/">Средства для окрашивания</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-volosami/aksessuary/">Аксессуары</a></div><div><a js-head href="/catalog/kosmetika-i-gigiena/ukhod-za-polostyu-rta/">Уход за полостью рта</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-polostyu-rta/zubnye-pasty/">Зубные пасты</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-polostyu-rta/zubnye-shchetki/">Зубные щетки</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-polostyu-rta/opolaskivateli/">Ополаскиватели</a><a href="/catalog/kosmetika-i-gigiena/ukhod-za-polostyu-rta/prochie-sredstva/">Прочие средства</a></div><div><a js-head href="/catalog/kosmetika-i-gigiena/aksessuary/">Аксессуары</a></div><div><a js-head href="/catalog/kosmetika-i-gigiena/dekorativnaya-kosmetika/">Декоративная косметика</a></div></div></div><div data-section="section_13" class="nav_main__sub"><div><div><a js-head href="/catalog/detskie-tovary/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/detskie-tovary/detskoe-pitanie/">Детское питание</a><a href="/catalog/detskie-tovary/detskoe-pitanie/detskie-smesi/">Детские смеси</a><a href="/catalog/detskie-tovary/detskoe-pitanie/pyure/">Детское пюре</a><a href="/catalog/detskie-tovary/detskoe-pitanie/detskie-molochnye-produkty/">Детские молочные продукты</a><a href="/catalog/detskie-tovary/detskoe-pitanie/kashi/">Детские каши</a><a href="/catalog/detskie-tovary/detskoe-pitanie/soki-napitki/">Соки, напитки</a><a href="/catalog/detskie-tovary/detskoe-pitanie/chay-batonchiki-pechene/">Чай, батончики, печенье</a><a href="/catalog/detskie-tovary/detskoe-pitanie/prochie-detskie-produkty-pitaniya/">Прочие детские продукты питания</a><a href="/catalog/detskie-tovary/detskoe-pitanie/aksessuary-dlya-kormleniya/">Аксессуары для кормления</a><a href="/catalog/detskie-tovary/detskoe-pitanie/detskaya-voda/">Детская вода</a></div><div><a js-head href="/catalog/detskie-tovary/detskaya-gigiena/">Детская гигиена</a><a href="/catalog/detskie-tovary/detskaya-gigiena/podguzniki-trusiki-i-pelenki/">Подгузники, трусики и пеленки</a><a href="/catalog/detskie-tovary/detskaya-gigiena/detskie-vlazhnye-salfetki/">Детские влажные салфетки</a><a href="/catalog/detskie-tovary/detskaya-gigiena/prochie-tovary-dlya-ukhoda/">Прочие товары для ухода</a></div><div><a js-head href="/catalog/detskie-tovary/detskaya-kosmetika/">Детская косметика</a><a href="/catalog/detskie-tovary/detskaya-kosmetika/kremy-losony-masla/">Кремы, лосьоны, масла</a><a href="/catalog/detskie-tovary/detskaya-kosmetika/sredstva-dlya-kupaniya/">Средства для купания</a><a href="/catalog/detskie-tovary/detskaya-kosmetika/zubnye-pasty-i-shchetki/">Зубные пасты и щетки</a><a href="/catalog/detskie-tovary/detskaya-kosmetika/ukhod-za-volosami/">Уход за волосами</a></div></div><div><div><a js-head href="/catalog/detskie-tovary/igry-i-igrushki/">Игры и игрушки</a><a href="/catalog/detskie-tovary/igry-i-igrushki/tvorchestvo-i-razvitie/">Творчество и развитие</a><a href="/catalog/detskie-tovary/igry-i-igrushki/igrushki-dlya-devochek/">Игрушки для девочек</a><a href="/catalog/detskie-tovary/igry-i-igrushki/igrushki-dlya-malchikov/">Игрушки для мальчиков</a><a href="/catalog/detskie-tovary/igry-i-igrushki/igrushki-dlya-vannoy/">Игрушки для ванной</a><a href="/catalog/detskie-tovary/igry-i-igrushki/konstruktory-i-nabory-igrushek/">Конструкторы и наборы игрушек</a><a href="/catalog/detskie-tovary/igry-i-igrushki/aktivnye-igry-i-sport/">Активные игры и спорт</a></div><div><a js-head href="/catalog/detskie-tovary/soputstvuyushchie-tovary/">Сопутствующие товары</a><a href="/catalog/detskie-tovary/soputstvuyushchie-tovary/kolyaski-i-avtomobilnye-sidenya/">Коляски и автомобильные сиденья</a></div><div><a js-head href="/catalog/detskie-tovary/tovary-dlya-beremennykh-i-kormyashchikh-mam/">Товары для беременных и кормящих мам</a></div></div></div><div data-section="section_14" class="nav_main__sub"><div><div><a js-head href="/catalog/uborka-bytovaya-khimiya/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/uborka-bytovaya-khimiya/chistyashchie-i-moyushchie-sredstva/">Чистящие и моющие средства</a><a href="/catalog/uborka-bytovaya-khimiya/chistyashchie-i-moyushchie-sredstva/sredstva-dlya-stirki-i-ukhoda-za-odezhdoy/">Средства для стирки и ухода за одеждой</a><a href="/catalog/uborka-bytovaya-khimiya/chistyashchie-i-moyushchie-sredstva/sredstva-dlya-posudy-i-kukhni/">Средства для посуды и кухни</a><a href="/catalog/uborka-bytovaya-khimiya/chistyashchie-i-moyushchie-sredstva/sredstva-dlya-uborki-doma/">Средства для уборки дома</a><a href="/catalog/uborka-bytovaya-khimiya/chistyashchie-i-moyushchie-sredstva/sredstva-dlya-vanny-i-tualeta/">Средства для ванны и туалета</a></div><div><a js-head href="/catalog/uborka-bytovaya-khimiya/uborka/">Уборка</a><a href="/catalog/uborka-bytovaya-khimiya/uborka/gubki-tryapki-salfetki/">Губки, тряпки, салфетки</a><a href="/catalog/uborka-bytovaya-khimiya/uborka/meshki-dlya-musora-i-khozyaystvennye-perchatki/">Мешки для мусора и хозяйственные перчатки</a><a href="/catalog/uborka-bytovaya-khimiya/uborka/shvabry-shchetki-i-sovki/">Швабры, щетки и совки</a><a href="/catalog/uborka-bytovaya-khimiya/uborka/vedra-i-tazy/">Ведра и тазы</a></div></div><div><div><a js-head href="/catalog/uborka-bytovaya-khimiya/osvezhiteli-vozdukha/">Освежители воздуха</a><a href="/catalog/uborka-bytovaya-khimiya/osvezhiteli-vozdukha/aerozoli-sprei/">Аэрозоли, спреи</a><a href="/catalog/uborka-bytovaya-khimiya/osvezhiteli-vozdukha/sashe-kristally-diffuzory/">Саше, кристаллы, диффузоры</a></div><div><a js-head href="/catalog/uborka-bytovaya-khimiya/ukhod-za-obuvyu-i-odezhdoy/">Уход за обувью и одеждой</a><a href="/catalog/uborka-bytovaya-khimiya/ukhod-za-obuvyu-i-odezhdoy/sushka-belya/">Сушка белья</a><a href="/catalog/uborka-bytovaya-khimiya/ukhod-za-obuvyu-i-odezhdoy/gladilnye-doski-i-aksessuary/">Гладильные доски и аксессуары</a><a href="/catalog/uborka-bytovaya-khimiya/ukhod-za-obuvyu-i-odezhdoy/ukhod-za-obuvyu/">Уход за обувью</a><a href="/catalog/uborka-bytovaya-khimiya/ukhod-za-obuvyu-i-odezhdoy/ukhod-za-odezhdoy/">Уход за одеждой</a><a href="/catalog/uborka-bytovaya-khimiya/ukhod-za-obuvyu-i-odezhdoy/aksessuary-dlya-stirki/">Аксессуары для стирки</a></div><div><a js-head href="/catalog/uborka-bytovaya-khimiya/sredstva-ot-nasekomykh/">Средства от насекомых</a></div></div></div><div data-section="section_15" class="nav_main__sub"><div><div><a js-head href="/catalog/dom-khobbi-tekhnika/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/dom-khobbi-tekhnika/khranenie-i-organizatsiya/">Хранение и организация</a><a href="/catalog/dom-khobbi-tekhnika/khranenie-i-organizatsiya/yashchiki-korziny-i-korobki/">Ящики, корзины и коробки</a><a href="/catalog/dom-khobbi-tekhnika/khranenie-i-organizatsiya/veshalki-i-chekhly-dlya-odezhdy/">Вешалки и чехлы для одежды</a><a href="/catalog/dom-khobbi-tekhnika/khranenie-i-organizatsiya/sumki-i-pakety-dlya-pokupok/">Сумки и пакеты для покупок</a></div><div><a js-head href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/">Товары для кухни</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/posuda-dlya-prigotovleniya-pishchi/">Посуда для приготовления пищи</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/pribory-dlya-prigotovleniya-pishchi/">Приборы для приготовления пищи</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/posuda-dlya-servirovki/">Посуда для сервировки</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/organizatsiya-i-khranenie/">Организация и хранение</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/skaterti-salfetki-i-odnorazovaya-posuda/">Скатерти, салфетки и одноразовая посуда</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/filtry-dlya-vody/">Фильтры для воды</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/folga-bumaga-plenka/">Фольга, бумага, пленка</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/prinadlezhnosti-dlya-vypechki/">Посуда и аксессуары для выпечки</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/spichki-zazhigalki-aksessuary/">Зажигалки, аксессуары</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/tekstil-dlya-kukhni/">Текстиль для кухни</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/poleznye-melochi/">Полезные мелочи</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-kukhni/termokruzhki-butylki-dlya-vody/">Термокружки, бутылки для воды</a></div><div><a js-head href="/catalog/dom-khobbi-tekhnika/tovary-dlya-vannoy/">Товары для ванной</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-vannoy/shtory-i-aksessuary-dlya-vannoy/">Шторы и аксессуары для ванной</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-vannoy/kovriki-dlya-vannoy/">Коврики для ванной</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-vannoy/oborudovanie-i-komplektuyushchie/">Оборудование и комплектующие</a></div><div><a js-head href="/catalog/dom-khobbi-tekhnika/dlya-domashnikh-rasteniy/">Живые растения, аксессуары</a><a href="/catalog/dom-khobbi-tekhnika/dlya-domashnikh-rasteniy/grunt-drenazh-udobreniya/">Грунт, дренаж, удобрения</a><a href="/catalog/dom-khobbi-tekhnika/dlya-domashnikh-rasteniy/kashpo-i-gorshki/">Кашпо и горшки</a><a href="/catalog/dom-khobbi-tekhnika/dlya-domashnikh-rasteniy/aksessuary/">Аксессуары</a><a href="/catalog/dom-khobbi-tekhnika/dlya-domashnikh-rasteniy/domashnie-rasteniya/">Домашние растения</a></div><div><a js-head href="/catalog/dom-khobbi-tekhnika/bytovaya-i-tsifrovaya-tekhnika/">Бытовая и цифровая техника</a><a href="/catalog/dom-khobbi-tekhnika/bytovaya-i-tsifrovaya-tekhnika/tekhnika-dlya-kukhni/">Техника для кухни</a><a href="/catalog/dom-khobbi-tekhnika/bytovaya-i-tsifrovaya-tekhnika/tekhnika-dlya-ukhoda-za-soboy/">Техника для ухода за собой</a><a href="/catalog/dom-khobbi-tekhnika/bytovaya-i-tsifrovaya-tekhnika/ukhod-za-odezhdoy-i-domom/">Уход за одеждой и домом</a><a href="/catalog/dom-khobbi-tekhnika/bytovaya-i-tsifrovaya-tekhnika/aksessuary-dlya-tsifrovoy-tekhniki/">Аксессуары для цифровой техники</a></div></div><div><div><a js-head href="/catalog/dom-khobbi-tekhnika/remont-i-obustroystvo-doma/">Ремонт и обустройство дома</a><a href="/catalog/dom-khobbi-tekhnika/remont-i-obustroystvo-doma/instrumenty-i-aksessuary/">Инструменты и аксессуары</a><a href="/catalog/dom-khobbi-tekhnika/remont-i-obustroystvo-doma/raskhodnye-materialy/">Расходные материалы</a><a href="/catalog/dom-khobbi-tekhnika/remont-i-obustroystvo-doma/kley-i-kleykaya-lenta/">Клей и клейкая лента</a><a href="/catalog/dom-khobbi-tekhnika/remont-i-obustroystvo-doma/khozyaystvennye-perchatki/">Хозяйственные перчатки</a></div><div><a js-head href="/catalog/dom-khobbi-tekhnika/tovary-dlya-prazdnika-i-dekor/">Товары для праздника и декор</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-prazdnika-i-dekor/shpazhki-i-trubochki-dlya-kokteyley/">Шпажки и трубочки для коктейлей</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-prazdnika-i-dekor/svechi-i-ukrasheniya/">Свечи и украшения</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-prazdnika-i-dekor/otkrytki-upakovochnaya-bumaga-pakety/">Подарочная упаковка</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-prazdnika-i-dekor/vozdushnye-shary-i-khlopushki/">Воздушные шары и хлопушки</a><a href="/catalog/dom-khobbi-tekhnika/tovary-dlya-prazdnika-i-dekor/aksessuary/">Аксессуары для праздника</a></div><div><a js-head href="/catalog/dom-khobbi-tekhnika/interer/">Интерьер</a><a href="/catalog/dom-khobbi-tekhnika/interer/svechi-i-podsvechniki/">Свечи и подсвечники</a></div><div><a js-head href="/catalog/dom-khobbi-tekhnika/elektrotovary/">Электротовары</a><a href="/catalog/dom-khobbi-tekhnika/elektrotovary/lampochki-i-svetilniki/">Лампочки и светильники</a><a href="/catalog/dom-khobbi-tekhnika/elektrotovary/batareyki-i-akkumulyatory/">Батарейки и аккумуляторы</a><a href="/catalog/dom-khobbi-tekhnika/elektrotovary/udliniteli-i-setevye-filtry/">Удлинители и сетевые фильтры</a></div><div><a js-head href="/catalog/dom-khobbi-tekhnika/sport-i-igry/">Спорт и игры</a><a href="/catalog/dom-khobbi-tekhnika/sport-i-igry/sport/">Спорт</a></div></div></div><div data-section="section_16" class="nav_main__sub"><div><div><a js-head href="/catalog/tovary-dlya-zhivotnykh/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/tovary-dlya-zhivotnykh/korma-i-lakomstva/">Корма и лакомства</a><a href="/catalog/tovary-dlya-zhivotnykh/korma-i-lakomstva/korma-i-lakomstva-dlya-koshek/">Корма и лакомства для кошек</a><a href="/catalog/tovary-dlya-zhivotnykh/korma-i-lakomstva/korma-i-lakomstva-dlya-sobak/">Корма и лакомства для собак</a><a href="/catalog/tovary-dlya-zhivotnykh/korma-i-lakomstva/korma-i-lakomstva-dlya-gryzunov/">Корма и лакомства для грызунов</a><a href="/catalog/tovary-dlya-zhivotnykh/korma-i-lakomstva/korma-i-lakomstva-dlya-ptits/">Корма и лакомства для птиц</a><a href="/catalog/tovary-dlya-zhivotnykh/korma-i-lakomstva/korma-dlya-rybok-i-cherepakh/">Корма для рыбок и черепах</a></div><div><a js-head href="/catalog/tovary-dlya-zhivotnykh/gigiena-i-ukhod/">Гигиена и уход</a><a href="/catalog/tovary-dlya-zhivotnykh/gigiena-i-ukhod/napolniteli/">Наполнители</a><a href="/catalog/tovary-dlya-zhivotnykh/gigiena-i-ukhod/vpityvayushchie-pelenki-i-podguzniki/">Впитывающие пеленки и подгузники</a><a href="/catalog/tovary-dlya-zhivotnykh/gigiena-i-ukhod/ukhod/">Уход</a><a href="/catalog/tovary-dlya-zhivotnykh/gigiena-i-ukhod/aksessuary/">Аксессуары</a></div></div><div><div><a js-head href="/catalog/tovary-dlya-zhivotnykh/aksessuary/">Аксессуары</a></div><div><a js-head href="/catalog/tovary-dlya-zhivotnykh/igrushki/">Игрушки</a></div></div></div><div data-section="section_17" class="nav_main__sub"><div><div><a js-head href="/catalog/vsye-dlya-avtomobilya-i-dachi/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/vsye-dlya-avtomobilya-i-dachi/sad-ogorod/">Сад, огород</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/sad-ogorod/instrumenty-i-raskhodnye-materialy/">Инструменты и расходные материалы</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/sad-ogorod/klubni-lukovitsy-i-sazhentsy/">Клубни, луковицы и саженцы</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/sad-ogorod/sredstva-zashchity-rasteniy-poliv/">Средства защиты растений, полив</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/sad-ogorod/tovary-dlya-poliva/">Товары для полива</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/sad-ogorod/udobreniya-i-grunt/">Удобрения и грунт</a></div><div><a js-head href="/catalog/vsye-dlya-avtomobilya-i-dachi/avtokhimiya/">Автохимия</a></div><div><a js-head href="/catalog/vsye-dlya-avtomobilya-i-dachi/avtoelektrika-i-pribory/">Автоэлектрика и приборы</a></div><div><a js-head href="/catalog/vsye-dlya-avtomobilya-i-dachi/salfetki-tryapki-gubki/">Салфетки, тряпки, губки</a></div></div><div><div><a js-head href="/catalog/vsye-dlya-avtomobilya-i-dachi/aromatizatory/">Ароматизаторы</a></div><div><a js-head href="/catalog/vsye-dlya-avtomobilya-i-dachi/aksessuary-dlya-avtomobilya/">Аксессуары для автомобиля</a></div><div><a js-head href="/catalog/vsye-dlya-avtomobilya-i-dachi/vse-dlya-dachi-i-otdykha/">Все для дачи и отдыха</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/vse-dlya-dachi-i-otdykha/ugol-drova-vse-dlya-rozzhiga/">Уголь, дрова, все для розжига</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/vse-dlya-dachi-i-otdykha/aksessuary-dlya-barbekyu-i-piknika/">Аксессуары для барбекю и пикника</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/vse-dlya-dachi-i-otdykha/termosy-i-termokruzhki/">Термосы и термокружки</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/vse-dlya-dachi-i-otdykha/mebel-dlya-dachi-i-turizma/">Мебель для дачи и туризма</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/vse-dlya-dachi-i-otdykha/basseyny-i-aksessuary/">Бассейны и аксессуары</a><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/vse-dlya-dachi-i-otdykha/sredstva-dlya-dachnykh-tualetov/">Товары для дачных туалетов</a></div><div><a js-head href="/catalog/vsye-dlya-avtomobilya-i-dachi/tovary-dlya-bani-i-sauny/">Товары для бани и сауны</a></div></div></div><div data-section="section_18" class="nav_main__sub"><div><div><a js-head href="/catalog/kantstovary-i-pechatnaya-produktsiya/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/kantstovary-i-pechatnaya-produktsiya/pismennye-prinadlezhnosti/">Письменные принадлежности</a></div><div><a js-head href="/catalog/kantstovary-i-pechatnaya-produktsiya/vse-dlya-risovaniya/">Все для рисования</a></div><div><a js-head href="/catalog/kantstovary-i-pechatnaya-produktsiya/bumaga-albomy-bloknoty/">Бумага, альбомы, блокноты</a></div><div><a js-head href="/catalog/kantstovary-i-pechatnaya-produktsiya/knigi/">Книги</a><a href="/catalog/kantstovary-i-pechatnaya-produktsiya/knigi/knigi-dlya-detey/">Книги для детей</a></div></div><div><div><a js-head href="/catalog/kantstovary-i-pechatnaya-produktsiya/gazety-i-zhurnaly/">Газеты и журналы</a><a href="/catalog/kantstovary-i-pechatnaya-produktsiya/gazety-i-zhurnaly/gazety/">Газеты</a><a href="/catalog/kantstovary-i-pechatnaya-produktsiya/gazety-i-zhurnaly/zhurnaly/">Журналы</a></div><div><a js-head href="/catalog/kantstovary-i-pechatnaya-produktsiya/tetradi-i-dnevniki/">Тетради и дневники</a></div><div><a js-head href="/catalog/kantstovary-i-pechatnaya-produktsiya/organizatsiya-i-khranenie-kantstovarov/">Организация и хранение канцтоваров</a></div><div><a js-head href="/catalog/kantstovary-i-pechatnaya-produktsiya/prochie-kantselyarskie-tovary/">Прочие канцелярские товары</a></div></div></div><div data-section="section_19" class="nav_main__sub"><div><div><a js-head href="/catalog/garderob-i-tekstil/khity-prodazh/">Хиты продаж</a></div><div><a js-head href="/catalog/garderob-i-tekstil/polotentsa/">Полотенца</a></div><div><a js-head href="/catalog/garderob-i-tekstil/noski-kolgotki/">Носки, колготки</a><a href="/catalog/garderob-i-tekstil/noski-kolgotki/zhenskie-noski-golfy/">Женские носки, гольфы</a><a href="/catalog/garderob-i-tekstil/noski-kolgotki/kolgotki-chulki/">Колготки, чулки</a><a href="/catalog/garderob-i-tekstil/noski-kolgotki/muzhskie-noski/">Мужские носки, гольфы</a></div><div><a js-head href="/catalog/garderob-i-tekstil/aksessuary-dlya-obuvi/">Аксессуары для обуви</a></div><div><a js-head href="/catalog/garderob-i-tekstil/postelnye-prinadlezhnosti/">Постельные принадлежности</a></div></div><div><div><a js-head href="/catalog/garderob-i-tekstil/galantereya-aksessuary/">Галантерея, аксессуары</a></div><div><a js-head href="/catalog/garderob-i-tekstil/tekstil-dlya-interera/">Текстиль для интерьера</a></div><div><a js-head href="/catalog/garderob-i-tekstil/odezhda/">Одежда</a><a href="/catalog/garderob-i-tekstil/odezhda/detskaya-odezhda/">Детская одежда</a></div><div><a js-head href="/catalog/garderob-i-tekstil/bazovyy-trikotazh-i-belye/">Базовый трикотаж и бельё</a><a href="/catalog/garderob-i-tekstil/bazovyy-trikotazh-i-belye/zhenskoe-belye/">Женское бельё</a><a href="/catalog/garderob-i-tekstil/bazovyy-trikotazh-i-belye/muzhskoe-belye/">Мужское бельё</a></div><div><a js-head href="/catalog/garderob-i-tekstil/sumki-chemodany/">Сумки, чемоданы</a></div></div></div></div></nav>                                                            </aside>
+                <div class="page-body d-cb">
+                    <div class="d-header__top d-row trans">
+                        <div class="d-col d-col_xs_3">
+                            
+<div class="d-ib">
+    <strong id="hs-title" class="hs-title d-hide_sm clr_orange" style="cursor:pointer"'>
+        <i class="ig ig-pin"></i>
+        <span>Глобус Красногорск</span>
+    </strong>
+
+    <div id="hyper-tooltip" class="hyper-tooltip d-hidden">
+        <div id="hyper-tooltip-close" class="hyper-tooltip__close-btn"></div>
+        <span class="hyper-tooltip__text">
+            Другой гипермаркет? <span class="hs-title hyper-tooltip__link" data-toggle='{"target": "html", "className": "is-header-pvz-popup-opened"}'>Выберите подходящий.</span> Обратите внимание, что цены и ассортимент в разных гипермаркетах отличаются.        </span>
+    </div>
+
+    <div id="hs-main-container" class="popup-pvz-wrap">
+        <div id="hs-overlay" class="popup-pvz-overlay" data-toggle='{"target": "html", "className": "is-header-pvz-popup-opened"}'></div>
+        <div class="popup-pvz">
+            <i class="nav_main__close pvz_close ig ig-close" data-toggle='{"target": "html", "className": "is-header-pvz-popup-opened"}'></i>
+            <p class="popup-pvz__title h1">Чтобы начать покупки,</p>
+            <span class="popup-pvz__sub-title">выберите гипермаркет или место получения</span>
+
+            
+            <div id="hs-notice-container" class="d-hidden">
+                <div id="hs-notice-success" class="popup-pvz__notice">Доставка ежедневно до 22.00. Подробнее <a href="/info/dostavka/" class="clr_orange">про условия и стоимость доставки.</a></div>
+                <div id="hs-notice-error" class="popup-pvz__notice">На ваш адрес не осуществляется доставка. Вы можете забрать заказ из ближайшего пункта выдачи заказов</div>
+            </div>
+
+                            <div id="hs-tab-list-container" popup-pvz__sub-titleclass="hyper-list-container js-tab" data-tab="list"></div>
+                    </div>
+    </div>
+</div>
+
+<script type="x-template/underscore" id="hs-warning-popup">
+    <form class="change-hyper-form" method="post" autocomplete="off">
+        <p id="hs-warning-text" class="change-hyper-form__text">Пожалуйста, обратите внимание, что стоимость и наличие товаров в разных гипермаркетах «Глобус» могут отличаться.<br>При смене гипермаркета цены будут изменены на актуальные для выбранного гипермаркета.<br>Отсутствующие в нем товары будут удалены из Вашей корзины.</p>
+        <div class="change-hyper-form__btn">
+            <button id="hs-warning-button" class="btn_md d-col_xs_5">Понятно</button>
+        </div>
+    </form>
+</script>
+
+<script type="x-template/underscore" id="hs-map">
+    <div id="<%= id %>" class="popup-pvz__map"></div>
+    <h4 class="popup-pvz__legentd-title">Ассортимент и цены в разных гипермаркетах отличаются</h4>
+    <div id="hs-legend-container" class="popup-pvz__map-wrap">
+        <div class="popup-pvz__map-legend legend">
+            <div class="legend__item legend-item">
+                <span class="legend-item__icon legend-item__icon--globus"></span>
+                <span class="legend-item__text">—<span class="legend-item__text-symbol">Полный ассортимент</span></span>
+            </div>
+            <div class="legend__item legend-item">
+                <span class="legend-item__icon legend-item__icon--preorder"></span>
+                <span class="legend-item__text">—<span class="legend-item__text-symbol">Предзаказ</span></span>
+            </div>
+            <div class="legend__item legend-item">
+                <span class="legend-item__icon legend-item__icon--delivery-area"></span>
+                <span class="legend-item__text">—<span class="legend-item__text-symbol">Зона доставки</span></span>
+            </div>
+        </div>
+        <button class="btn_md popup-pvz__btn js-select-zone" style="display: none">Выбрать</button>
+    </div>
+
+    <span class="popup-pvz__personal-data-processing">Указывая адрес, вы соглашаетесь на <a href="/info/personalnye-dannye/" class="clr_orange">обработку персональных данных</a></span>
+</script>
+
+<script type="x-template/underscore" id="hs-map-balloon">
+    <div class="popup-pvz__tooltip map-tooltip">
+        <h4 class="map-tooltip__title"><%= name %></h4>
+        <i class="ig ig-close map-tooltip__close"></i>
+        <% if (address) { %>
+            <div class="map-tooltip__item">
+                <span class="map-tooltip__item-title">Адрес</span>
+                <p class="map-tooltip__item-text"><%= address %></p>
+            </div>
+        <% } %>
+        <% if (phone) { %>
+            <div class="map-tooltip__item">
+                <span class="map-tooltip__item-title">Телефон</span>
+                <p class="map-tooltip__item-text"><%= phone %></p>
+            </div>
+        <% } %>
+        <div class="pvz-acrd-wrap <%= full ? 'is-open' : '' %>">
+            <div class="js-pvz-acrd" style="display: <%= full ? 'block' : 'none' %>">
+                <% if (workTime) { %>
+                    <div class="map-tooltip__item">
+                        <span class="map-tooltip__item-title">График работы</span>
+                        <p class="map-tooltip__item-text"><%= workTime %></p>
+                    </div>
+                <% } %>
+                <button value="<%= code %>" class="btn_md map-tooltip__btn">Выбрать</button>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="x-template/underscore" id="hs-list">
+    <div id="hs-list-container" class="popup-pvz__list-container js-scroll"></div>
+    <div id="hs-list-button">
+        <button class="btn_md popup-pvz__btn js-select-hyper" disabled>Выбрать</button>
+    </div>
+</script>
+
+<script type="x-template/underscore" id="hs-item">
+    <input type="radio" name="HYPER_CODE" id="<%= code %>" <%= isChecked ? 'checked' : '' %>>
+    <label for="<%= code %>">
+        <div class="list-item__title">
+            <%= name %>
+            <span class="list-item__subtitle">Ближайший к вам</span>
+        </div>
+        <div class="list-item__icon <%- onlyPreOrder ? 'list-item__icon--preorder' : 'list-item__icon--globus' %>"></div>
+        <div class="list-item__type"><%= onlyPreOrder ? 'Предзаказ' : 'Полный ассортимент' %></div>
+        <div class="list-item__mode"><%= workTime %></div>
+        <div class="list-item__adress"><%= address %></div>
+    </label>
+</script>
+
+<script type="x-template/underscore" id="hs-address-find">
+    <div class="fld_wrap">
+        <div class="fld_labeled fld_autocomplete">
+            <div id="hs-address-input-container"></div>
+            <div id="hs-suggest-container"></div>
+        </div>
+    </div>
+</script>
+
+<script type="x-template/underscore" id="hs-address-variant">
+    <i id="address-variants-close" class="ig ig-close"></i>
+    <div class="fld_autocomplete__popup__body js-scroll is-scroll-inner">
+        <div class="fld_autocomplete__error fs_sm">
+            Введите номер дома и выберите адрес из списка        </div>
+        <div id="hs-address-variant-list"></div>
+    </div>
+</script>
+
+<script type="x-template/underscore" id="hs-address-variant-item">
+    <div><%= value %></div>
+    <% if (city) { %>
+        <div class="fs_sm clr_gray"><%= city %></div>
+    <% } %>
+</script>
+
+<script type="x-template/underscore" id="hs-address-input">
+    <input id="hs-suggest" class="novalidate" type="text" value="">
+    <label>Город, улица, дом</label>
+</script>
+
+<script type="x-template/underscore" id="hs-button">
+    <button class="btn_md popup-pvz__btn">Выбрать</button>
+</script>
+
+                                    <div id="ts-tooltip" class="hyper-tooltip  tooltip-allow">
+        <div id="ts-tooltip-close" class="hyper-tooltip__close-btn" value="Y"></div>
+        <span class="hyper-tooltip__text">
+            Сейчас есть свободные интервалы. Вы можете оформить заказ.        </span>
+    </div>
+                                </div>
+                        <div class="d-col d-col_xs_5 d-tar">
+                            <div class="d-header__delivery">
+                                                                <a href="/info/kak-zabrat-zakaz/" class="d-ib d-lnk-txt">О пунктах выдачи</a>
+                                <a href="/info/dostavka/" class="d-ib d-lnk-txt" style="margin-left: 2%">О доставке</a>
+                            </div>
+                        </div>
+                        <div class="d-col d-col_xs_4 d-fr_lg d-tar d-header__phone__wrap">
+                            <div class="d-header__phone">
+                                <strong>
+                                    8 (800) 234-80-20                                </strong>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-header__bottom trans">
+                        <div class="d-header__personal trans">
+                                <div id="imreg-main-container">
+    <div style="display: none">
+        <main class="imreg-popup imreg-popup_scroll" id="imreg-popup">
+            <div class="reg_main_popup">
+            <header class="reg_header">
+                <p class="imregistHeader h1">Пожалуйста, дозаполните форму регистрации</p>
+            </header>
+
+            <div id="imreg-error-result" class="error-container" style="display: none;">
+                <i class="ig ig-attention clr_red"></i>
+                <p id="imreg-global-error">Сервис временно не доступен. Пожалуйста, обратитесь в call-center.</p>
+                <p id="imreg-form-error"></p>
+            </div>
+
+            <div class="reg_form_container d-row">
+
+                <form method="post" action="/search/?q=polaris&amp;PAGEN_1=2" id="imreg-form" name="regform" class="imreg-form js-validate">
+                    <input type="hidden" name="sessid" id="sessid" value="ce11a35d6c18fd88260c7d766feb1fc6" />
+                    <fieldset class="field surname_field">
+                        <div class="fld_wrap">
+                            <div class="fld_labeled">
+                                <input type="text" name="FORM[FIRST_NAME]" id ="imreg-first_name" value="" required maxlength="40">
+                                <label>Имя</label>
+                                <mark class="fld-req">*</mark>
+                            </div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="field name_field">
+                        <div class="fld_wrap">
+                            <div class="fld_labeled">
+                                <input type="text" name="FORM[LAST_NAME]" id ="imreg-last_name" value="" required maxlength="40">
+                                <label>Фамилия</label>
+                                <mark class="fld-req">*</mark>
+                            </div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="field birthday_field js-birthdate">
+                        <label>Дата рождения: <span class="lbl_req">*</span></label>
+                        <select name="FORM[BIRTHDATE][DAY]" class="js-select chosen_lg chosen_cntr imreg-bd" id="imreg-bd_day" ></select>
+                        <select name="FORM[BIRTHDATE][MONTH]" class="im_registr_date_month js-select chosen_lg chosen_cntr imreg-bd" id="imreg-bd_month" >
+                        </select>
+                        <select name="FORM[BIRTHDATE][YEAR]" class="js-select chosen_lg chosen_cntr imreg-bd" id="imreg-bd_year" >
+                        </select>
+                        <div class="fld_wrap" id="imreg-birthdate-error-wrap">
+                            <div id="imreg-birthdate-error" class="birthdate-error"></div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="field gender_field">
+                        <div class="fld_wrap">
+                            <ul class="d-ib flds_inline">
+                                <li>Пол: <span class="lbl_req">*</span></li>
+                                <li>
+                                    <input type="radio" name="FORM[SEX]" class="imreg-gender-input" value="N" id="imreg-gender_d" checked />
+                                    <label for="imreg-gender_d">Не выбрано</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="FORM[SEX]" class="imreg-gender-input" value="F" id="imreg-gender_f" />
+                                    <label for="imreg-gender_f">Женский</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="FORM[SEX]" class="imreg-gender-input" value="M" id="imreg-gender_m" />
+                                    <label for="imreg-gender_m">Мужской</label>
+                                </li>
+                            </ul>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="field phone_field">
+                        <div class="fld_wrap">
+                            <div class="fld_labeled">
+                                                                <input
+                                    type="tel"
+                                    value=""
+                                    data-inputmask="'mask': '+7 (999) 999-99-99'"
+                                                                            id="imreg-phone"
+                                        name="FORM[PHONE]"
+                                        required
+                                                                    >
+                                <label>Телефон</label>
+                                <mark class="fld-req">*</mark>
+                            </div>
+                        </div>
+                    </fieldset>
+
+                                        <fieldset class="field mail_field">
+                        <div class="fld_wrap">
+                            <div class="fld_labeled fld_email">
+                                                                <input
+                                    type="text"
+                                    id="imreg-email"
+                                    value=""
+                                                                            name="FORM[EMAIL]"
+                                        required
+                                                                    >
+                                <label>Электронная почта</label>
+                                <mark class="fld-req">*</mark>
+                            </div>
+                        </div>
+                    </fieldset>
+                    <div class="favorite-hyper">
+                        <label class="lbl_sm">Любимый гипермаркет:</label>
+                        <fieldset class="field hyper_field">
+                            <select name="FORM[FAVORITE_RETAIL_STORE]" class="js-select chosen_lg chosen_cntr" id="favourite-store">
+                                
+<option value="">Не выбран</option>
+    <option value="5017" >
+        Глобус Балашиха    </option>
+    <option value="5003" >
+        Глобус Владимир    </option>
+    <option value="5009" >
+        Глобус Калуга    </option>
+    <option value="5002" >
+        Глобус Климовск    </option>
+    <option value="5019" >
+        Глобус Коммунарка    </option>
+    <option value="5010" >
+        Глобус Королев    </option>
+    <option value="5016" >
+        Глобус Котельники    </option>
+    <option value="5011" >
+        Глобус Красногорск    </option>
+    <option value="5015" >
+        Глобус Одинцово    </option>
+    <option value="5014" >
+        Глобус Пушкино    </option>
+    <option value="5004" >
+        Глобус Рязань    </option>
+    <option value="5018" >
+        Глобус Саларьево    </option>
+    <option value="5012" >
+        Глобус Тверь    </option>
+    <option value="5006" >
+        Глобус Тула    </option>
+    <option value="5001" >
+        Глобус Щелково    </option>
+    <option value="5013" >
+        Глобус Электросталь    </option>
+    <option value="5005" >
+        Глобус Ярославль    </option>
+                            </select>
+                        </fieldset>
+                    </div>
+
+                    
+
+                    <fieldset class="check_field">
+                        <input type="hidden" name="FORM[IM_AGREEMENT]" value="N">
+                        <input type="checkbox" name="FORM[IM_AGREEMENT]" value="Y" id="imreg-agreement" required>
+                        <label for="imreg-agreement">
+                            Я принимаю <a href="/info/polzovatelskoe-soglashenie/" target="_blank">условия соглашения</a> и согласен на <a href="/info/personalnye-dannye/" target="_blank">обработку персональных данных</a>.                        </label>
+                    </fieldset>
+
+                    <fieldset class="check_field">
+                        <input type="hidden" name="FORM[COMMUNICATION_PERMISSION_IM]" value="N">
+                        <input type="checkbox" name="FORM[COMMUNICATION_PERMISSION_IM]" value="Y" id="imreg-communication" >
+                        <label for="imreg-communication">Я соглашаюсь на получение промокодов на скидки и других рекламных сообщений.</label>
+                    </fieldset>
+
+                    <input type="hidden" name="registerButton" value="Y">
+                    <input type="hidden" name="ajax" value="Y">
+                    <input type="submit" id="imreg-submit_button" value="Регистрация" disabled>
+
+                </form>
+                <footer class="reg_footer clr_gray">
+                    <sub>*</sub> Звездочкой отмечены обязательные поля. Это необходимая информация для связи с вами.                </footer>
+            </div>
+
+            </div>
+        </main>
+    </div>
+
+    </div>
+    
+    <div class="d-header__userarea">
+        <a href="javascript:" data-colorbox='{"href": "#js-auth-form", "inline": "true"}'>
+            <i class="ig ig-user"></i><span class="d-ib d-hide_lg">Войти</span>
+        </a>
+    </div>
+
+    <div style="display: none">
+        <div class="popup-form order-checkout__auth__reg" id="js-reg-form">
+            <p class="h2">Регистрация</p>
+
+            <div id="js-form-reg-error">
+                
+                            </div>
+
+            <form id="form-reg" action="/search/?q=polaris&amp;PAGEN_1=2" autocomplete="off" class="reg js-validate" method="post" name="regform" onsubmit="submitForm(this);return false;">
+                <input type="hidden" name="sessid" id="sessid_1" value="ce11a35d6c18fd88260c7d766feb1fc6" />                <fieldset>
+                    <ul class="d-row d-row_ib">
+                        <li class="d-col d-col_md_6">
+                            <div class="fld_wrap">
+                                <div class="fld_labeled js-reg-form">
+                                    <input type="tel"
+                                           id="phone"
+                                           name="FORM[PHONE]"
+                                           value=""
+                                           data-inputmask="'mask': '+7 (999) 999-99-99'"
+                                           data-incomplete="Номер введен не полностью"
+                                           required />
+                                    <label>Телефон</label>
+                                    <mark class="fld-req">*</mark>
+                                </div>
+                                <div class="fld_caption">Пришлем sms с кодом для подтверждения телефона</div>
+                            </div>
+                        </li>
+                        <li class="d-col d-col_md_6">
+                            <div class="fld_wrap">
+                                <div class="fld_labeled js-reg-form">
+                                    <input type="text" class="email" id="email" name="FORM[EMAIL]" value=""
+                                           autocomplete="off"
+                                           required />
+                                    <label>Электронная почта</label>
+                                    <mark class="fld-req">*</mark>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="d-col d-col_md_6">
+                            <div class="fld_wrap">
+                                <div class="fld_labeled js-reg-form">
+                                    <!--fix for chrome-->
+                                    <input type="password" name="FORM[PASSWORD]" class="novalidate" style="display: none" />
+                                    <input type="password" name="FORM[PASSWORD]" id="pass" value="" autocomplete="user-pass-word"
+                                           required />
+                                    <label>Пароль (минимум 8 символов)</label>
+                                    <i class="show_pass_eye ig ig-eye clr_gray2" id="showPassword"></i>
+                                    <mark class="fld-req">*</mark>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="d-col d-col_md_6">
+                            <div class="fld_wrap">
+                                <div class="fld_labeled js-reg-form">
+                                    <input type="password" name="FORM[CONFIRM_PASSWORD]" id="pass_repeat" value="" autocomplete="off"
+                                           required />
+                                    <label>Повторите пароль</label>
+                                    <i class="show_pass_eye ig ig-eye clr_gray2" id="showPassRepeat"></i>
+                                    <mark class="fld-req">*</mark>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="d-col d-col_md_6">
+                            <div class="fld_wrap">
+                                <div class="fld_labeled js-reg-form">
+                                    <input type="text" name="FORM[FIRST_NAME]" id ="person_name" value=""
+                                           required maxlength="40"/>
+                                    <label>Имя</label>
+                                    <mark class="fld-req">*</mark>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="d-col d-col_md_6">
+                            <div class="fld_wrap">
+                                <div class="fld_labeled js-reg-form">
+                                    <input type="text" name="FORM[LAST_NAME]" id ="person_surname" value=""
+                                           required maxlength="40"/>
+                                    <label>Фамилия</label>
+                                    <mark class="fld-req">*</mark>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="d-col d-col_md_6">
+                            <label class="lbl_sm">Дата рождения<span class="lbl_req">*</span></label>
+                            <div class="d-row d-row_ib fld_wrap js-birthdate">
+                                <div class="d-col d-col_md_4">
+                                    <select name="FORM[BIRTHDATE][DAY]" class="js-select  chosen_lg chosen_cntr" id="bd-day" ></select>
+                                </div>
+                                <div class="d-col d-col_md_4">
+                                    <select name="FORM[BIRTHDATE][MONTH]" class="js-select chosen_lg chosen_cntr" id="bd-month" ></select>
+                                </div>
+                                <div class="d-col d-col_md_4">
+                                    <select name="FORM[BIRTHDATE][YEAR]" class="js-select chosen_lg chosen_cntr" id="bd-year" ></select>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="d-col d-col_md_6">
+                            <label class="lbl_sm">&nbsp;</label>
+                            <ul class="flds_inline fld_wrap">
+                                <li>Пол<span class="lbl_req">*</span></li>
+                                <li>
+                                    <input type="radio" name="FORM[SEX]" value="F" id="auth-gender-female"/>
+                                    <label for="auth-gender-female">Женский</label>
+                                </li>
+                                <li>
+                                    <input type="radio" name="FORM[SEX]" value="M" id="auth-gender-male"/>
+                                    <label for="auth-gender-male">Мужской</label>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="d-col d-col_md_12 favourite-store">
+                            <label class="lbl_sm">Любимый гипермаркет:</label>
+                            <fieldset class="field hyper_field">
+                                <select name="FORM[FAVORITE_RETAIL_STORE]" class="js-select chosen_lg chosen_cntr favourite-store__select" id="favourite-store">
+                                    
+<option value="">Не выбран</option>
+    <option value="5017" >
+        Глобус Балашиха    </option>
+    <option value="5003" >
+        Глобус Владимир    </option>
+    <option value="5009" >
+        Глобус Калуга    </option>
+    <option value="5002" >
+        Глобус Климовск    </option>
+    <option value="5019" >
+        Глобус Коммунарка    </option>
+    <option value="5010" >
+        Глобус Королев    </option>
+    <option value="5016" >
+        Глобус Котельники    </option>
+    <option value="5011" >
+        Глобус Красногорск    </option>
+    <option value="5015" >
+        Глобус Одинцово    </option>
+    <option value="5014" >
+        Глобус Пушкино    </option>
+    <option value="5004" >
+        Глобус Рязань    </option>
+    <option value="5018" >
+        Глобус Саларьево    </option>
+    <option value="5012" >
+        Глобус Тверь    </option>
+    <option value="5006" >
+        Глобус Тула    </option>
+    <option value="5001" >
+        Глобус Щелково    </option>
+    <option value="5013" >
+        Глобус Электросталь    </option>
+    <option value="5005" >
+        Глобус Ярославль    </option>
+                                </select>
+                            </fieldset>
+                        </li>
+                    </ul>
+                </fieldset>
+                
+                <fieldset class="form-agrees">
+                    <ul>
+                        <li>
+                            <input type="hidden" name="FORM[IM_AGREEMENT]" value="N">
+                            <input type="checkbox" name="FORM[IM_AGREEMENT]" value="Y" id="agreement_check" required>
+                            <label for="agreement_check">
+                                Я принимаю <a href="/info/polzovatelskoe-soglashenie/" target="_blank">условия соглашения</a> и согласен на <a href="/info/personalnye-dannye/" target="_blank">обработку персональных данных</a>.                            </label>
+                        </li>
+                        <li>
+                            <input type="hidden" name="FORM[COMMUNICATION_PERMISSION_IM]" value="N">
+                            <input type="checkbox" name="FORM[COMMUNICATION_PERMISSION_IM]" value="Y" id="news_check" checked="checked">
+                            <label for="news_check">Я соглашаюсь на получение промокодов на скидки и других рекламных сообщений.</label>
+                        </li>
+                    </ul>
+                </fieldset>
+                <input type="hidden" name="registerButton" value="Y">
+                <input type="hidden" name="ajax" value="Y">
+                <input type="submit" id="submit" value="Регистрация" class="btn_md d-col_xs_12 js-submit" disabled="disabled" />
+
+                <div class="form-req-notice clr_gray">
+                    <sub>*</sub> Звездочкой отмечены обязательные поля. Это необходимая информация для связи с вами.                </div>
+
+                <div class="loaderArea js-popup-loader" style="display: none">
+                    <!--<img class="loader" src="">-->
+                    <div class="js-preloader"></div>
+                </div>
+            </form>
+        </div>
+    </div>
+                                                                <div style="display: none">
+                                    <div id="js-auth-form">
+                                        
+<div class="popup-form popup-form_sm order-checkout order-checkout__auth" id="auth-popup"
+     style="display: block">
+    <p class="h2">Вход</p>
+    <div id="form-auth-error">
+            </div>
+    <div id="attempt_remain">
+        <p class="error"></p>
+    </div>
+
+    <div id="form-confirm-email" style="display:none">
+        Указанный Email не подтвержден.        <a href="javascript:void(0)"
+           id="auth-confirm-email"
+           data-sessid="ce11a35d6c18fd88260c7d766feb1fc6"
+        >Нажмите сюда, чтобы подтвердить Email.</a>
+    </div>
+
+    <form action="" autocomplete="off" id="form-auth" method='post' class="js-validate">
+        <input type="hidden" name="AUTH_FORM" value="Y" />
+        <input type="hidden" name="TYPE" value="AUTH" />
+                <fieldset>
+            <ul class="flds_inline">
+                <li class='auth-tab' id="auth-type-phone">
+                    <input type="radio" name="FORM[AUTH_TYPE]" value="PHONE" id="auth-type-phone-input"
+                                                    checked
+                                            >
+                    <label for="auth-type-phone-input">Телефон</label>
+                </li>
+                <li class='auth-tab' id="auth-type-email">
+                    <input type="radio" name="FORM[AUTH_TYPE]" value="EMAIL" id="auth-type-email-input"
+                                            >
+                    <label for="auth-type-email-input">Email</label>
+                </li>
+            </ul>
+        </fieldset>
+        <fieldset>
+            <ul>
+                <li data-auth-type="PHONE" id="phone_field">
+                    <div class="fld_wrap">
+                        <div class="fld_labeled">
+                            <input type="tel" id="auth-phone" name="FORM[PHONE]" value="" autocomplete="off" required
+                                   data-inputmask="'mask': '+7 (999) 999-99-99'"
+                                   data-incomplete="Введите корректный телефон"
+                                   readonly
+                                   onfocus="this.removeAttribute('readonly');"
+                            />
+                            <label>Телефон (Логин)</label>
+                            <mark class="fld-req">*</mark>
+                        </div>
+                    </div>
+                </li>
+                <li data-auth-type="EMAIL" id="mail_field" class="d-hidden">
+                    <div class="fld_wrap">
+                        <div class="fld_labeled">
+                            <input type="text"
+                                   class="email"
+                                   id="auth-email"
+                                   name="FORM[EMAIL]"
+                                   value=""
+                                   autocomplete="off"
+                                   readonly
+                                   onfocus="this.removeAttribute('readonly');"
+                            />
+                            <label>Email (Логин)</label>
+                            <mark class="fld-req">*</mark>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="fld_wrap">
+                        <div class="fld_labeled">
+                            <input id="auth-password"
+                                   type="password"
+                                   name="FORM[PASSWORD]"
+                                   value=""
+                                   autocomplete="off"
+                                   required=""
+                            > <label>Пароль</label>
+                            <i class="show_pass_eye ig ig-eye clr_gray2" id="showPass"></i>
+                            <mark class="fld-req">*</mark>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a href="javascript:void(0)" class="d-fr clr_gray" id="auth-forgot">Забыли пароль?</a>
+                    <input type="checkbox"  value="Y" name="FORM[REMEMBER_ME]" id="form-remember" checked>
+                    <label for="form-remember">Запомнить меня</label></li>
+            </ul>
+        </fieldset>
+        <div class="form-notice form-notice_forgot-pass" id="forgot-auth-message"></div>
+
+        <input type="submit" id="auth-btn-submit" name="Login" value="Войти" class="auth-button btn_md d-col_xs_12">
+        <div class="loaderArea js-popup-loader" style="display: none">
+            <div class="js-preloader"></div>
+        </div>
+    </form>
+            <div class="reg-button order-checkout__auth__link">
+            <a href="javascript:" data-colorbox='{"href": "#js-reg-form", "inline": "true"}'>Зарегистрироваться</a>
+        </div>
+    </div>
+
+                                    </div>
+                                </div>
+                                                            <a class="js-wishlist-icon"  href="/personal/wishlist/" >
+                                <span class="basket-icon-top">
+                                    <span id="top-count-wishlist" style="display: none" class="box_count box-shadow3"></span>
+                                    <i class="ig ig-add"></i><span class="d-ib">Избранное</span>
+                                </span>
+                            </a>
+                            <a class="d-header__personal__link_basket js-card-icon"  href="/cart/" >
+                                <span class="basket-icon-top">
+                                    <span style="display: none" class="box_count box-shadow3"></span>
+                                    <i class="ig ig-cart"></i><span class="d-ib">Корзина</span>
+                                </span>
+                            </a>
+                        </div>
+                                                    <div class="basket-small clr_common d-bsbb trans">
+
+                                <div class="basket-small__wishlist d-hidden">
+                                                                            <div data-role="basket-item-list" id="wishlist-items">
+                                            <div class="loaderArea js-popup-loader" id="wishlist-container" style="display: none;">
+    <!--<img class="loader" src="https://cdn-online.globus.ru/local/templates/onlineshop/img/ajax-loader.gif?_cvc=1591035850">-->
+    <div class="js-preloader"></div>
+</div>
+
+<div>
+            <div class="basket-small__header basket-small__header_empty">
+            В избранном пока пусто        </div>
+    </div>
+                                        </div>
+                                                                    </div>
+                                <div class="basket-small__cart d-hidden" id="mr-basket-main-container">
+                                    <div class="loaderArea js-popup-loader" id="basket-container">
+                                        <div class="js-preloader"></div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        
+                            <div class="form_search__wrapper">
+        <div class="form_search" id="title-search">
+            <form class="js-search" action="/search/">
+                <label class="ig ig-search clr_orange"></label>
+                <input id="title-search-input" class="search" type="text" name="q" value="polaris" size="40" maxlength="90" onfocus="$('#js-clear-btn').show();" onblur="if (this.value.length == 0) {$('#js-clear-btn').hide();}" autocomplete="off" id="header__search" title="Найти" placeholder="Поиск"/>
+                <div  id="js-clear-btn" onclick="$('#title-search-input').val(''); $('#title-search-input').focus();" style="display: none">
+                    <i class="ig ig-clear clr_orange "></i>
+                </div>
+                <input name="s" type="submit" value="Найти" class="btn_o js-sub" />
+            </form>
+        </div>
+    </div>
+    <div class=" js-preload-wait" style="display: none; position: absolute; z-index: 1100;">
+    </div>
+
+<script id="template-one-search" type="x-template/underscore">
+    <div class="item-quantity js-quantity">
+        <span class="item-search-quantity__btn item-quantity__btn item-quantity__btn_dec trans trans_ha trans_hb <% if(inactiveMinus) { %> is-inactive <% } %> <% if(changeState) { %> is-inactive-keyup <% } %>" data-action="dec"></span>
+        <span class="item-search-quantity__btn item-quantity__btn item-quantity__btn_inc trans trans_ha trans_hb <% if(inactivePlus) { %> is-inactive <% } %>" data-action="inc"></span>
+        <span class="item-search-quantity__btn item-quantity__btn item-quantity__btn_apply trans ig ig-check" data-action="apply"  <% if(changeState) { %> style="display: block;" <% } %> ></span>
+        <div class="item-quantity__body">
+            <div class="item-quantity__control">
+                <label><%= measure %></label>
+                <input type="text" name="item-quantity" value="<%= quantity %>" maxlength="3" data-control="unit" autocomplete="off"/>
+            </div>
+            <% if(inactivePlus) { %>
+                <div class="item-quantity__notice">
+                    Максимально доступное количество                </div>
+             <% } %>
+        </div>
+    </div>
+</script>
+
+<script id="template-double-search" type="x-template/underscore">
+    <div class="item-quantity item-quantity_double js-quantity">
+        <span class="item-search-quantity__btn item-quantity__btn item-quantity__btn_dec trans trans_ha trans_hb <% if(inactiveMinus) { %> is-inactive <% } %> <% if(changeState) { %> is-inactive-keyup <% } %>" data-action="dec"></span>
+        <span class="item-search-quantity__btn item-quantity__btn item-quantity__btn_inc trans trans_ha trans_hb <% if(inactivePlus) { %> is-inactive <% } %>" data-action="inc"></span>
+        <span class="item-search-quantity__btn item-quantity__btn item-quantity__btn_apply trans ig ig-check" data-action="apply"  <% if(changeState) { %> style="display: block;" <% } %> ></span>
+        <div class="item-quantity__body">
+            <div class="item-quantity__control">
+                <label><%= measure %></label>
+                <input type="hidden" name="item-quantity" value="<%= quantity %>" maxlength="3" data-control="unit"/>
+                <input type="text" name="item-quantity-kg" value="<%= quantityKg %>" maxlength="3" data-control="unit" autocomplete="off"/>
+            </div>
+            <div class="item-quantity__control">
+                <label>г</label>
+                <input type="text" name="item-quantity-g" value="<%= quantityG %>" maxlength="3" data-control="unit" autocomplete="off"/>
+            </div>
+            <% if(inactivePlus) { %>
+                <div class="item-quantity__notice">
+                    Максимально доступное количество                </div>
+             <% } %>
+        </div>
+    </div>
+</script>
+
+                    </div>
+                </div>
+            </div>
+            <div id="react-popup"></div>
+            <div class="content-overlay trans js-content-overlay"></div>
+                                </header>
+        <div class="d-header__offset trans js-header-offset"></div>
+        <div id="d-content">
+                        <div class="d-grid">
+                <div class="page-body">
+                    <div class="page-body__content">
+                        <aside class="catalog-aside"></aside>
+
+<div class="catalog-body d-cb">
+    <div class="catalog-content">
+        <div class="search-page hidden">
+
+<form action="" method="get">
+	<input type="text" name="q" value="polaris" size="40" />
+	&nbsp;<input type="submit" value="Искать" />
+	<input type="hidden" name="how" value="r" />
+	<div class="search-result">Найдено: 1</div>
+</form><br />
+
+</div>
+
+
+            <h1>Результаты поиска: <span class="catalog-content__searchresult">«polaris»</span>
+                <sub>1 товар</sub>
+                <div class="search-variants__block"><sub></sub></div>
+            </h1>
+                <nav class="catalog-section__nav-tabs js-nav-tabs-toggled">
+        <div class="catalog-section__nav-tabs__wrap">
+            <ul class="nav-tabs__list">
+            <li class="nav-tab">
+                <a href="/search/?q=polaris&PAGEN_1=2"
+                   class="tab-button js-tab-button  active ">Все товары</a>
+            </li>
+                            <li class="nav-tab" >
+                    <a href="/search/?section_id=932&q=polaris&PAGEN_1=2" class="tab-button js-tab-button ">
+                        Техника для ухода за собой                         (1)                    </a>
+                </li>
+                        </ul>
+        </div>
+        <div class="catalog-section__nav-tabs__toggle__wrap">
+            <a href="javascript:" class="catalog-section__nav-tabs__toggle d-lnk-txt trans_ha js-nav-tabs-toggle"
+               data-toggle='{"target": ".js-nav-tabs-toggled", "className": "is-expanded", "textShow": "Показать все", "textHide": "Свернуть"}'>
+                Показать все
+            </a>
+        </div>
+    </nav>
+                
+<div class="catalog-filter js-catalog-filter">
+    <form name="_form" action="/search/?q=polaris&PAGEN_1=2" method="get" class="smartfilter js-smartfilter" onsubmit="smartFilter.submitForm(this, 'set_filter=Y');return false;">
+                    <input type="hidden" name="q" id="q" value="polaris" />
+                    <input type="hidden" name="PAGEN_1" id="PAGEN_1" value="2" />
+                                    <div class="catalog-filter__param trans js-filter-container ">
+                        <i class="ig ig-close js-close js-close-brand"></i>
+                        <span
+                            class="catalog-filter__param__title "
+                                id="js-brand-toogle"                         >
+                                Бренд                            <span class="catalog-filter__param__count">: <b>0</b></span>
+                            <i class="ig ig-down trans" style="margin-right: -15px"></i>
+                        </span>
+                        <div class="catalog-filter__param__options box-shadow" data-role="bx_filter_block">
+                            <div class="catalog-filter__param__options__body" id="js-filter-brand">
+                                                                        <div class="catalog-filter__param__search">
+                                        <input class="fast-levenshtein-search" type="text" name="" value="" placeholder="Найти бренд...">
+                                        <button type="button" class="ig ig-search"></button>
+                                    </div>
+                                    
+                                <div class="catalog-filter__param__values is-scroll-outer js-scroll">
+                                    <ul class="d-plain"><li class="catalog-filter__param__values_brands"><a class="js-brand-link" href="/search/?q=polaris&searchFilter_557_1785384618=Y&set_filter=Y">Polaris</a></li>                                    </ul>
+                                </div>
+                                <button class="btn set_filter"
+                                        id="set_filter_557"
+                                        name="set_filter"
+                                        value="Y">
+                                        Применить                                     <span class="modef" style="display:none" style="display: inline-block;">
+                                            (<span class="modef_num">0</span>)                                    </span>
+                                </button>
+                            </div>
+                            <div style="clear: both"></div>
+                        </div>
+
+                    </div>
+                                        
+                    <div class="catalog-filter__param trans js-filter-container "">
+                        <i class="ig ig-close js-close"></i>
+                        <span class="catalog-filter__param__title js-filter-param-toggle">
+                            Цена                            <i class="ig ig-down trans" style="margin-right: -15px"></i>
+                        </span>
+                        <div class="catalog-filter__param__options box-shadow">
+                            <div class="catalog-filter__param__options__body">
+                                <div class="catalog-filter__param__values catalog-filter__param__prices catalog-filter-js-range">
+                                    <div class="d-row">
+                                        <div class="d-col d-col_xs_6">
+                                            <label>От</label>
+                                            <input
+                                                    class="min-price js-min-range js-skip-mask-valid"
+                                                    type="text"
+                                                    name="searchFilter_P10_MIN"
+                                                    id="searchFilter_P10_MIN"
+                                                    value=""
+                                                    min="1499"
+                                                    max="1500"
+                                                    placeholder="1499 руб"
+                                                    data-range-control='{"val": "min", "for": "#d3d9446802a44259755d38e6d163e820"}'
+                                                    data-inputmask="'alias': 'decimal', 'suffix': ' руб', 'rightAlign': false"
+                                                    onkeyup="smartFilter.change(this)"
+                                                    onchange="smartFilter.change(this)"
+                                            />
+                                        </div>
+                                        <div class="d-col d-col_xs_6">
+                                            <label>До</label>
+                                            <input
+                                                    class="max-price js-max-range js-skip-mask-valid"
+                                                    type="text"
+                                                    name="searchFilter_P10_MAX"
+                                                    id="searchFilter_P10_MAX"
+                                                    value=""
+                                                    min="1499"
+                                                    max="1500"
+                                                    placeholder="1500 руб"
+                                                    data-range-control='{"val": "max", "for": "#d3d9446802a44259755d38e6d163e820"}'
+                                                    data-inputmask="'alias': 'decimal', 'suffix': ' руб', 'rightAlign': false"
+                                                    onkeyup="smartFilter.change(this)"
+                                                    onchange="smartFilter.change(this)"
+                                            />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="d3d9446802a44259755d38e6d163e820"
+                                     class="ui-slider_range price-slider"
+                                     data-range='{
+                                        "min": 1499,
+                                        "max": 1500,
+                                        "values": [1499, 1500],
+                                        "minControl": "#searchFilter_P10_MIN",
+                                        "maxControl": "#searchFilter_P10_MAX"
+                                     }'
+                                ></div>
+
+                                <button class="btn set_filter"
+                                        id="set_filter_price"
+                                        name="set_filter"
+                                        value="Y">
+                                    Применить                                     <span class="modef" style="display:none" style="display: inline-block;">
+                                        (<span class="modef_num">0</span>)                                    </span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                
+        <input type="reset" id="del_filter" name="del_filter" value="Очистить фильтры" class="btn btn_o del_filter" style="display: none"/>
+
+        <div class="clb"></div>
+    </form>
+</div>
+            
+<nav class="catalog-sort">
+    <div class="d-row">
+        <div class="d-col d-col_md_6">
+            <span class="fs_sm clr_gray">Сортировать:</span>
+            <select class="js-select chosen_sm js-sort catalog-sort__sort d-hidden">
+                                                        <option value="price_up" >
+                        Цена по возрастанию                    </option>
+                                                        <option value="price_down" >
+                        Цена по убыванию                    </option>
+                                                        <option value="relevance" selected>
+                        По популярности                    </option>
+                                                        <option value="new" >
+                        По новинкам                    </option>
+                                                        <option value="name" >
+                        По алфавиту                    </option>
+                                                        <option value="category" >
+                        По категориям                    </option>
+                            </select>
+            <div class="chosen__to-remove chosen-container chosen-container-single js-select chosen_sm js-sort chosen-container-single-nosearch" style="width: 168px;">
+                <a class="chosen-single">
+                    <span>По популярности</span>
+                </a>
+            </div>
+        </div>
+        <div class="d-col d-col_md_6 d-tar">
+            <span class="fs_sm clr_gray">Товаров на странице:</span>
+            <select class="js-select chosen_sm js-count d-hidden">
+                                                        <option value="12" >
+                        12                    </option>
+                                                        <option value="24" >
+                        24                    </option>
+                                                        <option value="48" selected>
+                        48                    </option>
+                                                        <option value="64" >
+                        64                    </option>
+                            </select>
+            <div class="chosen__to-remove chosen-container chosen-container-single js-select chosen_sm js-count chosen-container-single-nosearch" style="width: 65px;">
+                <a class="chosen-single">
+                    <span>48</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</nav>
+            <div class="catalog-section">
+            <div class="catalog-section__items d-row d-row_ib">
+    <div class="catalog-section__no-items d-hidden">В категории нет доступных товаров</div>
+    
+            <div class="d-col d-col_xs_4 d-col_xtr_3 js-catalog-section__item" id="bx_1682226944_3027024" product-js-id="3027420" product-js-template="PickerCategory" data-sku="000000000000505261_5011">
+                <div
+                    class="
+                        catalog-section__item catalog-section__item--main
+                                            "
+                >
+                    <div class="catalog-section__item__body trans">
+                        <a
+                           href="/products/shchiptsy-dlya-zavivki-polaris-phs-2580mk-mini-25-vt/"
+                           class="catalog-section__item__link catalog-section__item__link--one-line notrans "
+                        >
+                            <span class="catalog-section__item__info">
+                                <figure>
+                                    <span class="item-tags item-tags--top"></span>
+                                    <img
+                                        class="
+                                            lazyload
+                                                                                    "
+                                        data-src="https://cdn-online.globus.ru/s180x160/upload/pim_images/3ff/360137.jpg?_cvc=1591035850"
+                                        src="https://cdn-online.globus.ru/local/templates/onlineshop/img/ajax-loader.gif?_cvc=1591035850"
+                                        alt="Щипцы для завивки Polaris PHS 2580MK MINI, 25 Вт"
+                                    />
+                                    <noscript data-remove="true">
+                                        <img
+                                            class="
+                                                                                            "
+                                            src="https://cdn-online.globus.ru/s180x160/upload/pim_images/3ff/360137.jpg?_cvc=1591035850"
+                                            alt="Щипцы для завивки Polaris PHS 2580MK MINI, 25 Вт"
+                                        />
+                                    </noscript>
+                                    
+                                    <span class="btn btn_w btn_preview trans"
+                                          data-colorbox='{"href": "/ajax/popup_product.php?ELEMENT_CODE=shchiptsy-dlya-zavivki-polaris-phs-2580mk-mini-25-vt",
+                                        "className": "is-popup-custom"}'>
+                                        <i class="ig ig-eye"></i>
+                                        <span class="d-ib"></span>
+                                    </span>
+                                                                        <span class="item-tags item-tags--bottom">
+                                                                                                                                                            </span>
+                                </figure>
+                                <span class="catalog-section__item__title">Щипцы для завивки Polaris PHS 2580MK MINI, 25 Вт</span>
+                            </span>
+                            <span class="catalog-section__item-info">
+                                <span class="catalog-section__item__info">
+                                        <span
+                                            class="
+                                                item-price item-price--flex
+                                                                                            "
+                                        >
+                                                                                                                                            <span class="item-price__num">
+                                                                                                            <span class="item-price__rub">1&nbsp;499</span>
+                                                        <span class="item-price__kop">99</span>
+                                                        <span>руб.</span>
+                                                                                                                                                        </span>
+
+                                                <span class="item-price__additional item-price__additional--solo">
+                                                                                                            за 1 шт.                                                                                                    </span>
+                                                
+                                                                                </span>
+                                </span>
+                            </span>
+                        </a>
+                        <div class="catalog-section__item__actions item_picker item-picker--fixed">
+                            <div class="catalog-section__item__btns catalog-section__item__btns--visible">
+                                <a
+                                    href="javascript:void(0)"
+                                    class="btn-wishlist js-start-wishlist"
+                                    wishlist-js-id="3027420"
+                                    product-js-template="BasketView"
+                                >
+                                    <i class="ig ig-add"></i>
+                                </a>
+                                                                                                            <a
+                                            class="btn btn_buy start_picker"
+                                            product-js-id="3027420"
+                                            href="/search/?q=polaris&amp;PAGEN_1=2&amp;action=ADD2BASKET&amp;id=3027420"
+                                            title="В корзину"
+                                        >
+                                            <i class="ig ig-cart"></i>
+                                        </a>
+                                                                                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--'start_frame_cache_JxfxaN'--><!--'end_frame_cache_JxfxaN'-->                        </div>
+            </div>
+        
+        <div class="seo-text clr_gray box_offset">
+                    </div>
+    </div>
+</div>
+                    </div><!-- /page-body__content -->
+                </div><!-- /page-body -->
+            </div><!-- /d-grid -->
+        </div><!-- /#d-content -->
+
+        <footer id="d-footer">
+            <div class="d-footer d-lnk-txt">
+                <div class="d-grid">
+                    <div class="d-footer__body">
+                        <div class="d-row">
+                            <div class="d-footer__col d-col">
+                                <div class="h4">
+                                    Информация для покупателей                                </div>
+                                <nav class="fs_sm">
+                                    <ul><li><a href="/mery-bezopastosti/" target="">Забота о здоровье покупателей</a></li><li><a href="/news_change/" target="">Изменения в режиме работы</a></li><li><a href="/feedback/" target="">Напишите нам</a></li><li><a href="/info/payment/" target="">Онлайн-оплата</a></li><li><a href="/info/kak-zabrat-zakaz/" target="">Как забрать заказ</a></li><li><a href="/info/terms-of-return/" target="">Условия возврата</a></li><li><a href="/info/o-servise/" target="">О самовывозе</a></li><li><a href="/info/dostavka/" target="">О доставке</a></li><li><a href="/info/fishka-rules/" target="">Условия акции &quot;Товар за фишки&quot;</a></li><li><a href="/info/bc/" target="">О пункте выдачи БЦ «Смольный»</a></li><li><a href="/info/polzovatelskoe-soglashenie/" target="">Пользовательское соглашение</a></li><li><a href="/info/personalnye-dannye/" target="">Соглашение на обработку персональных данных</a></li><li><a href="/contacts/" target="">Контакты</a></li><li><a href="/map.php" target="">Карта сайта</a></li></ul>                                </nav>
+                            </div>
+                            <div class="d-footer__col d-col">
+                                <div class="h4">
+                                        <a href="/catalog/">Каталог</a>
+                                </div>
+                                <nav class="fs_sm">
+                                                                        <ul><li><a href="/catalog/aktsii/" target="">Акции</a></li><li><a href="/catalog/sobstvennoe-proizvodstvo/" target="">Собственное производство</a></li><li><a href="/catalog/zdorovyy-vybor/" target="">Здоровый выбор</a></li><li><a href="/catalog/molochnye-produkty-syr-yaytsa/" target="">Молочные продукты, сыр, яйца</a></li><li><a href="/catalog/myaso-ryba-kulinariya/" target="">Мясо, рыба, кулинария</a></li><li><a href="/catalog/ovoshchi-frukty-zelen/" target="">Овощи, фрукты, зелень</a></li><li><a href="/catalog/khleb-konditerskie-izdeliya/" target="">Хлеб, кондитерские изделия</a></li><li><a href="/catalog/bakaleya/" target="">Бакалея</a></li><li><a href="/catalog/zamorozhennye-produkty/" target="">Замороженные продукты</a></li><li><a href="/catalog/napitki/" target="">Напитки</a></li><li><a href="/catalog/alkogol/" target="">Алкоголь</a></li><li><a href="/catalog/kosmetika-i-gigiena/" target="">Косметика и гигиена</a></li><li><a href="/catalog/detskie-tovary/" target="">Детские товары</a></li><li><a href="/catalog/uborka-bytovaya-khimiya/" target="">Уборка, бытовая химия</a></li><li><a href="/catalog/dom-khobbi-tekhnika/" target="">Дом, хобби, техника</a></li><li><a href="/catalog/tovary-dlya-zhivotnykh/" target="">Товары для животных</a></li><li><a href="/catalog/vsye-dlya-avtomobilya-i-dachi/" target="">Всё для автомобиля и дачи</a></li><li><a href="/catalog/kantstovary-i-pechatnaya-produktsiya/" target="">Канцтовары и печатная продукция</a></li><li><a href="/catalog/garderob-i-tekstil/" target="">Гардероб и текстиль</a></li><li><a href="/catalog/top-prodazh/" target="">Бестселлеры</a></li></ul>                                                                    </nav>
+                            </div>
+                            <div class="d-footer__col d-col">
+                                <div class="h4">
+                                    <a class="b-footer__link b-footer__link--globus" href="https://www.globus.ru/" target="_blank">Globus.ru<i class="ig ig-link"></i></a>                                </div>
+                                <nav class="fs_sm">
+                                    <ul><li><a href="https://www.globus.ru/service/feedback/" target="_blank">Обратная связь</a></li><li><a href="https://www.globus.ru/about/specialization/" target="_blank">О компании</a></li><li><a href="https://www.globus.ru/service/guarantee/" target="_blank">Гарантии покупателям</a></li></ul>                                </nav>
+                                <div class="d-footer__phone">
+                                    <div class="h4">
+                                        8 (800) 234-80-20                                    </div>
+                                    <div class="">
+                                        Ежедневно с 8.00 до 23.00. Бесплатно                                    </div>
+                                </div>
+
+
+                            </div>
+                            <div class="d-footer__col d-col d-fr">
+                                <div class="d-footer__copyright fs_sm">
+                                    <div>
+                                        &copy; ООО «ГИПЕРГЛОБУС», 2020                                    </div>
+                                    <div class="d-footer__copyright__dev d-footer__copyright__design">
+                                        <a href="https://aeroidea.ru" target="_blank" class="is-imaged"><img src="/local/templates/onlineshop/img/aero.svg" alt="Aero" /></a>
+Дизайн <a href="https://aeroidea.ru" target="_blank">Aero</a>                                    </div>
+                                    <div class="d-footer__copyright__dev">
+                                        <a href="https://qsoft.ru/" target="_blank" class="is-imaged"><img src="/local/templates/onlineshop/img/qsoft.svg" alt="qSoft"></a>
+Разработка сайта <a href="https://qsoft.ru" target="_blank">QSOFT</a>                                    </div>
+                                </div>
+
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div><!-- /#d-wrap -->
+
+<script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s2','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1591169425','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'ce11a35d6c18fd88260c7d766feb1fc6'});</script><script type="text/javascript" src="https://cdn-online.globus.ru/bitrix/js/main/core/core.min.js?153226928677571&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/bitrix/js/main/core/core_fx.min.js?15322692869768&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://api-maps.yandex.ru/2.1/?lang=ru_RU&mode=release&apikey=0dee803c-2462-4d2e-8222-bc0268160ab9&load=Balloon,behavior.storage,control.ZoomControl,Event,event.Manager,geocode,GeoObject,geoObject.addon.balloon,geoObject.addon.hint,geoXml.load,Hint,Map,option.Manager,Placemark,Polygon,suggest,templateLayoutFactory,util.bind,util.bounds,util.pixelBounds,shape.Rectangle,geometry.pixel.Rectangle,geoQuery"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/bitrix/js/main/core/core_ajax.min.js?153226928621471&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/bitrix/js/main/core/core_popup.min.js?153226928640695&_cvc=1591035850"></script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s2");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s2")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+
+
+
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/jquery/jquery-api.min.js?1590397152118551&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/jquery-ui.min.js?1590397152136082&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/app.js?1590397152658189&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/plugins.min.js?1590397152276157&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/ezPlus.min.js?159039715231640&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/js.min.js?159039715225811&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/headerSearch.min.js?15903971526082&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/main.min.js?15903971528940&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/modules/hookAjax.min.js?1590397152294&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/loader.min.js?1590397152963&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/modules/map/mapObject.min.js?1590397152795&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/modules/gettPriceRequest.min.js?15903971524866&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/modules/hyper/hypers.min.js?15903971525364&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/modules/hyper/hypersList.min.js?15903971523709&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/modules/delivery/main.min.js?1590397152769&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/plugins/selectorEventLogger.min.js?15903971523473&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/components/globus/timeslots.available.tooltip/templates/.default/script.js?1590397152835&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/components/lk/main.registration/templates/onlineshop/script.js?15903971525032&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/components/lk/im.registration/templates/.default/script.js?159039715215445&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/templates/onlineshop/js/plugins/submitForm.min.js?15903971523002&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/components/bitrix/system.auth.authorize/templates/onlineshop/script.js?159039715214293&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/js/globus/main.js?1590397152850&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/components/globus/catalog.sort/templates/.default/script.js?1590397152648&_cvc=1591035850"></script>
+<script type="text/javascript" src="https://cdn-online.globus.ru/local/components/globus/catalog.smart.filter/templates/.default/script.js?159039715222834&_cvc=1591035850"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "61681e347a68e3c3ccee76933bd86653"]); _ba.push(["host", "online.globus.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<script type="application/javascript">
+                        window.MainValidate.setPolicy({'PASSWORD_LENGTH':'8','PASSWORD_UPPERCASE':'Y','PASSWORD_LOWERCASE':'Y','PASSWORD_DIGITS':'Y','PASSWORD_PUNCTUATION':'Y'});
+        window.GlobusSettings.setOption('minOrder', 500);
+        window.GlobusSettings.setOption('isServiceUser', 0);
+        window.GlobusSettings.setOption('showChips', true);
+        window.GlobusSettings.setOption('chipsCoefficient', 400);
+        window.secureCookie = true;
+    </script>
+
+<script type="application/javascript">
+
+    window.Cookies.set('was_showed_pvz_popup', true);
+
+    
+    $('#hyper-tooltip-close').on('click', function() {
+        $.ajax({
+            url: '/ajax/close_notice_hyper_default.php',
+            method: 'POST',
+
+            success:function(){
+                $('#hyper-tooltip').addClass('d-hidden');
+            }
+        });
+    });
+
+    
+    $(document).ready(function() {
+        $('#hs-title').on('click', function() {
+            Globus.hyperSelect.on('before:start', function (module) {
+                module.setOptions({'regionKml':'https://online.globus.ru/upload/regions_130919.kml','hypers':{'337':{'type':'hyper','id':'337','name':'Глобус Владимир','code':'5003','address':'600027, Владимирская обл., г. Владимир, Суздальский пр-т, д. 28','location':{'lat':'56.176893447893','lng':'40.459348023804'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'338':{'type':'hyper','id':'338','name':'Глобус Климовск','code':'5002','address':'142181, Московская обл., г.&nbsp;Подольск, мкрн&nbsp;Климовск, ул.&nbsp;Молодежная, д.&nbsp;11','location':{'lat':'55.385703077987','lng':'37.545253380951'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'339':{'type':'hyper','id':'339','name':'Глобус Королев','code':'5010','address':'141075, Московская обл., г. Королев, ул. Коммунальная, д. 1','location':{'lat':'55.916085518185','lng':'37.846724187835'},'workTime':'Пн-Вс 07:00-01:00','phone':'8 (800) 234-80-20','onlyPreOrder':true},'340':{'type':'hyper','id':'340','name':'Глобус Красногорск','code':'5011','address':'143082, г. Москва, Новорижское ш., 22‑й км, вл. 1, стр. 1','location':{'lat':'55.802740327231','lng':'37.30053828836'},'workTime':'Ежедневно с 10:00 до 24:00.','phone':'8 (800) 234-80-20','onlyPreOrder':false},'341':{'type':'hyper','id':'341','name':'Глобус Одинцово','code':'5015','address':'143081, Московская обл., Одинцовский р-н, с⁄п Жаворонковское, с. Юдино, д. 55Е','location':{'lat':'55.654047241353','lng':'37.178356703705'},'workTime':'Пн 00:00-23:00, Вт Ср Чт 08:00-23:00, Пт 08:00-00:00, Сб Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'342':{'type':'hyper','id':'342','name':'Глобус Пушкино','code':'5014','address':'141206, Московская обл., Пушкинский р-н, г. Пушкино, Красноармейское ш., вл. 105','location':{'lat':'56.018340161895','lng':'37.886032126984'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'343':{'type':'hyper','id':'343','name':'Глобус Рязань','code':'5004','address':'390507, Рязанская обл., Рязанский р-н, с. Дядьково, д. 1','location':{'lat':'54.619689043054','lng':'39.801817923278'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'344':{'type':'hyper','id':'344','name':'Глобус Тверь','code':'5012','address':'170043, Тверская обл., г. Тверь, Октябрьский пр-т, д. 101','location':{'lat':'56.815750218924','lng':'35.886353330688'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'345':{'type':'hyper','id':'345','name':'Глобус Тула','code':'5006','address':'300045, Тульская обл, Ленинский р-н, с. Осиновая гора, ул. Аркадия Шипунова, мкрн Левобережный, д. 1А','location':{'lat':'54.176025129805','lng':'37.6474865'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'346':{'type':'hyper','id':'346','name':'Глобус Щелково','code':'5001','address':'141100, Московская обл., г. Щелково, Пролетарский пр-т, д. 18','location':{'lat':'55.929211595561','lng':'38.003938211639'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'347':{'type':'hyper','id':'347','name':'Глобус Электросталь','code':'5013','address':'142451, Московская обл., Ногинский р-н, пос. Случайный, массив 1, стр. 2','location':{'lat':'55.759128416707','lng':'38.434284194442'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'348':{'type':'hyper','id':'348','name':'Глобус Ярославль','code':'5005','address':'150518, Ярославская обл., Ярославский р-н, пос. Красный бор, стр. 1','location':{'lat':'57.640019002962','lng':'39.966107915344'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'128844':{'type':'hyper','id':'128844','name':'Глобус Котельники','code':'5016','address':'140054, Московская обл., г. Котельники, Новорязанское ш., д. 24','location':{'lat':'55.658464','lng':'37.886401'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'3003386':{'type':'hyper','id':'3003386','name':'Глобус Балашиха','code':'5017','address':'143900, Московская обл., г. Балашиха, Шоссе Энтузиастов, д. 48','location':{'lat':'55.792217980036','lng':'37.94466422883'},'workTime':'Пн-Вс круглосуточно','phone':'8 (800) 234-80-20','onlyPreOrder':true},'3079628':{'type':'hyper','id':'3079628','name':'Глобус Саларьево','code':'5018','address':'108811, г. Москва, пос. Московский, 23-й км Киевское шоссе','location':{'lat':'55.623333514297','lng':'37.421066924628'},'workTime':'Пн-Вс 8:00-01:30','phone':'8 (800) 234-80-20','onlyPreOrder':true},'3167382':{'type':'hyper','id':'3167382','name':'Глобус Калуга','code':'5009','address':'248033, Калужская обл., г. Калуга, ул.Генерала Попова, здание 1А','location':{'lat':'54.491586','lng':'36.225078'},'workTime':'Пн-Вс 8:00-23:00','phone':'8 800 234 80 20','onlyPreOrder':true},'3593766':{'type':'hyper','id':'3593766','name':'Глобус Коммунарка','code':'5019','address':'108814, г. Москва, поселение Сосенское, пос. Коммунарка, ул. Александры Монаховой, д. 61, стр. 1','location':{'lat':'55.557266','lng':'37.494368'},'workTime':'Пн-Вс 8:00-01:00','phone':'8 800 234 80 20','onlyPreOrder':true}},'zones':{'538398':{'type':'zone','id':'538398','name':'Cтрогино','code':'north_strogino','deliveryType':'D','hyperCode':'5011','kml':'https://online.globus.ru/kml/strogino_040220_no_border.kml'},'3035902':{'type':'zone','id':'3035902','name':'Строгино-смольная','code':'strogino_smolnaya','deliveryType':'D','hyperCode':'5011','kml':'https://online.globus.ru/kml/office_delivery_transparent.kml'},'3154590':{'type':'zone','id':'3154590','name':'Логистический центр','code':'logistic_center','deliveryType':'D','hyperCode':'5011','kml':'https://online.globus.ru/kml/kml_20dlya_20lts_18_07_2019_14_40_13.kml'},'3482346':{'type':'zone','id':'3482346','name':'Ховрино','code':'khovrino_delivery','deliveryType':'D','hyperCode':'5011','kml':'https://online.globus.ru/kml/hovrino_040220_no_border.kml'},'3642982':{'type':'zone','id':'3642982','name':'Доставка такси','code':'gett_moscow','deliveryType':'T','hyperCode':'5011','kml':'https://online.globus.ru/kml/gett-zone-09042020.kml'}},'pvz':{'3444398':{'type':'pvz','id':'3444398','name':'БЦ Смольный','code':'smolny','location':{'lat':'55.850903','lng':'37.49543'},'address':'125493, г. Москва, Смольная, 14','workTime':'Пн-чт с 16:00 до 18:00','phone':'8 (800) 234-80-20','zoneCode':'strogino_smolnaya','hyperCode':'5011','onlyPreOrder':false}}});
+            });
+            Globus.hyperSelect.channel.trigger('title:click');
+        })
+    });
+</script>
+<script>
+        new TimeSlotTooltip();
+    </script>
+<script type="text/javascript">
+        $('.d-header__userarea').on('click', function () {
+            var regFormValidate = new JSRegFormValidate();
+        });
+    </script>
+<script>
+
+    //var // =
+    //new JCWishlistComponent({
+    //  siteId: '//',
+    //  componentPath: '//',
+    //  template: '//',
+    //  parameters: '//',
+    //  container: 'wishlist-items'
+    //});
+            $('#top-count-wishlist').css('display', 'none');
+    </script>
+<script>
+    BX.ready(function(){
+        new JCTitleSearch({
+            'AJAX_PAGE' : '/ajax/search_title.php',
+            'CONTAINER_ID': 'title-search',
+            'INPUT_ID': 'title-search-input',
+            'MIN_QUERY_LEN': 3
+        });
+
+        var popup = new SearchPopup(
+            '/ajax/search_title.php',
+            'Внимание! Вы будете перенаправлены на внешний сайт',
+            '/search/'
+        );
+
+        $('form.js-search').on('submit', function(e){
+            e.preventDefault();
+
+            var query = $('#title-search-input').val();
+
+            if (query.length <= 0) {
+                return false;
+            }
+
+            popup.checkQuery(query);
+        });
+        if($('#title-search-input').val().length > 0){
+            $('#js-clear-btn').show();
+        }
+    });
+</script><script type="text/javascript">
+    var smartFilter = new JCSmartFilter('/search/?q=polaris&PAGEN_1=2', 'HORIZONTAL', []);
+    smartFilter.setBrandsInfo({"186442":{"CONTROL_ID":"searchFilter_557_1785384618","CONTROL_NAME":"searchFilter_557_1785384618","CONTROL_NAME_ALT":"searchFilter_557","HTML_VALUE_ALT":1785384618,"HTML_VALUE":"Y","VALUE":"Polaris","SORT":0,"UPPER":"POLARIS","FLAG":true,"URL_ID":"186442","FACET_VALUE":"5742","ELEMENT_COUNT":"1","CODE":"polaris","URL":"/search/?q=polaris&searchFilter_557_1785384618=Y&set_filter=Y"}});
+    $('#searchFilter_P10_MAX, #searchFilter_P10_MIN').blur(function(){
+        $(this).inputmask({suffix: ''});
+    });
+</script>
+<script>
+                dataLayer = window.dataLayer || [];
+                categoryInfo =
+                    {
+                        'event': 'searchView',
+                        'searchQuery': 'polaris',
+                        'items': [{'name':'Щипцы для завивки Polaris PHS 2580MK MINI, 25 Вт','brand':'Polaris','id':'3027024','price':'1499.99','list':'search','category':''}]                    }
+                dataLayer.push(categoryInfo);
+            </script>
+<script type="application/javascript">
+    GlobusProducts.addList({'3027420':{'itemId':'3027420','itemCode':'shchiptsy-dlya-zavivki-polaris-phs-2580mk-mini-25-vt','productId':'3027024','name':'Щипцы для завивки Polaris PHS 2580MK MINI, 25 Вт','href':'/products/shchiptsy-dlya-zavivki-polaris-phs-2580mk-mini-25-vt/','picture':'https://cdn-online.globus.ru/s180x160/upload/pim_images/3ff/360137.jpg?_cvc=1591035850','price':'1499.99','old_price':'1499.99','step':'1','min':'1','max':'999','type':'штучный','measure':'шт.','measureRatio':'1','showDiscount':false,'showRedPrice':false,'discountPercent':'0','avWeight':'0','isPriceGram':false,'isAlcogol':false,'isSignable':false,'chipsPrice':'0','icons':[],'titleIcons':[],'iconsOwn':false,'iconsNovelty':false,'iconsTitleOwn':false,'iconsTitleNovelty':false,'list':'search','brand':'Polaris','category':'Дом, хобби, техника','isTheme':false,'sortSection':'1231','print_price':'1499.99','print_old_price':'1499.99'}});
+</script>
+<script type="text/javascript">
+    window.GlobusProducts.setAvalble({'3027420':'8'});
+</script>
+<script type="application/javascript">
+        GlobusHyper.setHyper({'ID':'340','CODE':'5011','XML_ID':'com_011_KRS','EXT_ID':'73','NAME':'Глобус Красногорск','CONFIGS':{'PICKUP_NAME':'Самовывоз из Глобус Красногорск','ADDRESS':'143082, г. Москва, Новорижское ш., 22‑й км, вл. 1, стр. 1','ADDRESS_DESCRIPTION':'Пункт получения онлайн-заказа находится у входа в гипермаркет, рядом с парковкой.','LOCATION':{'lat':'55.802740327231','lng':'37.30053828836'},'WORK_TIME':'Ежедневно с 10:00 до 24:00.','PHONE':'8 (800) 234-80-20','HYPER_PAGE':'https://www.globus.ru/stores/krasnogorsk/','ROUTE_URL':'','PICKUP_URL':'/info/kak-zabrat-zakaz/','DELIVERY_INFO':'Ежедневно до 22:00.','IMAGE_MAP_URL':'https://cdn-online.globus.ru/upload/iblock/351/Karta-dostavki-15-_1_-_10_.png?_cvc=1591035850','IMAGE_MAP_URL_TABLET':'https://cdn-online.globus.ru/upload/iblock/ac1/Table.jpg?_cvc=1591035850','IMAGE_MAP_URL_MOBILE':'https://cdn-online.globus.ru/upload/iblock/595/Mobile.jpg?_cvc=1591035850','ONLY_PREORDER':false,'USE_PAYMENT':true,'USE_DELIVERY':true,'USE_YANDEX_EXPORT':true,'USE_COUPONS':true,'USE_PRODUCT_ADD_ORDER':true,'USE_SITEMAP':true,'SELECT_CHANGES_ENABLE':true},'ZONE':[]});
+    GlobusHyper.setOption('isDefault', false);
+</script>
+
+</body></html>

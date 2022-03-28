@@ -1,0 +1,347 @@
+<!DOCTYPE html><html lang="en"><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Ошибка</title>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap" rel="stylesheet">
+
+		<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/Q_rrUPkK1sXoHi4wbuDTgcQR/recaptcha__ru.js" crossorigin="anonymous"></script><script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LfzyVoUAAAAANeKf7ng_4UI3fXPGsaUX8kyApsz&amp;onload=onloadCallback"></script>
+	<script type="text/javascript">
+			window.reCaptchaSend = function (token, callback) {
+		var request = new XMLHttpRequest();
+		request.open('GET', '/check_bot?g-recaptcha-response=' + token);
+		request.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
+
+		request.onload = function () {
+			if (this.status >= 200 && this.status < 400) {
+			var data = JSON.parse(this.response);
+
+			if (typeof callback === 'function' && !data.isBot) {
+				callback(data);
+			}
+			}
+		};
+
+		request.send();
+	};
+
+	window.reCaptchaExec=function(action_name,callback) {
+		if (typeof grecaptcha == "undefined")
+			reCaptchaSend('', callback);
+		else
+			grecaptcha.execute('6LfzyVoUAAAAANeKf7ng_4UI3fXPGsaUX8kyApsz',{action:action_name}).then(function(token){reCaptchaSend(token, callback);});
+	};		var onloadCallback = function() {
+			reCaptchaExec(location.pathname, function (data) {
+				if(data.isBot == false){
+					location.reload();
+				}else{
+					location.href = '/error/500.php';
+				}
+			});
+		};
+	</script>
+</head>
+
+<body>
+	<style>
+		* {
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+
+		body {
+			padding: 0;
+			margin: 0;
+			font-family: 'Open Sans', sans-serif;
+			color: #333333;
+			background-color: #ffffff;
+		}
+
+		.error-page {
+			width: 100%;
+			height: 100%;
+		}
+
+		/* @mixin fill-full($dir: "full", $type: absolute) {
+			position: $type;
+
+			@if $dir !="bottom" {
+				top: 0;
+			}
+
+			@if $dir !="right" {
+				left: 0;
+			}
+
+			@if $dir !="left" {
+				right: 0;
+			}
+
+			@if $dir !="top" {
+				bottom: 0;
+			}
+		} */
+
+		.cat {
+			position: relative;
+			width: 100%;
+			max-width: 5em;
+			overflow: hidden;
+			background-color: #ffffff;
+			margin-top: 50px;
+		}
+
+		@keyframes rotating {
+			from {
+				transform: rotate(720deg);
+			}
+
+			to {
+				transform: none;
+			}
+		}
+
+		.box {
+			display: flex;
+			flex: 1;
+			flex-direction: column;
+			justify-content: flex-start;
+			justify-content: center;
+			align-items: center;
+			background-color: #ffffff;
+		}
+
+
+		*,
+		*::before,
+		*::after {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+
+		html {
+			height: 100%;
+		}
+
+		body {
+			display: flex;
+			flex-direction: column;
+			min-height: 100%;
+			margin: 0;
+			line-height: 1.4;
+		}
+
+		.cat {
+			position: relative;
+			width: 100%;
+			max-width: 10em;
+			overflow: hidden;
+			background-color: #ffffff;
+		}
+
+		.cat::before {
+			content: "";
+			display: block;
+			padding-bottom: 100%;
+		}
+
+		.cat:hover>* {
+			-webkit-animation-play-state: paused;
+			animation-play-state: paused;
+		}
+
+		.cat:active>* {
+			-webkit-animation-play-state: running;
+			animation-play-state: running;
+		}
+
+		.cat__body,
+		.cat__tail,
+		.cat__head {
+			position: absolute;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			-webkit-animation: rotating 2.79s cubic-bezier(0.65, 0.54, 0.12, 0.93) infinite;
+			animation: rotating 2.79s cubic-bezier(0.65, 0.54, 0.12, 0.93) infinite;
+		}
+
+		.cat__body::before,
+		.cat__tail::before,
+		.cat__head::before {
+			content: "";
+			position: absolute;
+			width: 50%;
+			height: 50%;
+			background-size: 200%;
+			background-repeat: no-repeat;
+			background-image: url("https://bender-crm.servisen.su/upload/crm/1149898079.png");
+		}
+
+		.cat__head::before {
+			top: 0;
+			right: 0;
+			background-position: 100% 0%;
+			transform-origin: 0% 100%;
+			transform: rotate(90deg);
+		}
+
+		.cat__tail {
+			-webkit-animation-delay: 0.2s;
+			animation-delay: 0.2s;
+		}
+
+		.cat__tail::before {
+			left: 0;
+			bottom: 0;
+			background-position: 0% 100%;
+			transform-origin: 100% 0%;
+			transform: rotate(-30deg);
+		}
+
+		.cat__body {
+			-webkit-animation-delay: 0.1s;
+			animation-delay: 0.1s;
+		}
+
+		.cat__body:nth-of-type(2) {
+			-webkit-animation-delay: 0.2s;
+			animation-delay: 0.2s;
+		}
+
+		.cat__body::before {
+			right: 0;
+			bottom: 0;
+			background-position: 100% 100%;
+			transform-origin: 0% 0%;
+		}
+
+		@-webkit-keyframes rotating {
+			from {
+				transform: rotate(720deg);
+			}
+
+			to {
+				transform: none;
+			}
+		}
+
+		@keyframes rotating {
+			from {
+				transform: rotate(720deg);
+			}
+
+			to {
+				transform: none;
+			}
+		}
+
+		.box {
+			display: flex;
+			flex: 1;
+			flex-direction: column;
+			justify-content: flex-start;
+			justify-content: center;
+			align-items: center;
+			background-color: #ffffff;
+		}
+
+		*,
+		*::before,
+		*::after {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+		}
+
+		html {
+			height: 100%;
+		}
+
+		body {
+			display: flex;
+			flex-direction: column;
+			min-height: 100%;
+			margin: 0;
+			line-height: 1.4;
+		}
+
+		.intro {
+			width: 90%;
+			max-width: 36rem;
+			font-size: 105px;
+			text-transform: capitalize;
+			text-align: center;
+			display: flex;
+			justify-content: center;
+			color: #b3b3b3;
+		}
+
+		.intro small {
+			display: block;
+			opacity: 0.5;
+			font-style: italic;
+			text-transform: none;
+		}
+
+		.info {
+			margin: 0;
+			padding: 1em;
+			font-size: 0.9em;
+			font-style: italic;
+			font-family: serif;
+			text-align: right;
+			opacity: 0.5;
+		}
+
+		.info a {
+			color: inherit;
+
+		}
+
+		.verify-description {
+			color: #333333;
+			text-align: center;
+			padding-top: 44px;
+		}
+
+		.container {
+			position: relative;
+			top: 50%;
+			transform: translateY(25%);
+			display: flex;
+			flex-direction: column;
+		}
+
+		.error__text {
+			display: flex;
+			max-width: 385px;
+			margin: 0 auto;
+			flex-wrap: wrap;
+			justify-content: center;
+
+		}
+	</style>
+
+	<div class="error-page">
+		<div class="container">
+			<div class="error__text">
+				<h1 class="intro">:( </h1>
+				<p class="verify-description">Нам очень жаль, но запросы с вашего IP-адреса похожи на автоматические. В данный момент идет проверка, которая подтвердит, что вы не робот.</p>
+			</div>
+
+			<div class="box">
+				<div class="cat">
+					<div class="cat__body"></div>
+					<div class="cat__body"></div>
+					<div class="cat__tail"></div>
+					<div class="cat__head"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+<div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease; -webkit-transition: right 0.3s ease; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-top-left-radius: 2px; border-top-right-radius: 2px; border-bottom-right-radius: 2px; border-bottom-left-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfzyVoUAAAAANeKf7ng_4UI3fXPGsaUX8kyApsz&amp;co=aHR0cHM6Ly9rY2VudHIucnU6NDQz&amp;hl=ru&amp;v=Q_rrUPkK1sXoHi4wbuDTgcQR&amp;size=invisible&amp;cb=8durcz2f4qx6" width="256" height="60" role="presentation" name="a-uk64xhplztyv" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></body></html>

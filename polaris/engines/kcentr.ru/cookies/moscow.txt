@@ -1,0 +1,34 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.market.yandex.ru	TRUE	/	FALSE	1627026978	market_cpa	1
+.yandex.ru	TRUE	/	TRUE	1942300578	skid	1398204241626767778
+.market.yandex.ru	TRUE	/	TRUE	2145906000	visits	1626767778-1626767778-1626767778
+.market.yandex.ru	TRUE	/	FALSE	2145906000	cmp-merge	true
+.market.yandex.ru	TRUE	/	FALSE	2145906000	reviews-merge	true
+market.yandex.ru	FALSE	/	FALSE	0	js	1
+market.yandex.ru	FALSE	/	TRUE	1626769580	ugcp	1
+market.yandex.ru	FALSE	/	TRUE	1626814802	dcm	1
+market.yandex.ru	FALSE	/	FALSE	1658303782	currentRegionId	213
+market.yandex.ru	FALSE	/	FALSE	1658303782	currentRegionName	%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%83
+market.yandex.ru	FALSE	/	FALSE	1658303782	mOC	1
+.yandex.ru	TRUE	/	FALSE	1689839782	is_gdpr	0
+.yandex.ru	TRUE	/	FALSE	1689839782	is_gdpr_b	CLmULxD6Og==
+.yandex.ru	TRUE	/	TRUE	1689839782	i	3U3lT9QgQP+jR53zQu+kzU6aMajOOFM/RAuHzmtFg61d3jrN1NwE+4T0FrSymGBEwT/WIgDN8gBJRl7wxaTBIkVSzaQ=
+.market.yandex.ru	TRUE	/	FALSE	0	yandexmarket	48
+market.yandex.ru	FALSE	/	FALSE	0	fonts-loaded	1
+.yandex.ru	TRUE	/	FALSE	1942127784	yandexuid	3755975561626767778
+.yandex.ru	TRUE	/	FALSE	1658303784	ymex	1942127784.yrts.1626767784
+.yandex.ru	TRUE	/	FALSE	0	gdpr	0
+.yandex.ru	TRUE	/	FALSE	1658303786	_ym_uid	1626767784192833161
+.yandex.ru	TRUE	/	FALSE	1658303786	_ym_d	1626767786
+.yandex.ru	TRUE	/	FALSE	1626839786	_ym_isad	2
+.yandex.ru	TRUE	/	FALSE	1626769590	_ym_visorc	w
+.yandex.ru	TRUE	/	FALSE	1629359793	spravka	dD0xNjI2NzY3NzkzO2k9OTIuMTE5LjIwMi4xODtEPUU4NTQyRTgyOTA0NzZBMUY4NjU2QzkxQUNDNzhFMDU0RkMyRUJCRDJCQTVGRDA3RTY2NjA1MDU2RUY0QkMxN0Q7dT0xNjI2NzY3NzkzMTY3ODQ4NjgyO2g9ZTJiODVhN2ViYTQwNjQ1ZjUzMGI0YTZmNDE3NzA2OWE=
+.market.yandex.ru	TRUE	/	TRUE	0	parent_reqid_seq	1626767778661%2Ff40420ea7b9dcb2ce444946389c70500%2C1626767793214%2Fec03dbbc02fadbf7f455726489c70500
+

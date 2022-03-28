@@ -1,0 +1,14 @@
+0
+<pre>&gt; Console mode activated
+Today file
+
+Warning: ZipArchive::open(): Empty string as source in /var/www/lib/PHPExcel/Writer/Excel2007.php on line 239
+
+Warning: ZipArchive::open(): Empty string as source in /var/www/lib/PHPExcel/Writer/Excel2007.php on line 240
+
+Fatal error: Uncaught PHPExcel_Writer_Exception: Could not open  for writing. in /var/www/lib/PHPExcel/Writer/Excel2007.php:241
+Stack trace:
+#0 /var/www/polaris.ua/footer.php(56): PHPExcel_Writer_Excel2007->save('')
+#1 /var/www/polaris.ua/app.php(104): require_once('/var/www/polari...')
+#2 {main}
+  thrown in /var/www/lib/PHPExcel/Writer/Excel2007.php on line 241

@@ -1,0 +1,59 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.citilink.ru	TRUE	/	FALSE	1629881123	new_design	0
+.citilink.ru	TRUE	/	FALSE	1629881123	_space	spb_cl%3A
+.citilink.ru	TRUE	/	FALSE	1606293923	ab_test	90x10v4%3A1%7Creindexer%3A2%7Cmindbox%3A1%7Cnew_designv5%3A2%7Cdummy%3A20
+.citilink.ru	TRUE	/	FALSE	1606293923	ab_test_analytics	90x10v4%3A1%7Creindexer%3A2%7Cmindbox%3A1%7Cnew_designv5%3A2%7Cdummy%3A20
+.citilink.ru	TRUE	/	FALSE	0	_dy_csc_ses	t
+www.citilink.ru	FALSE	/	FALSE	0	isWebMobile	false
+.citilink.ru	TRUE	/	FALSE	1606121126	_gcl_au	1.1.312538449.1598345126
+www.citilink.ru	FALSE	/	FALSE	1661417126	testanalytics	C
+.citilink.ru	TRUE	/	FALSE	0	_dyjsession	a463354a7ac33b0f7dc1c78f2d953c8d
+.citilink.ru	TRUE	/	FALSE	2150143200	mindboxDeviceUUID	2d8463c8-c4d2-4f7e-a6d8-f9e393764a8b
+.citilink.ru	TRUE	/	FALSE	1661374800	directCrm-session	%7B%22deviceGuid%22%3A%222d8463c8-c4d2-4f7e-a6d8-f9e393764a8b%22%7D
+.citilink.ru	TRUE	/	FALSE	1629881128	_ym_uid	1598345128208449058
+.citilink.ru	TRUE	/	FALSE	1629881128	_ym_d	1598345128
+.citilink.ru	TRUE	/	FALSE	1598417129	_ym_isad	2
+.citilink.ru	TRUE	/	FALSE	1629881135	_dyid_server	6886004690841292710
+.citilink.ru	TRUE	/	FALSE	1629881179	suid	IL06323647
+.citilink.ru	TRUE	/	FALSE	1629881179	_csh	d6e5b09263de1c7e52e5896ec33b139bf97539d0
+.citilink.ru	TRUE	/	FALSE	0	_dyfs	1598345187569
+.citilink.ru	TRUE	/	FALSE	0	dy_fs_page	www.citilink.ru%2Fbrands%2Fpolaris
+www.citilink.ru	FALSE	/	FALSE	1598352327	dSesn	bd4b8290-a587-1015-5b94-8bacbccd68ff
+www.citilink.ru	FALSE	/	FALSE	1598352327	_dvs	0:ke9smw27:tas645BvbwktFW5QqRPDigThuOQJccUQ
+www.citilink.ru	FALSE	/	FALSE	1661422527	_userGUID	0:ke9pf59o:79kmsGRdg2EonnVXeWQvmBMStLU~Bt7e
+.citilink.ru	TRUE	/	FALSE	1598354130	AMP_TOKEN	%24NOT_FOUND
+.citilink.ru	TRUE	/	FALSE	1600943180	_dy_ses_load_seq	82647%3A1598351180326
+.citilink.ru	TRUE	/	FALSE	1600943180	_dy_c_att_exps	
+.citilink.ru	TRUE	/	FALSE	1600943181	_dycnst	dg
+.citilink.ru	TRUE	/	FALSE	1600943181	_dyid	6886004690841292710
+.citilink.ru	TRUE	/	FALSE	0	_dy_lu_ses	a463354a7ac33b0f7dc1c78f2d953c8d%3A1598351181860
+.citilink.ru	TRUE	/	FALSE	1600943181	_dycst	dk.w.f.ws.
+.citilink.ru	TRUE	/	FALSE	1600943181	_dy_geo	RU.EU.RU_MOW.RU_MOW_Moscow
+.citilink.ru	TRUE	/	FALSE	1600943181	_dy_df_geo	Russia..Moscow
+.citilink.ru	TRUE	/	FALSE	1600943181	_dy_toffset	1
+.citilink.ru	TRUE	/	FALSE	1600943182	_dy_c_exps	
+.citilink.ru	TRUE	/	FALSE	1627122382	tmr_lvid	d5bf5afc12a8f52a43f489554b272f7a
+.citilink.ru	TRUE	/	FALSE	1627122382	tmr_lvidTS	1598345128184
+.citilink.ru	TRUE	/	FALSE	1598351242	_dc_gtm_UA-5582449-1	1
+.citilink.ru	TRUE	/	FALSE	1598351242	_dc_gtm_UA-5582449-6	1
+.citilink.ru	TRUE	/	FALSE	1598351242	_gat_UA-5582449-1	1
+.citilink.ru	TRUE	/	FALSE	1629887183	_dy_soct	1017570.1030352.1598345124*1015299.1026208.1598345124*1015300.1026211.1598345126*1015300.1026215.1598345157*1019617.1034443.1598345187*1015299.1026209.1598350525*1019617.1034444.1598350527*1019775.1043203.1598351180*1022436.1040732.1598351180*1025689.1047461.1598351180*1008131.1012968.1598351180*1021730.1045585.1598351181*1018922.1033074.1598351182*1020252.1036201.1598351182
+.citilink.ru	TRUE	/	FALSE	1613903183	popmechanic_sbjs_migrations	popmechanic_1418474375998%3D1%7C%7C%7C1471519752600%3D1%7C%7C%7C1471519752605%3D1
+.citilink.ru	TRUE	/	FALSE	1661423183	_ga	GA1.2.446794309.1598345128
+.citilink.ru	TRUE	/	FALSE	1598437583	_gid	GA1.2.2123682887.1598345128
+.citilink.ru	TRUE	/	FALSE	1598352983	_ym_visorc_155462	w
+.citilink.ru	TRUE	/	FALSE	1632515184	cto_bundle	Ceh7x19rdEVDRkl3RmJlT2ElMkJZTzBNaFdJZklzUllyS2dRWGIxTTYzOFZYYWdGNkU4dlQ3TnVCTHUzVWphbW9LUGFMRmZUTTU5VGJ6ZmVOaWt3bTdyY3hnV3IxMWhIV2wzZUl0MEJaUm1ualpTViUyRmQzNklHTXFiVXhkR3glMkJvamtZOCUyRnZ3TDNLWTE2WnEyYUhqcDNkUlN2cGtZandXZVUzUjRRR1B4Wk5kZ2VKMDhXdFJWMjBIbzZZbHF1STdSdUhERnpCSA
+www.citilink.ru	FALSE	/	FALSE	1598437586	tmr_detect	0%7C1598351186688
+.citilink.ru	TRUE	/	FALSE	1606127191	_fbp	fb.1.1598345129886.1245242386
+www.citilink.ru	FALSE	/	FALSE	1661423191	userId	IL06323647
+.citilink.ru	TRUE	/	FALSE	1627122382	tmr_reqNum	31
+.citilink.ru	TRUE	/	FALSE	1598956002	_rire_test_id	-1
+.citilink.ru	TRUE	/	FALSE	1629887202	_tuid	f3fa318740c67af50d0e85502dd1ededdc0d13a9
+

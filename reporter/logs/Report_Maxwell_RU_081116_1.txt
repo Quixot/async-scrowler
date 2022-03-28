@@ -1,0 +1,181 @@
+Initial: 352448 bytes 
+3.83
+Starting main LOOP...
+/var/www/maxwell/engines/*/data/08.11.16*maxwell*.data
+Array
+(
+    [0] => /var/www/maxwell/engines/003.ru/data/08.11.16_003.ru_maxwell_moscow.data
+    [1] => /var/www/maxwell/engines/123.ru/data/08.11.16_123.ru_maxwell_moscow.data
+    [2] => /var/www/maxwell/engines/220-volt.ru/data/08.11.16_220-volt.ru_maxwell_kazan.data
+    [3] => /var/www/maxwell/engines/220-volt.ru/data/08.11.16_220-volt.ru_maxwell_moscow.data
+    [4] => /var/www/maxwell/engines/220-volt.ru/data/08.11.16_220-volt.ru_maxwell_novgorod.data
+    [5] => /var/www/maxwell/engines/220-volt.ru/data/08.11.16_220-volt.ru_maxwell_novosibirsk.data
+    [6] => /var/www/maxwell/engines/220-volt.ru/data/08.11.16_220-volt.ru_maxwell_yekaterinburg.data
+    [7] => /var/www/maxwell/engines/corpcentre.ru/data/08.11.16_corpcentre.ru_maxwell_ufa.data
+    [8] => /var/www/maxwell/engines/corpcentre.ru/data/08.11.16_corpcentre.ru_maxwell_yekaterinburg.data
+    [9] => /var/www/maxwell/engines/dns-shop.ru/data/08.11.16_dns-shop.ru_maxwell_chelyabinsk.data
+    [10] => /var/www/maxwell/engines/dns-shop.ru/data/08.11.16_dns-shop.ru_maxwell_novgorod.data
+    [11] => /var/www/maxwell/engines/dns-shop.ru/data/08.11.16_dns-shop.ru_maxwell_ufa.data
+    [12] => /var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_chelyabinsk.data
+    [13] => /var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_kazan.data
+    [14] => /var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_krasnoyarsk.data
+    [15] => /var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_moscow.data
+    [16] => /var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_novgorod.data
+    [17] => /var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_novosibirsk.data
+    [18] => /var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_ufa.data
+    [19] => /var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_chelyabinsk.data
+    [20] => /var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_kazan.data
+    [21] => /var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_krasnoyarsk.data
+    [22] => /var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_moscow.data
+    [23] => /var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_novgorod.data
+    [24] => /var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_ufa.data
+    [25] => /var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_vladivostok.data
+    [26] => /var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_volgograd.data
+    [27] => /var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_voronezh.data
+    [28] => /var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_yekaterinburg.data
+    [29] => /var/www/maxwell/engines/frau-technica.ru/data/08.11.16_frau-technica.ru_maxwell_ufa.data
+    [30] => /var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_chelyabinsk.data
+    [31] => /var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_kaliningrad.data
+    [32] => /var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_kazan.data
+    [33] => /var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_krasnodar.data
+    [34] => /var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_krasnoyarsk.data
+    [35] => /var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_moscow.data
+    [36] => /var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_ufa.data
+    [37] => /var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_yakutsk.data
+    [38] => /var/www/maxwell/engines/nord24.ru/data/08.11.16_nord24.ru_maxwell_chelyabinsk.data
+    [39] => /var/www/maxwell/engines/onlinetrade.ru/data/08.11.16_onlinetrade.ru_maxwell_chelyabinsk.data
+    [40] => /var/www/maxwell/engines/onlinetrade.ru/data/08.11.16_onlinetrade.ru_maxwell_kazan.data
+    [41] => /var/www/maxwell/engines/onlinetrade.ru/data/08.11.16_onlinetrade.ru_maxwell_novgorod.data
+    [42] => /var/www/maxwell/engines/onlinetrade.ru/data/08.11.16_onlinetrade.ru_maxwell_novosibirsk.data
+    [43] => /var/www/maxwell/engines/ozon.ru/data/08.11.16_ozon.ru_maxwell_moscow.data
+    [44] => /var/www/maxwell/engines/rbt.ru/data/08.11.16_rbt.ru_maxwell_chelyabinsk.data
+    [45] => /var/www/maxwell/engines/rbt.ru/data/08.11.16_rbt.ru_maxwell_ufa.data
+    [46] => /var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_chelyabinsk.data
+    [47] => /var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_kazan.data
+    [48] => /var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_krasnodar.data
+    [49] => /var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_krasnoyarsk.data
+    [50] => /var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_rostov.data
+    [51] => /var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_samara.data
+    [52] => /var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_spb.data
+    [53] => /var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_ufa.data
+    [54] => /var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_voronezh.data
+    [55] => /var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_yekaterinburg.data
+    [56] => /var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_chelyabinsk.data
+    [57] => /var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_kazan.data
+    [58] => /var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_krasnodar.data
+    [59] => /var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_krasnoyarsk.data
+    [60] => /var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_moscow.data
+    [61] => /var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_perm.data
+    [62] => /var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_rostov.data
+    [63] => /var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_samara.data
+    [64] => /var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_spb.data
+    [65] => /var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_ufa.data
+    [66] => /var/www/maxwell/engines/techport.ru/data/08.11.16_techport.ru_maxwell_moscow.data
+    [67] => /var/www/maxwell/engines/techport.ru/data/08.11.16_techport.ru_maxwell_ufa.data
+    [68] => /var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_chelyabinsk.data
+    [69] => /var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_moscow.data
+    [70] => /var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_omsk.data
+    [71] => /var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_perm.data
+    [72] => /var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_rostov.data
+    [73] => /var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_spb.data
+    [74] => /var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_ufa.data
+    [75] => /var/www/maxwell/engines/ulmart.ru/data/08.11.16_ulmart.ru_maxwell_novgorod.data
+    [76] => /var/www/maxwell/engines/ulmart.ru/data/08.11.16_ulmart.ru_maxwell_rostov.data
+    [77] => /var/www/maxwell/engines/ulmart.ru/data/08.11.16_ulmart.ru_maxwell_samara.data
+    [78] => /var/www/maxwell/engines/ulmart.ru/data/08.11.16_ulmart.ru_maxwell_spb.data
+    [79] => /var/www/maxwell/engines/ulmart.ru/data/08.11.16_ulmart.ru_maxwell_ufa.data
+    [80] => /var/www/maxwell/engines/vstroyka-solo.ru/data/08.11.16_vstroyka-solo.ru_maxwell_moscow.data
+)
+/var/www/maxwell/engines/003.ru/data/08.11.16_003.ru_maxwell_moscow.data
+/var/www/maxwell/engines/123.ru/data/08.11.16_123.ru_maxwell_moscow.data
+/var/www/maxwell/engines/220-volt.ru/data/08.11.16_220-volt.ru_maxwell_kazan.data
+/var/www/maxwell/engines/220-volt.ru/data/08.11.16_220-volt.ru_maxwell_moscow.data
+/var/www/maxwell/engines/220-volt.ru/data/08.11.16_220-volt.ru_maxwell_novgorod.data
+/var/www/maxwell/engines/220-volt.ru/data/08.11.16_220-volt.ru_maxwell_novosibirsk.data
+/var/www/maxwell/engines/220-volt.ru/data/08.11.16_220-volt.ru_maxwell_yekaterinburg.data
+/var/www/maxwell/engines/corpcentre.ru/data/08.11.16_corpcentre.ru_maxwell_ufa.data
+/var/www/maxwell/engines/corpcentre.ru/data/08.11.16_corpcentre.ru_maxwell_yekaterinburg.data
+/var/www/maxwell/engines/dns-shop.ru/data/08.11.16_dns-shop.ru_maxwell_chelyabinsk.data
+/var/www/maxwell/engines/dns-shop.ru/data/08.11.16_dns-shop.ru_maxwell_novgorod.data
+/var/www/maxwell/engines/dns-shop.ru/data/08.11.16_dns-shop.ru_maxwell_ufa.data
+/var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_chelyabinsk.data
+/var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_kazan.data
+/var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_krasnoyarsk.data
+/var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_moscow.data
+/var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_novgorod.data
+/var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_novosibirsk.data
+/var/www/maxwell/engines/eldorado.ru/data/08.11.16_eldorado.ru_maxwell_ufa.data
+/var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_chelyabinsk.data
+/var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_kazan.data
+/var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_krasnoyarsk.data
+/var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_moscow.data
+/var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_novgorod.data
+/var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_ufa.data
+/var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_vladivostok.data
+/var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_volgograd.data
+/var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_voronezh.data
+/var/www/maxwell/engines/enter.ru/data/08.11.16_enter.ru_maxwell_yekaterinburg.data
+/var/www/maxwell/engines/frau-technica.ru/data/08.11.16_frau-technica.ru_maxwell_ufa.data
+/var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_chelyabinsk.data
+/var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_kaliningrad.data
+/var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_kazan.data
+/var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_krasnodar.data
+/var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_krasnoyarsk.data
+/var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_moscow.data
+/var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_ufa.data
+/var/www/maxwell/engines/mvideo.ru/data/08.11.16_mvideo.ru_maxwell_yakutsk.data
+/var/www/maxwell/engines/nord24.ru/data/08.11.16_nord24.ru_maxwell_chelyabinsk.data
+/var/www/maxwell/engines/onlinetrade.ru/data/08.11.16_onlinetrade.ru_maxwell_chelyabinsk.data
+/var/www/maxwell/engines/onlinetrade.ru/data/08.11.16_onlinetrade.ru_maxwell_kazan.data
+/var/www/maxwell/engines/onlinetrade.ru/data/08.11.16_onlinetrade.ru_maxwell_novgorod.data
+/var/www/maxwell/engines/onlinetrade.ru/data/08.11.16_onlinetrade.ru_maxwell_novosibirsk.data
+/var/www/maxwell/engines/ozon.ru/data/08.11.16_ozon.ru_maxwell_moscow.data
+/var/www/maxwell/engines/rbt.ru/data/08.11.16_rbt.ru_maxwell_chelyabinsk.data
+/var/www/maxwell/engines/rbt.ru/data/08.11.16_rbt.ru_maxwell_ufa.data
+/var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_chelyabinsk.data
+/var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_kazan.data
+/var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_krasnodar.data
+/var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_krasnoyarsk.data
+/var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_rostov.data
+/var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_samara.data
+/var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_spb.data
+/var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_ufa.data
+/var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_voronezh.data
+/var/www/maxwell/engines/technopark.ru/data/08.11.16_technopark.ru_maxwell_yekaterinburg.data
+/var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_chelyabinsk.data
+/var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_kazan.data
+/var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_krasnodar.data
+/var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_krasnoyarsk.data
+/var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_moscow.data
+/var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_perm.data
+/var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_rostov.data
+/var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_samara.data
+/var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_spb.data
+/var/www/maxwell/engines/technopoint.ru/data/08.11.16_technopoint.ru_maxwell_ufa.data
+/var/www/maxwell/engines/techport.ru/data/08.11.16_techport.ru_maxwell_moscow.data
+/var/www/maxwell/engines/techport.ru/data/08.11.16_techport.ru_maxwell_ufa.data
+/var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_chelyabinsk.data
+/var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_moscow.data
+/var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_omsk.data
+/var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_perm.data
+/var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_rostov.data
+/var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_spb.data
+/var/www/maxwell/engines/tehnosila.ru/data/08.11.16_tehnosila.ru_maxwell_ufa.data
+/var/www/maxwell/engines/ulmart.ru/data/08.11.16_ulmart.ru_maxwell_novgorod.data
+/var/www/maxwell/engines/ulmart.ru/data/08.11.16_ulmart.ru_maxwell_rostov.data
+/var/www/maxwell/engines/ulmart.ru/data/08.11.16_ulmart.ru_maxwell_samara.data
+/var/www/maxwell/engines/ulmart.ru/data/08.11.16_ulmart.ru_maxwell_spb.data
+/var/www/maxwell/engines/ulmart.ru/data/08.11.16_ulmart.ru_maxwell_ufa.data
+/var/www/maxwell/engines/vstroyka-solo.ru/data/08.11.16_vstroyka-solo.ru_maxwell_moscow.data
+7
+End creating array. Starting writing to cells...
+25
+Starting report writing...
+Final: 111949472 bytes 
+Peak: 174303648 bytes 
+26.98
+sending email...Array
+(
+    [0] => alexandr.volkoff@gmail.com
+    [1] => rsp.bt.tech@gmail.com
+)

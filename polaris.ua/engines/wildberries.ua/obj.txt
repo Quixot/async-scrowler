@@ -1,0 +1,4316 @@
+stdClass Object
+(
+    [state] => 0
+    [version] => 1
+    [data] => stdClass Object
+        (
+            [products] => Array
+                (
+                    [0] => stdClass Object
+                        (
+                            [id] => 4984401
+                            [root] => 4033738
+                            [kindId] => 0
+                            [subjectId] => 639
+                            [name] => Увлажнитель
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2000
+                            [salePrice] => 1293
+                            [sale] => 35
+                            [pics] => 6
+                            [rating] => 4
+                            [feedbackCount] => 580
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18160678
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [1] => stdClass Object
+                        (
+                            [id] => 9290808
+                            [root] => 7138985
+                            [kindId] => 0
+                            [subjectId] => 639
+                            [name] => Увлажнитель
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1636
+                            [salePrice] => 1079
+                            [sale] => 34
+                            [pics] => 8
+                            [rating] => 4
+                            [feedbackCount] => 752
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 30979986
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [2] => stdClass Object
+                        (
+                            [id] => 2381247
+                            [root] => 4771808
+                            [kindId] => 0
+                            [subjectId] => 2314
+                            [name] => Выпрямитель волос HS 2511K/230 °C
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 836
+                            [salePrice] => 521
+                            [sale] => 37
+                            [pics] => 9
+                            [rating] => 5
+                            [feedbackCount] => 1307
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 9914946
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [3] => stdClass Object
+                        (
+                            [id] => 6645688
+                            [root] => 5257032
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 472
+                            [salePrice] => 424
+                            [sale] => 10
+                            [pics] => 10
+                            [rating] => 5
+                            [feedbackCount] => 1843
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 23364583
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [4] => stdClass Object
+                        (
+                            [id] => 12149760
+                            [root] => 9121987
+                            [kindId] => 0
+                            [subjectId] => 631
+                            [name] => Кофеварка PCM4006AGoldenrush/рожковая
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2509
+                            [salePrice] => 1412
+                            [sale] => 43
+                            [pics] => 7
+                            [rating] => 5
+                            [feedbackCount] => 97
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 37962752
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [5] => stdClass Object
+                        (
+                            [id] => 6855867
+                            [root] => 5405232
+                            [kindId] => 0
+                            [subjectId] => 618
+                            [name] => Мясорубка электрическая
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 4181
+                            [salePrice] => 2445
+                            [sale] => 41
+                            [pics] => 10
+                            [rating] => 4
+                            [feedbackCount] => 193
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 23933695
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [6] => stdClass Object
+                        (
+                            [id] => 5007905
+                            [root] => 4050683
+                            [kindId] => 0
+                            [subjectId] => 631
+                            [name] => Кофеварка PCM 1527E/рожковая
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 3272
+                            [salePrice] => 2149
+                            [sale] => 34
+                            [pics] => 8
+                            [rating] => 4
+                            [feedbackCount] => 269
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 16776960
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18230330
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [7] => stdClass Object
+                        (
+                            [id] => 4984399
+                            [root] => 4033741
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 505
+                            [salePrice] => 404
+                            [sale] => 20
+                            [pics] => 7
+                            [rating] => 5
+                            [feedbackCount] => 2434
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18160676
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [8] => stdClass Object
+                        (
+                            [id] => 10139349
+                            [root] => 7715686
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1636
+                            [salePrice] => 1110
+                            [sale] => 32
+                            [pics] => 6
+                            [rating] => 4
+                            [feedbackCount] => 44
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 11393254
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 33059624
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [9] => stdClass Object
+                        (
+                            [id] => 8615926
+                            [root] => 6664266
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1272
+                            [salePrice] => 777
+                            [sale] => 38
+                            [pics] => 6
+                            [rating] => 4
+                            [feedbackCount] => 620
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 29095756
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [10] => stdClass Object
+                        (
+                            [id] => 5402908
+                            [root] => 4359055
+                            [kindId] => 0
+                            [subjectId] => 642
+                            [name] => Фен
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1054
+                            [salePrice] => 681
+                            [sale] => 35
+                            [pics] => 8
+                            [rating] => 5
+                            [feedbackCount] => 849
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 255
+                                    [2] => 11393254
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 19508958
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [11] => stdClass Object
+                        (
+                            [id] => 5210258
+                            [root] => 4210441
+                            [kindId] => 0
+                            [subjectId] => 639
+                            [name] => Увлажнитель
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2000
+                            [salePrice] => 1800
+                            [sale] => 10
+                            [pics] => 7
+                            [rating] => 4
+                            [feedbackCount] => 71
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18910680
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [12] => stdClass Object
+                        (
+                            [id] => 13080122
+                            [root] => 9804952
+                            [kindId] => 0
+                            [subjectId] => 642
+                            [name] => Фен
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 3272
+                            [salePrice] => 1259
+                            [sale] => 61
+                            [pics] => 10
+                            [rating] => 4
+                            [feedbackCount] => 34
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 40012302
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [13] => stdClass Object
+                        (
+                            [id] => 9890635
+                            [root] => 7546211
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг PIR 2668AK 3m
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1454
+                            [salePrice] => 956
+                            [sale] => 34
+                            [pics] => 7
+                            [rating] => 4
+                            [feedbackCount] => 75
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16761035
+                                    [1] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 32469345
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [14] => stdClass Object
+                        (
+                            [id] => 12810751
+                            [root] => 9611475
+                            [kindId] => 0
+                            [subjectId] => 614
+                            [name] => Блендер
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 3272
+                            [salePrice] => 1552
+                            [sale] => 52
+                            [pics] => 10
+                            [rating] => 4
+                            [feedbackCount] => 40
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 39423835
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [15] => stdClass Object
+                        (
+                            [id] => 5104979
+                            [root] => 4124490
+                            [kindId] => 0
+                            [subjectId] => 639
+                            [name] => Увлажнитель
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1454
+                            [salePrice] => 891
+                            [sale] => 38
+                            [pics] => 1
+                            [rating] => 4
+                            [feedbackCount] => 244
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18548557
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [16] => stdClass Object
+                        (
+                            [id] => 10414058
+                            [root] => 7903578
+                            [kindId] => 0
+                            [subjectId] => 642
+                            [name] => Фен PHD2499ACI
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 909
+                            [salePrice] => 763
+                            [sale] => 16
+                            [pics] => 9
+                            [rating] => 4
+                            [feedbackCount] => 82
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 33719678
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [17] => stdClass Object
+                        (
+                            [id] => 2381217
+                            [root] => 2057867
+                            [kindId] => 0
+                            [subjectId] => 629
+                            [name] => Тостер
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 799
+                            [salePrice] => 461
+                            [sale] => 42
+                            [pics] => 7
+                            [rating] => 4
+                            [feedbackCount] => 793
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 9914916
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [18] => stdClass Object
+                        (
+                            [id] => 5963850
+                            [root] => 4771797
+                            [kindId] => 0
+                            [subjectId] => 3185
+                            [name] => Машинка для стрижки волос
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 763
+                            [salePrice] => 512
+                            [sale] => 32
+                            [pics] => 9
+                            [rating] => 4
+                            [feedbackCount] => 92
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 21257686
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [19] => stdClass Object
+                        (
+                            [id] => 11726062
+                            [root] => 8805939
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 3272
+                            [salePrice] => 1619
+                            [sale] => 50
+                            [pics] => 10
+                            [rating] => 4
+                            [feedbackCount] => 40
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 37001345
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [20] => stdClass Object
+                        (
+                            [id] => 5585467
+                            [root] => 4491663
+                            [kindId] => 0
+                            [subjectId] => 619
+                            [name] => Миксер
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1272
+                            [salePrice] => 812
+                            [sale] => 36
+                            [pics] => 5
+                            [rating] => 5
+                            [feedbackCount] => 39
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 20087560
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [21] => stdClass Object
+                        (
+                            [id] => 11464691
+                            [root] => 8630701
+                            [kindId] => 0
+                            [subjectId] => 614
+                            [name] => Блендер PHB1591LSilent/погружной/1500 Вт
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2908
+                            [salePrice] => 1779
+                            [sale] => 38
+                            [pics] => 10
+                            [rating] => 4
+                            [feedbackCount] => 73
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 36329545
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [22] => stdClass Object
+                        (
+                            [id] => 6045404
+                            [root] => 4831265
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1399
+                            [salePrice] => 1259
+                            [sale] => 10
+                            [pics] => 6
+                            [rating] => 4
+                            [feedbackCount] => 78
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16776960
+                                    [1] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 21507978
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [23] => stdClass Object
+                        (
+                            [id] => 5456643
+                            [root] => 4399193
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 472
+                            [salePrice] => 403
+                            [sale] => 14
+                            [pics] => 10
+                            [rating] => 4
+                            [feedbackCount] => 448
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16711680
+                                    [1] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 19687014
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [24] => stdClass Object
+                        (
+                            [id] => 13148065
+                            [root] => 9856230
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1054
+                            [salePrice] => 707
+                            [sale] => 32
+                            [pics] => 3
+                            [rating] => 4
+                            [feedbackCount] => 9
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 15631086
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 40150187
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [25] => stdClass Object
+                        (
+                            [id] => 3467508
+                            [root] => 2893801
+                            [kindId] => 0
+                            [subjectId] => 612
+                            [name] => Кофемолка электрическая
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 726
+                            [salePrice] => 418
+                            [sale] => 42
+                            [pics] => 5
+                            [rating] => 4
+                            [feedbackCount] => 30
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 13389501
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [26] => stdClass Object
+                        (
+                            [id] => 9000202
+                            [root] => 6938330
+                            [kindId] => 0
+                            [subjectId] => 642
+                            [name] => Фен
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 909
+                            [salePrice] => 519
+                            [sale] => 42
+                            [pics] => 6
+                            [rating] => 3
+                            [feedbackCount] => 42
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 10824234
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 30191962
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [27] => stdClass Object
+                        (
+                            [id] => 8996297
+                            [root] => 6935975
+                            [kindId] => 0
+                            [subjectId] => 614
+                            [name] => Блендер PHB1065/погружной/1000 Вт
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1454
+                            [salePrice] => 902
+                            [sale] => 37
+                            [pics] => 2
+                            [rating] => 4
+                            [feedbackCount] => 157
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 30179053
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [28] => stdClass Object
+                        (
+                            [id] => 5585475
+                            [root] => 4491671
+                            [kindId] => 0
+                            [subjectId] => 614
+                            [name] => Блендер PTB 0204G/0205G/стационарный/600 Вт
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1163
+                            [salePrice] => 742
+                            [sale] => 36
+                            [pics] => 6
+                            [rating] => 4
+                            [feedbackCount] => 99
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16119260
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 20087568
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [29] => stdClass Object
+                        (
+                            [id] => 6280460
+                            [root] => 5002351
+                            [kindId] => 0
+                            [subjectId] => 642
+                            [name] => Фен PHD 2083Ti
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1200
+                            [salePrice] => 715
+                            [sale] => 40
+                            [pics] => 5
+                            [rating] => 4
+                            [feedbackCount] => 43
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 22263657
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [30] => stdClass Object
+                        (
+                            [id] => 9933602
+                            [root] => 7575663
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический PWK1702CGL/1850 Вт/1.7 л
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1636
+                            [salePrice] => 1085
+                            [sale] => 33
+                            [pics] => 9
+                            [rating] => 4
+                            [feedbackCount] => 16
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 32565777
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [31] => stdClass Object
+                        (
+                            [id] => 3260250
+                            [root] => 2734330
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 654
+                            [salePrice] => 364
+                            [sale] => 44
+                            [pics] => 5
+                            [rating] => 4
+                            [feedbackCount] => 167
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 12754242
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [32] => stdClass Object
+                        (
+                            [id] => 9420803
+                            [root] => 7231139
+                            [kindId] => 0
+                            [subjectId] => 639
+                            [name] => Увлажнитель
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1451
+                            [salePrice] => 999
+                            [sale] => 31
+                            [pics] => 4
+                            [rating] => 4
+                            [feedbackCount] => 29
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 31310666
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [33] => stdClass Object
+                        (
+                            [id] => 10994870
+                            [root] => 8304752
+                            [kindId] => 0
+                            [subjectId] => 839
+                            [name] => Чайник для плиты
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 908
+                            [salePrice] => 523
+                            [sale] => 42
+                            [pics] => 7
+                            [rating] => 5
+                            [feedbackCount] => 9
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35144820
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [34] => stdClass Object
+                        (
+                            [id] => 12614584
+                            [root] => 9466990
+                            [kindId] => 0
+                            [subjectId] => 618
+                            [name] => Мясорубка электрическая
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2545
+                            [salePrice] => 2290
+                            [sale] => 10
+                            [pics] => 5
+                            [rating] => 4
+                            [feedbackCount] => 6
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 38987581
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [35] => stdClass Object
+                        (
+                            [id] => 12151307
+                            [root] => 9123231
+                            [kindId] => 0
+                            [subjectId] => 612
+                            [name] => Кофемолка электрическая PCG1620Stone
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2509
+                            [salePrice] => 1264
+                            [sale] => 49
+                            [pics] => 3
+                            [rating] => 5
+                            [feedbackCount] => 3
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 37966988
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [36] => stdClass Object
+                        (
+                            [id] => 11726064
+                            [root] => 8805941
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2181
+                            [salePrice] => 878
+                            [sale] => 59
+                            [pics] => 6
+                            [rating] => 5
+                            [feedbackCount] => 4
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 37001347
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [37] => stdClass Object
+                        (
+                            [id] => 2381219
+                            [root] => 2057868
+                            [kindId] => 0
+                            [subjectId] => 629
+                            [name] => Тостер
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1091
+                            [salePrice] => 806
+                            [sale] => 26
+                            [pics] => 2
+                            [rating] => 5
+                            [feedbackCount] => 6
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 9914918
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [38] => stdClass Object
+                        (
+                            [id] => 12886628
+                            [root] => 9664550
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1199
+                            [salePrice] => 744
+                            [sale] => 37
+                            [pics] => 6
+                            [rating] => 4
+                            [feedbackCount] => 7
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 39588450
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [39] => stdClass Object
+                        (
+                            [id] => 10994858
+                            [root] => 8304748
+                            [kindId] => 0
+                            [subjectId] => 1274
+                            [name] => Термокружка
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 599
+                            [salePrice] => 392
+                            [sale] => 34
+                            [pics] => 7
+                            [rating] => 5
+                            [feedbackCount] => 4
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35144808
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [40] => stdClass Object
+                        (
+                            [id] => 9824211
+                            [root] => 7500523
+                            [kindId] => 0
+                            [subjectId] => 639
+                            [name] => Увлажнитель
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1636
+                            [salePrice] => 797
+                            [sale] => 51
+                            [pics] => 3
+                            [rating] => 4
+                            [feedbackCount] => 75
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 32305744
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [41] => stdClass Object
+                        (
+                            [id] => 12614585
+                            [root] => 9466991
+                            [kindId] => 0
+                            [subjectId] => 618
+                            [name] => Мясорубка электрическая
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2181
+                            [salePrice] => 1962
+                            [sale] => 10
+                            [pics] => 6
+                            [rating] => 4
+                            [feedbackCount] => 9
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 38987582
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [42] => stdClass Object
+                        (
+                            [id] => 14050153
+                            [root] => 10509945
+                            [kindId] => 0
+                            [subjectId] => 642
+                            [name] => Фен
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 581
+                            [salePrice] => 335
+                            [sale] => 42
+                            [pics] => 2
+                            [rating] => 5
+                            [feedbackCount] => 5
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16711680
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 42048687
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [43] => stdClass Object
+                        (
+                            [id] => 7066661
+                            [root] => 5558440
+                            [kindId] => 0
+                            [subjectId] => 618
+                            [name] => Мясорубка электрическая PMG1852
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2181
+                            [salePrice] => 1904
+                            [sale] => 12
+                            [pics] => 8
+                            [rating] => 4
+                            [feedbackCount] => 144
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 15631086
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 24522063
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [44] => stdClass Object
+                        (
+                            [id] => 12108139
+                            [root] => 9091034
+                            [kindId] => 0
+                            [subjectId] => 614
+                            [name] => Блендер PHB1589ALCUBE/погружной/1500 Вт
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 3272
+                            [salePrice] => 2748
+                            [sale] => 16
+                            [pics] => 8
+                            [rating] => 3
+                            [feedbackCount] => 14
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 37866858
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [45] => stdClass Object
+                        (
+                            [id] => 11085660
+                            [root] => 8368578
+                            [kindId] => 0
+                            [subjectId] => 618
+                            [name] => Мясорубка электрическая
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 5454
+                            [salePrice] => 3619
+                            [sale] => 33
+                            [pics] => 6
+                            [rating] => 0
+                            [feedbackCount] => 0
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35374686
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [46] => stdClass Object
+                        (
+                            [id] => 12714207
+                            [root] => 9541155
+                            [kindId] => 0
+                            [subjectId] => 611
+                            [name] => Кухонные весы
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 799
+                            [salePrice] => 388
+                            [sale] => 51
+                            [pics] => 1
+                            [rating] => 5
+                            [feedbackCount] => 6
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 39211364
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [47] => stdClass Object
+                        (
+                            [id] => 12614586
+                            [root] => 9466992
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический 1850 Вт/1.7 л
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1018
+                            [salePrice] => 658
+                            [sale] => 35
+                            [pics] => 9
+                            [rating] => 5
+                            [feedbackCount] => 2
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 38987583
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [48] => stdClass Object
+                        (
+                            [id] => 5402910
+                            [root] => 4359057
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг PIR 2285K
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 654
+                            [salePrice] => 588
+                            [sale] => 10
+                            [pics] => 3
+                            [rating] => 4
+                            [feedbackCount] => 151
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 11393254
+                                    [1] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 19508960
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [49] => stdClass Object
+                        (
+                            [id] => 12633253
+                            [root] => 9481078
+                            [kindId] => 0
+                            [subjectId] => 610
+                            [name] => Весы
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 508
+                            [salePrice] => 388
+                            [sale] => 23
+                            [pics] => 8
+                            [rating] => 5
+                            [feedbackCount] => 14
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 10824234
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 39028908
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [50] => stdClass Object
+                        (
+                            [id] => 10994825
+                            [root] => 8304705
+                            [kindId] => 0
+                            [subjectId] => 1773
+                            [name] => Лопатка кухонная
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1345
+                            [salePrice] => 786
+                            [sale] => 41
+                            [pics] => 7
+                            [rating] => 5
+                            [feedbackCount] => 12
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35144775
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [51] => stdClass Object
+                        (
+                            [id] => 12108411
+                            [root] => 9091260
+                            [kindId] => 0
+                            [subjectId] => 629
+                            [name] => Тостер PET0720/700 Вт
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 836
+                            [salePrice] => 635
+                            [sale] => 24
+                            [pics] => 5
+                            [rating] => 4
+                            [feedbackCount] => 18
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                    [1] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 37867514
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [52] => stdClass Object
+                        (
+                            [id] => 5402895
+                            [root] => 4359047
+                            [kindId] => 0
+                            [subjectId] => 612
+                            [name] => Кофемолка электрическая PCG1017
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 617
+                            [salePrice] => 492
+                            [sale] => 20
+                            [pics] => 3
+                            [rating] => 5
+                            [feedbackCount] => 104
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 10824234
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 19508926
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [53] => stdClass Object
+                        (
+                            [id] => 13769990
+                            [root] => 10306541
+                            [kindId] => 0
+                            [subjectId] => 642
+                            [name] => Фен
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 981
+                            [salePrice] => 675
+                            [sale] => 31
+                            [pics] => 9
+                            [rating] => 4
+                            [feedbackCount] => 3
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 15631086
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 41466264
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [54] => stdClass Object
+                        (
+                            [id] => 11726061
+                            [root] => 8805938
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2545
+                            [salePrice] => 1305
+                            [sale] => 48
+                            [pics] => 8
+                            [rating] => 4
+                            [feedbackCount] => 7
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 37001344
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [55] => stdClass Object
+                        (
+                            [id] => 2381295
+                            [root] => 2057788
+                            [kindId] => 0
+                            [subjectId] => 610
+                            [name] => Весы
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 763
+                            [salePrice] => 429
+                            [sale] => 43
+                            [pics] => 8
+                            [rating] => 4
+                            [feedbackCount] => 125
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 9914994
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [56] => stdClass Object
+                        (
+                            [id] => 10597922
+                            [root] => 7575664
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический PWK1759CGL/2150 Вт/1.5 л
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1338
+                            [salePrice] => 1168
+                            [sale] => 12
+                            [pics] => 10
+                            [rating] => 5
+                            [feedbackCount] => 104
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 34162350
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [57] => stdClass Object
+                        (
+                            [id] => 4984400
+                            [root] => 4033739
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1163
+                            [salePrice] => 605
+                            [sale] => 47
+                            [pics] => 5
+                            [rating] => 4
+                            [feedbackCount] => 14
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 15631086
+                                    [1] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18160677
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [58] => stdClass Object
+                        (
+                            [id] => 10994857
+                            [root] => 8304735
+                            [kindId] => 0
+                            [subjectId] => 2023
+                            [name] => Кофеварка гейзерная
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1017
+                            [salePrice] => 577
+                            [sale] => 43
+                            [pics] => 5
+                            [rating] => 5
+                            [feedbackCount] => 4
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35144807
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [59] => stdClass Object
+                        (
+                            [id] => 6280717
+                            [root] => 5002557
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 908
+                            [salePrice] => 580
+                            [sale] => 36
+                            [pics] => 8
+                            [rating] => 4
+                            [feedbackCount] => 51
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 22264208
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [60] => stdClass Object
+                        (
+                            [id] => 5033005
+                            [root] => 4069564
+                            [kindId] => 0
+                            [subjectId] => 632
+                            [name] => Йогуртница PYM 0104
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 545
+                            [salePrice] => 490
+                            [sale] => 10
+                            [pics] => 4
+                            [rating] => 5
+                            [feedbackCount] => 66
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18311076
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [61] => stdClass Object
+                        (
+                            [id] => 4985108
+                            [root] => 4034139
+                            [kindId] => 0
+                            [subjectId] => 618
+                            [name] => Мясорубка электрическая PMG 1835A
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1818
+                            [salePrice] => 1053
+                            [sale] => 42
+                            [pics] => 3
+                            [rating] => 4
+                            [feedbackCount] => 39
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18163362
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [62] => stdClass Object
+                        (
+                            [id] => 11726060
+                            [root] => 8805937
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2545
+                            [salePrice] => 1346
+                            [sale] => 47
+                            [pics] => 7
+                            [rating] => 5
+                            [feedbackCount] => 8
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 37001343
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [63] => stdClass Object
+                        (
+                            [id] => 6390103
+                            [root] => 5078496
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2545
+                            [salePrice] => 1282
+                            [sale] => 49
+                            [pics] => 10
+                            [rating] => 4
+                            [feedbackCount] => 106
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16711680
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 22603990
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [64] => stdClass Object
+                        (
+                            [id] => 10994854
+                            [root] => 8304734
+                            [kindId] => 0
+                            [subjectId] => 813
+                            [name] => Форма для запекания
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 454
+                            [salePrice] => 272
+                            [sale] => 40
+                            [pics] => 4
+                            [rating] => 5
+                            [feedbackCount] => 3
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 1
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35144804
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [65] => stdClass Object
+                        (
+                            [id] => 11889222
+                            [root] => 8925899
+                            [kindId] => 0
+                            [subjectId] => 1553
+                            [name] => Сотейник
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1345
+                            [salePrice] => 753
+                            [sale] => 44
+                            [pics] => 8
+                            [rating] => 0
+                            [feedbackCount] => 0
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 37388198
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [66] => stdClass Object
+                        (
+                            [id] => 11726063
+                            [root] => 8805940
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2545
+                            [salePrice] => 1305
+                            [sale] => 48
+                            [pics] => 10
+                            [rating] => 4
+                            [feedbackCount] => 10
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 37001346
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [67] => stdClass Object
+                        (
+                            [id] => 5642527
+                            [root] => 4533546
+                            [kindId] => 0
+                            [subjectId] => 631
+                            [name] => Кофеварка PCM4002A/рожковая
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1818
+                            [salePrice] => 1404
+                            [sale] => 22
+                            [pics] => 7
+                            [rating] => 4
+                            [feedbackCount] => 116
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16711680
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 20271414
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [68] => stdClass Object
+                        (
+                            [id] => 6646561
+                            [root] => 5257555
+                            [kindId] => 0
+                            [subjectId] => 2314
+                            [name] => Выпрямитель волос PHS2070MK/200 °C
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 618
+                            [salePrice] => 347
+                            [sale] => 43
+                            [pics] => 7
+                            [rating] => 4
+                            [feedbackCount] => 16
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 16711680
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 23367546
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [69] => stdClass Object
+                        (
+                            [id] => 4985107
+                            [root] => 4034137
+                            [kindId] => 0
+                            [subjectId] => 611
+                            [name] => Кухонные весы
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 581
+                            [salePrice] => 324
+                            [sale] => 44
+                            [pics] => 9
+                            [rating] => 4
+                            [feedbackCount] => 125
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                    [1] => 16711680
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18163361
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [70] => stdClass Object
+                        (
+                            [id] => 7129006
+                            [root] => 5602116
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 596
+                            [salePrice] => 305
+                            [sale] => 48
+                            [pics] => 6
+                            [rating] => 4
+                            [feedbackCount] => 39
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 24705805
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [71] => stdClass Object
+                        (
+                            [id] => 5643311
+                            [root] => 4534156
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический PWK 1575CL/2200 Вт/1.5 л
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 654
+                            [salePrice] => 588
+                            [sale] => 10
+                            [pics] => 4
+                            [rating] => 4
+                            [feedbackCount] => 90
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16711680
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 20273563
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [72] => stdClass Object
+                        (
+                            [id] => 2290028
+                            [root] => 1984934
+                            [kindId] => 0
+                            [subjectId] => 614
+                            [name] => Блендер PHB 0523/погружной/500 Вт
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 909
+                            [salePrice] => 610
+                            [sale] => 32
+                            [pics] => 8
+                            [rating] => 4
+                            [feedbackCount] => 36
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 9594397
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [73] => stdClass Object
+                        (
+                            [id] => 6646563
+                            [root] => 5257557
+                            [kindId] => 0
+                            [subjectId] => 2314
+                            [name] => Выпрямитель волос PHS3245KD/230 °C
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 509
+                            [salePrice] => 427
+                            [sale] => 16
+                            [pics] => 5
+                            [rating] => 4
+                            [feedbackCount] => 64
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16761035
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 23367548
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [74] => stdClass Object
+                        (
+                            [id] => 9987041
+                            [root] => 4104134
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 2000
+                            [salePrice] => 1125
+                            [sale] => 43
+                            [pics] => 2
+                            [rating] => 4
+                            [feedbackCount] => 28
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16711680
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 32690635
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [75] => stdClass Object
+                        (
+                            [id] => 5585480
+                            [root] => 4491676
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический PWK 1732CA/2000 Вт/1.7 л
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 909
+                            [salePrice] => 710
+                            [sale] => 21
+                            [pics] => 2
+                            [rating] => 4
+                            [feedbackCount] => 56
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 20087573
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [76] => stdClass Object
+                        (
+                            [id] => 5171114
+                            [root] => 4178719
+                            [kindId] => 0
+                            [subjectId] => 2314
+                            [name] => Выпрямитель волос PHS 2590KT/220 °C
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 872
+                            [salePrice] => 607
+                            [sale] => 30
+                            [pics] => 5
+                            [rating] => 4
+                            [feedbackCount] => 29
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 15631086
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18789977
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [77] => stdClass Object
+                        (
+                            [id] => 12493154
+                            [root] => 9375803
+                            [kindId] => 0
+                            [subjectId] => 614
+                            [name] => Блендер погружной/1000 Вт
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1091
+                            [salePrice] => 861
+                            [sale] => 21
+                            [pics] => 4
+                            [rating] => 0
+                            [feedbackCount] => 0
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 38710320
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [78] => stdClass Object
+                        (
+                            [id] => 12633701
+                            [root] => 9481394
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 581
+                            [salePrice] => 496
+                            [sale] => 14
+                            [pics] => 6
+                            [rating] => 5
+                            [feedbackCount] => 7
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16711680
+                                    [1] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 39029845
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [79] => stdClass Object
+                        (
+                            [id] => 5585501
+                            [root] => 4491697
+                            [kindId] => 0
+                            [subjectId] => 610
+                            [name] => Весы
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1091
+                            [salePrice] => 504
+                            [sale] => 53
+                            [pics] => 10
+                            [rating] => 3
+                            [feedbackCount] => 25
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 10824234
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 20087594
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [80] => stdClass Object
+                        (
+                            [id] => 9968177
+                            [root] => 7597276
+                            [kindId] => 0
+                            [subjectId] => 639
+                            [name] => Увлажнитель
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1236
+                            [salePrice] => 1079
+                            [sale] => 12
+                            [pics] => 2
+                            [rating] => 0
+                            [feedbackCount] => 0
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 32649899
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [81] => stdClass Object
+                        (
+                            [id] => 2381245
+                            [root] => 2057840
+                            [kindId] => 0
+                            [subjectId] => 627
+                            [name] => Мультистайлер
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 945
+                            [salePrice] => 554
+                            [sale] => 41
+                            [pics] => 10
+                            [rating] => 4
+                            [feedbackCount] => 79
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16119260
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 9914944
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [82] => stdClass Object
+                        (
+                            [id] => 5662350
+                            [root] => 4548426
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 799
+                            [salePrice] => 517
+                            [sale] => 35
+                            [pics] => 3
+                            [rating] => 4
+                            [feedbackCount] => 58
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 11393254
+                                    [1] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 20336236
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [83] => stdClass Object
+                        (
+                            [id] => 5585485
+                            [root] => 4491681
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 872
+                            [salePrice] => 542
+                            [sale] => 37
+                            [pics] => 5
+                            [rating] => 4
+                            [feedbackCount] => 16
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 15631086
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 20087578
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [84] => stdClass Object
+                        (
+                            [id] => 5732162
+                            [root] => 4599197
+                            [kindId] => 0
+                            [subjectId] => 839
+                            [name] => Чайник для плиты
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 981
+                            [salePrice] => 784
+                            [sale] => 20
+                            [pics] => 4
+                            [rating] => 4
+                            [feedbackCount] => 14
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 20553684
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [85] => stdClass Object
+                        (
+                            [id] => 11088249
+                            [root] => 8370259
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1600
+                            [salePrice] => 954
+                            [sale] => 40
+                            [pics] => 3
+                            [rating] => 3
+                            [feedbackCount] => 9
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                    [1] => 15631086
+                                    [2] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35380738
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [86] => stdClass Object
+                        (
+                            [id] => 6280716
+                            [root] => 5002556
+                            [kindId] => 0
+                            [subjectId] => 654
+                            [name] => Щипцы для укладки
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 654
+                            [salePrice] => 379
+                            [sale] => 42
+                            [pics] => 9
+                            [rating] => 4
+                            [feedbackCount] => 9
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 22264207
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [87] => stdClass Object
+                        (
+                            [id] => 10994844
+                            [root] => 8304722
+                            [kindId] => 0
+                            [subjectId] => 813
+                            [name] => Форма для запекания
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 654
+                            [salePrice] => 376
+                            [sale] => 42
+                            [pics] => 1
+                            [rating] => 3
+                            [feedbackCount] => 5
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16776960
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35144794
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [88] => stdClass Object
+                        (
+                            [id] => 7053004
+                            [root] => 5548384
+                            [kindId] => 0
+                            [subjectId] => 643
+                            [name] => Утюг PIR 2699K
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1091
+                            [salePrice] => 981
+                            [sale] => 10
+                            [pics] => 9
+                            [rating] => 4
+                            [feedbackCount] => 238
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 16711680
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 24476430
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [89] => stdClass Object
+                        (
+                            [id] => 5252719
+                            [root] => 4243501
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический PWK 1815CA/2000 Вт/1.8 л
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1818
+                            [salePrice] => 885
+                            [sale] => 51
+                            [pics] => 1
+                            [rating] => 3
+                            [feedbackCount] => 1
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 16777215
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 19044332
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [90] => stdClass Object
+                        (
+                            [id] => 10994865
+                            [root] => 8304743
+                            [kindId] => 0
+                            [subjectId] => 1068
+                            [name] => Ковш
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1163
+                            [salePrice] => 893
+                            [sale] => 23
+                            [pics] => 9
+                            [rating] => 5
+                            [feedbackCount] => 2
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35144815
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [91] => stdClass Object
+                        (
+                            [id] => 5032811
+                            [root] => 4069438
+                            [kindId] => 0
+                            [subjectId] => 611
+                            [name] => Кухонные весы PKS0531ADL
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 618
+                            [salePrice] => 539
+                            [sale] => 12
+                            [pics] => 6
+                            [rating] => 4
+                            [feedbackCount] => 39
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 18310445
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [92] => stdClass Object
+                        (
+                            [id] => 6280462
+                            [root] => 5002353
+                            [kindId] => 0
+                            [subjectId] => 642
+                            [name] => Фен PHD 2259STi
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1349
+                            [salePrice] => 886
+                            [sale] => 34
+                            [pics] => 12
+                            [rating] => 4
+                            [feedbackCount] => 32
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 22263659
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [93] => stdClass Object
+                        (
+                            [id] => 12488455
+                            [root] => 9372171
+                            [kindId] => 0
+                            [subjectId] => 642
+                            [name] => Фен
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 945
+                            [salePrice] => 850
+                            [sale] => 10
+                            [pics] => 3
+                            [rating] => 3
+                            [feedbackCount] => 5
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 38699057
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [94] => stdClass Object
+                        (
+                            [id] => 10994869
+                            [root] => 8304744
+                            [kindId] => 0
+                            [subjectId] => 1068
+                            [name] => Ковш
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 836
+                            [salePrice] => 474
+                            [sale] => 43
+                            [pics] => 6
+                            [rating] => 5
+                            [feedbackCount] => 2
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35144819
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [95] => stdClass Object
+                        (
+                            [id] => 5732149
+                            [root] => 4599184
+                            [kindId] => 0
+                            [subjectId] => 1553
+                            [name] => Сотейник
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1272
+                            [salePrice] => 987
+                            [sale] => 22
+                            [pics] => 1
+                            [rating] => 5
+                            [feedbackCount] => 1
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 20553671
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [96] => stdClass Object
+                        (
+                            [id] => 9290807
+                            [root] => 7138984
+                            [kindId] => 0
+                            [subjectId] => 3185
+                            [name] => Машинка для стрижки волос PHC2502RC
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 581
+                            [salePrice] => 488
+                            [sale] => 16
+                            [pics] => 7
+                            [rating] => 3
+                            [feedbackCount] => 20
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 30979985
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [97] => stdClass Object
+                        (
+                            [id] => 10994855
+                            [root] => 8304746
+                            [kindId] => 0
+                            [subjectId] => 813
+                            [name] => Форма для запекания
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 745
+                            [salePrice] => 417
+                            [sale] => 44
+                            [pics] => 4
+                            [rating] => 0
+                            [feedbackCount] => 0
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35144805
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [98] => stdClass Object
+                        (
+                            [id] => 11085662
+                            [root] => 8368579
+                            [kindId] => 0
+                            [subjectId] => 616
+                            [name] => Чайник электрический PWK1762CACity/2200 Вт/1.7 л
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 1818
+                            [salePrice] => 1160
+                            [sale] => 36
+                            [pics] => 2
+                            [rating] => 0
+                            [feedbackCount] => 0
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                    [0] => 0
+                                    [1] => 8421504
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 35374688
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                    [99] => stdClass Object
+                        (
+                            [id] => 12493153
+                            [root] => 9375802
+                            [kindId] => 0
+                            [subjectId] => 629
+                            [name] => Тостер 900 Вт
+                            [brand] => Polaris
+                            [brandId] => 1935
+                            [siteBrandId] => 3300
+                            [price] => 909
+                            [salePrice] => 763
+                            [sale] => 16
+                            [pics] => 4
+                            [rating] => 0
+                            [feedbackCount] => 0
+                            [isAdult] => 
+                            [isDigital] => 
+                            [icons] => stdClass Object
+                                (
+                                    [isNew] => 
+                                )
+
+                            [colors] => Array
+                                (
+                                )
+
+                            [sizes] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [name] => 
+                                            [origName] => 0
+                                            [rank] => 0
+                                            [optionId] => 38710319
+                                        )
+
+                                )
+
+                            [diffPrice] => 
+                        )
+
+                )
+
+        )
+
+)

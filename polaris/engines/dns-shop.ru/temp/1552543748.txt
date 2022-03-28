@@ -1,0 +1,692 @@
+HTTP/1.0 200 Connection established
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 14 Mar 2019 06:04:55 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=15
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: city_path=rostov-na-donu; path=/; domain=.dns-shop.ru
+Set-Cookie: PHPSESSID=dd27d140ffbdf64bab673e93e24afbdf; expires=Thu, 21-Mar-2019 06:04:54 GMT; Max-Age=604800; path=/; HttpOnly
+Set-Cookie: _csrf=81cbb532af54bc67f8f0d0dd881316f3609fb70359af17b55fcc77537afb07cfa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22zPFaeQrVVCVMJkRLtrt-ETh4Cwp88CW3%22%3B%7D; path=/; HttpOnly
+Set-Cookie: cartUserCookieIdent_v2=ae6d47226b3e15387805317e01d19502916e9e0a6ef4c72dd3e52aca8dc887d5a%3A2%3A%7Bi%3A0%3Bs%3A22%3A%22cartUserCookieIdent_v2%22%3Bi%3A1%3Bs%3A36%3A%22c85a0ab9-2394-4989-87b3-91dfbf4e132e%22%3B%7D; expires=Sat, 14-Mar-2020 06:04:55 GMT; Max-Age=31622400; path=/; domain=.dns-shop.ru; HttpOnly
+Set-Cookie: phonesIdent=33ee914fd7ff0cfb668df845ab52f138ccf99f627cdb8f8c80d3767dbadc0961a%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22phonesIdent%22%3Bi%3A1%3Bs%3A36%3A%220470907f-debe-449f-96ca-8a79fc4859de%22%3B%7D; expires=Sat, 14-Mar-2020 06:04:55 GMT; Max-Age=31622400; path=/; domain=.dns-shop.ru; HttpOnly
+Set-Cookie: orderCheckoutIdent=65cc967769fc2a8ee1de5553db5d1c69a18da494e2a8b97698aa8f513bda725ba%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22orderCheckoutIdent%22%3Bi%3A1%3Bs%3A36%3A%22c85a0ab9-2394-4989-87b3-91dfbf4e132e%22%3B%7D; expires=Sat, 14-Mar-2020 06:04:55 GMT; Max-Age=31622400; path=/; domain=.dns-shop.ru; HttpOnly
+Set-Cookie: date-user-last-order-v2=8884c1aeb45feb8f2988f4698e31cfc895c03f6677075455ce567b8a78221a0ea%3A2%3A%7Bi%3A0%3Bs%3A23%3A%22date-user-last-order-v2%22%3Bi%3A1%3Bs%3A0%3A%22%22%3B%7D; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; HttpOnly
+Content-Language: ru
+X-Host: dns-shop
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' https://dns-shop.ru https://as.dns-shop.ru https://c.dns-shop.ru https://*.dns-shop.ru https://rc.dnsshop.ru:1337 https://*.yadro.ru https://webvisor.com https://bs.yandex.ru https://yandex.ru https://mc.yandex.ru https://metrika.yandex.ru https://yastatic.net https://*.yandex.st https://yandex.st https://awaps.yandex.ru https://api-maps.yandex.ru https://maps.yandex.net https://*.maps.yandex.net https://google-analytics.com https://*.google-analytics.com https://googleadservices.com https://*.googleadservices.com https://*.google.ru https://google.ru https://*.google.com https://google.com https://google.ie https://*.google.ie  https://gstatic.com https://*.gstatic.com https://www.google.com/recaptcha/ https://www.youtube.com/ https://youtube.com/ https://www.youtube.ru/ https://youtube.ru/ https://s.ytimg.com/ https://*.doubleclick.net https://doubleclick.net https://*.ok.ru https://ok.ru https://*.mail.ru https://mail.ru https://vk.com https://*.vk.me https://*.mycdn.me https://mycdn.me https://begun.ru https://*.begun.ru https://newrelic.com https://*.newrelic.com https://bam.nr-data.net https://static.criteo.net https://sslwidget.criteo.com/ https://dis.eu.criteo.com/dis/ https://eu-sonar.sociomantic.com/ https://gum.criteo.com/ https://media.flixfacts.com/ https://media.flixcar.com https://content.jwplatform.com/ https://assets-jpcust.jwpsrv.com/ https://ssl.p.jwpcdn.com/ https://logo.flixfacts.co.uk/ https://media.flixsyndication.net/ https://t.flix360.com/ https://assets.delvenetworks.com/ https://s.delvenetworks.com/ https://dev-origin.flixsyndication.net/ https://dev-delivery.flix360.com/ https://www.lg.com/ https://scontent.webcollage.net https://smedia.webcollage.net https://smedia3.webcollage.net https://sjson.webcollage.net https://reviewthree.com/ https://creativecdn.com/ https://ams.creativecdn.com/ https://i.s-microsoft.com/fonts/segoe-ui/ https://cdn.ampproject.org/ https://s7.addthis.com/ https://m.addthisedge.com/live/ https://m.addthis.com/live/ https://bot.aimylogic.com/ https://fonts.googleapis.com/css ; img-src * data: ; media-src blob: https://media.flixcar.com/ ; connect-src 'self' https://*.dns-shop.ru https://hls-jp.jwpsrv.com/ https://content.jwplatform.com/ https://mc.yandex.ru/ https://www.google-analytics.com/ https://*.mtproxy.yandex.net/ https://bam.nr-data.net https://stats.g.doubleclick.net/ https://www.google.com/ads/ https://m.addthis.com/live/red_lojson/ https://s7.addthis.com/l10n/ https://top-fwz1.mail.ru/ https://bot.aimylogic.com/restapi/chatwidget/ wss://rc.dnsshop.ru:1337
+X-VARITI-CCR: 705458964:1
+Set-Cookie: ipp_uid2=xPn8xP3CwOYiTsQi/l+yC2fSphtPawPeSsLUWBg==; expires=Tue, 31 Dec 2030 23:59:59 GMT; path=/
+Set-Cookie: ipp_uid1=1552543494905; expires=Tue, 31 Dec 2030 23:59:59 GMT; path=/
+Set-Cookie: ipp_uid=1552543494905/xPn8xP3CwOYiTsQi/l+yC2fSphtPawPeSsLUWBg==; expires=Tue, 31 Dec 2030 23:59:59 GMT; path=/
+Set-Cookie: rerf=AAAAAFyJ7wevc5crA2aWAg==; expires=Sat, 13-Apr-19 06:04:55 GMT; path=/
+P3P: policyref="/w3c/p3p.xml", CP="CUR ADM OUR NOR STA NID"
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+				<link rel="canonical" href="/catalog/recipe/6c85355b170b8ee9/formy-dla-prigotovlenia-polaris/" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta charset="UTF-8" />
+	<meta name="format-detection" content="telephone=no">
+	<meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="BzDJVCYR5-0-mGvOAkUjIl_FEYb-Iq9uBogn4CkScOx9YI81Q0CVu2jbPYNILnFuK7dlq7t2x1pF_1fYEVEn3w==">
+	<link rel="shortcut icon" href="https://as.dns-shop.ru/assets/2452dc62/images/theme/favicon.png" type="image/png" />
+	<title>Купить Формы для приготовления Polaris недорого в интернет-магазине DNS. Описание, характеристики, большой каталог, отзывы владельцев</title>
+<link rel="manifest" href="/files/manifest/manifest.json" />
+
+<meta name="theme-color" content="#F6F6F6" />
+<meta name="application-name" content="DNS" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+<link rel="icon" type="image/png" sizes="16x16" href="/files/manifest/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/files/manifest/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/files/manifest/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="192x192" href="/files/manifest/android-icon-192x192.png" />
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="DNS" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+
+<link rel="apple-touch-icon" sizes="48x48"   href="/files/manifest/apple-icon-48x48.png" />
+<link rel="apple-touch-icon" sizes="57x57"   href="/files/manifest/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60"   href="/files/manifest/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72"   href="/files/manifest/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76"   href="/files/manifest/apple-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="96x96"   href="/files/manifest/apple-icon-96x96.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/files/manifest/apple-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/files/manifest/apple-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/files/manifest/apple-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/files/manifest/apple-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/files/manifest/apple-icon-180x180.png" />
+
+<meta name="msapplication-config" content="/files/manifest/browserconfig.xml" />
+
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/files/manifest/ms-icon-144x144.png" />
+<meta name="msapplication-navbutton-color" content="#ff7300" />
+<meta name="msapplication-starturl" content="/?utm_source=pwa_homescreen" />
+<meta name="description" content="Низкие цены на Формы для приготовления Polaris в интернет-магазине www.dns-shop.ru и федеральной розничной сети магазинов DNS.">
+<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link type="font/woff2" href="https://as.dns-shop.ru/assets/2452dc62/fonts/pt-sans/normal/pt-sans-cyrillic.woff2" rel="preload" crossorigin as="font">
+<link href="//top-fwz1.mail.ru/js" rel="preconnect">
+<link href="//c.dns-shop.ru/thumb/st4/fit_width" rel="preconnect">
+<link href="//eu-sonar.sociomantic.com/js/2010-07-01/adpan/dns-shop-ru" rel="preconnect">
+<link href="//5922505.fls.doubleclick.net" rel="preconnect">
+<link href="//bh.contextweb.com/bh/" rel="preconnect">
+<link href="//as.dns-shop.ru/assets" rel="preconnect">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/filter.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/catalog-drawer/catalog-drawer-items.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/new-catalog/new-catalog.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/aad208d4/themes/base/jquery-ui.min.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/18b98cb9/bootstrap.min.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme/custom.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme/header/header-menu.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme/header/desktop.css" rel="stylesheet" media="(min-width: 992px)">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme/header/mobile.css" rel="stylesheet" media="(max-width: 991px)">
+<link href="https://as.dns-shop.ru/assets/6c7b7857/lazyload.min.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/8220a532/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/8220a532/css/datetimepicker-kv.min.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/order.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/catalog/catalog-products-list/catalog-product-list.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/banner/widgets/banner.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/user-survey/widgets/survey-button.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/user-survey/widgets/user-survey-modal.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/virtual-product-category/widgets/offers-in-category-widget.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/wishful-product/wishful-product.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/catalog/category-child.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme/widgets/mobile-menu.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/catalog/widgets/search-form.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/forms.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/grid.css" rel="stylesheet">
+<script src="https://as.dns-shop.ru/assets/9e6a8fcb/jquery.min.js"></script>
+<script>window.catalogDeliveryConfig = JSON.parse('{"catalogDeliveryUrl":"\/order\/delivery\/get-dates\/","cartAddProductUrl":"\/cart\/add-product\/","defaultCityGuid":"9437a276-5970-11de-8bf7-00151716f9f5","defaultFiasCityGuid":"c1cfe4b9-f7c2-423c-abfa-6ed1c05a15c5","defaultFiasCityName":"\u0433. \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443"}');
+var pwa_sw_main_precache = ["\/assets\/2452dc62\/js\/modules\/pwa\/offline-page.js","\/assets\/2452dc62\/css\/modules\/pwa\/offline-page\/offline-page.css",{"url":"\/files\/error-page\/city-info.json","revision":3329977424},{"url":"\/files\/error-page\/shops.json","revision":2943387302},{"url":"\/files\/pwa\/offline-page.html","revision":2677891759}];
+var ga_send_url = "https:\/\/www.google-analytics.com\/collect";
+var ga_traking_id = "UA-8349380-2";
+window.orderConfig = JSON.parse('{"urlCart":"\/order\/begin\/","urlCheckoutPage":"\/order\/order-single-page\/index\/","urlGetOrderData":"\/order\/order-single-page\/get-order-data\/","urlGetDeliveryMethods":"\/order\/order-single-page\/get-delivery-methods\/","urlDeliveryLoadStreets":"\/order\/fias\/streets\/","urlDeliveryLoadCities":"\/order\/order-single-page\/get-delivery-cities\/","urlDeliveryLoadDates":"\/order\/order-single-page\/get-delivery-dates\/","urlSaveDelivery":"\/order\/order-single-page\/save-delivery\/","urlDeclineTroubles":"\/order\/order-single-page\/decline-troubles\/","urlChangeStepNumber":"\/order\/order-single-page\/change-step-number\/","urlFinalize":"\/order\/order-single-page\/finalize\/","urlGetClientData":"\/order\/order-single-page\/get-client-data\/","urlCheckAndInitiatePhoneConfirmation":"\/order\/order-single-page\/check-and-initiate-phone-confirmation\/","urlSendSmsConfirmationCode":"\/order\/order-single-page\/send-sms-confirm-code\/","urlHandlePhoneConfirmCode":"\/order\/order-single-page\/handle-phone-confirm-code\/","urlSaveClientData":"\/order\/order-single-page\/save-client-data\/","urlKarmaResolve":"\/order\/order-single-page\/karma-resolve\/","urlGetPaymentData":"\/order\/order-single-page\/get-payment-data\/","urlSavePaymentMethod":"\/order\/order-single-page\/save-payment-method\/","urlDeletePaymentMethod":"\/order\/order-single-page\/delete-payment-method\/","urlProcessAlfaCreditForm":"\/order\/order-single-page\/process-alfa-credit-form\/","urlGetFinalMessageData":"\/order\/order-single-page\/get-final-message-data\/","urlAddComment":"\/order\/order-single-page\/add-comment\/","urlRepeatOrder":"\/order\/order-single-page\/repeat-order\/","urlRegister":"\/register\/","urlAddContractorUrl":"\/profile\/contractor\/search\/?redirect_to_order_process=1","urlPrivacyPolicy":"<a href=\\"\/police\\" target=\\"_blank\\">\u0443\u0441\u043b\u043e\u0432\u0438\u044f\u043c\u0438 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0438 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438<\/a>","urlGetActualCartAmountState":"\/order\/order-single-page\/get-actual-cart-amount-state\/","urlOrdersInProfile":null,"urlKpInProfile":null,"urlLogError":"\/order\/order-frontend-log\/index\/","urlSendEmailDocument":"\/userProfile\/order-document\/send-email-document\/","urlLogin":"\/login\/","urlServiceLoadStreets":"\/order\/fias\/streets-by-city\/","urlSaveServiceDetail":"\/order\/order-single-page\/save-service-detail\/","urlHoldBonusPayment":"\/order\/order-single-page\/hold-bonus-payment\/","urlCancelHoldBonusPayment":"\/order\/order-single-page\/cancel-hold-bonus-payment\/","urlCompareServicesContracts":"\/order\/order-single-page\/compare-services-contracts\/","urlTryToBeginOrder":"\/order\/order-single-page\/try-begin-order\/","commercialOfferActualDaysCount":10,"profile":{"urlGetAnalogProducts":"\/userProfile\/offer-product-change\/get-analog-products\/","urlChangeProduct":"\/userProfile\/offer-product-change\/change-product\/"},"product":{"urlAddToCompare":"\/catalog\/product\/add-to-compare\/","urlRemoveFromCompare":"\/catalog\/product\/remove-from-compare\/","urlAddToWishlist":"\/wishlist\/add-product-to-wishlist\/","urlRemoveFromWishlist":"\/wishlist\/remove-product-from-wishlist\/"},"PARAM_UNACTUAL_SESSION":"unactualSession","ACTION_PARAM_IS_NEW":"is_new","ACTION_PARAM_GROUP_ID":"group_id","ACTION_PARAM_IS_USE_DISCOUNT_LOGISTIC":"is_use_discount_logistic","ACTION_PARAM_IS_RESET_ACCEPTED_BY_USER":"is_reset_accepted_by_user","ACTION_PARAM_ORDER_GUID":"order_guid","ACTION_PARAM_OFFER_ID":"offer_id","recaptchaApiData":{"publicKey":"6LdJlQ4TAAAAAApDn0TPJA28DfOgtv6AGtY9EAfo","theme":"light","type":"image"},"isTerminal":false,"isUserHandlingOrderProblems":false,"contactPhoneNumber":"8-800-77-07-999","isGuest":true,"currentUtcOffset":3,"cityId":"9437a276-5970-11de-8bf7-00151716f9f5","cityTranslitName":"rostov-na-donu","cityCode":"28     ","commerceTargetParams":{"rtbHouse":{"id":"pr_inhVs3mhSrrZHsfuHbhG","idOrderStatus":"_startorder","idOrderStatusHead":"_orderstatus2_","idOrderStatusTail":"&cd=default"},"currentSiteCriteoAnalyticId":38185,"criteo":{"deduplication":0,"userEmail":"","availableAnalyticIds":[38185,33384]},"sociomanticAdvertiserId":"dns-shop-ru","isSociomanticSale":false},"isPzpActive":true,"startTime":"2019-03-14T06:04:55+00:00","oneClickInitProductOrderUrl":"\/order\/one-click\/init-product-order\/","performOrderUrl":"\/order\/one-click\/perform-order\/","serviceKbtMaxProcessingPeriodDays":30,"isKpAvailForCurrentUser":false,"ACTION_PARAM_POST_ORDER_GUID":"order_guid","getPostOrderDataUrl":"\/order\/post-order-payment\/get-order-data\/","savePostPaymentDataUrl":"\/order\/post-order-payment\/save-payment-data\/"}');</script>	
+
+
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create',  'UA-8349380-2', 'auto');
+	ga('require', 'displayfeatures');
+	ga('require', 'linkid');
+	ga('require', 'ec');
+
+	
+	ga('set', 'dimension1', 'rostov-na-donu');
+	if (undefined !== window.COMMERCE_PARAM_BUY) {
+		ga('set', 'dimension2', window.COMMERCE_PARAM_BUY);
+	}
+
+	
+	ga('send', 'pageview');
+</script>
+
+
+<script type="text/javascript">
+	/** @type {YandexDataLayer} */
+	window.dataLayer = window.dataLayer || [];
+	
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function() {
+			try {
+				var yaParams = {'city': 'rostov-na-donu'};
+				if (undefined !== w.COMMERCE_PARAM_BUY) {
+					yaParams.buy = w.COMMERCE_PARAM_BUY;
+				}
+				w.yaCounter7967056 = new Ya.Metrika2({
+					id:                  7967056,
+					clickmap:            true,
+					trackLinks:          true,
+					accurateTrackBounce: true,
+					webvisor:            false,
+					trackHash:           false,
+					ecommerce:           "dataLayer",
+					params:              yaParams
+				});
+			} catch(e) { }
+		});
+
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = "//mc.yandex.ru/metrika/tag.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else { f(); }
+
+	})(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/7967056" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+</head>
+<body>
+	<script>window.GET_CITY_MODAL_URL = "\/ajax\/region-nav-window\/";
+window.CHANGE_CITY_URL = "\/ajax\/change-city\/";</script>
+<script type="text/javascript">
+	var axel = Math.random() + "";
+	var a = axel * 10000000000000;
+	document.write('<iframe src="https://5922505.fls.doubleclick.net/activityi;src=5922505;type=invmedia;cat=qdxkzxdy;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+	<iframe src="https://5922505.fls.doubleclick.net/activityi;src=5922505;type=invmedia;cat=qdxkzxdy;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+	
+<header>
+					
+<div id="menu-catalog-aside" class="w-menu-widget menu-catalog-container collapse">
+	<div class="container">
+		<b data-r="mobile"></b>	</div>
+</div>
+
+			<nav id="header-top" class="navbar header-top">
+		<div class="container">
+			<div class="navbar-left navbar-header navbar-menu">
+				<ul class="desktop-navbar nav navbar-nav">
+					<li class="header-menu-city">
+						
+	<!--googleoff: all--><!--noindex-->
+	<a href="javascript:" class="city-select w-choose-city-widget" data-city-id="9437a276-5970-11de-8bf7-00151716f9f5" rel="nofollow noopener">
+		<i class="location-icon"></i>Ростов-на-Дону
+		<i class="icon-right" data-role="close-mobile-menu"></i>
+	</a>
+	
+		<!--/noindex--><!--googleon: all-->					</li>
+					<li>
+						<a class="header-link-shops" href="/shops/rostov-na-donu/">Магазины</a>					</li>
+										<li class="dropdown">
+						<a aria-expanded="false"
+						   class="dropdown-toggle"
+						   data-commerce-target="MENU_FOR_BUYERS"
+						   data-toggle="dropdown"
+						   href="#"
+						   role="button">
+							<span>Покупателям</span><!--
+							 --><i class="dropdown-menu-icon"></i>
+						</a>
+						<ul class="dropdown-menu" role="menu">
+																								<li>
+										<!--googleoff: all--><!--noindex-->										<a href="http://prozapass.ru" target="_blank" rel="nofollow noopener">Бонусная программа</a>										<!--/noindex--><!--googleon: all-->									</li>
+															
+																																<li><a href="/inet_order_individual">Как оформить заказ</a></li>															
+							<li><a href="/delivery/">Доставка</a></li>
+
+																																<li><a href="/im_payment">Способы оплаты</a></li>															
+															<li>
+									<a href="/order/check-order-status/">Узнать статус заказа</a>								</li>
+							
+																																<li><a href="/im_cashback_good">Обмен и возврат товара</a></li>															
+							<li><a href="/credit/">Кредиты</a></li>
+							<li><a href="/services/">Услуги</a></li>
+
+																																<li><a href="/info_businesses">Информация для юр. лиц</a></li>															
+															<li><a href="/technical-support/">Сервисные центры</a></li>
+														<li>
+								<!--googleoff: all--><!--noindex-->								<a href="http://club.dns-shop.ru/" target="_blank" rel="nofollow noopener">Клуб экспертов</a>								<!--/noindex--><!--googleon: all-->							</li>
+																						<li><a href="/police">Политика конфиденциальности</a></li>													</ul>
+					</li>
+					<li class="dropdown projects-dropdown">
+						<a aria-expanded="false"
+						   class="dropdown-toggle"
+						   data-commerce-target="MENU_FOR_BUYERS"
+						   data-toggle="dropdown"
+						   data-target-dropdown="#projects-dropdown-menu"
+						   href="#"
+						   role="button">
+							<span>Наши проекты</span><i class="dropdown-menu-icon"></i>
+						</a>
+					</li>
+														</ul>
+								<div class="mobile-top-header static on-top">
+										<input type="checkbox" id="toggle-search" class="hidden-control" />
+					<div class="basic-controls">
+						<div class="left-controls">
+							<label class="navbar-toggle collapsed" for="toggle-mobile-menu" data-role="toggle-mobile-menu" data-action="open">
+								<span></span>
+								<span></span>
+								<span></span>
+								<span class="notifier"></span>
+							</label>
+						</div>
+						<div class="logo-container">
+							<a href="/" class="logo"></a>
+						</div>
+						<div class="right-controls mobile-header-btns">
+															<label for="toggle-search" data-role="open-search">
+									<i class="search-icon"></i>
+								</label>
+														<a class="btn-cart-link empty btn" href="/order/begin/" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false,&quot;totalPrice&quot;:&quot;\u041a\u043e\u0440\u0437\u0438\u043d\u0430&quot;},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true,&quot;totalPrice&quot;:0}}" data-state="default" data-role="switched" data-id="cart-widget" data-switch="data-url:url; class" data-commerce-target="CART"><span class="icon cart" aria-hidden="true"></span><span class="price"><span data-of="totalPrice">Корзина</span> <i class="rub-icon" data-toggle="visible" style="display:none;"></i></span><span class="badge" data-toggle="visible" data-of="totalCount" style="display:none;">0</span></a>						</div>
+					</div>
+											<div class="search-controls">
+							<div class="search">
+								
+
+<form class="main-search-form" action="/search/" method="get">
+	<div class="main-search-form__container">
+		<input type="text" class="main-search-form__input" name="q" value="" data-role="search-input" tabindex="1" placeholder="Поиск среди более 100 000 товаров" data-url="/catalog/search/products-presearch/" data-ga-url="/search/?q=">		<span class="main-search-form__button-container">
+			<button tabindex="2" type="submit" class="main-search-form__button">
+				<span class="main-search-form__button-icon dns-icon_search"></span>
+			</button>
+		</span>
+			</div>
+</form>
+
+							</div>
+							<div class="back">
+								<label for="toggle-search">Отмена</label>
+							</div>
+						</div>
+									</div>
+							</div>
+			<div id="header-menu" class="header-menu">
+				<ul class="nav navbar-nav navbar-menu">
+					<li class="menu-item-city-select">
+						
+	<!--googleoff: all--><!--noindex-->
+	<a href="javascript:" class="city-select w-choose-city-widget" data-city-id="9437a276-5970-11de-8bf7-00151716f9f5" rel="nofollow noopener">
+		<i class="location-icon"></i>Ростов-на-Дону
+		<i class="icon-right" data-role="close-mobile-menu"></i>
+	</a>
+	
+		<!--/noindex--><!--googleon: all-->					</li>
+
+					<li class="menu-item-phone">
+												<a href="tel:8-800-77-07-999" class="mobile-menu-phone">
+							<i class="icon"></i><!--
+								-->8-800-77-07-999															<span class="phone-worktime">
+																		(03:00-22:00)
+																		</span>
+													</a>
+					</li>
+
+											<li class="hide user-section">
+							<!--googleoff: all--><!--noindex-->							<a href="/login/" class="" rel="nofollow noopener">
+								<i class="icon"></i>
+								Войти в личный кабинет
+								<i class="icon-right"></i>
+							</a>
+							<!--/noindex--><!--googleon: all-->						</li>
+										<li class="menu-item-catalog">
+						<a href="javascript:" data-role="catalog-menu-tumbler">
+							<i class="icon-left"></i>
+							Каталог
+							<i class="icon-right"></i>
+						</a>
+					</li>
+											<li class="menu-item-cart">
+							<a class="btn-cart-link empty btn" href="/order/begin/" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false,&quot;totalPrice&quot;:&quot;\u041a\u043e\u0440\u0437\u0438\u043d\u0430&quot;},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true,&quot;totalPrice&quot;:0}}" data-state="default" data-role="switched" data-id="cart-widget" data-switch="data-url:url; class" data-commerce-target="CART"><span class="icon cart" aria-hidden="true"></span><span class="price"><span data-of="totalPrice">Корзина</span> <i class="rub-icon" data-toggle="visible" style="display:none;"></i></span><i class="icon-right"></i><span class="badge" data-toggle="visible" data-of="totalCount" style="display:none;">0</span></a>						</li>
+										<li class="hide menu-item-compare">
+						<a id="w2" class="btn-compare-link  empty" href="/catalog/product/compare/" data-role="compare-btn-global" data-action="header-compare-link" data-state="default" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true}}" data-switch="class"><span class="icon compare" aria-hidden="true"></span><span class="lbl">Сравнение</span><i class="icon-right"></i><span class="badge" data-of="totalCount" data-toggle="visible" style="display: none;">0</span></a>					</li>
+											<li class="hide menu-item-wishlist">
+							<a class="btn-wishlist-link  empty" href="/wishlist/index/" data-role="wishlist-btn-global" data-action="header-wishlist-link" data-state="default" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true}}" data-switch="class"><span class="icon wishlist" aria-hidden="true"></span><span class="lbl">Избранное</span><i class="icon-right"></i><span class="badge" data-of="totalCount" data-toggle="visible" style="display: none;">0</span></a>						</li>
+					
+											
+
+<li class="hide menu-item-notifications">
+	<a class="title inactive" href="javascript:" data-role="show-notifications" data-url="/userFeed/user-feed/get-feed/" data-param="guid"><span class="icon"></span><span class="lbl">Уведомления</span><i class="icon-right"></i><span class="badge"></span></a></li>
+<li class="notifications-block">
+	<div data-role="notifications-menu-close" class="back">Уведомления </div>
+	<div data-role="notifications-block-content"></div>
+	<div class="buttons"><a class="notifications" href="https://profile.dns-shop.ru/u-profile/notifications/" target="_blank"><i></i>Все уведомления</a><a class="settings" href="https://profile.dns-shop.ru/u-profile/settings/" target="_blank"><i></i>Настройка уведомлений</a></div></li>
+
+					
+											<li class="menu-item-rsu">
+							<a href="/custompc/user-pc/"><i class="icon-left"></i>Конфигуратор ПК<i class="icon-right"></i></a>						</li>
+																<li class="menu-item-actions">
+							<a href="/actions/"><i class="icon-left"></i>Акции<i class="icon-right"></i></a>						</li>
+																<li class="hide menu-item-markdown">
+							<!--googleoff: all--><!--noindex-->							<a href="/catalog/markdown/" rel="nofollow noopener"><i class="icon-left"></i>Уцененные товары<i class="icon-right"></i></a>							<!--/noindex--><!--googleon: all-->						</li>
+										<li class="hide menu-item-shops">
+						<a href="/shops/rostov-na-donu/"><i class="icon-left"></i>Магазины<i class="icon-right"></i></a>					</li>
+					<li class="menu-item-main">
+													<a href="/"><i class="icon-left"></i>Главная страница<i class="icon-right"></i></a>											</li>
+					<li class="menu-item-corporative">
+						<a href="/company-main/">Компания ДНС</a>					</li>
+					<li class="menu-item-corporative">
+						<a href="/our-projects/">Наши проекты</a>					</li>
+					<li class="menu-item-corporative">
+						<a href="/feedback/">Обратная связь</a>					</li>
+					<li class="menu-item-corporative">
+						<a href="/for-buyers/">Покупателям</a>					</li>
+																						<li class="menu-item-corporative">
+							<a href="/files/price/price-rostov-na-donu.xls">Прайс-лист</a>						</li>
+									</ul>
+			</div>
+			<ul class="hidden-xs hidden-sm nav navbar-nav navbar-menu header-menu-profiler" id="header-profiler">
+				<li class="header-phone hidden-xs hidden-sm">
+					<div class="item">
+						<span class="icon-left icon-phone"></span>
+						<strong class="header-phone-number">8-800-77-07-999</strong>
+													<span class="phone-worktime">
+																(c 03:00 до 22:00)
+															</span>
+											</div>
+				</li>
+
+
+									<li class="notifications-container">
+						
+
+	<div class="notifications-container">
+		<ul class="nav navbar-nav">
+			<li class="dropdown">
+				<a class="title inactive" href="javascript:" title="Уведомлений нет" data-toggle="tooltip" data-role="show-notifications" data-url="/userFeed/user-feed/get-feed/" data-param="guid"><i></i></a>
+				<div class="dropdown-menu notifications-block">
+					<div data-role="notifications-block-content"></div>
+					<div class="buttons"><a class="notifications" href="https://profile.dns-shop.ru/u-profile/notifications/" target="_blank"><i></i>Все уведомления</a><a class="settings" href="https://profile.dns-shop.ru/u-profile/settings/" target="_blank"><i></i>Настройка уведомлений</a></div>				</div>
+			</li>
+		</ul>
+	</div>
+					</li>
+				
+									<li class="dropdown">
+						<!--googleoff: all--><!--noindex-->						<a id="loginButton" class="dropdown-toggle" href="/login/" data-role="login-link" rel="nofollow noopener">Войти</a>						<!--/noindex--><!--googleon: all-->					</li>
+					<li class="last-item">
+						<a href="/register/" data-role="register-link">Регистрация</a>					</li>
+							</ul>
+		</div>
+	</nav>
+		<div id="projects-dropdown-menu" class="projects-dropdown-menu long" role="menu">
+		<div class="projects-slider" data-role="projects-slider">
+			<div class="slider-wrapper">
+				<div class="project-dns">
+											<div class="logo"></div>
+										Мы отобрали лучшие образцы цифровой и бытовой техники и поместили их в современные и удобные торговые залы.
+					Грамотные и дружелюбные продавцы-консультанты сориентируют Вас в широком ассортименте магазина и помогут выбрать нужный товар высочайшего качества,
+					даже если Вы еще не знаете, что именно хотите приобрести.
+									</div>
+				<div class="project-tp">
+											<a href="https://technopoint.ru" rel="noopener" target="_blank"><div class="logo"></div></a>										Интернет-дискаунтер – это доступные цены, удобство заказа и широчайший ассортимент в клике от Вас!
+					В TechnoPoint нет продавцов-консультантов и торговых залов в привычном их понимании, но качество товара остается на высоте.
+					Закажите доставку «до двери» или заберите вашу покупку в любой точке выдачи в удобное для Вас время!
+											<a href="https://technopoint.ru" rel="noopener" target="_blank">Перейти на сайт</a>									</div>
+									<div class="project-service">
+													<a href="https://service.dns-shop.ru" rel="noopener" target="_blank"><div class="logo"></div></a>												Сервисный центр DNS – это команда профессионалов, занимающаяся оказанием услуг по сервисной поддержке и обслуживанию любой техники.
+						Мы занимаемся гарантийным и платным ремонтом, а также обслуживанием цифровой и бытовой техники, купленной в сети магазинов DNS.
+						Наш центр сможет помочь каждому клиенту!
+													<a href="https://service.dns-shop.ru" rel="noopener" target="_blank">Перейти на сайт</a>											</div>
+													<div class="project-clubexp">
+						<a href="http://club.dns-shop.ru/" rel="noopener" target="_blank"><div class="logo"></div></a>						Клуб DNS – центр онлайн компетенции. Это сообщество покупателей, экспертов в цифробытовой технике, готовых поделиться опытом и знаниями.
+						Участники Клуба пишут подробные обзоры и статьи по выбору товаров, ведут тематические разделы на Форуме.
+						А на странице "Помощь эксперта" вы найдете готовые ответы на все вопросы.
+						<a href="http://club.dns-shop.ru/" rel="noopener" target="_blank">Перейти на сайт</a>					</div>
+							</div>
+			<div class="shadow shadow-left"></div>
+			<div class="shadow shadow-right"></div>
+			<a href="#" class="button-left"><div class="arrow"></div></a>
+			<a href="#" class="button-right"><div class="arrow"></div></a>
+		</div>
+	</div>
+	<nav id="header-search" class="header-bottom slide hidden-xs hidden-sm">
+		<div class="container">
+			<div class="logo-container" data-role="catalog-menu-title">
+				<a title="" class="logo" href="/" data-original-title="Вернуться на главную страницу"></a>
+				<span class="catalog-spoiler " data-role="catalog-menu-title">
+					<i class="chevron"></i>
+				</span>
+			</div>
+			<!--googleoff: all--><!--noindex-->							
+
+<form class="main-search-form" action="/search/" method="get">
+	<div class="main-search-form__container">
+		<input type="text" class="main-search-form__input" name="q" value="" data-role="search-input" tabindex="1" placeholder="Поиск среди более 100 000 товаров" data-url="/catalog/search/products-presearch/" data-ga-url="/search/?q=">		<span class="main-search-form__button-container">
+			<button tabindex="2" type="submit" class="main-search-form__button">
+				<span class="main-search-form__button-icon dns-icon_search"></span>
+			</button>
+		</span>
+			</div>
+</form>
+
+						<div class="buttons">
+				<a id="w3" class="btn-compare-link btn empty" href="/catalog/product/compare/" data-role="compare-btn-global" data-action="header-compare-link" data-state="default" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true}}" data-switch="class" rel="nofollow noopener"><span class="icon compare" aria-hidden="true"></span><span class="lbl">Сравнение</span><span class="badge" data-of="totalCount" data-toggle="visible" style="display: none;">0</span></a>									<a class="btn-wishlist-link btn empty" href="/wishlist/index/" data-role="wishlist-btn-global" data-action="header-wishlist-link" data-state="default" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true}}" data-switch="class" rel="nofollow noopener"><span class="icon wishlist" aria-hidden="true"></span><span class="lbl">Избранное</span><span class="badge" data-of="totalCount" data-toggle="visible" style="display: none;">0</span></a>								<a class="btn-cart-link empty btn" href="/order/begin/" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false,&quot;totalPrice&quot;:&quot;\u041a\u043e\u0440\u0437\u0438\u043d\u0430&quot;},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true,&quot;totalPrice&quot;:0}}" data-state="default" data-role="switched" data-id="cart-widget" data-switch="data-url:url; class" data-commerce-target="CART" rel="nofollow noopener"><span class="icon cart" aria-hidden="true"></span><span class="price"><span data-of="totalPrice">Корзина</span> <i class="rub-icon" data-toggle="visible" style="display:none;"></i></span><span class="badge" data-toggle="visible" data-of="totalCount" style="display:none;">0</span></a>			</div>
+			<!--/noindex--><!--googleon: all-->		</div>
+	</nav>
+		</header>
+	<div class="container">
+					
+<div class="w-menu-widget">
+	<ul id="menu-catalog" class="catalog collapsable collapsed">
+				<li data-r="desktop">
+						<ul class="catalog collapsable collapsed" style="margin-top:-1px">
+								<li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17aa72ab16404e77/noutbuki-i-planshety/"><span class="title">Ноутбуки и планшеты</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a8921e16404e77/kompyutery-i-periferiya/"><span class="title">Компьютеры и периферия</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17aa522a16404e77/komplektuyushhie-dlya-pk/"><span class="title">Комплектующие для ПК</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a890dc16404e77/smartfony-i-smart-chasy/"><span class="title">Смартфоны и смарт-часы</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a8ae1316404e77/televizory-i-media/"><span class="title">Телевизоры и медиа</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a8bfb516404e77/igry-i-pristavki/"><span class="title">Игры и приставки</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17aa72de16404e77/audiotexnika/"><span class="title">Аудиотехника</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a8906e16404e77/foto-videoapparatura/"><span class="title">Фото-видеоаппаратура</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a8addb16404e77/ofisnaya-texnika-i-mebel/"><span class="title">Офисная техника и мебель</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a892c016404e77/setevoe-oborudovanie/"><span class="title">Сетевое оборудование</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17aa731316404e77/krupnaya-bytovaya-texnika/"><span class="title">Крупная бытовая техника</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a8e9b716404e77/tovary-dlya-kuxni/"><span class="title">Товары для кухни</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a8ea5816404e77/krasota-i-zdorove/"><span class="title">Красота и здоровье</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a8ea2316404e77/tovary-dlya-doma/"><span class="title">Товары для дома</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a9c2a316404e77/instrumenty/"><span class="title">Инструменты</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a88ba616404e77/avtotovary/"><span class="title">Автотовары</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/f4038de691ee7fd7/uslugi/"><span class="title">Услуги</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a9f20016404e77/odezhda-i-obuv/"><span class="title">Одежда и обувь</span></a></li>			</ul>
+		</li>
+			</ul>
+</div>
+
+				<main class="category-child">
+																
+	<ol class="breadcrumb" itemscope="http://schema.org/BreadcrumbList">
+					
+			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+																			<a href="/catalog/" itemprop="item"><span itemprop="name">Каталог</span></a>													<meta itemprop="position" content="1"/>
+			</li>
+					
+			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+																			<a href="/catalog/17a8e9b716404e77/tovary-dlya-kuxni/" itemprop="item"><span itemprop="name">Товары для кухни</span></a>													<meta itemprop="position" content="2"/>
+			</li>
+					
+			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+																			<a href="/catalog/e3d826d63bb17fd7/tovary-dlya-kuxni/" itemprop="item"><span itemprop="name">Товары для кухни</span></a>													<meta itemprop="position" content="3"/>
+			</li>
+					
+			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+																			<a href="/catalog/17a8e3a816404e77/posuda/" itemprop="item"><span itemprop="name">Посуда</span></a>													<meta itemprop="position" content="4"/>
+			</li>
+					
+			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="mobile-breadcrumb">
+																			<a href="/catalog/17a8e8ab16404e77/formy-dlya-prigotovleniya/" itemprop="item"><span itemprop="name">Формы для приготовления</span></a>													<meta itemprop="position" content="5"/>
+			</li>
+					
+			<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+																			<span itemprop="item">Формы для приготовления Polaris</span>
+													<meta itemprop="position" content="6"/>
+			</li>
+			</ol>
+			
+
+
+
+
+<div
+	id                         = "catalog-items-page"
+	class                      = "page-products"
+	data-role                  = "items-catalog-container"
+	data-get-catalog-items-url = "/catalog/17a8e8ab16404e77/"
+	data-get-page-size         = "20"
+	data-get-page-count        = "1"
+				>
+			<div class="category-up visible-xs visible-sm">
+						<a href="/catalog/17a8e8ab16404e77/formy-dlya-prigotovleniya/">
+				<i class="back-icon"></i>
+				<div class="caption">
+					Формы для приготовления Polaris					<small data-role="items-count" class="nowrap">3 товара</small>
+				</div>
+			</a>
+		</div>
+		
+
+	<div class="banner_catalog_head">
+		<div class="single-banner-container" data-role="single-banner-container" data-banner-id="d4e3274e-56c2-45a5-b7c1-f4f7fa3be786">
+			<div
+			class="show-banner-popover-button"
+			data-role="show-banner-popover-button"
+			data-toggle="tooltip"
+			data-placement="left"
+			data-original-title="Скрыть баннер"
+			data-is-guest="true"
+			data-hide-banner-url="/content/hide/"
+			data-type-guid="0871c555-3ae3-4e57-8b61-59061f84aae2"
+			data-category-guid="17a8e8ab-1640-11e5-a679-00259074e77d"
+			data-profile-url="https://profile.dns-shop.ru/login/"
+		>
+			&#10005;
+		</div>
+	</div>
+	</div>
+
+<div class="hidden-xs hidden-sm" data-role="header-block">
+	<h1>Формы для приготовления Polaris</h1>
+	<span data-role="items-count" class="count-products nowrap">3 товара</span>
+</div>
+<div class="hidden-sm hidden-xs">
+	
+<div class="choice-guide-container">
+			<!--googleoff: all--><!--noindex-->			<a href="https://club.dns-shop.ru/bitovaya-tehnika/Выбираем-формы-для-выпекания/" target="_blank" data-commerce-target="CATALOG_GUIDE_CLICK" style="background:#4990e2" rel="nofollow noopener"><span class="svg-img" style="fill:#fff !important;"><svg viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M15.364 2.636A9 9 0 1 1 2.636 15.364 9 9 0 0 1 15.364 2.636zm-1.157 1.157A7.364 7.364 0 1 0 3.793 14.207 7.364 7.364 0 0 0 14.207 3.793zm0 0a.818.818 0 1 1 1.157-1.157.818.818 0 0 1-1.157 1.157zm-.962 1.997l-1.734 5.203a.818.818 0 0 1-.518.518L5.79 13.245a.818.818 0 0 1-1.035-1.035l1.734-5.203a.818.818 0 0 1 .518-.518l5.203-1.734a.818.818 0 0 1 1.035 1.035zM7.912 7.912l-1.087 3.263 3.263-1.087 1.087-3.263-3.263 1.087z" fill-rule="nonzero" fill="#FFF"/></svg></span><span>Гид по выбору</span></a>		<!--/noindex--><!--googleon: all-->	</div>
+
+</div>
+
+	<!--googleoff: all--><!--noindex-->		<div class="filter-side">
+			
+
+<div
+		class                        = "object catalog-filter left-side"
+		data-filter-submit-url       = ""
+		data-filter-list-form-name   = "filter-list-f_17a8e8ab-1640-11e5-a679-00259074e77d"
+		data-show-float-apply-button = "1"
+		data-filter-list-id          = "f_17a8e8ab-1640-11e5-a679-00259074e77d"
+	><div class="catalog-filters" data-role="catalog-filter-list"><!--googleoff: all--><!--noindex--><div
+					id               = "3Q6VSZ"
+					class            = "filters-container initial-state"
+					data-role        = "filters-container"
+					data-id          = "f_17a8e8ab-1640-11e5-a679-00259074e77d"
+					data-side        = "0"
+					data-submit-type = "0"
+				><div class="mobile-crumbs"><a href="javascript:" data-role="hide-filters" rel="nofollow noopener" rel="nofollow noopener"><span>Скрыть фильтры</span><i></i></a><div class="loader-container hide" data-role="ajax-loader"><div class="loader hide" data-role="ajax-loader-circular"><svg class="circular small" viewBox="25 25 50 50"><circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" /></svg></div></div></div><form method="get" name="filter-list-f_17a8e8ab-1640-11e5-a679-00259074e77d" data-role="filter-list-form"><div class="filter-list" data-role="filter-list" id="f_17a8e8ab-1640-11e5-a679-00259074e77d" data-trigger-timeout="1000"><div class="filter-block-placeholder"><div class="row-placeholder row-placeholder_type_header"></div><div class="row-placeholder row-placeholder_number_1"></div><div class="row-placeholder row-placeholder_number_1"></div><div class="row-placeholder row-placeholder_number_2"></div><div class="row-placeholder row-placeholder_number_2"></div><div class="row-placeholder row-placeholder_number_3"></div><div class="row-placeholder row-placeholder_number_3"></div><div class="row-placeholder row-placeholder_number_4"></div><div class="row-placeholder row-placeholder_number_4"></div></div><div class="filter-block-placeholder"><div class="row-placeholder row-placeholder_type_header"></div><div class="row-placeholder row-placeholder_number_1"></div><div class="row-placeholder row-placeholder_number_1"></div><div class="row-placeholder row-placeholder_number_2"></div><div class="row-placeholder row-placeholder_number_2"></div><div class="row-placeholder row-placeholder_number_3"></div><div class="row-placeholder row-placeholder_number_3"></div><div class="row-placeholder row-placeholder_number_4"></div><div class="row-placeholder row-placeholder_number_4"></div></div><div class="filter-block-placeholder"><div class="row-placeholder row-placeholder_type_header"></div><div class="row-placeholder row-placeholder_number_1"></div><div class="row-placeholder row-placeholder_number_1"></div><div class="row-placeholder row-placeholder_number_2"></div><div class="row-placeholder row-placeholder_number_2"></div><div class="row-placeholder row-placeholder_number_3"></div><div class="row-placeholder row-placeholder_number_3"></div><div class="row-placeholder row-placeholder_number_4"></div><div class="row-placeholder row-placeholder_number_4"></div></div><div class="filter-block-placeholder"><div class="row-placeholder row-placeholder_type_header"></div><div class="row-placeholder row-placeholder_number_1"></div><div class="row-placeholder row-placeholder_number_1"></div><div class="row-placeholder row-placeholder_number_2"></div><div class="row-placeholder row-placeholder_number_2"></div><div class="row-placeholder row-placeholder_number_3"></div><div class="row-placeholder row-placeholder_number_3"></div><div class="row-placeholder row-placeholder_number_4"></div><div class="row-placeholder row-placeholder_number_4"></div></div><div class="filter-block-placeholder"><div class="row-placeholder row-placeholder_type_header"></div><div class="row-placeholder row-placeholder_number_1"></div><div class="row-placeholder row-placeholder_number_1"></div><div class="row-placeholder row-placeholder_number_2"></div><div class="row-placeholder row-placeholder_number_2"></div><div class="row-placeholder row-placeholder_number_3"></div><div class="row-placeholder row-placeholder_number_3"></div><div class="row-placeholder row-placeholder_number_4"></div><div class="row-placeholder row-placeholder_number_4"></div></div></div></form><div class="mobile-filter-buttons"><button class="btn btn-default filter-remove" data-role="filters-reset"><span>Сбросить</span></button><button class="btn btn-additional" data-role="filters-submit"><span>Показать</span></button></div></div><!--/noindex--><!--googleon: all--><div class="apply-filters-box"><button data-role="filters-submit" class="btn btn-additional btn-full btn-submit">Показать</button><a class="btn drop-filters hidden" data-role="filters-reset" rel="nofollow noopener">Очистить все фильтры</a><a class="extended-filters-link" href="/catalog/17a8e8ab16404e77/formy-dlya-prigotovleniya/filters/" data-role="extended-filters-link" rel="nofollow noopener">Смотреть все фильтры</a></div><div class="survey-button-widget survey-button-widget_filter-tile"><span class="survey-button-widget__title survey-button-widget_filter-tile__title">Сделаем сайт лучше!</span><span class="survey-button-widget__description survey-button-widget_filter-tile__description">Пожалуйста, ответьте на несколько вопросов.</span><a class="survey-button-widget__survey-btn survey-button-widget_filter-tile__survey-btn" href="javascript:" data-base-modal data-base-modal-id="vWkZAfDS" rel="nofollow noopener">Пройти опрос</a><div class="base-modal base-modal_hidden" data-modal-type="user-survey" id="vWkZAfDS" tabindex="-1" role="dialog" data-show-after-load hidden><div class="base-modal__backdrop" data-base-modal-action="close"></div><div class="base-modal__container base-modal__container_size_md base-modal__container_margin_top_120"><div class="base-modal__header"><div class="base-modal__header-content"><span class="base-modal__header-title">Сделаем сайт лучше!</span></div><i class="base-modal__header-close-icon" data-base-modal-action="close"></i></div><div class="base-modal__content"><div class="user-survey-modal"
+	data-role           = "user-survey-modal"
+	data-save-url       = "/userSurvey/user-survey/save-answers/"
+	data-base-modal-id  = "vWkZAfDS"
+	data-thank-modal-id = "thank-survey-modal"
+	data-survey-guid    = "e0244f69-67b1-4d09-853f-6c604eb4fbeb"
+><ul class="user-survey-modal__list"><li class="user-survey-modal__list-item" data-role="question-button" data-question-guid="a9dc6a84-5a04-41d6-81bd-abd46f5927cf">Оцените качество названий и характеристик товаров</li><li class="user-survey-modal__list-item" data-role="question-button" data-question-guid="cdfeab05-d5fc-4fe4-ae64-4f0e56414319">Понятны ли названия фильтров и их содержимое?</li><li class="user-survey-modal__list-item" data-role="question-button" data-question-guid="a8430e50-f140-454f-a2ab-1cd8d238b686">Насколько удобно пользоваться фильтрами?</li><li class="user-survey-modal__list-item" data-role="question-button" data-question-guid="5ccf3825-c2b3-4cb5-9566-f21fc048e0b5">Чего не хватает в фильтрации товара</li></ul><div class="user-survey-modal__question"><div class="user-survey-modal__question-item" data-role="question-block" data-question-guid="a9dc6a84-5a04-41d6-81bd-abd46f5927cf"><div class="user-survey-grade"><div class="user-survey-grade__items"><span class="user-survey-grade__label">Ужасно</span><input type="radio" class="user-survey-grade__item-input" name="a9dc6a84-5a04-41d6-81bd-abd46f5927cf" value="1" id="gradevWkZAfDS-a9dc6a84-5a04-41d6-81bd-abd46f5927cf-1"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="1" for="gradevWkZAfDS-a9dc6a84-5a04-41d6-81bd-abd46f5927cf-1">
+				1			</label><input type="radio" class="user-survey-grade__item-input" name="a9dc6a84-5a04-41d6-81bd-abd46f5927cf" value="2" id="gradevWkZAfDS-a9dc6a84-5a04-41d6-81bd-abd46f5927cf-2"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="2" for="gradevWkZAfDS-a9dc6a84-5a04-41d6-81bd-abd46f5927cf-2">
+				2			</label><input type="radio" class="user-survey-grade__item-input" name="a9dc6a84-5a04-41d6-81bd-abd46f5927cf" value="3" id="gradevWkZAfDS-a9dc6a84-5a04-41d6-81bd-abd46f5927cf-3"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="3" for="gradevWkZAfDS-a9dc6a84-5a04-41d6-81bd-abd46f5927cf-3">
+				3			</label><input type="radio" class="user-survey-grade__item-input" name="a9dc6a84-5a04-41d6-81bd-abd46f5927cf" value="4" id="gradevWkZAfDS-a9dc6a84-5a04-41d6-81bd-abd46f5927cf-4"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="4" for="gradevWkZAfDS-a9dc6a84-5a04-41d6-81bd-abd46f5927cf-4">
+				4			</label><input type="radio" class="user-survey-grade__item-input" name="a9dc6a84-5a04-41d6-81bd-abd46f5927cf" value="5" id="gradevWkZAfDS-a9dc6a84-5a04-41d6-81bd-abd46f5927cf-5"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="5" for="gradevWkZAfDS-a9dc6a84-5a04-41d6-81bd-abd46f5927cf-5">
+				5			</label><span class="user-survey-grade__label">Отлично</span></div><div class="user-survey-grade__text">
+			Какой информации не хватает?		</div><textarea class="user-survey-grade__input" data-survey-input="true" data-role="survey-answer"></textarea></div></div><div class="user-survey-modal__question-item" data-role="question-block" data-question-guid="cdfeab05-d5fc-4fe4-ae64-4f0e56414319"><div class="user-survey-grade"><div class="user-survey-grade__items"><span class="user-survey-grade__label">Ужасно</span><input type="radio" class="user-survey-grade__item-input" name="cdfeab05-d5fc-4fe4-ae64-4f0e56414319" value="1" id="gradevWkZAfDS-cdfeab05-d5fc-4fe4-ae64-4f0e56414319-1"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="1" for="gradevWkZAfDS-cdfeab05-d5fc-4fe4-ae64-4f0e56414319-1">
+				1			</label><input type="radio" class="user-survey-grade__item-input" name="cdfeab05-d5fc-4fe4-ae64-4f0e56414319" value="2" id="gradevWkZAfDS-cdfeab05-d5fc-4fe4-ae64-4f0e56414319-2"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="2" for="gradevWkZAfDS-cdfeab05-d5fc-4fe4-ae64-4f0e56414319-2">
+				2			</label><input type="radio" class="user-survey-grade__item-input" name="cdfeab05-d5fc-4fe4-ae64-4f0e56414319" value="3" id="gradevWkZAfDS-cdfeab05-d5fc-4fe4-ae64-4f0e56414319-3"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="3" for="gradevWkZAfDS-cdfeab05-d5fc-4fe4-ae64-4f0e56414319-3">
+				3			</label><input type="radio" class="user-survey-grade__item-input" name="cdfeab05-d5fc-4fe4-ae64-4f0e56414319" value="4" id="gradevWkZAfDS-cdfeab05-d5fc-4fe4-ae64-4f0e56414319-4"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="4" for="gradevWkZAfDS-cdfeab05-d5fc-4fe4-ae64-4f0e56414319-4">
+				4			</label><input type="radio" class="user-survey-grade__item-input" name="cdfeab05-d5fc-4fe4-ae64-4f0e56414319" value="5" id="gradevWkZAfDS-cdfeab05-d5fc-4fe4-ae64-4f0e56414319-5"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="5" for="gradevWkZAfDS-cdfeab05-d5fc-4fe4-ae64-4f0e56414319-5">
+				5			</label><span class="user-survey-grade__label">Отлично</span></div><div class="user-survey-grade__text">
+			Каких фильтров не хватает?		</div><textarea class="user-survey-grade__input" data-survey-input="true" data-role="survey-answer"></textarea></div></div><div class="user-survey-modal__question-item" data-role="question-block" data-question-guid="a8430e50-f140-454f-a2ab-1cd8d238b686"><div class="user-survey-grade"><div class="user-survey-grade__items"><span class="user-survey-grade__label">Ужасно</span><input type="radio" class="user-survey-grade__item-input" name="a8430e50-f140-454f-a2ab-1cd8d238b686" value="1" id="gradevWkZAfDS-a8430e50-f140-454f-a2ab-1cd8d238b686-1"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="1" for="gradevWkZAfDS-a8430e50-f140-454f-a2ab-1cd8d238b686-1">
+				1			</label><input type="radio" class="user-survey-grade__item-input" name="a8430e50-f140-454f-a2ab-1cd8d238b686" value="2" id="gradevWkZAfDS-a8430e50-f140-454f-a2ab-1cd8d238b686-2"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="2" for="gradevWkZAfDS-a8430e50-f140-454f-a2ab-1cd8d238b686-2">
+				2			</label><input type="radio" class="user-survey-grade__item-input" name="a8430e50-f140-454f-a2ab-1cd8d238b686" value="3" id="gradevWkZAfDS-a8430e50-f140-454f-a2ab-1cd8d238b686-3"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="3" for="gradevWkZAfDS-a8430e50-f140-454f-a2ab-1cd8d238b686-3">
+				3			</label><input type="radio" class="user-survey-grade__item-input" name="a8430e50-f140-454f-a2ab-1cd8d238b686" value="4" id="gradevWkZAfDS-a8430e50-f140-454f-a2ab-1cd8d238b686-4"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="4" for="gradevWkZAfDS-a8430e50-f140-454f-a2ab-1cd8d238b686-4">
+				4			</label><input type="radio" class="user-survey-grade__item-input" name="a8430e50-f140-454f-a2ab-1cd8d238b686" value="5" id="gradevWkZAfDS-a8430e50-f140-454f-a2ab-1cd8d238b686-5"><label data-answer-type="gradeWithText" data-role="survey-answer" class="user-survey-grade__item-label" data-value="5" for="gradevWkZAfDS-a8430e50-f140-454f-a2ab-1cd8d238b686-5">
+				5			</label><span class="user-survey-grade__label">Отлично</span></div><div class="user-survey-grade__text">
+			Пожелания		</div><textarea class="user-survey-grade__input" data-survey-input="true" data-role="survey-answer"></textarea></div></div><div class="user-survey-modal__question-item" data-role="question-block" data-question-guid="5ccf3825-c2b3-4cb5-9566-f21fc048e0b5"><div class="user-survey-text-data"><div class="user-survey-text-data__text">
+		Чего не хватает в фильтрации товара	</div><textarea class="user-survey-text-data__input" data-survey-input="true" data-text-type="contacts" data-role="survey-answer"></textarea></div></div><div class="user-survey-modal__pagination"><div class="user-survey-modal__pagination-control-button user-survey-modal__pagination-control-button_left" data-role="question-button-left"><div class="user-survey-modal__pagination-control-arrow user-survey-modal__pagination-control-arrow_left" data-role="question-button-left"></div></div><div class="user-survey-modal__pagination-control-point" data-role="question-button" data-question-guid="a9dc6a84-5a04-41d6-81bd-abd46f5927cf"></div><div class="user-survey-modal__pagination-control-point" data-role="question-button" data-question-guid="cdfeab05-d5fc-4fe4-ae64-4f0e56414319"></div><div class="user-survey-modal__pagination-control-point" data-role="question-button" data-question-guid="a8430e50-f140-454f-a2ab-1cd8d238b686"></div><div class="user-survey-modal__pagination-control-point" data-role="question-button" data-question-guid="5ccf3825-c2b3-4cb5-9566-f21fc048e0b5"></div><div class="user-survey-modal__pagination-control-button user-survey-modal__pagination-control-button_right" data-role="question-button-right"><div class="user-survey-modal__pagination-control-arrow user-survey-modal__pagination-control-arrow_right" data-role="question-button-right"></div></div></div></div><div class="user-survey-modal__button user-survey-modal__button_right"><a class="user-survey-modal__button-content" href="javascript:" data-role="confirm-survey" rel="nofollow noopener">Завершить и отправить</a></div></div></div><div class="base-modal__footer"></div></div></div><div class="base-modal base-modal_hidden" data-modal-type="thanks-users-survey" id="thank-vWkZAfDS" tabindex="-1" role="dialog" data-show-after-load hidden><div class="base-modal__backdrop" data-base-modal-action="close"></div><div class="base-modal__container base-modal__container_size_sm"><div class="user-survey-modal user-survey-modal_textalign_center"><img class="user-survey-modal__thank-image" src="https://as.dns-shop.ru/assets/2452dc62/images/modules/user-survey/checked.png" alt=""><b class="user-survey-modal__thank-label">Ваш отзыв отправлен!</b>
+
+			Большое спасибо за то, что помогаете сделать наш сайт лучше.
+
+			<div class="user-survey-modal__button"><a class="user-survey-modal__button-content" href="javascript:" data-base-modal-action="close" rel="nofollow noopener">Закрыть</a></div></div></div></div></div></div></div>
+							<div class="hidden-xs hidden-sm">
+					
+		<div class="offer-representation-in-category mobile-collapsed desktop-collapsed" data-role="offer-representation-in-category" id="offer-representation-in-category"><div class="offers-block"><div class="inner-block" data-role="inner-block"><div class="item-block block-heading mobile-offer-expand-container" data-role="mobile-offers-expand-container"><a href="#" class="btn-offers-expand" data-role="mobile-offers-expand" rel="nofollow noopener">Рекомендации<i></i></a><span data-role="active-offer-expand-title" class="active-offer-expand-title"></span></div><div class="show-switch hide-all hidden" data-role="desktop-hide-all-top"><a href="#" rel="nofollow noopener"><span class="lbl">Скрыть всё</span><i></i></a></div><div class="show-switch hide-all hidden" data-role="desktop-hide-all-bottom"><a href="#" rel="nofollow noopener"><span class="lbl">Скрыть всё</span><i></i></a></div><div class="show-switch show-more hidden" data-role="desktop-show-more"><a href="#" rel="nofollow noopener"><span class="lbl">Показать ещё</span><i></i></a></div><div class="show-switch show-all hidden" data-role="desktop-show-all"><a href="#" rel="nofollow noopener"><span class="lbl">Показать всё</span><i></i></a></div><div class="item-block collapsible" data-role="offer-item" data-id="9f8ffa1a9b16208b"><a href="/catalog/recipe/9f8ffa1a9b16208b/kovriki-dla-prigotovlenia/" rel="nofollow noopener">
+								Коврики для приготовления							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="6d830c0f707c3dec"><a href="/catalog/recipe/6d830c0f707c3dec/kokotnicy/" rel="nofollow noopener">
+								Кокотницы							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="50068c0cee0965c6"><a href="/catalog/recipe/50068c0cee0965c6/nabory-dla-vypekania/" rel="nofollow noopener">
+								Наборы для выпекания							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="02155a90f67a2c24"><a href="/catalog/recipe/02155a90f67a2c24/protivni/" rel="nofollow noopener">
+								Противни							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="b4fc3f0ec302030a"><a href="/catalog/recipe/b4fc3f0ec302030a/silikonovaa-forma-dla-prigotovlenia/" rel="nofollow noopener">
+								Силиконовая форма для приготовления							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="56a38245112eef4c"><a href="/catalog/recipe/56a38245112eef4c/formy-dla-vypekania-granchio/" rel="nofollow noopener">
+								Формы для выпекания Granchio							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="60132a38bbbd690b"><a href="/catalog/recipe/60132a38bbbd690b/formy-dla-vypekania-jarko/" rel="nofollow noopener">
+								Формы для выпекания Jarko							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="09ac500f4daa5116"><a href="/catalog/recipe/09ac500f4daa5116/formy-dla-vypekania-marinex/" rel="nofollow noopener">
+								Формы для выпекания Marinex							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="7605159a7781ff62"><a href="/catalog/recipe/7605159a7781ff62/formy-dla-vypekania-moulinvilla/" rel="nofollow noopener">
+								Формы для выпекания MoulinVilla							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="047c521f11b0e21b"><a href="/catalog/recipe/047c521f11b0e21b/formy-dla-vypekania-nadoba/" rel="nofollow noopener">
+								Формы для выпекания Nadoba							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="73905be66d4309b7"><a href="/catalog/recipe/73905be66d4309b7/formy-dla-vypekania-oursson/" rel="nofollow noopener">
+								Формы для выпекания Oursson							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="4b0ed6abd59bd2c0"><a href="/catalog/recipe/4b0ed6abd59bd2c0/formy-dla-vypekania-pensofal/" rel="nofollow noopener">
+								Формы для выпекания Pensofal							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="6a787cec208e1e1a"><a href="/catalog/recipe/6a787cec208e1e1a/formy-dla-vypekania-polaris/" rel="nofollow noopener">
+								Формы для выпекания Polaris							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="2eeec01a537cc495"><a href="/catalog/recipe/2eeec01a537cc495/formy-dla-vypekania-rondell/" rel="nofollow noopener">
+								Формы для выпекания Rondell							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="88ec0c3c0f9b5265"><a href="/catalog/recipe/88ec0c3c0f9b5265/formy-dla-vypekania-tefal/" rel="nofollow noopener">
+								Формы для выпекания Tefal							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="89a84ba6c9e33f6a"><a href="/catalog/recipe/89a84ba6c9e33f6a/formy-dla-prigotovlenia-goldenberg/" rel="nofollow noopener">
+								Формы для приготовления Goldenberg							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="be910fd054464919"><a href="/catalog/recipe/be910fd054464919/formy-dla-prigotovlenia-granchio/" rel="nofollow noopener">
+								Формы для приготовления Granchio							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="3dd4fc0e99d729c6"><a href="/catalog/recipe/3dd4fc0e99d729c6/formy-dla-prigotovlenia-irit/" rel="nofollow noopener">
+								Формы для приготовления IRIT							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="61357ccc7b292862"><a href="/catalog/recipe/61357ccc7b292862/formy-dla-prigotovlenia-jarko/" rel="nofollow noopener">
+								Формы для приготовления Jarko							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="cf6efa667308e4e2"><a href="/catalog/recipe/cf6efa667308e4e2/formy-dla-prigotovlenia-marinex/" rel="nofollow noopener">
+								Формы для приготовления Marinex							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="6e2e5e59e9efc4a5"><a href="/catalog/recipe/6e2e5e59e9efc4a5/formy-dla-prigotovlenia-moulinvilla/" rel="nofollow noopener">
+								Формы для приготовления MoulinVilla							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="5d5a282aee9133ef"><a href="/catalog/recipe/5d5a282aee9133ef/formy-dla-prigotovlenia-nadoba/" rel="nofollow noopener">
+								Формы для приготовления Nadoba							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="e9c889d8bbea256d"><a href="/catalog/recipe/e9c889d8bbea256d/formy-dla-prigotovlenia-oursson/" rel="nofollow noopener">
+								Формы для приготовления Oursson							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="ce2e026af5925072"><a href="/catalog/recipe/ce2e026af5925072/formy-dla-prigotovlenia-pensofal/" rel="nofollow noopener">
+								Формы для приготовления Pensofal							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="6c85355b170b8ee9"><a href="/catalog/recipe/6c85355b170b8ee9/formy-dla-prigotovlenia-polaris/" rel="nofollow noopener">
+								Формы для приготовления Polaris							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="d34216a7ad1d41dd"><a href="/catalog/recipe/d34216a7ad1d41dd/formy-dla-prigotovlenia-pyrex/" rel="nofollow noopener">
+								Формы для приготовления Pyrex							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="6db442feb73541f8"><a href="/catalog/recipe/6db442feb73541f8/formy-dla-prigotovlenia-regent/" rel="nofollow noopener">
+								Формы для приготовления Regent							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="3b267bfd4ec93b15"><a href="/catalog/recipe/3b267bfd4ec93b15/formy-dla-prigotovlenia-rondell/" rel="nofollow noopener">
+								Формы для приготовления Rondell							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="4225f3f6934b0c3e"><a href="/catalog/recipe/4225f3f6934b0c3e/formy-dla-prigotovlenia-tefal/" rel="nofollow noopener">
+								Формы для приготовления TEFAL							</a></div><div class="item-block btn-collapse collapsible" data-role="mobile-show-more"><a href="#" class="btn-offers-expand" rel="nofollow noopener">Показать ещё</a></div></div></div></div>
+				</div>
+					</div>
+	<!--/noindex--><!--googleon: all-->	<div class="page-content-container">
+		<div class="mobile-list-controls visible-xs visible-sm">
+			
+<div class="choice-guide-container">
+			<!--googleoff: all--><!--noindex-->			<a href="https://club.dns-shop.ru/bitovaya-tehnika/Выбираем-формы-для-выпекания/" target="_blank" data-commerce-target="CATALOG_GUIDE_CLICK" style="background:#4990e2" rel="nofollow noopener"><span class="svg-img" style="fill:#fff !important;"><svg viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg"><path d="M15.364 2.636A9 9 0 1 1 2.636 15.364 9 9 0 0 1 15.364 2.636zm-1.157 1.157A7.364 7.364 0 1 0 3.793 14.207 7.364 7.364 0 0 0 14.207 3.793zm0 0a.818.818 0 1 1 1.157-1.157.818.818 0 0 1-1.157 1.157zm-.962 1.997l-1.734 5.203a.818.818 0 0 1-.518.518L5.79 13.245a.818.818 0 0 1-1.035-1.035l1.734-5.203a.818.818 0 0 1 .518-.518l5.203-1.734a.818.818 0 0 1 1.035 1.035zM7.912 7.912l-1.087 3.263 3.263-1.087 1.087-3.263-3.263 1.087z" fill-rule="nonzero" fill="#FFF"/></svg></span><span>Гид по выбору</span></a>		<!--/noindex--><!--googleon: all-->	</div>
+
+							<button
+					class         = "sorts-toggle-button"
+					aria-expanded = "false"
+					aria-controls = "sort-filter"
+					data-target   = "#sort-filter"
+					data-toggle   = "collapse"
+				>
+					<span>Сортировка</span><i class="icon"></i>
+				</button>
+						
+<button id="7XJMqO" class="filters-toggle-button btn" data-role="filters-toggle-button" data-filter-list-id="f_17a8e8ab-1640-11e5-a679-00259074e77d"><span>Фильтры</span><span class="hidden" data-role="filters-counter">0</span><i></i></button>
+		</div>
+		<div class="desktop-controls-container">
+			
+<!--googleoff: all--><!--noindex-->	<div class="sort-filter collapse" data-role="sort-filter" id="sort-filter">
+		<div class="row-placeholder row-placeholder_single"></div>
+		<div class="row-placeholder row-placeholder_single"></div>
+		<div class="row-placeholder row-placeholder_single"></div>
+		<div class="row-placeholder row-placeholder_single"></div>
+	</div>
+<!--/noindex--><!--googleon: all-->
+			
+<div class="catalog-mode">
+	<form action="/catalog/recipe/6c85355b170b8ee9/formy-dla-prigotovlenia-polaris/" method="get" data-role="catalog-view-mode-form" data-modes="[&quot;list&quot;,&quot;simple&quot;,&quot;tile&quot;]" data-save-view-mode-url="/catalog/category/save-view-mode/">
+<input type="hidden" name="finalize" value="1">					<input type="radio" id="mode-list" class="hidden" name="mode" value="list" checked data-commerce-target="CATALOG_TYPE_LIST">			<label for="mode-list"><i></i></label>
+					<input type="radio" id="mode-simple" class="hidden" name="mode" value="simple" data-commerce-target="CATALOG_TYPE_LIST_LARGE">			<label for="mode-simple"><i></i></label>
+					<input type="radio" id="mode-tile" class="hidden" name="mode" value="tile" data-commerce-target="CATALOG_TYPE_TILE">			<label for="mode-tile"><i></i></label>
+			</form></div>
+
+		</div>
+					<div class="hidden-xs hidden-sm">
+				
+		<div class="offer-representation-in-category mobile-collapsed desktop-collapsed" data-role="offer-representation-in-category" id="offer-representation-in-category"><div class="offers-block"><div class="inner-block" data-role="inner-block"><div class="item-block block-heading mobile-offer-expand-container" data-role="mobile-offers-expand-container"><a href="#" class="btn-offers-expand" data-role="mobile-offers-expand">Рекомендации<i></i></a><span data-role="active-offer-expand-title" class="active-offer-expand-title"></span></div><div class="show-switch hide-all hidden" data-role="desktop-hide-all-top"><a href="#"><span class="lbl">Скрыть всё</span><i></i></a></div><div class="show-switch hide-all hidden" data-role="desktop-hide-all-bottom"><a href="#"><span class="lbl">Скрыть всё</span><i></i></a></div><div class="show-switch show-more hidden" data-role="desktop-show-more"><a href="#"><span class="lbl">Показать ещё</span><i></i></a></div><div class="show-switch show-all hidden" data-role="desktop-show-all"><a href="#"><span class="lbl">Показать всё</span><i></i></a></div><div class="item-block collapsible" data-role="offer-item" data-id="9f8ffa1a9b16208b"><a href="/catalog/recipe/9f8ffa1a9b16208b/kovriki-dla-prigotovlenia/">
+								Коврики для приготовления							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="6d830c0f707c3dec"><a href="/catalog/recipe/6d830c0f707c3dec/kokotnicy/">
+								Кокотницы							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="50068c0cee0965c6"><a href="/catalog/recipe/50068c0cee0965c6/nabory-dla-vypekania/">
+								Наборы для выпекания							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="02155a90f67a2c24"><a href="/catalog/recipe/02155a90f67a2c24/protivni/">
+								Противни							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="b4fc3f0ec302030a"><a href="/catalog/recipe/b4fc3f0ec302030a/silikonovaa-forma-dla-prigotovlenia/">
+								Силиконовая форма для приготовления							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="56a38245112eef4c"><a href="/catalog/recipe/56a38245112eef4c/formy-dla-vypekania-granchio/">
+								Формы для выпекания Granchio							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="60132a38bbbd690b"><a href="/catalog/recipe/60132a38bbbd690b/formy-dla-vypekania-jarko/">
+								Формы для выпекания Jarko							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="09ac500f4daa5116"><a href="/catalog/recipe/09ac500f4daa5116/formy-dla-vypekania-marinex/">
+								Формы для выпекания Marinex							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="7605159a7781ff62"><a href="/catalog/recipe/7605159a7781ff62/formy-dla-vypekania-moulinvilla/">
+								Формы для выпекания MoulinVilla							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="047c521f11b0e21b"><a href="/catalog/recipe/047c521f11b0e21b/formy-dla-vypekania-nadoba/">
+								Формы для выпекания Nadoba							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="73905be66d4309b7"><a href="/catalog/recipe/73905be66d4309b7/formy-dla-vypekania-oursson/">
+								Формы для выпекания Oursson							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="4b0ed6abd59bd2c0"><a href="/catalog/recipe/4b0ed6abd59bd2c0/formy-dla-vypekania-pensofal/">
+								Формы для выпекания Pensofal							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="6a787cec208e1e1a"><a href="/catalog/recipe/6a787cec208e1e1a/formy-dla-vypekania-polaris/">
+								Формы для выпекания Polaris							</a></div><div class="item-block collapsible" data-role="offer-item" data-id="2eeec01a537cc495"><a href="/catalog/recipe/2eeec01a537cc495/formy-dla-vypekania-rondell/">
+								Формы для выпе�

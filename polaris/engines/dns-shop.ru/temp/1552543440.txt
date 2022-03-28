@@ -1,0 +1,986 @@
+HTTP/1.0 200 Connection established
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Thu, 14 Mar 2019 06:03:48 GMT
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=15
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: city_path=rostov-na-donu; path=/; domain=.dns-shop.ru
+Set-Cookie: PHPSESSID=3f3df2b47bdb872548f6bac7cc662c4b; expires=Thu, 21-Mar-2019 06:03:48 GMT; Max-Age=604800; path=/; HttpOnly
+Set-Cookie: _csrf=d215019105e5e1ad1d1838f1f4826d4ea1fad271adefc3b9f67b4440389965fca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22GiFoR1Q3CPV3ZbTLWnIba5pwn1Zz-1pX%22%3B%7D; path=/; HttpOnly
+Set-Cookie: cartUserCookieIdent_v2=3e3cff068e5e73a45b2f975c0ffdd54fe9fd22c7e1d84c06cf956a8f21fb5637a%3A2%3A%7Bi%3A0%3Bs%3A22%3A%22cartUserCookieIdent_v2%22%3Bi%3A1%3Bs%3A36%3A%2292883ae0-4803-4596-8c41-6b98fbc40054%22%3B%7D; expires=Sat, 14-Mar-2020 06:03:48 GMT; Max-Age=31622400; path=/; domain=.dns-shop.ru; HttpOnly
+Set-Cookie: phonesIdent=1672789b7e916686ddb376a6224c5ccb133a719b4bfd3c4e9dc5dea75ca9bd38a%3A2%3A%7Bi%3A0%3Bs%3A11%3A%22phonesIdent%22%3Bi%3A1%3Bs%3A36%3A%22b18bb80f-9f07-4a96-b1c7-48c1644af011%22%3B%7D; expires=Sat, 14-Mar-2020 06:03:48 GMT; Max-Age=31622400; path=/; domain=.dns-shop.ru; HttpOnly
+Set-Cookie: orderCheckoutIdent=d8917804885e6f4c374e75ac94f4003f9c7a63d0a9c9c159d3c0007d7cfd6970a%3A2%3A%7Bi%3A0%3Bs%3A18%3A%22orderCheckoutIdent%22%3Bi%3A1%3Bs%3A36%3A%2292883ae0-4803-4596-8c41-6b98fbc40054%22%3B%7D; expires=Sat, 14-Mar-2020 06:03:48 GMT; Max-Age=31622400; path=/; domain=.dns-shop.ru; HttpOnly
+Set-Cookie: date-user-last-order-v2=8884c1aeb45feb8f2988f4698e31cfc895c03f6677075455ce567b8a78221a0ea%3A2%3A%7Bi%3A0%3Bs%3A23%3A%22date-user-last-order-v2%22%3Bi%3A1%3Bs%3A0%3A%22%22%3B%7D; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; HttpOnly
+Content-Language: ru
+X-Host: dns-shop
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval' https://dns-shop.ru https://as.dns-shop.ru https://c.dns-shop.ru https://*.dns-shop.ru https://rc.dnsshop.ru:1337 https://*.yadro.ru https://webvisor.com https://bs.yandex.ru https://yandex.ru https://mc.yandex.ru https://metrika.yandex.ru https://yastatic.net https://*.yandex.st https://yandex.st https://awaps.yandex.ru https://api-maps.yandex.ru https://maps.yandex.net https://*.maps.yandex.net https://google-analytics.com https://*.google-analytics.com https://googleadservices.com https://*.googleadservices.com https://*.google.ru https://google.ru https://*.google.com https://google.com https://google.ie https://*.google.ie  https://gstatic.com https://*.gstatic.com https://www.google.com/recaptcha/ https://www.youtube.com/ https://youtube.com/ https://www.youtube.ru/ https://youtube.ru/ https://s.ytimg.com/ https://*.doubleclick.net https://doubleclick.net https://*.ok.ru https://ok.ru https://*.mail.ru https://mail.ru https://vk.com https://*.vk.me https://*.mycdn.me https://mycdn.me https://begun.ru https://*.begun.ru https://newrelic.com https://*.newrelic.com https://bam.nr-data.net https://static.criteo.net https://sslwidget.criteo.com/ https://dis.eu.criteo.com/dis/ https://eu-sonar.sociomantic.com/ https://gum.criteo.com/ https://media.flixfacts.com/ https://media.flixcar.com https://content.jwplatform.com/ https://assets-jpcust.jwpsrv.com/ https://ssl.p.jwpcdn.com/ https://logo.flixfacts.co.uk/ https://media.flixsyndication.net/ https://t.flix360.com/ https://assets.delvenetworks.com/ https://s.delvenetworks.com/ https://dev-origin.flixsyndication.net/ https://dev-delivery.flix360.com/ https://www.lg.com/ https://scontent.webcollage.net https://smedia.webcollage.net https://smedia3.webcollage.net https://sjson.webcollage.net https://reviewthree.com/ https://creativecdn.com/ https://ams.creativecdn.com/ https://i.s-microsoft.com/fonts/segoe-ui/ https://cdn.ampproject.org/ https://s7.addthis.com/ https://m.addthisedge.com/live/ https://m.addthis.com/live/ https://bot.aimylogic.com/ https://fonts.googleapis.com/css ; img-src * data: ; media-src blob: https://media.flixcar.com/ ; connect-src 'self' https://*.dns-shop.ru https://hls-jp.jwpsrv.com/ https://content.jwplatform.com/ https://mc.yandex.ru/ https://www.google-analytics.com/ https://*.mtproxy.yandex.net/ https://bam.nr-data.net https://stats.g.doubleclick.net/ https://www.google.com/ads/ https://m.addthis.com/live/red_lojson/ https://s7.addthis.com/l10n/ https://top-fwz1.mail.ru/ https://bot.aimylogic.com/restapi/chatwidget/ wss://rc.dnsshop.ru:1337
+X-VARITI-CCR: 917463046:1
+Set-Cookie: ipp_uid2=QUW2PEeLvwoCIgfh/0EC/WxEm+cpq27hsfoJchQ==; expires=Tue, 31 Dec 2030 23:59:59 GMT; path=/
+Set-Cookie: ipp_uid1=1552543428157; expires=Tue, 31 Dec 2030 23:59:59 GMT; path=/
+Set-Cookie: ipp_uid=1552543428157/QUW2PEeLvwoCIgfh/0EC/WxEm+cpq27hsfoJchQ==; expires=Tue, 31 Dec 2030 23:59:59 GMT; path=/
+Set-Cookie: rerf=AAAAAFyJ7sSzB1A1A0avAg==; expires=Sat, 13-Apr-19 06:03:48 GMT; path=/
+P3P: policyref="/w3c/p3p.xml", CP="CUR ADM OUR NOR STA NID"
+
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta charset="UTF-8" />
+	<meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="BvkzEuBOnmH9_vRgdfHB14XzEJ120FLkHH584OgSCDhBkHV9sn_PUr6uolMvk5Wb0p1Z_xflIpNyTyaaxSN4YA==">
+	<link rel="shortcut icon" href="https://as.dns-shop.ru/assets/2452dc62/images/theme/favicon.png" type="image/png" />
+						<title>Результаты поиска: пылесосы polaris - DNS – интернет магазин цифровой и бытовой техники по доступным ценам.</title>
+<link rel="manifest" href="/files/manifest/manifest.json" />
+
+<meta name="theme-color" content="#F6F6F6" />
+<meta name="application-name" content="DNS" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+<link rel="icon" type="image/png" sizes="16x16" href="/files/manifest/favicon-16x16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/files/manifest/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="/files/manifest/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="192x192" href="/files/manifest/android-icon-192x192.png" />
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-title" content="DNS" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+
+<link rel="apple-touch-icon" sizes="48x48"   href="/files/manifest/apple-icon-48x48.png" />
+<link rel="apple-touch-icon" sizes="57x57"   href="/files/manifest/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60"   href="/files/manifest/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72"   href="/files/manifest/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76"   href="/files/manifest/apple-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="96x96"   href="/files/manifest/apple-icon-96x96.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/files/manifest/apple-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/files/manifest/apple-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/files/manifest/apple-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/files/manifest/apple-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/files/manifest/apple-icon-180x180.png" />
+
+<meta name="msapplication-config" content="/files/manifest/browserconfig.xml" />
+
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/files/manifest/ms-icon-144x144.png" />
+<meta name="msapplication-navbutton-color" content="#ff7300" />
+<meta name="msapplication-starturl" content="/?utm_source=pwa_homescreen" />
+<meta name="description" content="Большой ассортимент электроники, цифровой и бытовой техники, а так же товаров для дома, известных брендов в интернет-магазине DNS по отличным ценам. Гарантия и сервис. Доставка!">
+<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link type="font/woff2" href="https://as.dns-shop.ru/assets/2452dc62/fonts/pt-sans/normal/pt-sans-cyrillic.woff2" rel="preload" crossorigin as="font">
+<link href="//top-fwz1.mail.ru/js" rel="preconnect">
+<link href="//c.dns-shop.ru/thumb/st4/fit_width" rel="preconnect">
+<link href="//eu-sonar.sociomantic.com/js/2010-07-01/adpan/dns-shop-ru" rel="preconnect">
+<link href="//5922505.fls.doubleclick.net" rel="preconnect">
+<link href="//bh.contextweb.com/bh/" rel="preconnect">
+<link href="//as.dns-shop.ru/assets" rel="preconnect">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/catalog/catalog-products-list/catalog-product-list.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/new-catalog/new-catalog.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/aad208d4/themes/base/jquery-ui.min.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/18b98cb9/bootstrap.min.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme/custom.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme/header/header-menu.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme/header/desktop.css" rel="stylesheet" media="(min-width: 992px)">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme/header/mobile.css" rel="stylesheet" media="(max-width: 991px)">
+<link href="https://as.dns-shop.ru/assets/6c7b7857/lazyload.min.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/8220a532/css/bootstrap-datetimepicker.min.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/8220a532/css/datetimepicker-kv.min.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/filter.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/catalog-drawer/catalog-drawer-items.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/order.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/forms.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/main.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/theme/widgets/mobile-menu.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/modules/catalog/widgets/search-form.css" rel="stylesheet">
+<link href="https://as.dns-shop.ru/assets/2452dc62/css/grid.css" rel="stylesheet">
+<script src="https://as.dns-shop.ru/assets/9e6a8fcb/jquery.min.js"></script>
+<script>window.catalogDeliveryConfig = JSON.parse('{"catalogDeliveryUrl":"\/order\/delivery\/get-dates\/","cartAddProductUrl":"\/cart\/add-product\/","defaultCityGuid":"9437a276-5970-11de-8bf7-00151716f9f5","defaultFiasCityGuid":"c1cfe4b9-f7c2-423c-abfa-6ed1c05a15c5","defaultFiasCityName":"\u0433. \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443"}');
+var pwa_sw_main_precache = ["\/assets\/2452dc62\/js\/modules\/pwa\/offline-page.js","\/assets\/2452dc62\/css\/modules\/pwa\/offline-page\/offline-page.css",{"url":"\/files\/error-page\/city-info.json","revision":3329977424},{"url":"\/files\/error-page\/shops.json","revision":2943387302},{"url":"\/files\/pwa\/offline-page.html","revision":2677891759}];
+var ga_send_url = "https:\/\/www.google-analytics.com\/collect";
+var ga_traking_id = "UA-8349380-2";
+window.orderConfig = JSON.parse('{"urlCart":"\/order\/begin\/","urlCheckoutPage":"\/order\/order-single-page\/index\/","urlGetOrderData":"\/order\/order-single-page\/get-order-data\/","urlGetDeliveryMethods":"\/order\/order-single-page\/get-delivery-methods\/","urlDeliveryLoadStreets":"\/order\/fias\/streets\/","urlDeliveryLoadCities":"\/order\/order-single-page\/get-delivery-cities\/","urlDeliveryLoadDates":"\/order\/order-single-page\/get-delivery-dates\/","urlSaveDelivery":"\/order\/order-single-page\/save-delivery\/","urlDeclineTroubles":"\/order\/order-single-page\/decline-troubles\/","urlChangeStepNumber":"\/order\/order-single-page\/change-step-number\/","urlFinalize":"\/order\/order-single-page\/finalize\/","urlGetClientData":"\/order\/order-single-page\/get-client-data\/","urlCheckAndInitiatePhoneConfirmation":"\/order\/order-single-page\/check-and-initiate-phone-confirmation\/","urlSendSmsConfirmationCode":"\/order\/order-single-page\/send-sms-confirm-code\/","urlHandlePhoneConfirmCode":"\/order\/order-single-page\/handle-phone-confirm-code\/","urlSaveClientData":"\/order\/order-single-page\/save-client-data\/","urlKarmaResolve":"\/order\/order-single-page\/karma-resolve\/","urlGetPaymentData":"\/order\/order-single-page\/get-payment-data\/","urlSavePaymentMethod":"\/order\/order-single-page\/save-payment-method\/","urlDeletePaymentMethod":"\/order\/order-single-page\/delete-payment-method\/","urlProcessAlfaCreditForm":"\/order\/order-single-page\/process-alfa-credit-form\/","urlGetFinalMessageData":"\/order\/order-single-page\/get-final-message-data\/","urlAddComment":"\/order\/order-single-page\/add-comment\/","urlRepeatOrder":"\/order\/order-single-page\/repeat-order\/","urlRegister":"\/register\/","urlAddContractorUrl":"\/profile\/contractor\/search\/?redirect_to_order_process=1","urlPrivacyPolicy":"<a href=\\"\/police\\" target=\\"_blank\\">\u0443\u0441\u043b\u043e\u0432\u0438\u044f\u043c\u0438 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0438 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438<\/a>","urlGetActualCartAmountState":"\/order\/order-single-page\/get-actual-cart-amount-state\/","urlOrdersInProfile":null,"urlKpInProfile":null,"urlLogError":"\/order\/order-frontend-log\/index\/","urlSendEmailDocument":"\/userProfile\/order-document\/send-email-document\/","urlLogin":"\/login\/","urlServiceLoadStreets":"\/order\/fias\/streets-by-city\/","urlSaveServiceDetail":"\/order\/order-single-page\/save-service-detail\/","urlHoldBonusPayment":"\/order\/order-single-page\/hold-bonus-payment\/","urlCancelHoldBonusPayment":"\/order\/order-single-page\/cancel-hold-bonus-payment\/","urlCompareServicesContracts":"\/order\/order-single-page\/compare-services-contracts\/","urlTryToBeginOrder":"\/order\/order-single-page\/try-begin-order\/","commercialOfferActualDaysCount":10,"profile":{"urlGetAnalogProducts":"\/userProfile\/offer-product-change\/get-analog-products\/","urlChangeProduct":"\/userProfile\/offer-product-change\/change-product\/"},"product":{"urlAddToCompare":"\/catalog\/product\/add-to-compare\/","urlRemoveFromCompare":"\/catalog\/product\/remove-from-compare\/","urlAddToWishlist":"\/wishlist\/add-product-to-wishlist\/","urlRemoveFromWishlist":"\/wishlist\/remove-product-from-wishlist\/"},"PARAM_UNACTUAL_SESSION":"unactualSession","ACTION_PARAM_IS_NEW":"is_new","ACTION_PARAM_GROUP_ID":"group_id","ACTION_PARAM_IS_USE_DISCOUNT_LOGISTIC":"is_use_discount_logistic","ACTION_PARAM_IS_RESET_ACCEPTED_BY_USER":"is_reset_accepted_by_user","ACTION_PARAM_ORDER_GUID":"order_guid","ACTION_PARAM_OFFER_ID":"offer_id","recaptchaApiData":{"publicKey":"6LdJlQ4TAAAAAApDn0TPJA28DfOgtv6AGtY9EAfo","theme":"light","type":"image"},"isTerminal":false,"isUserHandlingOrderProblems":false,"contactPhoneNumber":"8-800-77-07-999","isGuest":true,"currentUtcOffset":3,"cityId":"9437a276-5970-11de-8bf7-00151716f9f5","cityTranslitName":"rostov-na-donu","cityCode":"28     ","commerceTargetParams":{"rtbHouse":{"id":"pr_inhVs3mhSrrZHsfuHbhG","idOrderStatus":"_startorder","idOrderStatusHead":"_orderstatus2_","idOrderStatusTail":"&cd=default"},"currentSiteCriteoAnalyticId":38185,"criteo":{"deduplication":0,"userEmail":"","availableAnalyticIds":[38185,33384]},"sociomanticAdvertiserId":"dns-shop-ru","isSociomanticSale":false},"isPzpActive":true,"startTime":"2019-03-14T06:03:48+00:00","oneClickInitProductOrderUrl":"\/order\/one-click\/init-product-order\/","performOrderUrl":"\/order\/one-click\/perform-order\/","serviceKbtMaxProcessingPeriodDays":30,"isKpAvailForCurrentUser":false,"ACTION_PARAM_POST_ORDER_GUID":"order_guid","getPostOrderDataUrl":"\/order\/post-order-payment\/get-order-data\/","savePostPaymentDataUrl":"\/order\/post-order-payment\/save-payment-data\/"}');</script>							
+
+
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create',  'UA-8349380-2', 'auto');
+	ga('require', 'displayfeatures');
+	ga('require', 'linkid');
+	ga('require', 'ec');
+
+	
+	ga('set', 'dimension1', 'rostov-na-donu');
+	if (undefined !== window.COMMERCE_PARAM_BUY) {
+		ga('set', 'dimension2', window.COMMERCE_PARAM_BUY);
+	}
+
+	
+	ga('send', 'pageview');
+</script>
+
+
+<script type="text/javascript">
+	/** @type {YandexDataLayer} */
+	window.dataLayer = window.dataLayer || [];
+	
+	(function (d, w, c) {
+		(w[c] = w[c] || []).push(function() {
+			try {
+				var yaParams = {'city': 'rostov-na-donu'};
+				if (undefined !== w.COMMERCE_PARAM_BUY) {
+					yaParams.buy = w.COMMERCE_PARAM_BUY;
+				}
+				w.yaCounter7967056 = new Ya.Metrika2({
+					id:                  7967056,
+					clickmap:            true,
+					trackLinks:          true,
+					accurateTrackBounce: true,
+					webvisor:            false,
+					trackHash:           false,
+					ecommerce:           "dataLayer",
+					params:              yaParams
+				});
+			} catch(e) { }
+		});
+
+		var n = d.getElementsByTagName("script")[0],
+			s = d.createElement("script"),
+			f = function () { n.parentNode.insertBefore(s, n); };
+		s.type = "text/javascript";
+		s.async = true;
+		s.src = "//mc.yandex.ru/metrika/tag.js";
+
+		if (w.opera == "[object Opera]") {
+			d.addEventListener("DOMContentLoaded", f, false);
+		} else { f(); }
+
+	})(document, window, "yandex_metrika_callbacks2");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/7967056" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+			</head>
+<body>
+	<script>window.GET_CITY_MODAL_URL = "\/ajax\/region-nav-window\/";
+window.CHANGE_CITY_URL = "\/ajax\/change-city\/";</script>
+<script type="text/javascript">
+	var axel = Math.random() + "";
+	var a = axel * 10000000000000;
+	document.write('<iframe src="https://5922505.fls.doubleclick.net/activityi;src=5922505;type=invmedia;cat=qdxkzxdy;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+	<iframe src="https://5922505.fls.doubleclick.net/activityi;src=5922505;type=invmedia;cat=qdxkzxdy;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+			
+<header>
+					
+<div id="menu-catalog-aside" class="w-menu-widget menu-catalog-container collapse">
+	<div class="container">
+		<b data-r="mobile"></b>	</div>
+</div>
+
+			<nav id="header-top" class="navbar header-top">
+		<div class="container">
+			<div class="navbar-left navbar-header navbar-menu">
+				<ul class="desktop-navbar nav navbar-nav">
+					<li class="header-menu-city">
+						
+	<!--googleoff: all--><!--noindex-->
+	<a href="javascript:" class="city-select w-choose-city-widget" data-city-id="9437a276-5970-11de-8bf7-00151716f9f5" rel="nofollow noopener">
+		<i class="location-icon"></i>Ростов-на-Дону
+		<i class="icon-right" data-role="close-mobile-menu"></i>
+	</a>
+	
+		<!--/noindex--><!--googleon: all-->					</li>
+					<li>
+						<a class="header-link-shops" href="/shops/rostov-na-donu/">Магазины</a>					</li>
+										<li class="dropdown">
+						<a aria-expanded="false"
+						   class="dropdown-toggle"
+						   data-commerce-target="MENU_FOR_BUYERS"
+						   data-toggle="dropdown"
+						   href="#"
+						   role="button">
+							<span>Покупателям</span><!--
+							 --><i class="dropdown-menu-icon"></i>
+						</a>
+						<ul class="dropdown-menu" role="menu">
+																								<li>
+										<!--googleoff: all--><!--noindex-->										<a href="http://prozapass.ru" target="_blank" rel="nofollow noopener">Бонусная программа</a>										<!--/noindex--><!--googleon: all-->									</li>
+															
+																																<li><a href="/inet_order_individual">Как оформить заказ</a></li>															
+							<li><a href="/delivery/">Доставка</a></li>
+
+																																<li><a href="/im_payment">Способы оплаты</a></li>															
+															<li>
+									<a href="/order/check-order-status/">Узнать статус заказа</a>								</li>
+							
+																																<li><a href="/im_cashback_good">Обмен и возврат товара</a></li>															
+							<li><a href="/credit/">Кредиты</a></li>
+							<li><a href="/services/">Услуги</a></li>
+
+																																<li><a href="/info_businesses">Информация для юр. лиц</a></li>															
+															<li><a href="/technical-support/">Сервисные центры</a></li>
+														<li>
+								<!--googleoff: all--><!--noindex-->								<a href="http://club.dns-shop.ru/" target="_blank" rel="nofollow noopener">Клуб экспертов</a>								<!--/noindex--><!--googleon: all-->							</li>
+																						<li><a href="/police">Политика конфиденциальности</a></li>													</ul>
+					</li>
+					<li class="dropdown projects-dropdown">
+						<a aria-expanded="false"
+						   class="dropdown-toggle"
+						   data-commerce-target="MENU_FOR_BUYERS"
+						   data-toggle="dropdown"
+						   data-target-dropdown="#projects-dropdown-menu"
+						   href="#"
+						   role="button">
+							<span>Наши проекты</span><i class="dropdown-menu-icon"></i>
+						</a>
+					</li>
+														</ul>
+								<div class="mobile-top-header static on-top">
+										<input type="checkbox" id="toggle-search" class="hidden-control" />
+					<div class="basic-controls">
+						<div class="left-controls">
+							<label class="navbar-toggle collapsed" for="toggle-mobile-menu" data-role="toggle-mobile-menu" data-action="open">
+								<span></span>
+								<span></span>
+								<span></span>
+								<span class="notifier"></span>
+							</label>
+						</div>
+						<div class="logo-container">
+							<a href="/" class="logo"></a>
+						</div>
+						<div class="right-controls mobile-header-btns">
+															<label for="toggle-search" data-role="open-search">
+									<i class="search-icon"></i>
+								</label>
+														<a class="btn-cart-link empty btn" href="/order/begin/" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false,&quot;totalPrice&quot;:&quot;\u041a\u043e\u0440\u0437\u0438\u043d\u0430&quot;},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true,&quot;totalPrice&quot;:0}}" data-state="default" data-role="switched" data-id="cart-widget" data-switch="data-url:url; class" data-commerce-target="CART"><span class="icon cart" aria-hidden="true"></span><span class="price"><span data-of="totalPrice">Корзина</span> <i class="rub-icon" data-toggle="visible" style="display:none;"></i></span><span class="badge" data-toggle="visible" data-of="totalCount" style="display:none;">0</span></a>						</div>
+					</div>
+											<div class="search-controls">
+							<div class="search">
+								
+
+<form class="main-search-form" action="/search/" method="get">
+	<div class="main-search-form__container">
+		<input type="text" class="main-search-form__input" name="q" value="пылесосы polaris" data-role="search-input" tabindex="1" placeholder="Поиск среди более 100 000 товаров" data-url="/catalog/search/products-presearch/" data-ga-url="/search/?q=">		<span class="main-search-form__button-container">
+			<button tabindex="2" type="submit" class="main-search-form__button">
+				<span class="main-search-form__button-icon dns-icon_search"></span>
+			</button>
+		</span>
+			</div>
+</form>
+
+							</div>
+							<div class="back">
+								<label for="toggle-search">Отмена</label>
+							</div>
+						</div>
+									</div>
+							</div>
+			<div id="header-menu" class="header-menu">
+				<ul class="nav navbar-nav navbar-menu">
+					<li class="menu-item-city-select">
+						
+	<!--googleoff: all--><!--noindex-->
+	<a href="javascript:" class="city-select w-choose-city-widget" data-city-id="9437a276-5970-11de-8bf7-00151716f9f5" rel="nofollow noopener">
+		<i class="location-icon"></i>Ростов-на-Дону
+		<i class="icon-right" data-role="close-mobile-menu"></i>
+	</a>
+	
+		<!--/noindex--><!--googleon: all-->					</li>
+
+					<li class="menu-item-phone">
+												<a href="tel:8-800-77-07-999" class="mobile-menu-phone">
+							<i class="icon"></i><!--
+								-->8-800-77-07-999															<span class="phone-worktime">
+																		(03:00-22:00)
+																		</span>
+													</a>
+					</li>
+
+											<li class="hide user-section">
+							<!--googleoff: all--><!--noindex-->							<a href="/login/" class="" rel="nofollow noopener">
+								<i class="icon"></i>
+								Войти в личный кабинет
+								<i class="icon-right"></i>
+							</a>
+							<!--/noindex--><!--googleon: all-->						</li>
+										<li class="menu-item-catalog">
+						<a href="javascript:" data-role="catalog-menu-tumbler">
+							<i class="icon-left"></i>
+							Каталог
+							<i class="icon-right"></i>
+						</a>
+					</li>
+											<li class="menu-item-cart">
+							<a class="btn-cart-link empty btn" href="/order/begin/" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false,&quot;totalPrice&quot;:&quot;\u041a\u043e\u0440\u0437\u0438\u043d\u0430&quot;},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true,&quot;totalPrice&quot;:0}}" data-state="default" data-role="switched" data-id="cart-widget" data-switch="data-url:url; class" data-commerce-target="CART"><span class="icon cart" aria-hidden="true"></span><span class="price"><span data-of="totalPrice">Корзина</span> <i class="rub-icon" data-toggle="visible" style="display:none;"></i></span><i class="icon-right"></i><span class="badge" data-toggle="visible" data-of="totalCount" style="display:none;">0</span></a>						</li>
+										<li class="hide menu-item-compare">
+						<a id="w2" class="btn-compare-link  empty" href="/catalog/product/compare/" data-role="compare-btn-global" data-action="header-compare-link" data-state="default" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true}}" data-switch="class"><span class="icon compare" aria-hidden="true"></span><span class="lbl">Сравнение</span><i class="icon-right"></i><span class="badge" data-of="totalCount" data-toggle="visible" style="display: none;">0</span></a>					</li>
+											<li class="hide menu-item-wishlist">
+							<a class="btn-wishlist-link  empty" href="/wishlist/index/" data-role="wishlist-btn-global" data-action="header-wishlist-link" data-state="default" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true}}" data-switch="class"><span class="icon wishlist" aria-hidden="true"></span><span class="lbl">Избранное</span><i class="icon-right"></i><span class="badge" data-of="totalCount" data-toggle="visible" style="display: none;">0</span></a>						</li>
+					
+											
+
+<li class="hide menu-item-notifications">
+	<a class="title inactive" href="javascript:" data-role="show-notifications" data-url="/userFeed/user-feed/get-feed/" data-param="guid"><span class="icon"></span><span class="lbl">Уведомления</span><i class="icon-right"></i><span class="badge"></span></a></li>
+<li class="notifications-block">
+	<div data-role="notifications-menu-close" class="back">Уведомления </div>
+	<div data-role="notifications-block-content"></div>
+	<div class="buttons"><a class="notifications" href="https://profile.dns-shop.ru/u-profile/notifications/" target="_blank"><i></i>Все уведомления</a><a class="settings" href="https://profile.dns-shop.ru/u-profile/settings/" target="_blank"><i></i>Настройка уведомлений</a></div></li>
+
+					
+											<li class="menu-item-rsu">
+							<a href="/custompc/user-pc/"><i class="icon-left"></i>Конфигуратор ПК<i class="icon-right"></i></a>						</li>
+																<li class="menu-item-actions">
+							<a href="/actions/"><i class="icon-left"></i>Акции<i class="icon-right"></i></a>						</li>
+																<li class="hide menu-item-markdown">
+							<!--googleoff: all--><!--noindex-->							<a href="/catalog/markdown/" rel="nofollow noopener"><i class="icon-left"></i>Уцененные товары<i class="icon-right"></i></a>							<!--/noindex--><!--googleon: all-->						</li>
+										<li class="hide menu-item-shops">
+						<a href="/shops/rostov-na-donu/"><i class="icon-left"></i>Магазины<i class="icon-right"></i></a>					</li>
+					<li class="menu-item-main">
+													<a href="/"><i class="icon-left"></i>Главная страница<i class="icon-right"></i></a>											</li>
+					<li class="menu-item-corporative">
+						<a href="/company-main/">Компания ДНС</a>					</li>
+					<li class="menu-item-corporative">
+						<a href="/our-projects/">Наши проекты</a>					</li>
+					<li class="menu-item-corporative">
+						<a href="/feedback/">Обратная связь</a>					</li>
+					<li class="menu-item-corporative">
+						<a href="/for-buyers/">Покупателям</a>					</li>
+																						<li class="menu-item-corporative">
+							<a href="/files/price/price-rostov-na-donu.xls">Прайс-лист</a>						</li>
+									</ul>
+			</div>
+			<ul class="hidden-xs hidden-sm nav navbar-nav navbar-menu header-menu-profiler" id="header-profiler">
+				<li class="header-phone hidden-xs hidden-sm">
+					<div class="item">
+						<span class="icon-left icon-phone"></span>
+						<strong class="header-phone-number">8-800-77-07-999</strong>
+													<span class="phone-worktime">
+																(c 03:00 до 22:00)
+															</span>
+											</div>
+				</li>
+
+
+									<li class="notifications-container">
+						
+
+	<div class="notifications-container">
+		<ul class="nav navbar-nav">
+			<li class="dropdown">
+				<a class="title inactive" href="javascript:" title="Уведомлений нет" data-toggle="tooltip" data-role="show-notifications" data-url="/userFeed/user-feed/get-feed/" data-param="guid"><i></i></a>
+				<div class="dropdown-menu notifications-block">
+					<div data-role="notifications-block-content"></div>
+					<div class="buttons"><a class="notifications" href="https://profile.dns-shop.ru/u-profile/notifications/" target="_blank"><i></i>Все уведомления</a><a class="settings" href="https://profile.dns-shop.ru/u-profile/settings/" target="_blank"><i></i>Настройка уведомлений</a></div>				</div>
+			</li>
+		</ul>
+	</div>
+					</li>
+				
+									<li class="dropdown">
+						<!--googleoff: all--><!--noindex-->						<a id="loginButton" class="dropdown-toggle" href="/login/" data-role="login-link" rel="nofollow noopener">Войти</a>						<!--/noindex--><!--googleon: all-->					</li>
+					<li class="last-item">
+						<a href="/register/" data-role="register-link">Регистрация</a>					</li>
+							</ul>
+		</div>
+	</nav>
+		<div id="projects-dropdown-menu" class="projects-dropdown-menu long" role="menu">
+		<div class="projects-slider" data-role="projects-slider">
+			<div class="slider-wrapper">
+				<div class="project-dns">
+											<div class="logo"></div>
+										Мы отобрали лучшие образцы цифровой и бытовой техники и поместили их в современные и удобные торговые залы.
+					Грамотные и дружелюбные продавцы-консультанты сориентируют Вас в широком ассортименте магазина и помогут выбрать нужный товар высочайшего качества,
+					даже если Вы еще не знаете, что именно хотите приобрести.
+									</div>
+				<div class="project-tp">
+											<a href="https://technopoint.ru" rel="noopener" target="_blank"><div class="logo"></div></a>										Интернет-дискаунтер – это доступные цены, удобство заказа и широчайший ассортимент в клике от Вас!
+					В TechnoPoint нет продавцов-консультантов и торговых залов в привычном их понимании, но качество товара остается на высоте.
+					Закажите доставку «до двери» или заберите вашу покупку в любой точке выдачи в удобное для Вас время!
+											<a href="https://technopoint.ru" rel="noopener" target="_blank">Перейти на сайт</a>									</div>
+									<div class="project-service">
+													<a href="https://service.dns-shop.ru" rel="noopener" target="_blank"><div class="logo"></div></a>												Сервисный центр DNS – это команда профессионалов, занимающаяся оказанием услуг по сервисной поддержке и обслуживанию любой техники.
+						Мы занимаемся гарантийным и платным ремонтом, а также обслуживанием цифровой и бытовой техники, купленной в сети магазинов DNS.
+						Наш центр сможет помочь каждому клиенту!
+													<a href="https://service.dns-shop.ru" rel="noopener" target="_blank">Перейти на сайт</a>											</div>
+													<div class="project-clubexp">
+						<a href="http://club.dns-shop.ru/" rel="noopener" target="_blank"><div class="logo"></div></a>						Клуб DNS – центр онлайн компетенции. Это сообщество покупателей, экспертов в цифробытовой технике, готовых поделиться опытом и знаниями.
+						Участники Клуба пишут подробные обзоры и статьи по выбору товаров, ведут тематические разделы на Форуме.
+						А на странице "Помощь эксперта" вы найдете готовые ответы на все вопросы.
+						<a href="http://club.dns-shop.ru/" rel="noopener" target="_blank">Перейти на сайт</a>					</div>
+							</div>
+			<div class="shadow shadow-left"></div>
+			<div class="shadow shadow-right"></div>
+			<a href="#" class="button-left"><div class="arrow"></div></a>
+			<a href="#" class="button-right"><div class="arrow"></div></a>
+		</div>
+	</div>
+	<nav id="header-search" class="header-bottom slide hidden-xs hidden-sm">
+		<div class="container">
+			<div class="logo-container" data-role="catalog-menu-title">
+				<a title="" class="logo" href="/" data-original-title="Вернуться на главную страницу"></a>
+				<span class="catalog-spoiler hovered disabled" data-role="catalog-menu-title">
+					<i class="chevron"></i>
+				</span>
+			</div>
+			<!--googleoff: all--><!--noindex-->							
+
+<form class="main-search-form" action="/search/" method="get">
+	<div class="main-search-form__container">
+		<input type="text" class="main-search-form__input" name="q" value="пылесосы polaris" data-role="search-input" tabindex="1" placeholder="Поиск среди более 100 000 товаров" data-url="/catalog/search/products-presearch/" data-ga-url="/search/?q=">		<span class="main-search-form__button-container">
+			<button tabindex="2" type="submit" class="main-search-form__button">
+				<span class="main-search-form__button-icon dns-icon_search"></span>
+			</button>
+		</span>
+			</div>
+</form>
+
+						<div class="buttons">
+				<a id="w3" class="btn-compare-link btn empty" href="/catalog/product/compare/" data-role="compare-btn-global" data-action="header-compare-link" data-state="default" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true}}" data-switch="class" rel="nofollow noopener"><span class="icon compare" aria-hidden="true"></span><span class="lbl">Сравнение</span><span class="badge" data-of="totalCount" data-toggle="visible" style="display: none;">0</span></a>									<a class="btn-wishlist-link btn empty" href="/wishlist/index/" data-role="wishlist-btn-global" data-action="header-wishlist-link" data-state="default" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true}}" data-switch="class" rel="nofollow noopener"><span class="icon wishlist" aria-hidden="true"></span><span class="lbl">Избранное</span><span class="badge" data-of="totalCount" data-toggle="visible" style="display: none;">0</span></a>								<a class="btn-cart-link empty btn" href="/order/begin/" data-sets="{&quot;default&quot;:{&quot;class&quot;:&quot;empty&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:false,&quot;totalPrice&quot;:&quot;\u041a\u043e\u0440\u0437\u0438\u043d\u0430&quot;},&quot;active&quot;:{&quot;class&quot;:&quot;&quot;,&quot;totalCount&quot;:0,&quot;visible&quot;:true,&quot;totalPrice&quot;:0}}" data-state="default" data-role="switched" data-id="cart-widget" data-switch="data-url:url; class" data-commerce-target="CART" rel="nofollow noopener"><span class="icon cart" aria-hidden="true"></span><span class="price"><span data-of="totalPrice">Корзина</span> <i class="rub-icon" data-toggle="visible" style="display:none;"></i></span><span class="badge" data-toggle="visible" data-of="totalCount" style="display:none;">0</span></a>			</div>
+			<!--/noindex--><!--googleon: all-->		</div>
+	</nav>
+		</header>
+			<div class="container">
+		<aside>
+							
+<div class="w-menu-widget">
+	<ul id="menu-catalog" class="catalog">
+				<li data-r="desktop">
+						<ul class="catalog" style="margin-top:-1px">
+								<li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17aa72ab16404e77/noutbuki-i-planshety/"><span class="title">Ноутбуки и планшеты</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a8921e16404e77/kompyutery-i-periferiya/"><span class="title">Компьютеры и периферия</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17aa522a16404e77/komplektuyushhie-dlya-pk/"><span class="title">Комплектующие для ПК</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a890dc16404e77/smartfony-i-smart-chasy/"><span class="title">Смартфоны и смарт-часы</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a8ae1316404e77/televizory-i-media/"><span class="title">Телевизоры и медиа</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a8bfb516404e77/igry-i-pristavki/"><span class="title">Игры и приставки</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17aa72de16404e77/audiotexnika/"><span class="title">Аудиотехника</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a8906e16404e77/foto-videoapparatura/"><span class="title">Фото-видеоаппаратура</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a8addb16404e77/ofisnaya-texnika-i-mebel/"><span class="title">Офисная техника и мебель</span></a></li><li style="border-left-color:#ffba75 !important" data-hover-color="#fff1e6"><a class="catalog-icon" href="/catalog/17a892c016404e77/setevoe-oborudovanie/"><span class="title">Сетевое оборудование</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17aa731316404e77/krupnaya-bytovaya-texnika/"><span class="title">Крупная бытовая техника</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a8e9b716404e77/tovary-dlya-kuxni/"><span class="title">Товары для кухни</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a8ea5816404e77/krasota-i-zdorove/"><span class="title">Красота и здоровье</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a8ea2316404e77/tovary-dlya-doma/"><span class="title">Товары для дома</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a9c2a316404e77/instrumenty/"><span class="title">Инструменты</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a88ba616404e77/avtotovary/"><span class="title">Автотовары</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/f4038de691ee7fd7/uslugi/"><span class="title">Услуги</span></a></li><li style="border-left-color:#80cafc !important" data-hover-color="#e6f6fc"><a class="catalog-icon" href="/catalog/17a9f20016404e77/odezhda-i-obuv/"><span class="title">Одежда и обувь</span></a></li>			</ul>
+		</li>
+			</ul>
+</div>
+
+													<a class="btn btn-default actions-link" href="/configurator/">Собери свой компьютер</a>										<a class="btn btn-default actions-link" href="/actions/">Акции</a>										<a class="btn btn-default actions-link" href="/catalog/markdown/">Уцененные товары</a>										<div class="news-widget">
+	<a class="widget-title" href="/news/">Новости</a>
+	<div>
+					<div class="post">
+								<a class="img" href="/news/ebfb2b3b-4570-11e9-a206-00155d03332b/"><picture><source type="image/webp" media="(min-width: 320px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/200/130/e228485058938246621d39a8718c6b8b/a1327823f04e0c7f987b68618a70162efdfdbfedd5c18921a1fc0caa05d92acd.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/200/130/e228485058938246621d39a8718c6b8b/a1327823f04e0c7f987b68618a70162efdfdbfedd5c18921a1fc0caa05d92acd.jpg" alt="" 0="Предзаказ! Фотокамера SONY Alpha ILCE-6400"></picture></a>
+				<a class="title" href="/news/ebfb2b3b-4570-11e9-a206-00155d03332b/">Предзаказ! Фотокамера SONY Alpha ILCE-6400</a>
+				<div class="content-info">
+					<span class="date">
+						14.03.2019					</span>
+									</div>
+			</div>
+					<div class="post">
+								<a class="img" href="/news/afcd8d31-3b2c-11e9-a206-00155d03332b/"><picture><source type="image/webp" media="(min-width: 320px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/200/130/57ba811b6fe256da0c947c4ac69c10aa/d0f706dfd39e95458142dcb19b7d6d51587499a379bba84e5dab3352b32562c8.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/200/130/57ba811b6fe256da0c947c4ac69c10aa/d0f706dfd39e95458142dcb19b7d6d51587499a379bba84e5dab3352b32562c8.jpg" alt="" 0="Новинка! Компактная серия портативных аккумуляторов DEXP"></picture></a>
+				<a class="title" href="/news/afcd8d31-3b2c-11e9-a206-00155d03332b/">Новинка! Компактная серия портативных аккумуляторов DEXP</a>
+				<div class="content-info">
+					<span class="date">
+						13.03.2019					</span>
+									</div>
+			</div>
+					<div class="post">
+								<a class="img" href="/news/dea06a67-3fb8-11e9-a208-00155df1b805/"><picture><source type="image/webp" media="(min-width: 320px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/200/130/5075ba5747f25419e9fd9c44db6ba173/9b340b27608b9d11414da8e29890a093f843f7a248cf5544f14676726820bad2.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st1/fit/200/130/5075ba5747f25419e9fd9c44db6ba173/9b340b27608b9d11414da8e29890a093f843f7a248cf5544f14676726820bad2.jpg" alt="" 0="Новинка! Смартфон Vivo Y91С: больше энергии!"></picture></a>
+				<a class="title" href="/news/dea06a67-3fb8-11e9-a208-00155df1b805/">Новинка! Смартфон Vivo Y91С: больше энергии!</a>
+				<div class="content-info">
+					<span class="date">
+						11.03.2019					</span>
+									</div>
+			</div>
+					<div class="post">
+								<a class="img" href="/news/54e3e91c-40cd-11e9-a207-00155d282116/"><picture><source type="image/webp" media="(min-width: 320px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/200/130/0f3310793b8613c9bca101da332a47d1/aa614ed62ca89308b3ff608baa859a2ea9e2ca905259949bb268abaf49eb3101.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/200/130/0f3310793b8613c9bca101da332a47d1/aa614ed62ca89308b3ff608baa859a2ea9e2ca905259949bb268abaf49eb3101.jpg" alt="" 0="Выгодный кредит 0-10-12"></picture></a>
+				<a class="title" href="/news/54e3e91c-40cd-11e9-a207-00155d282116/">Выгодный кредит 0-10-12</a>
+				<div class="content-info">
+					<span class="date">
+						11.03.2019					</span>
+									</div>
+			</div>
+			</div>
+</div>
+					</aside>
+		<main>
+																										
+			
+<h1>Результаты поиска: пылесосы polaris</h1>
+
+	
+	<div id="search-results" data-role="search-results" data-request-url="/catalog/search/search-session-finalization/">
+					
+<div id="b-search-page-categories">
+	<div class="node-block">
+							<div class="">
+				<a href="/catalog/recipe/90680d5235f084fa/roboty-pylesosy-polaris/?finalize=1" data-category-guid="90680d52-35f0-4ba8-92d9-39ae59484fa6" data-role="search-category">Роботы-пылесосы Polaris</a>									← Уборка							</div>
+			</div>
+	</div>
+
+		
+					
+<div
+	id="catalog-items-page"
+	class="page-products"
+	data-role="items-catalog-container"
+>
+	
+<div class="catalog-mode">
+	<form action="/search/" method="get" data-role="catalog-view-mode-form" data-modes="[&quot;list&quot;,&quot;simple&quot;,&quot;tile&quot;]">
+<input type="hidden" name="q" value="пылесосы polaris">					<input type="radio" id="mode-list" class="hidden" name="mode" value="list" checked data-commerce-target="CATALOG_TYPE_LIST">			<label for="mode-list"><i></i></label>
+					<input type="radio" id="mode-simple" class="hidden" name="mode" value="simple" data-commerce-target="CATALOG_TYPE_LIST_LARGE">			<label for="mode-simple"><i></i></label>
+					<input type="radio" id="mode-tile" class="hidden" name="mode" value="tile" data-commerce-target="CATALOG_TYPE_TILE">			<label for="mode-tile"><i></i></label>
+			</form></div>
+
+
+								<h4>Пылесос</h4>
+				<div
+				class                                = "catalog-items-list page-products search-results view-list"
+				data-role                            = "catalog-items-list"
+				data-change-view-mode-without-reload = "1"
+			><div class="item" data-position-index="0" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="1240119" data-product-block-replace="7738dbfd-3e02-11e8-9dc5-00155d03330d"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/7738dbfd3e023330/pylesos-polaris-pvcs-0722hb-fioletovyj/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/190/190/7fb7892aa29e2e8323f96b950f70513e/0561a6cd087de3b625aa3ec8ffc8ed6469bf2039c25ed3d695ca767fcc558cc4.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/175/125/64d1cdc37c235e27e1f9be1ccaab0d62/0561a6cd087de3b625aa3ec8ffc8ed6469bf2039c25ed3d695ca767fcc558cc4.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/130/130/5a1f1d9e3f8efecf6240e94060368703/0561a6cd087de3b625aa3ec8ffc8ed6469bf2039c25ed3d695ca767fcc558cc4.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st1/fit/190/190/7fb7892aa29e2e8323f96b950f70513e/0561a6cd087de3b625aa3ec8ffc8ed6469bf2039c25ed3d695ca767fcc558cc4.jpg" alt="Пылесос Polaris PVCS 0722HB фиолетовый"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Polaris"></i><a
+				href               = "/product/7738dbfd3e023330/pylesos-polaris-pvcs-0722hb-fioletovyj/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Пылесос Polaris PVCS 0722HB фиолетовый</h3></a><div class="product-vobler"></div><span>[уборка: сухая, пылесборник - циклонный фильтр, 0.6 л]</span></div><div class="code"><span>Код:</span><span data-product-param="code">1240119</span></div><div class="social"><div class="rating" data-rating="5"><div class="fill-rating"></div></div><a href="/product/7738dbfd3e023330/pylesos-polaris-pvcs-0722hb-fioletovyj/opinion/" class="opinions-count"><i></i>
+						5					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="1" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="1268163" data-product-block-replace="ef707271-800a-11e8-9547-00155d03330d"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/ef707271800a3330/pylesos-polaris-pvc-1823-cernyj/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/190/190/ee094f0b185d86d1d7df990103b89f6c/11831c6020c8ad46d22b9acad7d223dff4cf87e32d045b7629f17f55aab77a5d.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/175/125/d2b98880fa0f1e8c769015d0c510fc01/11831c6020c8ad46d22b9acad7d223dff4cf87e32d045b7629f17f55aab77a5d.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/130/130/8896069dd5a38f1206da61d34ca0c990/11831c6020c8ad46d22b9acad7d223dff4cf87e32d045b7629f17f55aab77a5d.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st1/fit/190/190/ee094f0b185d86d1d7df990103b89f6c/11831c6020c8ad46d22b9acad7d223dff4cf87e32d045b7629f17f55aab77a5d.jpg" alt="Пылесос Polaris PVC 1823 черный"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Polaris"></i><a
+				href               = "/product/ef707271800a3330/pylesos-polaris-pvc-1823-cernyj/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Пылесос Polaris PVC 1823 черный</h3></a><div class="product-vobler"></div><span>[1800 Вт, уборка: сухая, пылесборник - циклонный фильтр, 2.5 л]</span></div><div class="code"><span>Код:</span><span data-product-param="code">1268163</span></div><div class="social"><div class="rating" data-rating="3.5"><div class="fill-rating"></div></div><a href="/product/ef707271800a3330/pylesos-polaris-pvc-1823-cernyj/opinion/" class="opinions-count"><i></i>
+						9					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="2" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="1225235" data-product-block-replace="be851ed1-1daf-11e8-9dc5-00155d03330d"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/be851ed11daf3330/pylesos-polaris-pvb-0804-cernyj/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/190/190/37fbe09cb9de8c474c022bef630aa343/17aab1d51f599eda2e07a582fa34c92a210feab8db17d3fbb4d27b31f1ae2044.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/175/125/c1f45582bb36fc0258dc51863386337a/17aab1d51f599eda2e07a582fa34c92a210feab8db17d3fbb4d27b31f1ae2044.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/130/130/856b27d7c5d136ef4a3c0db9ad66e899/17aab1d51f599eda2e07a582fa34c92a210feab8db17d3fbb4d27b31f1ae2044.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/190/190/37fbe09cb9de8c474c022bef630aa343/17aab1d51f599eda2e07a582fa34c92a210feab8db17d3fbb4d27b31f1ae2044.jpg" alt="Пылесос Polaris PVB 0804 черный"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Polaris"></i><a
+				href               = "/product/be851ed11daf3330/pylesos-polaris-pvb-0804-cernyj/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Пылесос Polaris PVB 0804 черный</h3></a><div class="product-vobler"></div><span>[800 Вт, уборка: сухая, пылесборник - мешок, 3 л]</span></div><div class="code"><span>Код:</span><span data-product-param="code">1225235</span></div><div class="social"><div class="rating" data-rating="5"><div class="fill-rating"></div></div><a href="/product/be851ed11daf3330/pylesos-polaris-pvb-0804-cernyj/opinion/" class="opinions-count"><i></i>
+						1					</a><a href="/product/be851ed11daf3330/pylesos-polaris-pvb-0804-cernyj/#comment" class="comments-count"><i></i>
+						2					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="3" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="8122310" data-product-block-replace="85de460c-e3bb-11e8-b10b-00155d03330f"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/85de460ce3bb3330/pylesos-polaris-pvc2002ci-cernyj/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/190/190/d1652c1bd09ba46415e12dcb3a9030fa/2a743ec93936457992fb7b187a7d0a45d4b99784f58264225d416012adbca04b.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/175/125/0886cb919b54cc9bd6ab477defd92686/2a743ec93936457992fb7b187a7d0a45d4b99784f58264225d416012adbca04b.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/130/130/3488595928a95eda12c9a7d0d3e3e3f1/2a743ec93936457992fb7b187a7d0a45d4b99784f58264225d416012adbca04b.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st1/fit/190/190/d1652c1bd09ba46415e12dcb3a9030fa/2a743ec93936457992fb7b187a7d0a45d4b99784f58264225d416012adbca04b.jpg" alt="Пылесос Polaris PVC2002Ci черный"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Polaris"></i><a
+				href               = "/product/85de460ce3bb3330/pylesos-polaris-pvc2002ci-cernyj/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Пылесос Polaris PVC2002Ci черный</h3></a><div class="product-vobler"></div><span>[2000 Вт, уборка: сухая, пылесборник - циклонный фильтр, 2.5 л]</span></div><div class="code"><span>Код:</span><span data-product-param="code">8122310</span></div><div class="social"><div class="rating" data-rating="0"><div class="fill-rating"></div></div></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="4" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="1225231" data-product-block-replace="d9492315-1dae-11e8-9dc5-00155d03330d"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/d94923151dae3330/pylesos-polaris-pvb-1604-cernyj/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/190/190/da5bc10bf9fb799ab308e2db65c397c7/e85b682b878217fd8dec9ff9323f7c03cd1e8facc8dedada1f22f863f77ccbda.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/175/125/79eadcf6c8e44962809f8461c2a28cb2/e85b682b878217fd8dec9ff9323f7c03cd1e8facc8dedada1f22f863f77ccbda.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/130/130/e97a581fc85873474ffceff767586395/e85b682b878217fd8dec9ff9323f7c03cd1e8facc8dedada1f22f863f77ccbda.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st1/fit/190/190/da5bc10bf9fb799ab308e2db65c397c7/e85b682b878217fd8dec9ff9323f7c03cd1e8facc8dedada1f22f863f77ccbda.jpg" alt="Пылесос Polaris PVB 1604 черный"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Polaris"></i><a
+				href               = "/product/d94923151dae3330/pylesos-polaris-pvb-1604-cernyj/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Пылесос Polaris PVB 1604 черный</h3></a><div class="product-vobler"></div><span>[1600 Вт, уборка: сухая, пылесборник - мешок, 2 л]</span></div><div class="code"><span>Код:</span><span data-product-param="code">1225231</span></div><div class="social"><div class="rating" data-rating="5"><div class="fill-rating"></div></div><a href="/product/d94923151dae3330/pylesos-polaris-pvb-1604-cernyj/opinion/" class="opinions-count"><i></i>
+						3					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="5" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="8122307" data-product-block-replace="85de4606-e3bb-11e8-b10b-00155d03330f"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/85de4606e3bb3330/pylesos-polaris-pvc-2015-fioletovyj/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/190/190/5272a436ae039ae30b0ae3dff6c998b1/c1d464b758373b6d52175a6ff43c720203f0ed980b251ce2c4d4e9f950f20cca.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/175/125/9d79a3e9ebf3d0d668a55ce28cf78b18/c1d464b758373b6d52175a6ff43c720203f0ed980b251ce2c4d4e9f950f20cca.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/130/130/84ea9f551c11ce865172eaa19f4a8993/c1d464b758373b6d52175a6ff43c720203f0ed980b251ce2c4d4e9f950f20cca.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/190/190/5272a436ae039ae30b0ae3dff6c998b1/c1d464b758373b6d52175a6ff43c720203f0ed980b251ce2c4d4e9f950f20cca.jpg" alt="Пылесос Polaris PVC 2015 фиолетовый"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Polaris"></i><a
+				href               = "/product/85de4606e3bb3330/pylesos-polaris-pvc-2015-fioletovyj/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Пылесос Polaris PVC 2015 фиолетовый</h3></a><div class="product-vobler"></div><span>[2000 Вт, уборка: сухая, пылесборник - циклонный фильтр, 2.5 л]</span></div><div class="code"><span>Код:</span><span data-product-param="code">8122307</span></div><div class="social"><div class="rating" data-rating="0"><div class="fill-rating"></div></div></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="6" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="1225233" data-product-block-replace="4e70c512-1daf-11e8-9dc5-00155d03330d"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/4e70c5121daf3330/pylesos-polaris-pvb-1802-cernyj/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/190/190/510fa0d98e709633c72ad22502a09a34/4854fbd9a10bd1fa407155a2591dd5e4191695b00a50db4497505007b0196cf2.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/175/125/125486c47ae4d863c759652ab84f2a91/4854fbd9a10bd1fa407155a2591dd5e4191695b00a50db4497505007b0196cf2.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/130/130/15c38cdd8495d17b413bb47ee592b86b/4854fbd9a10bd1fa407155a2591dd5e4191695b00a50db4497505007b0196cf2.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st1/fit/190/190/510fa0d98e709633c72ad22502a09a34/4854fbd9a10bd1fa407155a2591dd5e4191695b00a50db4497505007b0196cf2.jpg" alt="Пылесос Polaris PVB 1802 черный"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Polaris"></i><a
+				href               = "/product/4e70c5121daf3330/pylesos-polaris-pvb-1802-cernyj/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Пылесос Polaris PVB 1802 черный</h3></a><div class="product-vobler"></div><span>[1800 Вт, уборка: сухая, пылесборник - мешок, 2 л]</span></div><div class="code"><span>Код:</span><span data-product-param="code">1225233</span></div><div class="social"><div class="rating" data-rating="0"><div class="fill-rating"></div></div></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div></div>								<h4>Пылесос-робот</h4>
+				<div
+				class                                = "catalog-items-list page-products search-results view-list"
+				data-role                            = "catalog-items-list"
+				data-change-view-mode-without-reload = "1"
+			><div class="item" data-position-index="0" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="1223556" data-product-block-replace="851b37cd-1aa2-11e8-80a7-00155d03330d"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/851b37cd1aa23330/pylesos-robot-polaris-pvcr-1012u-cernyj/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/190/190/aba912014121de0f64fc4c32fdd2c565/2cfa7bd6934b14696d3e71ec714fd35222b429b59f336992676cc8546be62421.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/175/125/c907217b22d70c9196d9aa3b5ccbf7f9/2cfa7bd6934b14696d3e71ec714fd35222b429b59f336992676cc8546be62421.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/130/130/730a67dee05b9038e758dca8b68c523f/2cfa7bd6934b14696d3e71ec714fd35222b429b59f336992676cc8546be62421.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st1/fit/190/190/aba912014121de0f64fc4c32fdd2c565/2cfa7bd6934b14696d3e71ec714fd35222b429b59f336992676cc8546be62421.jpg" alt="Пылесос-робот Polaris PVCR 1012U черный"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Polaris"></i><a
+				href               = "/product/851b37cd1aa23330/pylesos-robot-polaris-pvcr-1012u-cernyj/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Пылесос-робот Polaris PVCR 1012U черный</h3></a><div class="product-vobler"></div><span>[уборка - сухая, пылесборник - 0.3 л, блок питания]</span></div><div class="code"><span>Код:</span><span data-product-param="code">1223556</span></div><div class="social"><div class="rating" data-rating="4"><div class="fill-rating"></div></div><a href="/product/851b37cd1aa23330/pylesos-robot-polaris-pvcr-1012u-cernyj/opinion/" class="opinions-count"><i></i>
+						1					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="1" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="1222046" data-product-block-replace="13c234e0-1513-11e8-80a7-00155d03330d"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/13c234e015133330/pylesos-robot-polaris-pvcr-0926w-cernyj/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/190/190/4e459729f0e18fc971e1240b96493527/973984aed2b4704c6571081c039b2c538e5153dc4623ca9ff2b89bb3d1ba4364.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/175/125/3fd248cefea2ed53a9656021920a58ed/973984aed2b4704c6571081c039b2c538e5153dc4623ca9ff2b89bb3d1ba4364.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/130/130/6c43f86cbde4a23a403d7b0b3738127e/973984aed2b4704c6571081c039b2c538e5153dc4623ca9ff2b89bb3d1ba4364.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st1/fit/190/190/4e459729f0e18fc971e1240b96493527/973984aed2b4704c6571081c039b2c538e5153dc4623ca9ff2b89bb3d1ba4364.jpg" alt="Пылесос-робот Polaris PVCR 0926W черный"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Polaris"></i><a
+				href               = "/product/13c234e015133330/pylesos-robot-polaris-pvcr-0926w-cernyj/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Пылесос-робот Polaris PVCR 0926W черный</h3></a><div class="product-vobler"></div><span>[уборка - сухая, влажная, пылесборник - 0.5 л, док-станция]</span></div><div class="code"><span>Код:</span><span data-product-param="code">1222046</span></div><div class="social"><div class="rating" data-rating="4"><div class="fill-rating"></div></div><a href="/product/13c234e015133330/pylesos-robot-polaris-pvcr-0926w-cernyj/opinion/" class="opinions-count"><i></i>
+						6					</a><a href="/product/13c234e015133330/pylesos-robot-polaris-pvcr-0926w-cernyj/#comment" class="comments-count"><i></i>
+						1					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div></div>								<h4>Аксессуары для пылесосов</h4>
+				<div
+				class                                = "catalog-items-list page-products search-results view-list"
+				data-role                            = "catalog-items-list"
+				data-change-view-mode-without-reload = "1"
+			><div class="item" data-position-index="0" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="6678385" data-product-block-replace="1bbd5d94-f696-11e3-b5b8-005056a4699b"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/1bbd5d94f6964699/komplekt-pylesbornik--filtr-filtero-dae-01-standard/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/190/190/d56802854bd5a6e96ce2b54313ed91ae/4254b331fc549b376b1cf68b72332a23be27433227932376c3dc199efe2d69fd.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/175/125/a634587b08d56584bbe7c8830a3b8683/4254b331fc549b376b1cf68b72332a23be27433227932376c3dc199efe2d69fd.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/130/130/ed6d41ae04152b966c6be17dfa8001e4/4254b331fc549b376b1cf68b72332a23be27433227932376c3dc199efe2d69fd.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/190/190/d56802854bd5a6e96ce2b54313ed91ae/4254b331fc549b376b1cf68b72332a23be27433227932376c3dc199efe2d69fd.jpg" alt="Комплект Пылесборник + Фильтр Filtero DAE 01 Standard"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Filtero"></i><a
+				href               = "/product/1bbd5d94f6964699/komplekt-pylesbornik--filtr-filtero-dae-01-standard/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Комплект Пылесборник + Фильтр Filtero DAE 01 Standard</h3></a><div class="product-vobler"></div><span>[совместимость - ROLSEN, VITEK, Daewoo, Elenberg, предметов в комплекте - 6 шт.]</span></div><div class="code"><span>Код:</span><span data-product-param="code">6678385</span></div><div class="social"><div class="rating" data-rating="5"><div class="fill-rating"></div></div><a href="/product/1bbd5d94f6964699/komplekt-pylesbornik--filtr-filtero-dae-01-standard/opinion/" class="opinions-count"><i></i>
+						3					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="1" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="6678365" data-product-block-replace="ed7f654d-f680-11e3-b5b8-005056a4699b"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/ed7f654df6804699/komplekt-pylesbornik--filtr-filtero-fly-02-standard/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/190/190/5aca75a5bab64ffd288de509dc0bfaab/acd8d02fc4cb7d7e00ae449459a7046b2c0e118de8722297a70b80502c76a10b.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/175/125/1a44ec45a0ad9eafa472aeabcb55dac4/acd8d02fc4cb7d7e00ae449459a7046b2c0e118de8722297a70b80502c76a10b.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/130/130/d7b64748d582b00328cb8b05175a0651/acd8d02fc4cb7d7e00ae449459a7046b2c0e118de8722297a70b80502c76a10b.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/190/190/5aca75a5bab64ffd288de509dc0bfaab/acd8d02fc4cb7d7e00ae449459a7046b2c0e118de8722297a70b80502c76a10b.jpg" alt="Комплект Пылесборник + Фильтр Filtero FLY 02 Standard"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Filtero"></i><a
+				href               = "/product/ed7f654df6804699/komplekt-pylesbornik--filtr-filtero-fly-02-standard/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Комплект Пылесборник + Фильтр Filtero FLY 02 Standard</h3></a><div class="product-vobler"></div><span>[совместимость - BORK, SUPRA, ROLSEN, VITEK, предметов в комплекте - 6 шт.]</span></div><div class="code"><span>Код:</span><span data-product-param="code">6678365</span></div><div class="social"><div class="rating" data-rating="4.5"><div class="fill-rating"></div></div><a href="/product/ed7f654df6804699/komplekt-pylesbornik--filtr-filtero-fly-02-standard/opinion/" class="opinions-count"><i></i>
+						5					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="2" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="6678554" data-product-block-replace="75add626-f80c-11e3-a9c4-005056a4699b"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/75add626f80c4699/mesok-pylesbornik-filtero-fly-02-ekstra/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/190/190/054a4c1f5a585397599206031bb8f86e/5bd1b8f72a5a73d49996f24541139ed94921c51d6645ace5e93dd1bba6bbf590.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/175/125/a6787324f5e91de69cd704260ad4459f/5bd1b8f72a5a73d49996f24541139ed94921c51d6645ace5e93dd1bba6bbf590.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/130/130/bc4a81d6f822fa6b8160e3c8f5a020a0/5bd1b8f72a5a73d49996f24541139ed94921c51d6645ace5e93dd1bba6bbf590.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/190/190/054a4c1f5a585397599206031bb8f86e/5bd1b8f72a5a73d49996f24541139ed94921c51d6645ace5e93dd1bba6bbf590.jpg" alt="Мешок-пылесборник Filtero FLY 02 Экстра"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Filtero"></i><a
+				href               = "/product/75add626f80c4699/mesok-pylesbornik-filtero-fly-02-ekstra/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Мешок-пылесборник Filtero FLY 02 Экстра</h3></a><div class="product-vobler"></div><span>[совместимость - BORK, SUPRA, ROLSEN, VITEK, предметов в комплекте - 4 шт.]</span></div><div class="code"><span>Код:</span><span data-product-param="code">6678554</span></div><div class="social"><div class="rating" data-rating="5"><div class="fill-rating"></div></div><a href="/product/75add626f80c4699/mesok-pylesbornik-filtero-fly-02-ekstra/opinion/" class="opinions-count"><i></i>
+						2					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="3" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="6678548" data-product-block-replace="75add61a-f80c-11e3-a9c4-005056a4699b"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/75add61af80c4699/mesok-pylesbornik-filtero-dae-01-ekstra/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/190/190/19fb56ba4a0c1f4469abde2be17dd004/638ed8c05baf80f69ef3ccae06ff0df6841610b89870b7150b227e2e4ab32da9.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/175/125/21668f7e75e5101dd4627a22157513d4/638ed8c05baf80f69ef3ccae06ff0df6841610b89870b7150b227e2e4ab32da9.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/130/130/fcae1c10d087b2ea6442839315994769/638ed8c05baf80f69ef3ccae06ff0df6841610b89870b7150b227e2e4ab32da9.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/190/190/19fb56ba4a0c1f4469abde2be17dd004/638ed8c05baf80f69ef3ccae06ff0df6841610b89870b7150b227e2e4ab32da9.jpg" alt="Мешок-пылесборник Filtero DAE 01 Экстра"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Filtero"></i><a
+				href               = "/product/75add61af80c4699/mesok-pylesbornik-filtero-dae-01-ekstra/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Мешок-пылесборник Filtero DAE 01 Экстра</h3></a><div class="product-vobler"></div><span>[совместимость - ROLSEN, VITEK, Daewoo, Elenberg, предметов в комплекте - 4 шт.]</span></div><div class="code"><span>Код:</span><span data-product-param="code">6678548</span></div><div class="social"><div class="rating" data-rating="0"><div class="fill-rating"></div></div></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="4" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="1005457" data-product-block-replace="6c0a0690-74fa-11e4-b22d-00155d031202"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/6c0a069074fa3120/komplekt-pylesbornik--filtr-topper-er-2/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/190/190/1cc6069ed63351c666d40fc979f40d95/16785df3f61e442a943b38592c8b8badd6806a977382d5e667481323d86b8ff2.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/175/125/088c725740d244ea584baf8145753289/16785df3f61e442a943b38592c8b8badd6806a977382d5e667481323d86b8ff2.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/130/130/b86d24a2fd68958347cf11ed27116096/16785df3f61e442a943b38592c8b8badd6806a977382d5e667481323d86b8ff2.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/190/190/1cc6069ed63351c666d40fc979f40d95/16785df3f61e442a943b38592c8b8badd6806a977382d5e667481323d86b8ff2.jpg" alt="Комплект Пылесборник + Фильтр Topper ER 2"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Topperr"></i><a
+				href               = "/product/6c0a069074fa3120/komplekt-pylesbornik--filtr-topper-er-2/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Комплект Пылесборник + Фильтр Topper ER 2</h3></a><div class="product-vobler"></div><span>[совместимость - BORK, SUPRA, ROLSEN, VITEK, предметов в комплекте - 6 шт.]</span></div><div class="code"><span>Код:</span><span data-product-param="code">1005457</span></div><div class="social"><div class="rating" data-rating="5"><div class="fill-rating"></div></div><a href="/product/6c0a069074fa3120/komplekt-pylesbornik--filtr-topper-er-2/opinion/" class="opinions-count"><i></i>
+						1					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="5" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="6611326" data-product-block-replace="3631ba82-d3b6-11e2-981a-005056a615ef"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/3631ba82d3b6615e/mesok-pylesbornik-ozone-microne-m-26/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/190/190/f4f40bcf7a6d2b823a0a5b95bd2cb6ff/72b4bf6f7c43a5907dcfd9a4e6505efcd9e313a663f969966fbfd00f0d3df458.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/175/125/d227902baecb3f93d964a7a8ade76151/72b4bf6f7c43a5907dcfd9a4e6505efcd9e313a663f969966fbfd00f0d3df458.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/130/130/14958c17eb5cb9a949a35b80c7669d00/72b4bf6f7c43a5907dcfd9a4e6505efcd9e313a663f969966fbfd00f0d3df458.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/190/190/f4f40bcf7a6d2b823a0a5b95bd2cb6ff/72b4bf6f7c43a5907dcfd9a4e6505efcd9e313a663f969966fbfd00f0d3df458.jpg" alt="Мешок-пылесборник OZONE microne M-26"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Ozone"></i><a
+				href               = "/product/3631ba82d3b6615e/mesok-pylesbornik-ozone-microne-m-26/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Мешок-пылесборник OZONE microne M-26</h3></a><div class="product-vobler"></div><span>[2.5 л, совместимость - BORK, SUPRA, ROLSEN, VITEK, предметов в комплекте - 5 шт.]</span></div><div class="code"><span>Код:</span><span data-product-param="code">6611326</span></div><div class="social"><div class="rating" data-rating="0"><div class="fill-rating"></div></div></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="6" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="1005456" data-product-block-replace="6c0a068f-74fa-11e4-b22d-00155d031202"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/6c0a068f74fa3120/komplekt-pylesbornik--filtr-topperr-dw-5/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/190/190/2222da6560211418b959bb551c5b09de/e0790de9b15271b18a9db58c6c0ceb1483d02e53212ca2223ff57eb6c9866e70.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/175/125/b793e65471cafec053f670a5df439956/e0790de9b15271b18a9db58c6c0ceb1483d02e53212ca2223ff57eb6c9866e70.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/130/130/3b81a13581a428c8ea8f84147e3f3b71/e0790de9b15271b18a9db58c6c0ceb1483d02e53212ca2223ff57eb6c9866e70.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/190/190/2222da6560211418b959bb551c5b09de/e0790de9b15271b18a9db58c6c0ceb1483d02e53212ca2223ff57eb6c9866e70.jpg" alt="Комплект Пылесборник + Фильтр Topperr DW 5"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Topperr"></i><a
+				href               = "/product/6c0a068f74fa3120/komplekt-pylesbornik--filtr-topperr-dw-5/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Комплект Пылесборник + Фильтр Topperr DW 5</h3></a><div class="product-vobler"></div><span>[совместимость - ROLSEN, VITEK, Daewoo, Elenberg, предметов в комплекте - 6 шт.]</span></div><div class="code"><span>Код:</span><span data-product-param="code">1005456</span></div><div class="social"><div class="rating" data-rating="4"><div class="fill-rating"></div></div><a href="/product/6c0a068f74fa3120/komplekt-pylesbornik--filtr-topperr-dw-5/opinion/" class="opinions-count"><i></i>
+						1					</a></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="7" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="1005463" data-product-block-replace="6c0a0691-74fa-11e4-b22d-00155d031202"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/6c0a069174fa3120/komplekt-pylesbornik--filtr-topperr-er-3/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/190/190/a6203bd2834a4fbca94e4eb51bf85739/a9eadf5b2bd5ea4b61b907f5c4140b40f69250f8e1d7e2bae43282426587bbf0.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/175/125/53d4a68dae1eba13b573a75ef2c10788/a9eadf5b2bd5ea4b61b907f5c4140b40f69250f8e1d7e2bae43282426587bbf0.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st4/fit/130/130/ee2ee1a62460b62194aaf05255919a36/a9eadf5b2bd5ea4b61b907f5c4140b40f69250f8e1d7e2bae43282426587bbf0.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st4/fit/190/190/a6203bd2834a4fbca94e4eb51bf85739/a9eadf5b2bd5ea4b61b907f5c4140b40f69250f8e1d7e2bae43282426587bbf0.jpg" alt="Комплект Пылесборник + Фильтр Topperr ER 3"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Topperr"></i><a
+				href               = "/product/6c0a069174fa3120/komplekt-pylesbornik--filtr-topperr-er-3/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Комплект Пылесборник + Фильтр Topperr ER 3</h3></a><div class="product-vobler"></div><span>[совместимость - BORK, ROLSEN, VITEK, PHILIPS, предметов в комплекте - 7 шт.]</span></div><div class="code"><span>Код:</span><span data-product-param="code">1005463</span></div><div class="social"><div class="rating" data-rating="0"><div class="fill-rating"></div></div></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div><div class="item" data-position-index="8" data-id="catalog-item"><div data-id="product" class="catalog-item-inner catalog-product has-avails" data-code="7940850" data-product-block-replace="3c45c3c7-aea5-11e5-9dc3-001e6728a5a4"><div class="product-info"><div class="image"><a class="show-popover ec-price-item-link" href="/product/3c45c3c7aea58a5a/komplekt-pylesbornik--filtr-topperr-dw-50/" role="button" tab-index="0" data-role="product-card-link" data-commerce-target="CATALOG_PRODUCT_VIEW"><picture><source type="image/webp" media="(min-width: 992px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/190/190/36b377f72ce7c56f5ab3398463040d5e/a9b070185638fd62161bdf2c6402572fc84dd8ef6241ecc98a45722d06796f3d.jpg.webp"><source type="image/webp" media="(min-width: 768px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/175/125/9e9a3641edced732a8abecb71705d292/a9b070185638fd62161bdf2c6402572fc84dd8ef6241ecc98a45722d06796f3d.jpg.webp"><source type="image/webp" media="(max-width: 767px)" data-srcset="https://c.dns-shop.ru/thumb/st1/fit/130/130/7a27e992c09ecde887e67cdd200d76cb/a9b070185638fd62161bdf2c6402572fc84dd8ef6241ecc98a45722d06796f3d.jpg.webp"><img src="https://c.dns-shop.ru/thumb/st1/fit/190/190/36b377f72ce7c56f5ab3398463040d5e/a9b070185638fd62161bdf2c6402572fc84dd8ef6241ecc98a45722d06796f3d.jpg" alt="Комплект Пылесборник + Фильтр Topperr DW 50"></picture></a><div class="product-image-vobler"></div></div><div class="title"><i class="hidden" data-product-param="brand" data-value="Topperr"></i><a
+				href               = "/product/3c45c3c7aea58a5a/komplekt-pylesbornik--filtr-topperr-dw-50/"
+				data-product-param = "name"
+				data-role          = "product-card-link"
+			><h3>Комплект Пылесборник + Фильтр Topperr DW 50</h3></a><div class="product-vobler"></div><span>[3.4 л, совместимость - ROLSEN, VITEK, Daewoo, Elenberg, предметов в комплекте - 5 шт.]</span></div><div class="code"><span>Код:</span><span data-product-param="code">7940850</span></div><div class="social"><div class="rating" data-rating="0"><div class="fill-rating"></div></div></div></div><div class="product-price"><div class="row-placeholder"></div></div><div class="product-buttons"><div class="row-placeholder"></div><div class="row-placeholder"></div><div class="row-placeholder"></div></div><div class="product-avails"><div class="row-placeholder"></div><div class="row-placeholder"></div></div></div></div></div>	</div>
+
+		
+								</div>
+
+		</main>
+	</div>
+			
+<footer class="layout-footer" data-show-after-load hidden>
+	<div class="layout-footer__container">
+		<div class="layout-footer__our-projects">
+			<div class="layout-footer__dns-project">
+				<a class="layout-footer__dns-project-link" href="https://www.dns-shop.ru"></a>			</div>
+			<div class="layout-footer__technopoint-project">
+				<a class="layout-footer__technopoint-project-link" href="https://technopoint.ru"></a>			</div>
+			<div class="layout-footer__service-project">
+				<a class="layout-footer__service-project-link" href="https://service.dns-shop.ru"></a>			</div>
+										<div class="layout-footer__club-project">
+					<a class="layout-footer__club-project-link" href="http://club.dns-shop.ru/"></a>				</div>
+					</div>
+		<div class="layout-footer__content">
+			<div class="layout-footer__content-block">
+				<div class="layout-footer__content-block-title">
+					<h4>Компания DNS</h4>
+					<a href="/company-main/">Компания DNS</a>				</div>
+				<ul class="layout-footer__content-block-list">
+																	
+																			<li><a href="/corp_dept">Корпоративные продажи</a></li>											
+					<li><a href="/feedback/">Обратная связь</a></li>
+											<li><a href="/jobs/">Вакансии</a></li>
+																<li><a href="/news/">Новости</a></li>
+					
+																																				<li><a href="/personal_data">Персональные данные</a></li>											
+											<li><a href="/b2b/partners/">Партнерам</a></li>
+									</ul>
+			</div>
+			<div class="layout-footer__content-block">
+				<div class="layout-footer__content-block-title">
+					<h4>Покупателям</h4>
+					<a href="/for-buyers/">Покупателям</a>				</div>
+				<ul class="layout-footer__content-block-list">
+																		<li>
+								<!--googleoff: all--><!--noindex-->								<a href="http://prozapass.ru" target="_blank" rel="nofollow noopener">Бонусная программа</a>								<!--/noindex--><!--googleon: all-->							</li>
+											
+																								<li><a href="/p_card">Подарочные карты</a></li>											
+											<li><a href="/check-invoice/">Проверка оплаты счёта</a></li>
+					
+					<li><a href="/credit/">Кредиты</a></li>
+					<li><a href="/services/">Услуги</a></li>
+					<li><a href="/delivery/">Доставка</a></li>
+
+											<li><a href="/technical-support/">Сервисные центры</a></li>
+						<li><a href="/technical-support/service-status/">Статус оборудования СЦ</a></li>
+					
+					<li>
+						<!--googleoff: all--><!--noindex-->						<a href="http://club.dns-shop.ru/" target="_blank" rel="nofollow noopener">Клуб экспертов DNS</a>						<!--/noindex--><!--googleon: all-->					</li>
+
+				</ul>
+			</div>
+			<div class="layout-footer__content-block">
+				<div class="layout-footer__content-block-title">
+					<h4>Помощь</h4>
+										<a href="/im_info">Помощь</a>				</div>
+				<ul class="layout-footer__content-block-list">
+																								<li><a href="/inet_order_individual">Как оформить заказ</a></li>						
+																			<li><a href="/im_payment">Способы оплаты</a></li>						
+																			<li><a href="/im_cashback_good">Обмен и возврат товара</a></li>						
+																			<li><a href="/im_cashback_bad">Гарантийное обслуживание</a></li>						
+																			<li><a href="/info_businesses">Информация для юр. лиц</a></li>						
+																			<li><a href="/order_status_info">Статусы заказов</a></li>						
+																				<li><a href="/knowledge_base/">База знаний</a></li>															</ul>
+			</div>
+			<div class="layout-footer__content-block">
+				<div class="layout-footer__content-block-title">
+																	<h4>Прайс листы</h4>
+						<a href="/files/price/price-rostov-na-donu.xls">Прайс-листы</a>									</div>
+				<div class="layout-footer__price-list">
+					
+			<div>
+			<a href="/files/price/price-rostov-na-donu.xls">Microsoft Excel&nbsp;(8.63 Мб)</a>
+			<span>Обновлен&nbsp;14.03.2019 04:49</span>
+		</div>
+	
+			<div>
+			<a href="/files/price/price-rostov-na-donu.zip">Zip-архив&nbsp;(1.96 Мб)</a>
+			<span>Обновлен&nbsp;14.03.2019 04:50</span>
+		</div>
+					</div>
+				<ul class="layout-footer__payment-methods-list layout-footer__payment-methods-list-desktop">
+					<li><span class="layout-footer__payment-icon-visa" title="Visa" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-maestro" title="Maestro" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-mastercard" title="MasterCard" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-mir" title="&quot;МИР&quot;" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-gpay" title="Google Pay" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-qiwi" title="Киви" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-yandex" title="Яндекс.Деньги" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-webmoney" title="WebMoney" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-rub" title="Наличные" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-credit" title="Кредит" data-toggle="tooltip"></span></li>
+				</ul>
+			</div>
+			<div class="layout-footer__content-block layout-footer__content-block-mobile">
+				<ul class="layout-footer__payment-methods-list">
+					<li><span class="layout-footer__payment-icon-visa" title="Visa" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-maestro" title="Maestro" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-mastercard" title="MasterCard" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-mir" title="&quot;МИР&quot;" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-gpay" title="Google Pay" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-qiwi" title="Киви" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-yandex" title="Яндекс.Деньги" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-webmoney" title="WebMoney" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-rub" title="Наличные" data-toggle="tooltip"></span></li>
+					<li><span class="layout-footer__payment-icon-credit" title="Кредит" data-toggle="tooltip"></span></li>
+				</ul>
+			</div>
+			<div class="layout-footer__content-block layout-footer__content-block-big">
+				<div class="content-block-title content-block-title-show">
+					<h4>Оставайтесь на связи</h4>
+				</div>
+									<!--googleoff: all--><!--noindex-->					<ul class="layout-footer__socials-list">
+						<li>
+							<a href="http://vk.com/dnsstore" target="_blank" class="layout-footer__socials-link-vk" rel="nofollow noopener">
+								
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<path d="M4,1 C2.34314575,1 1,2.34314575 1,4 L1,34 C1,35.6568542 2.34314575,37 4,37 L34,37 C35.6568542,37 37,35.6568542 37,34 L37,4 C37,2.34314575 35.6568542,1 34,1 L4,1 Z M4,0 L34,0 C36.209139,-4.05812251e-16 38,1.790861 38,4 L38,34 C38,36.209139 36.209139,38 34,38 L4,38 C1.790861,38 2.705415e-16,36.209139 0,34 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" fill="#717171" fill-rule="nonzero"></path>
+	<path d="M27.8836393,23.288459 C27.8618689,23.241541 27.8415738,23.202623 27.8227213,23.1714426 C27.5107869,22.6096393 26.9146885,21.9200656 26.0347869,21.1025246 L26.0161967,21.0838033 L26.0068852,21.074623 L25.9974754,21.0652131 L25.9880328,21.0652131 C25.5886885,20.6845246 25.3358033,20.4285574 25.2299016,20.2975082 C25.0361311,20.0478689 24.9927213,19.7951803 25.098623,19.5391475 C25.1734426,19.3457049 25.4544918,18.9371803 25.9411148,18.3130164 C26.197082,17.9822295 26.3998033,17.7171148 26.5495082,17.517377 C27.6292131,16.0819672 28.0973115,15.1647213 27.9537049,14.7652787 L27.8979344,14.6719344 C27.860459,14.6157377 27.7637377,14.5643279 27.6079016,14.5174426 C27.4517049,14.4706557 27.2520656,14.462918 27.008623,14.4940984 L24.3127541,14.5127213 C24.269082,14.4972459 24.2067213,14.4986885 24.1254754,14.5174426 C24.0443279,14.5361967 24.0037377,14.5456066 24.0037377,14.5456066 L23.9568197,14.5690492 L23.9195738,14.5972131 C23.8883607,14.6158361 23.8540328,14.6485902 23.8165574,14.6954098 C23.7792787,14.7420656 23.7480984,14.7968197 23.7231803,14.8592131 C23.4296721,15.6143279 23.0959672,16.3163934 22.7214426,16.965377 C22.4905246,17.3523607 22.278459,17.6877377 22.0847869,17.9717049 C21.891377,18.2555738 21.7291148,18.4647213 21.5981639,18.5987869 C21.4670164,18.7329836 21.3486557,18.8404918 21.2423607,18.9217049 C21.1362295,19.0029508 21.0552131,19.0372787 20.9991148,19.0247213 C20.9428852,19.0121639 20.8899344,18.9997049 20.8398033,18.9872459 C20.7524918,18.9310492 20.6822623,18.854623 20.6293115,18.7579016 C20.5761311,18.6611803 20.5403279,18.5394426 20.5216066,18.3927869 C20.5029836,18.2460328 20.4919672,18.1198033 20.4888197,18.0136721 C20.4859016,17.9076721 20.4872459,17.7577377 20.4935738,17.5642951 C20.5000656,17.3707541 20.5029836,17.2398033 20.5029836,17.1711475 C20.5029836,16.9339672 20.5076066,16.6765574 20.5168852,16.3988525 C20.5263279,16.1211475 20.5339672,15.9011148 20.5403607,15.7390164 C20.5467213,15.5767541 20.5496721,15.405082 20.5496721,15.2240984 C20.5496721,15.0431148 20.5386557,14.9011803 20.5168852,14.7981639 C20.495377,14.6952787 20.4623607,14.5954098 20.4188525,14.4985902 C20.375082,14.4018689 20.3110164,14.3270492 20.2269508,14.2739344 C20.1427213,14.2208852 20.038,14.1787869 19.913377,14.1475082 C19.5825902,14.0726557 19.161377,14.0321639 18.649541,14.0258689 C17.4888525,14.0134098 16.7430492,14.0883607 16.4122951,14.250623 C16.2812459,14.3191803 16.1626557,14.4128525 16.056623,14.5313443 C15.9442623,14.6686885 15.9285902,14.7436393 16.0097049,14.7559672 C16.3841967,14.8120656 16.6493115,14.9462623 16.8053443,15.1584262 L16.8615738,15.2708525 C16.9053115,15.3519672 16.9489836,15.4955738 16.9926885,15.7014754 C17.0363279,15.907377 17.0644918,16.1351475 17.0768852,16.3846557 C17.1080328,16.8402951 17.1080328,17.2303279 17.0768852,17.5547869 C17.0456393,17.879377 17.0161311,18.1320656 16.9879672,18.3130492 C16.9598033,18.4940328 16.9177049,18.6406885 16.8615738,18.7529836 C16.8053443,18.8653115 16.7679344,18.9339672 16.7491803,18.9588852 C16.730459,18.9838033 16.7148525,18.9995082 16.702459,19.0056721 C16.6213443,19.0367541 16.5369836,19.0525902 16.4496721,19.0525902 C16.3622295,19.0525902 16.2561967,19.0088525 16.1314098,18.9214426 C16.0066557,18.8340328 15.8771803,18.7139672 15.7429836,18.5610492 C15.6087869,18.4080984 15.4574426,18.1943607 15.2888852,17.9198033 C15.120459,17.6452459 14.9457049,17.3207541 14.7647213,16.9463279 L14.6149836,16.6747869 C14.521377,16.5000984 14.3935082,16.2457377 14.2312459,15.9119344 C14.0688852,15.578 13.925377,15.2549836 13.800623,14.9429508 C13.7507541,14.8119016 13.6758361,14.7121311 13.576,14.6434754 L13.5291475,14.6153115 C13.498,14.5903934 13.448,14.5639344 13.3794098,14.5357377 C13.3107213,14.5075738 13.2390492,14.487377 13.1640984,14.4749508 L10.5992131,14.4935738 C10.3371148,14.4935738 10.1592787,14.5529508 10.0656393,14.671541 L10.0281639,14.7276393 C10.0094426,14.7588852 10,14.8087869 10,14.8774754 C10,14.9461311 10.0187213,15.0303934 10.0561967,15.1301639 C10.430623,16.0101639 10.8378033,16.8588525 11.2777377,17.6763607 C11.7176721,18.4938689 12.0999672,19.1523934 12.4243934,19.6513443 C12.7488852,20.1506557 13.0796393,20.6219016 13.4166557,21.0648525 C13.7536721,21.5079672 13.9767541,21.7919344 14.0859016,21.9166885 C14.1951803,22.0416721 14.2810164,22.1351148 14.3434098,22.1975082 L14.5774754,22.4221311 C14.7272459,22.5719344 14.9471803,22.7513443 15.237377,22.9603607 C15.5276393,23.1695082 15.8489836,23.3754098 16.2015738,23.5783934 C16.5542295,23.7810492 16.9644918,23.9464262 17.4325902,24.0743279 C17.900623,24.2023607 18.3561639,24.2537377 18.7992787,24.2289508 L19.8758033,24.2289508 C20.0941311,24.2100984 20.259541,24.1414426 20.3719672,24.0229508 L20.4092131,23.9760328 C20.4342623,23.9387869 20.4577049,23.880918 20.4793443,23.8030492 C20.5012459,23.7250492 20.5121311,23.6391148 20.5121311,23.5456393 C20.5057377,23.2773443 20.5261639,23.035541 20.5728525,22.8202623 C20.6195082,22.6050492 20.6726885,22.4427869 20.7321639,22.3335082 C20.7916066,22.2243279 20.8586885,22.1321967 20.9333443,22.0575082 C21.0081639,21.9826557 21.0614754,21.9373115 21.0927541,21.9217049 C21.1238361,21.906 21.1486557,21.8953443 21.167377,21.8889508 C21.3171475,21.8390492 21.4934098,21.887377 21.6964262,22.0341639 C21.8992787,22.1808197 22.089541,22.3619016 22.2675082,22.5771148 C22.445377,22.7925246 22.659082,23.0341967 22.9086557,23.3024918 C23.1583934,23.5708852 23.3767541,23.7703934 23.5639016,23.9016393 L23.7510492,24.0139672 C23.8760328,24.088918 24.0382951,24.1575738 24.2380328,24.2199672 C24.4374098,24.2823279 24.6120984,24.2979344 24.7620984,24.2667541 L27.1583934,24.229377 C27.3954098,24.229377 27.5798361,24.1901311 27.7106557,24.1122623 C27.8417377,24.0342623 27.9196066,23.9483279 27.9447213,23.8548525 C27.9697705,23.7612787 27.9711148,23.6551148 27.9494754,23.5364262 C27.9272787,23.4180328 27.9054098,23.3352459 27.8836393,23.288459 Z" fill="#FFFFFF"></path>
+</svg>
+
+							</a>
+						</li>
+						<li>
+							<a href="http://www.facebook.com/dnsshop" target="_blank" class="layout-footer__socials-link-fb" rel="nofollow noopener">
+								
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<path d="M23.8273402,9.0043299 L21.128732,9 C18.0969381,9 16.1376598,11.0101546 16.1376598,14.1214021 L16.1376598,16.4827113 L13.4243299,16.4827113 C13.189866,16.4827113 13,16.6727938 13,16.9072577 L13,20.3285258 C13,20.5629897 13.1900825,20.7528557 13.4243299,20.7528557 L16.1376598,20.7528557 L16.1376598,29.3858041 C16.1376598,29.620268 16.3275258,29.810134 16.5619897,29.810134 L20.1021134,29.810134 C20.3365773,29.810134 20.5264433,29.6200515 20.5264433,29.3858041 L20.5264433,20.7528557 L23.6989588,20.7528557 C23.9334227,20.7528557 24.1232887,20.5629897 24.1232887,20.3285258 L24.1245876,16.9072577 C24.1245876,16.7946804 24.0797732,16.686866 24.0003196,16.6071959 C23.920866,16.5275258 23.8126186,16.4827113 23.7000412,16.4827113 L20.5264433,16.4827113 L20.5264433,14.481 C20.5264433,13.5188969 20.7557113,13.0304845 22.009,13.0304845 L23.8269072,13.0298351 C24.0611546,13.0298351 24.2510206,12.8397526 24.2510206,12.6055052 L24.2510206,9.42865979 C24.2510206,9.19462887 24.0613711,9.00476289 23.8273402,9.0043299 Z" fill="#FFFFFF"></path>
+	<path d="M4,1 C2.34314575,1 1,2.34314575 1,4 L1,34 C1,35.6568542 2.34314575,37 4,37 L34,37 C35.6568542,37 37,35.6568542 37,34 L37,4 C37,2.34314575 35.6568542,1 34,1 L4,1 Z M4,0 L34,0 C36.209139,-4.05812251e-16 38,1.790861 38,4 L38,34 C38,36.209139 36.209139,38 34,38 L4,38 C1.790861,38 2.705415e-16,36.209139 0,34 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" fill="#717171" fill-rule="nonzero"></path>
+</svg>
+
+							</a>
+						</li>
+						<li>
+							<a href="https://twitter.com/dnsshop" target="_blank" class="layout-footer__socials-link-tw" rel="nofollow noopener">
+								
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<path d="M28,13.731375 C27.330625,14.025 26.617375,14.219625 25.87375,14.314125 C26.63875,13.857375 27.222625,13.139625 27.497125,12.2745 C26.783875,12.69975 25.996375,13.000125 25.157125,13.16775 C24.479875,12.446625 23.514625,12 22.461625,12 C20.418625,12 18.773875,13.65825 18.773875,15.691125 C18.773875,15.983625 18.798625,16.264875 18.859375,16.532625 C15.7915,16.383 13.076875,14.912625 11.25325,12.67275 C10.934875,13.225125 10.748125,13.857375 10.748125,14.538 C10.748125,15.816 11.40625,16.948875 12.38725,17.60475 C11.794375,17.5935 11.21275,17.421375 10.72,17.15025 C10.72,17.1615 10.72,17.176125 10.72,17.19075 C10.72,18.984 11.999125,20.4735 13.6765,20.816625 C13.376125,20.89875 13.04875,20.938125 12.709,20.938125 C12.47275,20.938125 12.23425,20.924625 12.010375,20.875125 C12.4885,22.3365 13.84525,23.410875 15.4585,23.44575 C14.203,24.427875 12.608875,25.019625 10.883125,25.019625 C10.5805,25.019625 10.29025,25.006125 10,24.969 C11.634625,26.023125 13.571875,26.625 15.661,26.625 C22.4515,26.625 26.164,21 26.164,16.12425 C26.164,15.961125 26.158375,15.803625 26.1505,15.64725 C26.882875,15.1275 27.49825,14.478375 28,13.731375 Z" fill="#FFFFFF"></path>
+	<path d="M4,1 C2.34314575,1 1,2.34314575 1,4 L1,34 C1,35.6568542 2.34314575,37 4,37 L34,37 C35.6568542,37 37,35.6568542 37,34 L37,4 C37,2.34314575 35.6568542,1 34,1 L4,1 Z M4,0 L34,0 C36.209139,-4.05812251e-16 38,1.790861 38,4 L38,34 C38,36.209139 36.209139,38 34,38 L4,38 C1.790861,38 2.705415e-16,36.209139 0,34 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" fill="#717171" fill-rule="nonzero"></path>
+</svg>
+
+							</a>
+						</li>
+						<li>
+							<a href="http://www.youtube.com/c/DNSSHOPvideo" target="_blank" class="layout-footer__socials-link-yt" rel="nofollow noopener">
+								
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<path d="M29.1814742,13.3307903 C28.4234419,12.4296871 27.0238935,12.0621194 24.3510677,12.0621194 L14.648729,12.0621194 C11.9147323,12.0621194 10.4914742,12.4533968 9.7362871,13.4127581 C9,14.3481387 9,15.7263484 9,17.6338258 L9,21.2694677 C9,24.9648581 9.8736,26.8411065 14.648729,26.8411065 L24.3511355,26.8411065 C26.6689935,26.8411065 27.9533806,26.5167581 28.7843032,25.7215355 C29.636429,24.9060581 30,23.5745903 30,21.2694677 L30,17.6338258 C30,15.622229 29.943029,14.2358903 29.1814742,13.3307903 Z M22.4820677,19.9535806 L18.0762677,22.2561968 C17.977771,22.3076806 17.8700613,22.3332194 17.7624871,22.3332194 C17.6406871,22.3332194 17.5191581,22.3004323 17.4115161,22.2352645 C17.2088323,22.1124484 17.0850677,21.8927613 17.0850677,21.6558 L17.0850677,17.0653355 C17.0850677,16.8287806 17.2084935,16.6092968 17.410771,16.4864129 C17.6131161,16.363529 17.8647774,16.355129 18.0747097,16.4641935 L22.4805097,18.7519742 C22.7046677,18.8683548 22.8454355,19.0997613 22.8457742,19.3522355 C22.8460452,19.6049129 22.7058871,19.8366581 22.4820677,19.9535806 Z" fill="#FFFFFF"></path>
+	<path d="M4,1 C2.34314575,1 1,2.34314575 1,4 L1,34 C1,35.6568542 2.34314575,37 4,37 L34,37 C35.6568542,37 37,35.6568542 37,34 L37,4 C37,2.34314575 35.6568542,1 34,1 L4,1 Z M4,0 L34,0 C36.209139,-4.05812251e-16 38,1.790861 38,4 L38,34 C38,36.209139 36.209139,38 34,38 L4,38 C1.790861,38 2.705415e-16,36.209139 0,34 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 Z" fill="#717171"></path>
+</svg>
+
+							</a>
+						</li>
+					</ul>
+					<!--/noindex--><!--googleon: all-->																	
+<a href="javascript:" data-base-modal data-base-modal-id="base-modal-OJ8NFu-n"></a>
+<div class="base-modal base-modal_hidden" data-modal-type="" id="base-modal-OJ8NFu-n" tabindex="-1" role="dialog" data-show-after-load hidden>
+	<div class="base-modal__backdrop" data-base-modal-action="close"></div>
+	<div class="base-modal__container base-modal__container_size_sm">
+		<div class="base-modal__header">
+							<div class="base-modal__header-content">
+					<span class="feedback-widget-header">Сообщить об ошибке на странице</span>				</div>
+						<i class="base-modal__header-close-icon" data-base-modal-action="close"></i>
+		</div>
+		<div class="base-modal__content"><!--googleoff: all--><!--noindex-->	<form id="b-feedback-fast-form" class="feedback-fast-form" action="/feedback/ticket/fast/" method="POST">
+<input type="hidden" name="_csrf" value="BvkzEuBOnmH9_vRgdfHB14XzEJ120FLkHH584OgSCDhBkHV9sn_PUr6uolMvk5Wb0p1Z_xflIpNyTyaaxSN4YA==">		<div class="form-group field-ticketcreateform-text required">
+<label class="control-label" for="ticketcreateform-text">Текст сообщения</label>
+<textarea id="ticketcreateform-text" class="form-control" name="TicketCreateForm[text]" rows="10" data-role="create-ticket-form-text-input" aria-required="true"></textarea>
+
+<p class="help-block help-block-error"></p>
+</div>	</form><!--/noindex--><!--googleon: all--></div>
+		<div class="base-modal__footer">
+							<div class="base-modal__footer-content">
+					<!--googleoff: all--><!--noindex-->	<button type="button" class="btn btn-primary feedback-fast-form-submit-button" data-action="confirm">Сообщить об ошибке</button>
+<!--/noindex--><!--googleon: all-->				</div>
+					</div>
+	</div>
+</div>
+																	<div class="layout-footer__subscription">
+											</div>
+								<div class="footer-phone">
+					<span class="footer-phone__phone-number">8-800-77-07-999</span>
+											<span class="footer-phone__phone-worktime">(c 03:00 до 22:00)</span>
+									</div>
+				<a class="layout-footer__link-shops" href="/shops/rostov-na-donu/">Адреса магазинов в г. Ростов-на-Дону</a>			</div>
+		</div>
+		<!--googleoff: all--><!--noindex-->		<div class="layout-footer__content layout-footer__content-text-grey">
+			Администрация Сайта не несет ответственности за размещаемые Пользователями материалы (в т.ч. информации и изображений), их содержание, качество.
+		</div>
+		<!--/noindex--><!--googleon: all-->		<div class="layout-footer__content layout-footer__content-text-grey">
+			© 2002—2019 Компания DNS
+		</div>
+	</div>
+</footer>
+
+<div id="bodyLoader" class="body-loader">
+	<div class="loader">
+		<svg class="circular" viewBox="25 25 50 50">
+			<circle class="path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10" />
+		</svg>
+	</div>
+</div>
+
+<div
+	class="modal fade modal-for-avails"
+	id="modal-for-avails-template"
+	tabindex="-1"
+	role="dialog"
+	data-id="modal-for-avails"
+>
+	<div class="modal-dialog modal-md" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<div class="hide-modal" data-role="hide-modal"><i></i>Назад</div>
+				<h4 class="modal-title">Наличие товара <span>(Ростов-на-Дону)</span></h4>
+				<button type="button" class="btn btn-default modal-close-btn" data-dismiss="modal" aria-hidden="true">
+					<span class="remove" aria-hidden="true"></span>
+				</button>
+			</div>
+			<div class="modal-body">
+				<div data-id="avails-modal-content" class="dns-row">
+					<div class="loading-dots"><span></span><span></span><span></span><span></span></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<div class="modal fade modal-for-wobbler" id="" tabindex="-1" role="dialog" data-id="modal-for-wobbler"><div class="modal-dialog" role="document"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span><span>Закрыть</span></button><h4 class="modal-title" id="myModalLabel"></h4></div><div class="modal-body"><div class="wobbler-modal-container"><a href="javascript:" class="pull-left wobbler-modal-image wobbler-modal-url"><img  /></a><div class="wobbler-modal-content"></div></div><div class="action-participant"><div class="loading-dots"><span></span><span></span><span></span><span></span></div><div class="participant-block"><b class="participant-block-title">Товары, участвующие в акции</b><div class="participant-content"></div></div></div></div></div></div></div>
+
+
+	
+<script type="text/javascript">
+	var _tmr = window._tmr || (window._tmr = []);
+	_tmr.push({id: "2744333", type: "pageView", start: (new Date()).getTime()});
+	(function (d, w, id) {
+		if (d.getElementById(id)) return;
+		var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+		ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+		var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+		if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+	})(document, window, "topmailru-code");
+</script>
+<noscript>
+	<div style="position:absolute;left:-10000px;">
+		<img src="//top-fwz1.mail.ru/counter?id=2744333;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+	</div>
+</noscript>
+
+	
+	
+<script type="text/javascript">
+	var sonar_product = {"category":["Ростов-на-Дону"]};
+	</script>
+<script type="text/javascript">
+	(function(){
+		var s = document.createElement('script');
+		var x = document.getElementsByTagName('script')[0];
+		s.type = 'text/javascript';
+		s.async = true;
+		s.src = ('https:' == document.location.protocol? 'https://' : 'http://') + 'eu-sonar.sociomantic.com/js/2010-07-01/adpan/dns-shop-ru';
+		x.parentNode.insertBefore(s, x);
+	})();
+</script>
+
+
+	
+
+			<script src="https://as.dns-shop.ru/assets/2452dc62/js/modules/catalog/widgets/digital-product-popover.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/modules/catalog-drawer.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/modules/new-catalog.js"></script>
+<script src="https://as.dns-shop.ru/assets/f52410d8/js/select2.full.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/f52410d8/js/select2-krajee.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/f52410d8/js/i18n/ru.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/filters.js"></script>
+<script src="https://as.dns-shop.ru/assets/e917f962/url-polyfill.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/49774819/events.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/aad208d4/jquery-ui.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/aad208d4/jquery-ui-compatibility-hacks.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/18b98cb9/bootstrap.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/cfc9cd3/yii.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/635949ec/load-css.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/66499709/polyfill.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/common/widgets/loading-bar.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/helpers.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/common.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/modules.js"></script>
+<script src="https://as.dns-shop.ru/assets/8220a532/js/bootstrap-datetimepicker.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/8220a532/js/locales//bootstrap-datetimepicker.ru.js"></script>
+<script src="https://as.dns-shop.ru/assets/f3112d9a/owl.carousel.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/fcb91a69/input-row.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/apps/checkout.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/modules/catalog/widgets/delivery-info-widget.js"></script>
+<script src="https://as.dns-shop.ru/assets/cfc9cd3/yii.activeForm.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/cfc9cd3/yii.validation.min.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/modules/pwa-sw-wrapper.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/modules/promo-banner.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/modules/menu.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/modules/menu/widgets/menu-widget-desktop.js"></script>
+<script src="https://as.dns-shop.ru/assets/2452dc62/js/common/components/ecommerce.js"></script>
+<script src="https://as.dns-shop.ru/assets/1c77241a/scroll-top.js"></script>
+<script src="https://as.dns-shop.ru/assets/52c4d5d5/feedback-modal-widget.js"></script>
+<script src="https://as.dns-shop.ru/assets/7b59d722/modal.js"></script>
+<script src="https://as.dns-shop.ru/assets/b021e221/newrelic-browser.js"></script>
+<script>			var script = document.createElement('script');
+			script.src = '/assets/menu/es-mobile-9437a276-5970-11de-8bf7-00151716f9f5-8c2e120b-8732-48a7-8178-0e04d47962d8.js?v=1552543306';
+			document.querySelector('head').appendChild(script);
+			MenuWidget.addToReplacementsQueue('es-mobile-9437a276-5970-11de-8bf7-00151716f9f5-8c2e120b-8732-48a7-8178-0e04d47962d8.js');
+			var script = document.createElement('script');
+			script.src = '/assets/menu/es-desktop-9437a276-5970-11de-8bf7-00151716f9f5-8c2e120b-8732-48a7-8178-0e04d47962d8.js?v=1552543315';
+			document.querySelector('head').appendChild(script);
+			MenuWidget.addToReplacementsQueue('es-desktop-9437a276-5970-11de-8bf7-00151716f9f5-8c2e120b-8732-48a7-8178-0e04d47962d8.js');
+			var script = document.createElement('script');
+			script.src = '/assets/menu/es-desktop-9437a276-5970-11de-8bf7-00151716f9f5-8c2e120b-8732-48a7-8178-0e04d47962d8-remains.js?v=1552543203';
+			document.querySelector('head').appendChild(script);
+			MenuWidget.addToReplacementsQueue('es-desktop-9437a276-5970-11de-8bf7-00151716f9f5-8c2e120b-8732-48a7-8178-0e04d47962d8-remains.js');
+loadCSS("https://as.dns-shop.ru/assets/f52410d8/css/select2.min.css");
+loadCSS("https://as.dns-shop.ru/assets/f52410d8/css/select2-krajee.min.css");
+(function(){if(typeof window.CustomEvent==="function"){return false;}
+function CustomEvent(event,params){params=params||{bubbles:false,cancelable:false,detail:undefined};var evt=document.createEvent("CustomEvent");evt.initCustomEvent(event,params.bubbles,params.cancelable,params.detail);return evt;}
+CustomEvent.prototype=window.Event.prototype;window.CustomEvent=CustomEvent;})();(function(w,d){var lazyLoadInit=(function(){var lazyLoad=new LazyLoad();w.addEventListener(Constants.EVENT_LAZY_LOAD_UPDATE,function(){lazyLoad.update();});});var v=!("IntersectionObserver"in w)?"8.6.0":"10.4.2";var b=d.getElementsByTagName('body')[0];var s=d.createElement("script");s.src="https://as.dns-shop.ru/assets/6c7b7857/lazyload-v"+v+".min.js";s.async=true;s.onload=lazyLoadInit;w.lazyLoadOptions={};b.appendChild(s);}(window,document));
+loadCSS("https://as.dns-shop.ru/assets/2452dc62/css/theme/widgets/loading-bar.css");
+loadCSS("https://as.dns-shop.ru/assets/2452dc62/css/layout.css");
+loadCSS("https://as.dns-shop.ru/assets/f3112d9a/owl.carousel.min.css");
+loadCSS("https://as.dns-shop.ru/assets/f3112d9a/owl.transitions.min.css");
+loadCSS("https://as.dns-shop.ru/assets/2452dc62/css/modules/remains/product-remains.css");
+loadCSS("https://as.dns-shop.ru/assets/fcb91a69/input-row.css");
+loadCSS("https://as.dns-shop.ru/assets/1c77241a/scroll-top.css");
+loadCSS("https://as.dns-shop.ru/assets/52c4d5d5/feedback-modal-widget.css");
+loadCSS("https://as.dns-shop.ru/assets/7b59d722/modal.css");
+window.REGISTERED_JS_KEYS=["2169c99f8145857edb443bb3d273cd26","pwa_sw_main_precache","ga_send_url","ga_traking_id","c608f196d90d99ac03b34e61af78506c","getCityModalUrl","changeCityUrl","fe120764939d12525eb1024cb5ac0a8d","2792a35c8ba23a61d420beb06a0f09cc","769a43ad1b50ac090ae91b2a5c2f38f2","aac499d2de6cb1bbe0d14ddcd799fd61","67f6d2e1ec62cb772e9daffe4411529b","4c1fcf7a4ce4e897ff8f58afd9a856ed","67ce18512275bd10c6fe1cc2e64739dc","a2682b03eb273240b50efa91af36a40a","ba8708ba91244fbee031f8934e689c19","cc01691f1c9e0235ff3be3a6e668a16c","09f1408ff05e109cd08b3a1667402f0f","3a2617bb9e2753553f4d38140cec9591","dcfd1f63da965cc26f90cc738852ea69","cd2d0617660a3efb135c81981e743d3f","b37d2d1e73e4bb97a46548f94f8b9600","def39811727fae677109abd02d9139b9","e84fc2d04f30f8957ddce6dafa8a60d7","ca9d1d05926c249646da3ec395f4c082"];</script>
+<script>jQuery(function ($) {
+window.getProfileHintUrl = "\/uniformProfile\/display\/get-profile-hint\/?uid=";
+window.feedbackModalWidget("base-modal-OJ8NFu-n");
+jQuery('#b-feedback-fast-form').yiiActiveForm([{"id":"ticketcreateform-text","name":"text","container":".field-ticketcreateform-text","input":"#ticketcreateform-text","error":".help-block.help-block-error","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значение «Текст сообщения» должно быть строкой.","min":3,"tooShort":"Значение «Текст сообщения» должно содержать минимум 3 символа.","max":5000,"tooLong":"Значение «Текст сообщения» должно содержать максимум 5 000 символов.","skipOnEmpty":1});yii.validation.required(value, messages, {"message":"Необходимо заполнить «Текст сообщения»."});}}], []);
+});</script>	</body>
+</html>

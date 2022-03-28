@@ -1,0 +1,28 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.positronica.ru	TRUE	/	FALSE	0	PHPSESSID	8b8a77575cf0aaf7076b6b7ceae98447
+.positronica.ru	TRUE	/	FALSE	1645690002	BITRIX_SM_SALE_UID	afdce835ac7abe7d47a46f9ff3755966
+.positronica.ru	TRUE	/	FALSE	1646122002	BITRIX_CONVERSION_CONTEXT_s1	%7B%22ID%22%3A2%2C%22EXPIRE%22%3A1614632340%2C%22UNIQUE%22%3A%5B%22conversion_visit_day%22%5D%7D
+.positronica.ru	TRUE	/	FALSE	1646122003	_ym_uid	1614586003324646204
+.positronica.ru	TRUE	/	FALSE	1646122003	_ym_d	1614586003
+.positronica.ru	TRUE	/	FALSE	1614658003	_ym_isad	2
+.positronica.ru	TRUE	/	FALSE	1614586063	_gat_UA-21380423-10	1
+.positronica.ru	TRUE	/	FALSE	1677658004	_ga	GA1.2.694258718.1614586004
+.positronica.ru	TRUE	/	FALSE	1614672404	_gid	GA1.2.703462339.1614586004
+.positronica.ru	TRUE	/	FALSE	1614586064	_dc_gtm_UA-21380423-10	1
+.positronica.ru	TRUE	/	FALSE	2150143200	mindboxDeviceUUID	54ae2c77-8d76-4a76-81eb-f941cb88faab
+.positronica.ru	TRUE	/	FALSE	1677621600	directCrm-session	%7B%22deviceGuid%22%3A%2254ae2c77-8d76-4a76-81eb-f941cb88faab%22%7D
+.positronica.ru	TRUE	/	FALSE	1614587804	_ym_visorc	w
+positronica.ru	FALSE	/	FALSE	1929946004	BX_USER_ID	c9f21b3e93eaa6d33f7a7f9ece98366b
+.positronica.ru	TRUE	/	FALSE	1622362005	_fbp	fb.1.1614586004140.681531018
+positronica.ru	FALSE	/	FALSE	1614672406	tmr_detect	0%7C1614586006988
+.positronica.ru	TRUE	/	FALSE	1643357210	tmr_lvid	9a62b682702659e675583c47882a59b1
+.positronica.ru	TRUE	/	FALSE	1643357210	tmr_lvidTS	1614586003850
+.positronica.ru	TRUE	/	FALSE	1643357210	tmr_reqNum	13
+

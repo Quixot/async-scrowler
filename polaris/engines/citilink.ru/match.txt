@@ -1,0 +1,1115 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => <div class="product_data__gtm-js product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1110463&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:1999,&quot;oldPrice&quot;:2999,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 7016,  белый&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:1999}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="25"
+         data-review="0"
+         data-rating="0"
+         data-price="1999"
+        data-product-id=1110463
+        
+
+                    data-index='1'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-7016-ruchnoi-belyi-1110463/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1110463_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 7016,  белый"
+        src="https://items.s1.citilink.ru/1110463_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1110463_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-7016-ruchnoi-belyi-1110463/"             target="_self"
+                            title="Миксер POLARIS PHM 7016, ручной,  белый"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 7016,  белый</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-7016-ruchnoi-belyi-1110463/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           3.4
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 3.4 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           25
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                25 отзывов
+            </div></div></div></div></a><div class="ProductCardHorizontal__vendor-code
+            [1] =>  product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1110463&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:1999,&quot;oldPrice&quot;:2999,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 7016,  белый&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:1999}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="25"
+         data-review="0"
+         data-rating="0"
+         data-price="1999"
+        data-product-id=1110463
+        
+
+                    data-index='1'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-7016-ruchnoi-belyi-1110463/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1110463_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 7016,  белый"
+        src="https://items.s1.citilink.ru/1110463_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1110463_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-7016-ruchnoi-belyi-1110463/"             target="_self"
+                            title="Миксер POLARIS PHM 7016, ручной,  белый"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 7016,  белый</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-7016-ruchnoi-belyi-1110463/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           3.4
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 3.4 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           25
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                25 отзывов
+            </div></div></div></div></a><div class="
+        )
+
+    [1] => Array
+        (
+            [0] => <div class="product_data__gtm-js product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1148837&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:2499,&quot;oldPrice&quot;:3499,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 5014,  черный&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:2499}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="8"
+         data-review="0"
+         data-rating="0"
+         data-price="2499"
+        data-product-id=1148837
+        
+
+                    data-index='2'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-5014-ruchnoi-chernyi-1148837/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1148837_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 5014,  черный"
+        src="https://items.s1.citilink.ru/1148837_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1148837_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-5014-ruchnoi-chernyi-1148837/"             target="_self"
+                            title="Миксер POLARIS PHM 5014, ручной,  черный"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 5014,  черный</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-5014-ruchnoi-chernyi-1148837/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           4.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 4.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           8
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                8 отзывов
+            </div></div></div></div></a><div class="ProductCardHorizontal__vendor-code
+            [1] =>  product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1148837&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:2499,&quot;oldPrice&quot;:3499,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 5014,  черный&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:2499}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="8"
+         data-review="0"
+         data-rating="0"
+         data-price="2499"
+        data-product-id=1148837
+        
+
+                    data-index='2'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-5014-ruchnoi-chernyi-1148837/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1148837_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 5014,  черный"
+        src="https://items.s1.citilink.ru/1148837_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1148837_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-5014-ruchnoi-chernyi-1148837/"             target="_self"
+                            title="Миксер POLARIS PHM 5014, ручной,  черный"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 5014,  черный</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-5014-ruchnoi-chernyi-1148837/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           4.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 4.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           8
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                8 отзывов
+            </div></div></div></div></a><div class="
+        )
+
+    [2] => Array
+        (
+            [0] => <div class="product_data__gtm-js product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1435572&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:2699,&quot;oldPrice&quot;:3799,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 5009A,  черный&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:2699}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="10"
+         data-review="0"
+         data-rating="0"
+         data-price="2699"
+        data-product-id=1435572
+        
+
+                    data-index='3'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-5009a-ruchnoi-chernyi-1435572/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1435572_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 5009A,  черный"
+        src="https://items.s1.citilink.ru/1435572_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1435572_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-5009a-ruchnoi-chernyi-1435572/"             target="_self"
+                            title="Миксер POLARIS PHM 5009A, ручной,  черный"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 5009A,  черный</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-5009a-ruchnoi-chernyi-1435572/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon ProductCardHorizontal__icon_highlight IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           5.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 5.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           10
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                10 отзывов
+            </div></div></div></div></a><div class="ProductCardHorizontal__vendor-code
+            [1] =>  product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1435572&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:2699,&quot;oldPrice&quot;:3799,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 5009A,  черный&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:2699}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="10"
+         data-review="0"
+         data-rating="0"
+         data-price="2699"
+        data-product-id=1435572
+        
+
+                    data-index='3'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-5009a-ruchnoi-chernyi-1435572/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1435572_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 5009A,  черный"
+        src="https://items.s1.citilink.ru/1435572_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1435572_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-5009a-ruchnoi-chernyi-1435572/"             target="_self"
+                            title="Миксер POLARIS PHM 5009A, ручной,  черный"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 5009A,  черный</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-5009a-ruchnoi-chernyi-1435572/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon ProductCardHorizontal__icon_highlight IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           5.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 5.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           10
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                10 отзывов
+            </div></div></div></div></a><div class="
+        )
+
+    [3] => Array
+        (
+            [0] => <div class="product_data__gtm-js product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1114966&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:1330,&quot;oldPrice&quot;:0,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 4026,  белый и серый&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:1310}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="1"
+         data-review="0"
+         data-rating="0"
+         data-price="1330"
+        data-product-id=1114966
+        
+
+                    data-index='4'
+            ><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-4026-ruchnoi-belyi-i-seryi-1114966/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1114966_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 4026,  белый и серый"
+        src="https://items.s1.citilink.ru/1114966_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1114966_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-4026-ruchnoi-belyi-i-seryi-1114966/"             target="_self"
+                            title="Миксер POLARIS PHM 4026, ручной,  белый и серый"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 4026,  белый и серый</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-4026-ruchnoi-belyi-i-seryi-1114966/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           1.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 1.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           1
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                1 отзыв
+            </div></div></div></div></a><div class="ProductCardHorizontal__vendor-code
+            [1] =>  product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1114966&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:1330,&quot;oldPrice&quot;:0,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 4026,  белый и серый&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:1310}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="1"
+         data-review="0"
+         data-rating="0"
+         data-price="1330"
+        data-product-id=1114966
+        
+
+                    data-index='4'
+            ><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-4026-ruchnoi-belyi-i-seryi-1114966/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1114966_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 4026,  белый и серый"
+        src="https://items.s1.citilink.ru/1114966_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1114966_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-4026-ruchnoi-belyi-i-seryi-1114966/"             target="_self"
+                            title="Миксер POLARIS PHM 4026, ручной,  белый и серый"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 4026,  белый и серый</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-4026-ruchnoi-belyi-i-seryi-1114966/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           1.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 1.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           1
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                1 отзыв
+            </div></div></div></div></a><div class="
+        )
+
+    [4] => Array
+        (
+            [0] => <div class="product_data__gtm-js product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1363377&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:1999,&quot;oldPrice&quot;:2999,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 3018,  кофейный&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:1999}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="1"
+         data-review="0"
+         data-rating="0"
+         data-price="1999"
+        data-product-id=1363377
+        
+
+                    data-index='5'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-3018-ruchnoi-kofeinyi-1363377/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1363377_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 3018,  кофейный"
+        src="https://items.s1.citilink.ru/1363377_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1363377_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-3018-ruchnoi-kofeinyi-1363377/"             target="_self"
+                            title="Миксер POLARIS PHM 3018, ручной,  кофейный"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 3018,  кофейный</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-3018-ruchnoi-kofeinyi-1363377/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon ProductCardHorizontal__icon_highlight IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           5.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 5.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           1
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                1 отзыв
+            </div></div></div></div></a><div class="ProductCardHorizontal__vendor-code
+            [1] =>  product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1363377&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:1999,&quot;oldPrice&quot;:2999,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 3018,  кофейный&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:1999}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="1"
+         data-review="0"
+         data-rating="0"
+         data-price="1999"
+        data-product-id=1363377
+        
+
+                    data-index='5'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-3018-ruchnoi-kofeinyi-1363377/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1363377_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 3018,  кофейный"
+        src="https://items.s1.citilink.ru/1363377_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1363377_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-3018-ruchnoi-kofeinyi-1363377/"             target="_self"
+                            title="Миксер POLARIS PHM 3018, ручной,  кофейный"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 3018,  кофейный</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-3018-ruchnoi-kofeinyi-1363377/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon ProductCardHorizontal__icon_highlight IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           5.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 5.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           1
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                1 отзыв
+            </div></div></div></div></a><div class="
+        )
+
+    [5] => Array
+        (
+            [0] => <div class="product_data__gtm-js product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1481601&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:8499,&quot;oldPrice&quot;:12999,&quot;shortName&quot;:&quot;Миксер планетарный Polaris PKM 1002 1000Вт черный&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:8499}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="6"
+         data-review="0"
+         data-rating="0"
+         data-price="8499"
+        data-product-id=1481601
+        
+
+                    data-index='6'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-planetarnyi-polaris-pkm-1002-1481601/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1481601_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер планетарный Polaris PKM 1002 1000Вт черный"
+        src="https://items.s1.citilink.ru/1481601_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1481601_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-planetarnyi-polaris-pkm-1002-1481601/"             target="_self"
+                            title="Миксер планетарный Polaris PKM 1002 1000Вт черный"
+            
+            
+            
+            
+                    >Миксер планетарный Polaris PKM 1002 1000Вт черный</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-planetarnyi-polaris-pkm-1002-1481601/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon ProductCardHorizontal__icon_highlight IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           5.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 5.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           6
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                6 отзывов
+            </div></div></div></div></a><div class="ProductCardHorizontal__vendor-code
+            [1] =>  product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1481601&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:8499,&quot;oldPrice&quot;:12999,&quot;shortName&quot;:&quot;Миксер планетарный Polaris PKM 1002 1000Вт черный&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:8499}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="6"
+         data-review="0"
+         data-rating="0"
+         data-price="8499"
+        data-product-id=1481601
+        
+
+                    data-index='6'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-planetarnyi-polaris-pkm-1002-1481601/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1481601_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер планетарный Polaris PKM 1002 1000Вт черный"
+        src="https://items.s1.citilink.ru/1481601_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1481601_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-planetarnyi-polaris-pkm-1002-1481601/"             target="_self"
+                            title="Миксер планетарный Polaris PKM 1002 1000Вт черный"
+            
+            
+            
+            
+                    >Миксер планетарный Polaris PKM 1002 1000Вт черный</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-planetarnyi-polaris-pkm-1002-1481601/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon ProductCardHorizontal__icon_highlight IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           5.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 5.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           6
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                6 отзывов
+            </div></div></div></div></a><div class="
+        )
+
+    [6] => Array
+        (
+            [0] => <div class="product_data__gtm-js product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1363376&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:1999,&quot;oldPrice&quot;:2999,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 3018,  бордовый&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:1999}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="2"
+         data-review="0"
+         data-rating="0"
+         data-price="1999"
+        data-product-id=1363376
+        
+
+                    data-index='7'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-3018-ruchnoi-bordovyi-1363376/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1363376_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 3018,  бордовый"
+        src="https://items.s1.citilink.ru/1363376_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1363376_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-3018-ruchnoi-bordovyi-1363376/"             target="_self"
+                            title="Миксер POLARIS PHM 3018, ручной,  бордовый"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 3018,  бордовый</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-3018-ruchnoi-bordovyi-1363376/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon ProductCardHorizontal__icon_highlight IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           5.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 5.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           2
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                2 отзыва
+            </div></div></div></div></a><div class="ProductCardHorizontal__vendor-code
+            [1] =>  product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1363376&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:1999,&quot;oldPrice&quot;:2999,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 3018,  бордовый&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:1999}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="2"
+         data-review="0"
+         data-rating="0"
+         data-price="1999"
+        data-product-id=1363376
+        
+
+                    data-index='7'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                             ColorBadge_orange
+                                                                                                                                                                                 ProductLabelsSet__item"
+                    >
+        Рассрочка 0-0-6
+    </span></div></div><div class="ProductCardHorizontal__image-block"><a href="/product/mikser-polaris-phm-3018-ruchnoi-bordovyi-1363376/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1363376_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 3018,  бордовый"
+        src="https://items.s1.citilink.ru/1363376_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1363376_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-3018-ruchnoi-bordovyi-1363376/"             target="_self"
+                            title="Миксер POLARIS PHM 3018, ручной,  бордовый"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 3018,  бордовый</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-3018-ruchnoi-bordovyi-1363376/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon ProductCardHorizontal__icon_highlight IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           5.0
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 5.0 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           2
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                2 отзыва
+            </div></div></div></div></a><div class="
+        )
+
+    [7] => Array
+        (
+            [0] => <div class="product_data__gtm-js product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1050149&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:2699,&quot;oldPrice&quot;:3799,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 5015,  черный&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:2699}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="13"
+         data-review="0"
+         data-rating="0"
+         data-price="2699"
+        data-product-id=1050149
+        
+
+                    data-index='8'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                                                                                                                                                    ColorBadge_white
+                                                          ProductLabelsSet__item"
+                    >
+        Нет в наличии
+    </span></div></div><div class="ProductCardHorizontal__image-block ProductCardHorizontal__block_not-available"><a href="/product/mikser-polaris-phm-5015-ruchnoi-chernyi-1050149/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1050149_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 5015,  черный"
+        src="https://items.s1.citilink.ru/1050149_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1050149_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block ProductCardHorizontal__block_not-available"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-5015-ruchnoi-chernyi-1050149/"             target="_self"
+                            title="Миксер POLARIS PHM 5015, ручной,  черный"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 5015,  черный</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-5015-ruchnoi-chernyi-1050149/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           4.1
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 4.1 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           13
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                13 отзывов
+            </div></div></div></div></a><div class="ProductCardHorizontal__vendor-code
+            [1] =>  product_data__pageevents-js ProductCardHorizontal js--ProductCardInListing js--ProductCardInWishlist"
+         data-params="{&quot;id&quot;:&quot;1050149&quot;,&quot;categoryId&quot;:262,&quot;price&quot;:2699,&quot;oldPrice&quot;:3799,&quot;shortName&quot;:&quot;Миксер POLARIS PHM 5015,  черный&quot;,&quot;categoryName&quot;:&quot;Миксеры&quot;,&quot;brandName&quot;:&quot;POLARIS&quot;,&quot;clubPrice&quot;:2699}"
+         data-url="https://www.citilink.ru/configurator/product/add/"
+         data-date=""
+         data-opinion="13"
+         data-review="0"
+         data-rating="0"
+         data-price="2699"
+        data-product-id=1050149
+        
+
+                    data-index='8'
+            ><div class="ProductCardHorizontal__labels-block"><div class="ProductLabelsSet "><span class="ColorBadge                                                                                                                                                                                                                                                                                    ColorBadge_white
+                                                          ProductLabelsSet__item"
+                    >
+        Нет в наличии
+    </span></div></div><div class="ProductCardHorizontal__image-block ProductCardHorizontal__block_not-available"><a href="/product/mikser-polaris-phm-5015-ruchnoi-chernyi-1050149/"><picture
+                    class="ProductCardHorizontal__picture js--ProductCardInListing__picture"
+                    data-picture-number="0"
+                ><source
+                        srcset="https://items.s1.citilink.ru/1050149_v01_m.jpg"
+                        media="(min-width: 600px)"
+                    /><img
+        class="ProductCardHorizontal__image Image"
+        alt="Миксер POLARIS PHM 5015,  черный"
+        src="https://items.s1.citilink.ru/1050149_v01_m.jpg"
+                                                            /></picture><div class="ProductCardHorizontal__picture ProductCardHorizontal__picture-hover js--ProductCardInListing__picture-hover ProductCardHorizontal__picture-hover_hidden"><div
+                            class="ProductCardHorizontal__picture-hover_part js--ProductCardInListing__picture-hover_part"
+                            data-src="https://items.s1.citilink.ru/1050149_v01_m.jpg"></div></div></a></div><div class="ProductCardHorizontal__header-block ProductCardHorizontal__block_not-available"><a
+            class="ProductCardHorizontal__title  Link js--Link Link_type_default"
+
+            
+             href="/product/mikser-polaris-phm-5015-ruchnoi-chernyi-1050149/"             target="_self"
+                            title="Миксер POLARIS PHM 5015, ручной,  черный"
+            
+            
+            
+            
+                    >Миксер POLARIS PHM 5015,  черный</a><div class="ProductCardHorizontal__meta"><a
+            class="  Link js--Link Link_type_default"
+
+            
+             href="https://www.citilink.ru/product/mikser-polaris-phm-5015-ruchnoi-chernyi-1050149/otzyvy/"             target="_self"
+            
+            
+            
+            
+                    ><div class="ProductCardHorizontal__icons"><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.0001 1.875L11.9646 7.9211H18.3219L13.1788 11.6578L15.1432 17.7039L10.0001 13.9672L4.85701 17.7039L6.8215 11.6578L1.67838 7.9211H8.03563L10.0001 1.875Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           4.1
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 200px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                рейтинг 4.1 из 5
+            </div></div></div><div class="Hint ProductCardHorizontal__tooltip js--Hint  js--Hint_hover Hint_placement_top"
+         data-mobile-hover=""
+            ><div class=" IconWithCount js--IconWithCount"
+         title=""
+    ><span class="ProductCardHorizontal__icon IconWithCount__icon js--IconWithCount__icon"><svg class=" Icon Icon_size_s" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><ellipse cx="10.6667" cy="9.33333" rx="6.66667" ry="5.33333" /><path d="M5.33334 17.3333L6 9.33334L12.6667 10.6667L5.33334 17.3333Z"/></svg></span><span class="ProductCardHorizontal__count IconWithCount__count js--IconWithCount__count">
+           13
+        </span></div><div class="Hint__block js--Hint__block Hint__block_position  ProductCardHorizontal__tooltip__block"
+                            style="min-width: 160px"
+                    ><div class="Hint__content js--Hint__content ProductCardHorizontal__tooltip__content Hint__content_center">
+                13 отзывов
+            </div></div></div></div></a><div class="
+        )
+
+)

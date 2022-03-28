@@ -1,0 +1,15 @@
+.frau-technica.ru	TRUE	/	FALSE	1530810379	current_path	a103c4e90d2fb30aa98a017938e5f0dd068a23d1b919941d2425078e2d19faf2a%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22current_path%22%3Bi%3A1%3Bs%3A36%3A%2230b7c1f3-03fb-11dc-95ee-00151716f9f5%22%3B%7D
+.frau-technica.ru	TRUE	/	FALSE	1499274419	_gat	1
+.frau-technica.ru	TRUE	/	FALSE	1499360756	_gid	GA1.2.1118406100.1499274356
+.frau-technica.ru	TRUE	/	FALSE	1562346356	_ga	GA1.2.606020814.1499274356
+.frau-technica.ru	TRUE	/	FALSE	1530810335	cartUserCookieIdent_v2	3385b4fa5cea3e471b009c08200d38ebaa3acf6d90e346cdc442264ecfcd5b6fa%3A2%3A%7Bi%3A0%3Bs%3A22%3A%22cartUserCookieIdent_v2%22%3Bi%3A1%3Bs%3A36%3A%22f068c35f-a89c-4fa6-be34-a793d99ce523%22%3B%7D
+frau-technica.ru	FALSE	/	FALSE	1924991999	ipp_uid2	Aa7lTeWfuKMGr3S5/H/dSFSLhIjhxsXr+oNm1Zg==
+frau-technica.ru	FALSE	/	FALSE	1924991999	ipp_uid1	1499274338416
+frau-technica.ru	FALSE	/	FALSE	ipp_key	1499274338416/zqueHyv+/CZ3XeKMMt2Dwg==
+frau-technica.ru	FALSE	/	FALSE	1501866329	rerf	AAAAAFldHFmT62VlA0c6Ag==
+www.frau-technica.ru	FALSE	/	FALSE	_csrf	ed7a268aec5bf24ffef798c915971d802fafc31ce266cddf91f1b61e4e1f8deda%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22SfzPeHu14eIyc68kygjQzEuNHyeMNSzn%22%3B%7D
+www.frau-technica.ru	FALSE	/	FALSE	1499879135	PHPSESSID	9uo2rhc6l69qok7v14f2f02ud3
+www.frau-technica.ru	FALSE	/	FALSE	1924991999	ipp_uid2	gkjKaD6wAeDBNlAU/KtfsPd6Kj3Wpe4S/JOcdfg==
+www.frau-technica.ru	FALSE	/	FALSE	1924991999	ipp_uid1	1499274331224
+www.frau-technica.ru	FALSE	/	FALSE	ipp_key	1499274331225//RVrVVi/VKISFO0NA6/rew==
+www.frau-technica.ru	FALSE	/	FALSE	1501866331	rerf	AAAAAFldHFtbLLmvA1byAg==

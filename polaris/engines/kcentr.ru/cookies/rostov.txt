@@ -1,0 +1,38 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.market.yandex.ru	TRUE	/	FALSE	1627027235	market_cpa	1
+.yandex.ru	TRUE	/	TRUE	1942300834	skid	3185859051626768034
+.market.yandex.ru	TRUE	/	TRUE	2145906000	visits	1626768034-1626768034-1626768034
+.market.yandex.ru	TRUE	/	FALSE	2145906000	cmp-merge	true
+.market.yandex.ru	TRUE	/	FALSE	2145906000	reviews-merge	true
+market.yandex.ru	FALSE	/	FALSE	0	js	1
+market.yandex.ru	FALSE	/	TRUE	1626769836	ugcp	1
+market.yandex.ru	FALSE	/	TRUE	1626814802	dcm	1
+market.yandex.ru	FALSE	/	FALSE	1658304039	mOC	1
+.yandex.ru	TRUE	/	FALSE	1689840038	is_gdpr	0
+.yandex.ru	TRUE	/	FALSE	1689840038	is_gdpr_b	CLmULxD7Og==
+.yandex.ru	TRUE	/	TRUE	1689840038	i	nQLHBeSRtnlCvFL6EEfpYzRyiV3CeWJ8Xbsld6ltXLvLD1SdW4tv0dM220WykoI0SCrRstPcxRCmb+w706Qtx/jB8ig=
+market.yandex.ru	FALSE	/	FALSE	0	fonts-loaded	1
+.yandex.ru	TRUE	/	FALSE	1942128041	yandexuid	9179174541626768034
+.yandex.ru	TRUE	/	FALSE	1658304041	ymex	1942128041.yrts.1626768041
+.yandex.ru	TRUE	/	FALSE	0	gdpr	0
+.yandex.ru	TRUE	/	FALSE	1658304042	_ym_uid	1626768041984201865
+.yandex.ru	TRUE	/	FALSE	1658304042	_ym_d	1626768042
+.yandex.ru	TRUE	/	FALSE	1626840042	_ym_isad	2
+market.yandex.ru	FALSE	/	FALSE	1658304047	regionChangeMethod	manual
+.yandex.ru	TRUE	/	FALSE	1626769851	_ym_visorc	w
+.yandex.ru	TRUE	/	FALSE	1629360059	spravka	dD0xNjI2NzY4MDU5O2k9MTg1LjEzOS4yMTUuMTczO0Q9MTI2MEQwNkMxRjVEQTBEOUVFMTIyODg0NDU4MjkzNEFGMkM3Q0ExMEZCMkVDQTZDNkYyNDU0MUNFRkFGQzA3Nzt1PTE2MjY3NjgwNTkxNTk5NDY3MDQ7aD02ODExNWNjMDVjYjVhMTc2ZmRjMzgzZTQ0Mjc4ODg3ZA==
+.market.yandex.ru	TRUE	/	FALSE	1626775259	lr	39
+.market.yandex.ru	TRUE	/	TRUE	0	parent_reqid_seq	1626768034942%2F0edb4bb4f7db2968c6ccda7289c70500%2C1626768059212%2Fc1bb484199f23cdd9b234d7489c70500
+market.yandex.ru	FALSE	/	FALSE	1658304062	previousRegionId	2
+market.yandex.ru	FALSE	/	FALSE	1658304062	previousRegionName	%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
+market.yandex.ru	FALSE	/	FALSE	1658304062	currentRegionId	39
+market.yandex.ru	FALSE	/	FALSE	1658304062	currentRegionName	%D0%A0%D0%BE%D1%81%D1%82%D0%BE%D0%B2-%D0%BD%D0%B0-%D0%94%D0%BE%D0%BD%D1%83
+.market.yandex.ru	TRUE	/	FALSE	0	yandexmarket	48%2CRUR%2C1%2C%2C%2C%2C2%2C0%2C0%2C39%2C0%2C0%2C12%2C0
+

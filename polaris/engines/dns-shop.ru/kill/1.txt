@@ -1,0 +1,2103 @@
+Array
+(
+    [https://dns-shop.ru/product/02e406377b861b80/elektrocajnik-polaris-pwk-1794c-cernyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1794C черный
+            [1] => 1699
+            [2] => 03.11.20-05:40:33
+            [3] => 37.230.138.205:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/02e406377b861b80/elektrocajnik-polaris-pwk-1794c-cernyj/
+        )
+
+    [https://dns-shop.ru/product/1a4b91d720293330/termopot-polaris-pwp-2824-belyj/] => Array
+        (
+            [0] => Термопот Polaris PWP 2824 белый
+            [1] => 2799
+            [2] => 03.11.20-05:39:53
+            [3] => 46.8.222.61:3000
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/1a4b91d720293330/termopot-polaris-pwp-2824-belyj/
+        )
+
+    [https://dns-shop.ru/product/3c58bbc55d1c3330/mikrovolnovaa-pec-polaris-pmo-2002dg-rus-cernyj/] => Array
+        (
+            [0] => Микроволновая печь Polaris PMO 2002DG RUS черный
+            [1] => 6199
+            [2] => 03.11.20-05:41:06
+            [3] => 185.127.167.162:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/3c58bbc55d1c3330/mikrovolnovaa-pec-polaris-pmo-2002dg-rus-cernyj/
+        )
+
+    [https://dns-shop.ru/product/41253552b4363332/uvlaznitel-vozduha-polaris-puh-6405-tf/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 6405 TF
+            [1] => 2999
+            [2] => 03.11.20-04:47:15
+            [3] => 188.130.137.122:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/41253552b4363332/uvlaznitel-vozduha-polaris-puh-6405-tf/
+        )
+
+    [https://dns-shop.ru/product/85855afa83503332/susilka-dla-ovosej-i-fruktov-polaris-pfd-1905-cernyj/] => Array
+        (
+            [0] => Сушилка для овощей и фруктов Polaris PFD 1905 черный
+            [1] => 5599
+            [2] => 03.11.20-05:43:44
+            [3] => 185.139.215.16:24531
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/85855afa83503332/susilka-dla-ovosej-i-fruktov-polaris-pfd-1905-cernyj/
+        )
+
+    [https://dns-shop.ru/product/bfad6904e6461b80/parogenerator-polaris-pss-6501k-sinij/] => Array
+        (
+            [0] => Парогенератор Polaris PSS 6501K синий
+            [1] => 6499
+            [2] => 31.10.20-02:42:19
+            [3] => 185.127.165.78:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+            [5] => https://dns-shop.ru/product/bfad6904e6461b80/parogenerator-polaris-pss-6501k-sinij/
+        )
+
+    [https://dns-shop.ru/product/d504574ccc351b80/utug-polaris-pir-2481k-sinij/] => Array
+        (
+            [0] => Утюг Polaris PIR 2481K синий
+            [1] => 1299
+            [2] => 03.11.20-05:40:34
+            [3] => 185.127.165.120:443
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/d504574ccc351b80/utug-polaris-pir-2481k-sinij/
+        )
+
+    [https://dns-shop.ru/product/09fcc53611851b80/fen-polaris-phd-2256tdi-cernyj/] => Array
+        (
+            [0] => Фен Polaris PHD 2256TDi черный
+            [1] => 1199
+            [2] => 03.11.20-04:47:24
+            [3] => 185.127.167.162:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/09fcc53611851b80/fen-polaris-phd-2256tdi-cernyj/
+        )
+
+    [https://dns-shop.ru/product/f09478ecd0e73330/skovoroda-polaris-oc-24f-koricnevyj/] => Array
+        (
+            [0] => Сковорода Polaris OC-24F коричневый
+            [1] => 1999
+            [2] => 03.11.20-04:43:34
+            [3] => 185.127.164.170:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/f09478ecd0e73330/skovoroda-polaris-oc-24f-koricnevyj/
+        )
+
+    [https://dns-shop.ru/product/13bb8a45a92a8a5a/toster-polaris-pet-0910-serebristyj/] => Array
+        (
+            [0] => Тостер Polaris PET 0910 серебристый
+            [1] => 2199
+            [2] => 03.11.20-04:40:50
+            [3] => 193.151.170.64:24531
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/13bb8a45a92a8a5a/toster-polaris-pet-0910-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/92e941e877493330/toster-polaris-pet-0812a-cernyj/] => Array
+        (
+            [0] => Тостер Polaris PET 0812А черный
+            [1] => 1399
+            [2] => 03.11.20-04:46:27
+            [3] => 185.127.166.170:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/92e941e877493330/toster-polaris-pet-0812a-cernyj/
+        )
+
+    [https://dns-shop.ru/product/6ab29ca59b973330/blender-polaris-ptb0511g-cernyj/] => Array
+        (
+            [0] => Блендер Polaris PTB0511G черный
+            [1] => 4399
+            [2] => 17.10.20-10:42:23
+            [3] => 46.243.160.108:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+            [5] => https://dns-shop.ru/product/6ab29ca59b973330/blender-polaris-ptb0511g-cernyj/
+        )
+
+    [https://dns-shop.ru/product/881909d71a221b80/vodonagrevatel-polaris-delta-imf-80v/] => Array
+        (
+            [0] => Водонагреватель Polaris Delta IMF 80V
+            [1] => 13999
+            [2] => 03.11.20-04:44:26
+            [3] => 185.127.164.170:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/881909d71a221b80/vodonagrevatel-polaris-delta-imf-80v/
+        )
+
+    [https://dns-shop.ru/product/31197d70af9a3332/multivarka-polaris-pmc-0567ad-cernyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0567AD черный
+            [1] => 2199
+            [2] => 30.10.20-02:41:12
+            [3] => 46.243.160.238:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/31197d70af9a3332/multivarka-polaris-pmc-0567ad-cernyj/
+        )
+
+    [https://dns-shop.ru/product/72ca334cd5371b80/multivarka-polaris-pmc-0573ad-serebristyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0573AD серебристый
+            [1] => 3750
+            [2] => 03.11.20-04:45:23
+            [3] => 46.243.160.178:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/72ca334cd5371b80/multivarka-polaris-pmc-0573ad-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/8e404eee38953332/blender-polaris-phb-1467al-titan-cernyj/] => Array
+        (
+            [0] => Блендер Polaris PHB 1467AL TITAN черный
+            [1] => 3399
+            [2] => 03.11.20-05:40:56
+            [3] => 188.130.187.246:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/8e404eee38953332/blender-polaris-phb-1467al-titan-cernyj/
+        )
+
+    [https://dns-shop.ru/product/1387612f13873120/termopot-polaris-pwp-4012d-serebristyj/] => Array
+        (
+            [0] => Термопот Polaris PWP 4012D серебристый
+            [1] => 5999
+            [2] => 03.11.20-05:41:23
+            [3] => 185.127.165.115:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/1387612f13873120/termopot-polaris-pwp-4012d-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/9f189a1d87f81b80/pylesos-polaris-pvc-1836-krasnyj/] => Array
+        (
+            [0] => Пылесос Polaris PVC 1836 красный
+            [1] => 4999
+            [2] => 03.11.20-05:41:54
+            [3] => 37.230.138.135:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+            [5] => https://dns-shop.ru/product/9f189a1d87f81b80/pylesos-polaris-pvc-1836-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/416864e5af8d3332/sokovyzimalka-elektriceskaa-polaris-psj-0601-serebristyj/] => Array
+        (
+            [0] => Соковыжималка электрическая Polaris PSJ 0601 серебристый
+            [1] => 8899
+            [2] => 03.11.20-04:43:40
+            [3] => 46.243.160.154:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+            [5] => https://dns-shop.ru/product/416864e5af8d3332/sokovyzimalka-elektriceskaa-polaris-psj-0601-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/084e8d50c80e3330/sokovyzimalka-elektriceskaa-polaris-pea-0934a-serebristyj/] => Array
+        (
+            [0] => Соковыжималка электрическая Polaris PEA 0934A серебристый
+            [1] => 3999
+            [2] => 03.11.20-05:40:34
+            [3] => 37.230.138.188:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/084e8d50c80e3330/sokovyzimalka-elektriceskaa-polaris-pea-0934a-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/5f1eaa1acaf63332/mikrovolnovaa-pec-polaris-pmo-2002d-eco-cernyj/] => Array
+        (
+            [0] => Микроволновая печь Polaris PMO 2002D ECO черный
+            [1] => 6999
+            [2] => 03.11.20-04:40:41
+            [3] => 46.8.156.15:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/5f1eaa1acaf63332/mikrovolnovaa-pec-polaris-pmo-2002d-eco-cernyj/
+        )
+
+    [https://dns-shop.ru/product/dbf84733d2a61b80/otparivatel-polaris-pgs-2230va-belyj/] => Array
+        (
+            [0] => Отпариватель Polaris PGS 2230VA белый
+            [1] => 4599
+            [2] => 03.11.20-05:39:35
+            [3] => 37.230.138.120:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/dbf84733d2a61b80/otparivatel-polaris-pgs-2230va-belyj/
+        )
+
+    [https://dns-shop.ru/product/9f30622d6b033120/kofevarka-kapelnaa-polaris-pcm-1211-cernyj/] => Array
+        (
+            [0] => Кофеварка капельная Polaris PCM 1211 черный
+            [1] => 1850
+            [2] => 24.10.20-10:46:13
+            [3] => 185.127.164.113:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+            [5] => https://dns-shop.ru/product/9f30622d6b033120/kofevarka-kapelnaa-polaris-pcm-1211-cernyj/
+        )
+
+    [https://dns-shop.ru/product/bdbd196835a41b80/kuhonnye-vesy-polaris-pks-1053dg-chalk-cernyj/] => Array
+        (
+            [0] => Кухонные весы Polaris PKS 1053DG Chalk черный
+            [1] => 1199
+            [2] => 03.11.20-04:44:23
+            [3] => 46.243.160.197:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/bdbd196835a41b80/kuhonnye-vesy-polaris-pks-1053dg-chalk-cernyj/
+        )
+
+    [https://dns-shop.ru/product/4b5f3cd723393330/multivarka-polaris-pmc-0566d-cernyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0566D черный
+            [1] => 4399
+            [2] => 03.11.20-04:41:46
+            [3] => 185.112.13.17:2831
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/4b5f3cd723393330/multivarka-polaris-pmc-0566d-cernyj/
+        )
+
+    [https://dns-shop.ru/product/ff906bb09bb01b80/utug-polaris-pir-2497ak-rozovyj/] => Array
+        (
+            [0] => Утюг Polaris PIR 2497AK розовый
+            [1] => 1799
+            [2] => 03.11.20-04:46:31
+            [3] => 185.127.165.111:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/ff906bb09bb01b80/utug-polaris-pir-2497ak-rozovyj/
+        )
+
+    [https://dns-shop.ru/product/6fb7289093fe3330/fen-polaris-phd-2078tdi-fioletovyjcernyj/] => Array
+        (
+            [0] => Фен Polaris PHD 2078TDi фиолетовый/черный
+            [1] => 999
+            [2] => 03.11.20-04:46:01
+            [3] => 185.127.166.214:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/6fb7289093fe3330/fen-polaris-phd-2078tdi-fioletovyjcernyj/
+        )
+
+    [https://dns-shop.ru/product/73f983b1edee3330/masorubka-polaris-pmg-3043l-serebristyj/] => Array
+        (
+            [0] => Мясорубка Polaris PMG 3043L серебристый
+            [1] => 9299
+            [2] => 03.11.20-04:42:24
+            [3] => 185.127.166.104:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/73f983b1edee3330/masorubka-polaris-pmg-3043l-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/41d914c74ebe3330/blender-polaris-phb-1382l-silent-serebristyj/] => Array
+        (
+            [0] => Блендер Polaris PHB 1382L Silent серебристый
+            [1] => 3999
+            [2] => 03.11.20-04:43:21
+            [3] => 185.127.167.74:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/41d914c74ebe3330/blender-polaris-phb-1382l-silent-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/021557c04fa31b80/elektrocajnik-polaris-pwk-1730ca-cernyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1730CA черный
+            [1] => 2299
+            [2] => 03.11.20-05:42:29
+            [3] => 46.243.160.126:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/021557c04fa31b80/elektrocajnik-polaris-pwk-1730ca-cernyj/
+        )
+
+    [https://dns-shop.ru/product/738a53b8e0ec3330/vesy-polaris-pws-1879dg-asana/] => Array
+        (
+            [0] => Весы Polaris PWS 1879DG Asana
+            [1] => 1699
+            [2] => 03.11.20-04:46:10
+            [3] => 185.127.167.74:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/738a53b8e0ec3330/vesy-polaris-pws-1879dg-asana/
+        )
+
+    [https://dns-shop.ru/product/1e2f0009a0f33330/vesy-polaris-pws-1872dg/] => Array
+        (
+            [0] => Весы Polaris PWS 1872DG
+            [1] => 1299
+            [2] => 03.11.20-04:47:42
+            [3] => 185.127.165.111:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/1e2f0009a0f33330/vesy-polaris-pws-1872dg/
+        )
+
+    [https://dns-shop.ru/product/f6d6c3355f903330/ventilator-polaris-psf-5040rc-belyj/] => Array
+        (
+            [0] => Вентилятор Polaris PSF 5040RC белый
+            [1] => 2699
+            [2] => 03.11.20-04:44:22
+            [3] => 185.112.15.6:2831
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/f6d6c3355f903330/ventilator-polaris-psf-5040rc-belyj/
+        )
+
+    [https://dns-shop.ru/product/f5ba3a5adb223330/ventilator-polaris-psf-1140-cernyj/] => Array
+        (
+            [0] => Вентилятор Polaris PSF 1140 чёрный
+            [1] => 1799
+            [2] => 03.11.20-10:41:02
+            [3] => 212.86.111.213:2831
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/f5ba3a5adb223330/ventilator-polaris-psf-1140-cernyj/
+        )
+
+    [https://dns-shop.ru/product/a5f114544ac91b80/sokovyzimalka-elektriceskaa-polaris-pea-1536adl-serebristyj/] => Array
+        (
+            [0] => Соковыжималка электрическая Polaris PEA 1536ADL серебристый
+            [1] => 7199
+            [2] => 03.11.20-05:43:44
+            [3] => 37.230.138.119:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/a5f114544ac91b80/sokovyzimalka-elektriceskaa-polaris-pea-1536adl-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/7fff03b0b4f03332/uvlaznitel-vozduha-polaris-puh-6080-tf/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 6080 TF
+            [1] => 3599
+            [2] => 03.11.20-05:41:38
+            [3] => 37.230.117.154:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/7fff03b0b4f03332/uvlaznitel-vozduha-polaris-puh-6080-tf/
+        )
+
+    [https://dns-shop.ru/product/7fb5f9a3e8801b80/uvlaznitel-vozduha-polaris-puh-8505tfd/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 8505TFD
+            [1] => 5899
+            [2] => 29.10.20-05:40:07
+            [3] => 185.127.166.100:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/7fb5f9a3e8801b80/uvlaznitel-vozduha-polaris-puh-8505tfd/
+        )
+
+    [https://dns-shop.ru/product/27687b48c9431b80/pylesos-robot-polaris-pvcr-1020-fusion-pro-cernyj/] => Array
+        (
+            [0] => Пылесос-робот Polaris PVCR 1020 Fusion Pro черный
+            [1] => 10999
+            [2] => 03.11.20-10:48:26
+            [3] => 185.127.165.20:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/27687b48c9431b80/pylesos-robot-polaris-pvcr-1020-fusion-pro-cernyj/
+        )
+
+    [https://dns-shop.ru/product/88c31853099b1b80/blender-polaris-phb1590al-cernyj/] => Array
+        (
+            [0] => Блендер Polaris PHB1590AL черный
+            [1] => 4899
+            [2] => 03.11.20-04:42:24
+            [3] => 46.243.160.236:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/88c31853099b1b80/blender-polaris-phb1590al-cernyj/
+        )
+
+    [https://dns-shop.ru/product/2c87086b33003330/utug-polaris-pir-2685ak-3m-belyj/] => Array
+        (
+            [0] => Утюг Polaris PIR 2685AK 3m белый
+            [1] => 2999
+            [2] => 03.11.20-04:47:41
+            [3] => 185.127.166.25:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/2c87086b33003330/utug-polaris-pir-2685ak-3m-belyj/
+        )
+
+    [https://dns-shop.ru/product/2cb0290609703330/utug-polaris-pir-3033-sg-ak-goluboj/] => Array
+        (
+            [0] => Утюг Polaris PIR 3033 SG AK голубой
+            [1] => 2899
+            [2] => 03.11.20-05:41:01
+            [3] => 213.226.101.115:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/2cb0290609703330/utug-polaris-pir-3033-sg-ak-goluboj/
+        )
+
+    [https://dns-shop.ru/product/c3fc4f2c83233330/skovoroda-polaris-burgundy-28fd-koricnevyj/] => Array
+        (
+            [0] => Сковорода Polaris Burgundy-28FD коричневый
+            [1] => 2799
+            [2] => 03.11.20-04:41:06
+            [3] => 37.230.138.155:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/c3fc4f2c83233330/skovoroda-polaris-burgundy-28fd-koricnevyj/
+        )
+
+    [https://dns-shop.ru/product/73cb5f8256813330/multivarka-polaris-pmc-0583ad-serebristyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0583AD серебристый
+            [1] => 3199
+            [2] => 03.11.20-05:42:30
+            [3] => 185.127.164.83:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/73cb5f8256813330/multivarka-polaris-pmc-0583ad-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/ec4aedfef37e1b80/kofevarka-rozkovaa-polaris-pcm-4002a-krasnyj/] => Array
+        (
+            [0] => Кофеварка рожковая Polaris PCM 4002A красный
+            [1] => 2799
+            [2] => 03.11.20-05:40:55
+            [3] => 188.120.255.152:443
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/ec4aedfef37e1b80/kofevarka-rozkovaa-polaris-pcm-4002a-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/f365ff05d3943332/elektrocajnik-polaris-pwk-1798ca-krasnyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1798CA красный
+            [1] => 1899
+            [2] => 03.11.20-10:41:00
+            [3] => 92.119.193.235:3000
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/f365ff05d3943332/elektrocajnik-polaris-pwk-1798ca-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/d2b96d7343d03332/elektrocajnik-polaris-pwk-1732ca-serebristyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1732CA серебристый
+            [1] => 2499
+            [2] => 03.11.20-04:41:42
+            [3] => 37.230.138.227:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/d2b96d7343d03332/elektrocajnik-polaris-pwk-1732ca-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/a8714ef93af81b80/elektrocajnik-polaris-1791cgl-serebristyj/] => Array
+        (
+            [0] => Электрочайник Polaris 1791CGL серебристый
+            [1] => 1999
+            [2] => 03.11.20-05:42:59
+            [3] => 185.127.164.61:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/a8714ef93af81b80/elektrocajnik-polaris-1791cgl-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/7a16bdb2f9c23330/termopot-polaris-pwp-2823-summer-belyj/] => Array
+        (
+            [0] => Термопот Polaris PWP 2823 Summer белый
+            [1] => 3999
+            [2] => 03.11.20-04:46:09
+            [3] => 185.127.164.85:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/7a16bdb2f9c23330/termopot-polaris-pwp-2823-summer-belyj/
+        )
+
+    [https://dns-shop.ru/product/f6d6c3335f903330/ventilator-polaris-psf-4040rc-belyj/] => Array
+        (
+            [0] => Вентилятор Polaris PSF 4040RC белый
+            [1] => 2199
+            [2] => 03.11.20-10:48:14
+            [3] => 46.243.160.144:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/f6d6c3335f903330/ventilator-polaris-psf-4040rc-belyj/
+        )
+
+    [https://dns-shop.ru/product/6ee0587dd2a61b80/fen-polaris-phd-2087i-cernyj/] => Array
+        (
+            [0] => Фен Polaris PHD 2087i черный
+            [1] => 1150
+            [2] => 03.11.20-04:43:33
+            [3] => 185.127.165.82:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/6ee0587dd2a61b80/fen-polaris-phd-2087i-cernyj/
+        )
+
+    [https://dns-shop.ru/product/216906447d691b80/komplekt-filtrov-polaris-pvcf-1823/] => Array
+        (
+            [0] => Комплект фильтров Polaris PVCF 1823
+            [1] => 599
+            [2] => 31.10.20-10:48:00
+            [3] => 185.127.164.80:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+            [5] => https://dns-shop.ru/product/216906447d691b80/komplekt-filtrov-polaris-pvcf-1823/
+        )
+
+    [https://dns-shop.ru/product/e67cde14e6a33333/masinka-dla-strizki-polaris-phc-0501r-flex-motion/] => Array
+        (
+            [0] => Машинка для стрижки Polaris PHC 0501R Flex Motion
+            [1] => 2199
+            [2] => 03.11.20-05:39:40
+            [3] => 185.127.164.185:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+            [5] => https://dns-shop.ru/product/e67cde14e6a33333/masinka-dla-strizki-polaris-phc-0501r-flex-motion/
+        )
+
+    [https://dns-shop.ru/product/4ea3ff69d65c1b80/masorubka-polaris-pmg1829-cernyj/] => Array
+        (
+            [0] => Мясорубка Polaris PMG1829 черный
+            [1] => 3899
+            [2] => 03.11.20-05:41:53
+            [3] => 171.22.180.223:24531
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/4ea3ff69d65c1b80/masorubka-polaris-pmg1829-cernyj/
+        )
+
+    [https://dns-shop.ru/product/ac19208e3f0c3332/vypramitel-dla-volos-polaris-phs-2511k/] => Array
+        (
+            [0] => Выпрямитель для волос Polaris PHS 2511K
+            [1] => 1599
+            [2] => 03.11.20-05:39:49
+            [3] => 185.127.166.131:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/ac19208e3f0c3332/vypramitel-dla-volos-polaris-phs-2511k/
+        )
+
+    [https://dns-shop.ru/product/17849cead0f13330/uvlaznitel-vozduha-polaris-puh-0806di/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 0806Di
+            [1] => 6999
+            [2] => 03.11.20-05:39:39
+            [3] => 95.182.124.23:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/17849cead0f13330/uvlaznitel-vozduha-polaris-puh-0806di/
+        )
+
+    [https://dns-shop.ru/product/00ba1a7451c93330/utug-polaris-pir-2696aa-cernyj/] => Array
+        (
+            [0] => Утюг Polaris PIR 2696AA чёрный
+            [1] => 2799
+            [2] => 03.11.20-05:40:39
+            [3] => 185.127.164.88:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+            [5] => https://dns-shop.ru/product/00ba1a7451c93330/utug-polaris-pir-2696aa-cernyj/
+        )
+
+    [https://dns-shop.ru/product/2c1058911f553330/elektrocajnik-polaris-pwk-1744cal-seryj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1744CAL серый
+            [1] => 2799
+            [2] => 03.11.20-10:40:59
+            [3] => 185.112.14.3:2831
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/2c1058911f553330/elektrocajnik-polaris-pwk-1744cal-seryj/
+        )
+
+    [https://dns-shop.ru/product/be851ed11daf3330/pylesos-polaris-pvb-0804-cernyj/] => Array
+        (
+            [0] => Пылесос Polaris PVB 0804 черный
+            [1] => 5999
+            [2] => 03.11.20-05:41:53
+            [3] => 37.230.138.227:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/be851ed11daf3330/pylesos-polaris-pvb-0804-cernyj/
+        )
+
+    [https://dns-shop.ru/product/b7e479a767133330/elektrocajnik-polaris-pwk-1741ca-bezevyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1741CA бежевый
+            [1] => 3999
+            [2] => 03.11.20-05:41:21
+            [3] => 46.8.156.15:3000
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/b7e479a767133330/elektrocajnik-polaris-pwk-1741ca-bezevyj/
+        )
+
+    [https://dns-shop.ru/product/3c58bbca5d1c3330/mikrovolnovaa-pec-polaris-pmo-2303dg-rus-cernyj/] => Array
+        (
+            [0] => Микроволновая печь Polaris PMO 2303DG RUS черный
+            [1] => 8999
+            [2] => 03.11.20-04:40:43
+            [3] => 37.230.138.227:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/3c58bbca5d1c3330/mikrovolnovaa-pec-polaris-pmo-2303dg-rus-cernyj/
+        )
+
+    [https://dns-shop.ru/product/a2349644ee2f1b80/elektrocajnik-polaris-pwk-1724ca-bezevyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1724CА бежевый
+            [1] => 2499
+            [2] => 03.11.20-04:47:18
+            [3] => 185.127.164.210:443
+            [4] => Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/a2349644ee2f1b80/elektrocajnik-polaris-pwk-1724ca-bezevyj/
+        )
+
+    [https://dns-shop.ru/product/7b064a4787f81b80/pylesos-polaris-pvb-1805-krasnyj/] => Array
+        (
+            [0] => Пылесос Polaris PVB 1805 красный
+            [1] => 5499
+            [2] => 03.11.20-04:43:21
+            [3] => 185.127.167.162:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/7b064a4787f81b80/pylesos-polaris-pvb-1805-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/2561403732f53330/uvlaznitel-vozduha-polaris-puh-1006di/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 1006Di
+            [1] => 6999
+            [2] => 24.10.20-06:41:32
+            [3] => 46.243.160.225:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+            [5] => https://dns-shop.ru/product/2561403732f53330/uvlaznitel-vozduha-polaris-puh-1006di/
+        )
+
+    [https://dns-shop.ru/product/4d5a9d739bb11b80/utug-polaris-pir-2899ak-3m-sinij/] => Array
+        (
+            [0] => Утюг Polaris PIR 2899AK 3M синий
+            [1] => 3499
+            [2] => 03.11.20-05:41:38
+            [3] => 185.127.165.85:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/4d5a9d739bb11b80/utug-polaris-pir-2899ak-3m-sinij/
+        )
+
+    [https://dns-shop.ru/product/f8d8b7cd3f063332/fen-polaris-phd-2289ac-cernyj/] => Array
+        (
+            [0] => Фен Polaris PHD 2289AC черный
+            [1] => 2099
+            [2] => 03.11.20-05:39:35
+            [3] => 185.127.165.194:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/f8d8b7cd3f063332/fen-polaris-phd-2289ac-cernyj/
+        )
+
+    [https://dns-shop.ru/product/f6d6c32e5f903330/ventilator-polaris-puf-1012s-seryj/] => Array
+        (
+            [0] => Вентилятор Polaris PUF 1012S серый
+            [1] => 599
+            [2] => 03.11.20-05:40:58
+            [3] => 188.120.255.166:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/f6d6c32e5f903330/ventilator-polaris-puf-1012s-seryj/
+        )
+
+    [https://dns-shop.ru/product/2d703826d8533333/uvlaznitel-vozduha-polaris-puh-3740-tf/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 3740 TF
+            [1] => 3299
+            [2] => 03.11.20-05:40:59
+            [3] => 185.127.165.63:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/2d703826d8533333/uvlaznitel-vozduha-polaris-puh-3740-tf/
+        )
+
+    [https://dns-shop.ru/product/554e0e88d2a71b80/vypramitel-dla-volos-polaris-phs-2390k/] => Array
+        (
+            [0] => Выпрямитель для волос Polaris PHS 2390K
+            [1] => 699
+            [2] => 03.11.20-05:41:53
+            [3] => 185.127.167.86:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/554e0e88d2a71b80/vypramitel-dla-volos-polaris-phs-2390k/
+        )
+
+    [https://dns-shop.ru/product/ae346a5d38a93332/toster-polaris-pet-0915a-krasnyj/] => Array
+        (
+            [0] => Тостер Polaris PET 0915A красный
+            [1] => 2399
+            [2] => 03.11.20-04:40:50
+            [3] => 185.112.15.8:2831
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/ae346a5d38a93332/toster-polaris-pet-0915a-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/37805535fca51b80/elektrocajnik-polaris-pwk-1843ca-serebristyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1843CA серебристый
+            [1] => 1799
+            [2] => 03.11.20-10:40:59
+            [3] => 212.86.111.210:2831
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/37805535fca51b80/elektrocajnik-polaris-pwk-1843ca-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/738a53b4e0ec3330/vesy-polaris-pws-1878dg-butterfly/] => Array
+        (
+            [0] => Весы Polaris PWS 1878DG BUTTERFLY
+            [1] => 1299
+            [2] => 03.11.20-05:40:33
+            [3] => 37.230.138.135:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/738a53b4e0ec3330/vesy-polaris-pws-1878dg-butterfly/
+        )
+
+    [https://dns-shop.ru/product/c65f2153afa43330/gril-polaris-pgp-1702-serebristyj/] => Array
+        (
+            [0] => Гриль Polaris PGP 1702 серебристый
+            [1] => 4499
+            [2] => 03.11.20-04:43:35
+            [3] => 188.130.187.246:3000
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/c65f2153afa43330/gril-polaris-pgp-1702-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/f6d6c3325f903330/ventilator-polaris-psf-3040rc-belyj/] => Array
+        (
+            [0] => Вентилятор Polaris PSF 3040RC белый
+            [1] => 2499
+            [2] => 03.11.20-10:41:00
+            [3] => 95.182.125.99:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/f6d6c3325f903330/ventilator-polaris-psf-3040rc-belyj/
+        )
+
+    [https://dns-shop.ru/product/85fc60fe38a13332/elektrocajnik-polaris-pwk-1760cgl-zolotistyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1760CGL золотистый
+            [1] => 2699
+            [2] => 03.11.20-04:42:33
+            [3] => 78.40.117.55:24531
+            [4] => Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/85fc60fe38a13332/elektrocajnik-polaris-pwk-1760cgl-zolotistyj/
+        )
+
+    [https://dns-shop.ru/product/4b1515114bd41b80/ventilator-polaris-psf-5140-cernyj/] => Array
+        (
+            [0] => Вентилятор Polaris PSF 5140 чёрный
+            [1] => 1999
+            [2] => 03.11.20-05:40:58
+            [3] => 188.120.255.58:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/4b1515114bd41b80/ventilator-polaris-psf-5140-cernyj/
+        )
+
+    [https://dns-shop.ru/product/0741411962723332/elektrocajnik-polaris-pwk-1760cgl-seryj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1760CGL серый
+            [1] => 2699
+            [2] => 03.11.20-10:41:04
+            [3] => 46.243.160.245:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/0741411962723332/elektrocajnik-polaris-pwk-1760cgl-seryj/
+        )
+
+    [https://dns-shop.ru/product/5c0f5a2f0bcc3330/ventilator-polaris-psf-0140rc-cernyj/] => Array
+        (
+            [0] => Вентилятор Polaris PSF 0140RC чёрный
+            [1] => 2799
+            [2] => 03.11.20-04:42:29
+            [3] => 46.243.160.197:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/5c0f5a2f0bcc3330/ventilator-polaris-psf-0140rc-cernyj/
+        )
+
+    [https://dns-shop.ru/product/68104f84f3dc1b80/skovoroda-polaris-pro-collection-24fp-cernyj/] => Array
+        (
+            [0] => Сковорода Polaris PRO collection-24FP черный
+            [1] => 1550
+            [2] => 03.11.20-04:45:14
+            [3] => 185.127.164.185:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/68104f84f3dc1b80/skovoroda-polaris-pro-collection-24fp-cernyj/
+        )
+
+    [https://dns-shop.ru/product/738a53bce0ec3330/trimmer-polaris-phc-0303rb/] => Array
+        (
+            [0] => Триммер Polaris PHC 0303RB
+            [1] => 2899
+            [2] => 03.11.20-04:47:18
+            [3] => 185.112.15.8:2831
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/738a53bce0ec3330/trimmer-polaris-phc-0303rb/
+        )
+
+    [https://dns-shop.ru/product/40d3590b192c3332/skovoroda-polaris-grafitech-28f-koricnevyj/] => Array
+        (
+            [0] => Сковорода Polaris Grafitech-28F коричневый
+            [1] => 1999
+            [2] => 03.11.20-04:41:46
+            [3] => 185.112.15.8:2831
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+            [5] => https://dns-shop.ru/product/40d3590b192c3332/skovoroda-polaris-grafitech-28f-koricnevyj/
+        )
+
+    [https://dns-shop.ru/product/2320a744192c3332/skovoroda-polaris-grafitech-24f-koricnevyj/] => Array
+        (
+            [0] => Сковорода Polaris Grafitech-24F коричневый
+            [1] => 1599
+            [2] => 03.11.20-04:41:05
+            [3] => 185.127.165.115:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/2320a744192c3332/skovoroda-polaris-grafitech-24f-koricnevyj/
+        )
+
+    [https://dns-shop.ru/product/d7791333b7213332/masorubka-polaris-pmg-1848-golden-rush-cernyj/] => Array
+        (
+            [0] => Мясорубка Polaris PMG 1848 Golden Rush черный
+            [1] => 2999
+            [2] => 03.11.20-05:39:35
+            [3] => 185.181.246.225:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/d7791333b7213332/masorubka-polaris-pmg-1848-golden-rush-cernyj/
+        )
+
+    [https://dns-shop.ru/product/233fb1e99e271b80/konvektor-polaris-pmh-2035/] => Array
+        (
+            [0] => Конвектор Polaris PMH 2035
+            [1] => 5199
+            [2] => 03.11.20-04:45:59
+            [3] => 185.112.13.17:2831
+            [4] => Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/233fb1e99e271b80/konvektor-polaris-pmh-2035/
+        )
+
+    [https://dns-shop.ru/product/a2ce33cef69a1b80/mikser-polaris-phm-6512b-bezevyj/] => Array
+        (
+            [0] => Миксер Polaris PHM 6512B бежевый
+            [1] => 2999
+            [2] => 03.11.20-05:41:22
+            [3] => 185.127.164.178:443
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/a2ce33cef69a1b80/mikser-polaris-phm-6512b-bezevyj/
+        )
+
+    [https://dns-shop.ru/product/915241653be63332/nabor-dla-ukladki-polaris-phd-2477aci-fensipcy-dla-zavivki/] => Array
+        (
+            [0] => Набор для укладки Polaris PHD 2477ACi (фен+щипцы для завивки)
+            [1] => 1650
+            [2] => 03.11.20-04:45:11
+            [3] => 37.230.138.155:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/915241653be63332/nabor-dla-ukladki-polaris-phd-2477aci-fensipcy-dla-zavivki/
+        )
+
+    [https://dns-shop.ru/product/d1ee4818cd371b80/nabor-nozej-polaris-millennium-3ss/] => Array
+        (
+            [0] => Набор ножей Polaris Millennium-3SS
+            [1] => 2199
+            [2] => 03.11.20-10:41:09
+            [3] => 185.127.166.59:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/d1ee4818cd371b80/nabor-nozej-polaris-millennium-3ss/
+        )
+
+    [https://dns-shop.ru/product/dde7cc041a221b80/fen-setka-polaris-phs-1020rk/] => Array
+        (
+            [0] => Фен-щетка Polaris PHS 1020RK
+            [1] => 2150
+            [2] => 03.11.20-04:46:25
+            [3] => 46.243.160.193:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/dde7cc041a221b80/fen-setka-polaris-phs-1020rk/
+        )
+
+    [https://dns-shop.ru/product/919ae21b0bce3330/forma-dla-vypekania-polaris-stone-2323s-bezevyj/] => Array
+        (
+            [0] => Форма для выпекания Polaris Stone-2323S бежевый
+            [1] => 899
+            [2] => 24.10.20-10:46:59
+            [3] => 188.119.126.215:24531
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/919ae21b0bce3330/forma-dla-vypekania-polaris-stone-2323s-bezevyj/
+        )
+
+    [https://dns-shop.ru/product/43f314e25c241b80/sipcy-dla-zavivki-volos-polaris-phs-2510k/] => Array
+        (
+            [0] => Щипцы для завивки волос Polaris PHS 2510K
+            [1] => 1550
+            [2] => 03.11.20-04:40:50
+            [3] => 185.181.246.225:3000
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/43f314e25c241b80/sipcy-dla-zavivki-volos-polaris-phs-2510k/
+        )
+
+    [https://dns-shop.ru/product/9451a19740ad3332/kuhonnye-vesy-polaris-pks-1050dg-la-salsa-cernyj/] => Array
+        (
+            [0] => Кухонные весы Polaris PKS 1050DG La Salsa черный
+            [1] => 1199
+            [2] => 03.11.20-04:41:33
+            [3] => 185.112.15.8:2831
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+            [5] => https://dns-shop.ru/product/9451a19740ad3332/kuhonnye-vesy-polaris-pks-1050dg-la-salsa-cernyj/
+        )
+
+    [https://dns-shop.ru/product/a12f414496523332/pylesos-polaris-pvc-1817-oranzevyj/] => Array
+        (
+            [0] => Пылесос Polaris PVC 1817 оранжевый
+            [1] => 4999
+            [2] => 03.11.20-04:42:22
+            [3] => 185.112.15.6:2831
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/a12f414496523332/pylesos-polaris-pvc-1817-oranzevyj/
+        )
+
+    [https://dns-shop.ru/product/ef707271800a3330/pylesos-polaris-pvc-1823-cernyj/] => Array
+        (
+            [0] => Пылесос Polaris PVC 1823 черный
+            [1] => 5499
+            [2] => 03.11.20-05:43:14
+            [3] => 45.86.0.72:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/ef707271800a3330/pylesos-polaris-pvc-1823-cernyj/
+        )
+
+    [https://dns-shop.ru/product/7e2f7ac21b2b3330/vodonagrevatel-polaris-orion-55-st/] => Array
+        (
+            [0] => Водонагреватель Polaris ORION 5,5 ST
+            [1] => 3599
+            [2] => 03.11.20-05:40:59
+            [3] => 185.127.164.213:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/7e2f7ac21b2b3330/vodonagrevatel-polaris-orion-55-st/
+        )
+
+    [https://dns-shop.ru/product/46855e96dcee1b80/multivarka-polaris-pmc-0517-expert-cernyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0517 Expert черный
+            [1] => 4999
+            [2] => 03.11.20-04:44:27
+            [3] => 188.120.255.77:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/46855e96dcee1b80/multivarka-polaris-pmc-0517-expert-cernyj/
+        )
+
+    [https://dns-shop.ru/product/094ccd55e6353330/multivarka-polaris-pmc-0586ad-serebristyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0586AD серебристый
+            [1] => 3799
+            [2] => 03.11.20-05:41:22
+            [3] => 46.243.160.236:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/094ccd55e6353330/multivarka-polaris-pmc-0586ad-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/acd2f0e083223330/kryska-polaris-sl24/] => Array
+        (
+            [0] => Крышка Polaris SL24
+            [1] => 499
+            [2] => 03.11.20-04:42:38
+            [3] => 185.127.165.127:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/acd2f0e083223330/kryska-polaris-sl24/
+        )
+
+    [https://dns-shop.ru/product/55ddc7ee7d651b80/komplekt-filtrov-polaris-pvcf-2043/] => Array
+        (
+            [0] => Комплект фильтров Polaris PVCF 2043
+            [1] => 999
+            [2] => 03.11.20-05:39:36
+            [3] => 185.127.164.188:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/55ddc7ee7d651b80/komplekt-filtrov-polaris-pvcf-2043/
+        )
+
+    [https://dns-shop.ru/product/659f16c883233330/kastrula-polaris-burgundy-20c-krasnyj/] => Array
+        (
+            [0] => Кастрюля Polaris Burgundy-20C красный
+            [1] => 2499
+            [2] => 03.11.20-05:39:36
+            [3] => 185.127.165.89:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/659f16c883233330/kastrula-polaris-burgundy-20c-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/228320467d6b1b80/mesok-pylesbornik-polaris-ppb-0504/] => Array
+        (
+            [0] => Мешок-пылесборник Polaris PPB 0504
+            [1] => 599
+            [2] => 03.11.20-05:39:34
+            [3] => 188.120.255.77:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/228320467d6b1b80/mesok-pylesbornik-polaris-ppb-0504/
+        )
+
+    [https://dns-shop.ru/product/4d6c60d0b4ef3332/uvlaznitel-vozduha-polaris-puh-8105-tf/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 8105 TF
+            [1] => 2599
+            [2] => 03.11.20-05:39:38
+            [3] => 185.127.166.63:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/4d6c60d0b4ef3332/uvlaznitel-vozduha-polaris-puh-8105-tf/
+        )
+
+    [https://dns-shop.ru/product/d9060b74d83c1b80/uvlaznitel-vozduha-polaris-puh-8060-tfd/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 8060 TFD
+            [1] => 8799
+            [2] => 03.11.20-04:42:27
+            [3] => 37.230.138.220:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/d9060b74d83c1b80/uvlaznitel-vozduha-polaris-puh-8060-tfd/
+        )
+
+    [https://dns-shop.ru/product/c51bbe05f1471b80/gril-polaris-pgp-1002-serebristyj/] => Array
+        (
+            [0] => Гриль Polaris PGP 1002 серебристый
+            [1] => 4999
+            [2] => 31.10.20-10:45:04
+            [3] => 37.230.138.63:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+            [5] => https://dns-shop.ru/product/c51bbe05f1471b80/gril-polaris-pgp-1002-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/b892ad90ab813332/gril-polaris-pgp-1202-serebristyj/] => Array
+        (
+            [0] => Гриль Polaris PGP 1202 серебристый
+            [1] => 3999
+            [2] => 03.11.20-05:40:58
+            [3] => 185.127.165.85:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+            [5] => https://dns-shop.ru/product/b892ad90ab813332/gril-polaris-pgp-1202-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/38049515d5301b80/gril-polaris-pgp-2902-serebristyj/] => Array
+        (
+            [0] => Гриль Polaris PGP 2902 серебристый
+            [1] => 4499
+            [2] => 03.11.20-05:39:51
+            [3] => 185.112.13.17:2831
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/38049515d5301b80/gril-polaris-pgp-2902-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/618629adfd513333/utug-polaris-pir-2410k-sinij/] => Array
+        (
+            [0] => Утюг Polaris PIR 2410K синий
+            [1] => 2550
+            [2] => 15.10.20-11:43:57
+            [3] => 185.127.167.143:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/618629adfd513333/utug-polaris-pir-2410k-sinij/
+        )
+
+    [https://dns-shop.ru/product/742d7e02d3931b80/elektrocajnik-polaris-pwk-1704cgl-diamond-cernyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1704CGL Diamond черный
+            [1] => 2899
+            [2] => 03.11.20-10:41:00
+            [3] => 37.230.138.188:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/742d7e02d3931b80/elektrocajnik-polaris-pwk-1704cgl-diamond-cernyj/
+        )
+
+    [https://dns-shop.ru/product/bf199c17fdb13330/utug-polaris-pir-2699k-cordless-krasnyj/] => Array
+        (
+            [0] => Утюг Polaris PIR 2699K Cordless красный
+            [1] => 2799
+            [2] => 03.11.20-04:40:57
+            [3] => 188.130.187.246:3000
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/bf199c17fdb13330/utug-polaris-pir-2699k-cordless-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/9f48774237283361/ventilator-polaris-psf-40rc-sensor-bw-cernyj/] => Array
+        (
+            [0] => Вентилятор Polaris PSF 40RC Sensor bw чёрный
+            [1] => 2499
+            [2] => 03.11.20-05:41:03
+            [3] => 45.86.0.72:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/9f48774237283361/ventilator-polaris-psf-40rc-sensor-bw-cernyj/
+        )
+
+    [https://dns-shop.ru/product/028f834f51c83330/utug-polaris-pir-2457k-cordless-fioletovyj/] => Array
+        (
+            [0] => Утюг Polaris PIR 2457K Cordless фиолетовый
+            [1] => 1699
+            [2] => 03.11.20-04:44:23
+            [3] => 185.127.167.74:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/028f834f51c83330/utug-polaris-pir-2457k-cordless-fioletovyj/
+        )
+
+    [https://dns-shop.ru/product/6dbef073eb8c1b80/skovoroda-polaris-adore-28df-cernyj/] => Array
+        (
+            [0] => Сковорода Polaris Adore-28DF черный
+            [1] => 2999
+            [2] => 03.11.20-04:43:34
+            [3] => 46.243.160.197:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/6dbef073eb8c1b80/skovoroda-polaris-adore-28df-cernyj/
+        )
+
+    [https://dns-shop.ru/product/4f108c48f3801b80/kofevarka-rozkovaa-polaris-pcm-1529ae-adore-crema-bezevyj/] => Array
+        (
+            [0] => Кофеварка рожковая Polaris PCM 1529AE Adore Crema бежевый
+            [1] => 5299
+            [2] => 03.11.20-04:40:41
+            [3] => 37.230.138.137:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/4f108c48f3801b80/kofevarka-rozkovaa-polaris-pcm-1529ae-adore-crema-bezevyj/
+        )
+
+    [https://dns-shop.ru/product/90a54a2d11851b80/fen-setka-polaris-phsb-1243k/] => Array
+        (
+            [0] => Фен-щетка Polaris PHSB 1243K
+            [1] => 1150
+            [2] => 03.11.20-04:45:59
+            [3] => 37.230.138.56:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/90a54a2d11851b80/fen-setka-polaris-phsb-1243k/
+        )
+
+    [https://dns-shop.ru/product/e747d1cc0bce3330/forma-dla-vypekania-polaris-stone-23r-bezevyj/] => Array
+        (
+            [0] => Форма для выпекания Polaris Stone-23R бежевый
+            [1] => 799
+            [2] => 31.10.20-10:45:53
+            [3] => 185.127.165.212:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/e747d1cc0bce3330/forma-dla-vypekania-polaris-stone-23r-bezevyj/
+        )
+
+    [https://dns-shop.ru/product/ce6a353a38953332/blender-polaris-phb-1322al-cernyj/] => Array
+        (
+            [0] => Блендер Polaris PHB 1322AL черный
+            [1] => 4699
+            [2] => 03.11.20-04:43:20
+            [3] => 45.84.177.243:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/ce6a353a38953332/blender-polaris-phb-1322al-cernyj/
+        )
+
+    [https://dns-shop.ru/product/077571ed0bcf3330/forma-dla-vypekania-polaris-stone-3223r-bezevyj/] => Array
+        (
+            [0] => Форма для выпекания Polaris Stone-3223R бежевый
+            [1] => 999
+            [2] => 03.11.20-10:41:07
+            [3] => 185.127.165.76:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/077571ed0bcf3330/forma-dla-vypekania-polaris-stone-3223r-bezevyj/
+        )
+
+    [https://dns-shop.ru/product/c036bf80d3933332/elektrocajnik-polaris-1711cgld-serebristyj/] => Array
+        (
+            [0] => Электрочайник Polaris 1711CGLD серебристый
+            [1] => 4399
+            [2] => 03.11.20-05:39:55
+            [3] => 37.230.138.194:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/c036bf80d3933332/elektrocajnik-polaris-1711cgld-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/11759f4d1f7b3332/vypramitel-dla-volos-polaris-phs-2092kt/] => Array
+        (
+            [0] => Выпрямитель для волос Polaris PHS 2092KT
+            [1] => 999
+            [2] => 03.11.20-05:42:59
+            [3] => 37.230.138.56:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/11759f4d1f7b3332/vypramitel-dla-volos-polaris-phs-2092kt/
+        )
+
+    [https://dns-shop.ru/product/4dfa8bd1d3931b80/elektrocajnik-polaris-pwk-1704cgl-diamond-belyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1704CGL Diamond белый
+            [1] => 1899
+            [2] => 03.11.20-04:44:23
+            [3] => 185.127.167.74:443
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/4dfa8bd1d3931b80/elektrocajnik-polaris-pwk-1704cgl-diamond-belyj/
+        )
+
+    [https://dns-shop.ru/product/7059d16e04341b80/kofevarka-rozkovaa-polaris-pcm-1538e-belyj/] => Array
+        (
+            [0] => Кофеварка рожковая Polaris PCM 1538E белый
+            [1] => 9999
+            [2] => 03.11.20-05:41:22
+            [3] => 37.230.138.205:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/7059d16e04341b80/kofevarka-rozkovaa-polaris-pcm-1538e-belyj/
+        )
+
+    [https://dns-shop.ru/product/942d49d61a221b80/vodonagrevatel-polaris-delta-imf-100v/] => Array
+        (
+            [0] => Водонагреватель Polaris Delta IMF 100V
+            [1] => 18499
+            [2] => 03.11.20-04:46:39
+            [3] => 46.8.156.15:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/942d49d61a221b80/vodonagrevatel-polaris-delta-imf-100v/
+        )
+
+    [https://dns-shop.ru/product/bec5720a83223330/kryska-polaris-sl26/] => Array
+        (
+            [0] => Крышка Polaris SL26
+            [1] => 550
+            [2] => 03.11.20-05:39:34
+            [3] => 78.40.118.106:24531
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/bec5720a83223330/kryska-polaris-sl26/
+        )
+
+    [https://dns-shop.ru/product/58cf3885e67f3332/gril-polaris-pgp-1802-serebristyj/] => Array
+        (
+            [0] => Гриль Polaris PGP 1802 серебристый
+            [1] => 5499
+            [2] => 03.11.20-04:41:34
+            [3] => 185.139.215.224:24531
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/58cf3885e67f3332/gril-polaris-pgp-1802-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/34e877abb4353332/uvlaznitel-vozduha-polaris-puh-5003-tf/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 5003 TF
+            [1] => 2999
+            [2] => 03.11.20-04:45:12
+            [3] => 185.127.164.126:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+            [5] => https://dns-shop.ru/product/34e877abb4353332/uvlaznitel-vozduha-polaris-puh-5003-tf/
+        )
+
+    [https://dns-shop.ru/product/26e6a816526f3330/gril-polaris-pgp-1302-serebristyj/] => Array
+        (
+            [0] => Гриль Polaris PGP 1302 серебристый
+            [1] => 7999
+            [2] => 03.11.20-04:41:07
+            [3] => 188.120.255.152:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/26e6a816526f3330/gril-polaris-pgp-1302-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/461fcbae64bc3330/multivarka-polaris-pmc-0535d-serebristyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0535D серебристый
+            [1] => 4999
+            [2] => 03.11.20-05:41:00
+            [3] => 185.127.164.249:443
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/461fcbae64bc3330/multivarka-polaris-pmc-0535d-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/203dfd5bc6ed1b80/gril-polaris-pgp-2202iq-fry-serebristyj/] => Array
+        (
+            [0] => Гриль Polaris PGP 2202IQ Fry серебристый
+            [1] => 6499
+            [2] => 03.11.20-04:44:23
+            [3] => 185.127.164.170:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/203dfd5bc6ed1b80/gril-polaris-pgp-2202iq-fry-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/f114bfaaa9003332/maslanyj-radiator-polaris-pre-z-0715-belyj/] => Array
+        (
+            [0] => Масляный радиатор Polaris PRE Z 0715 белый
+            [1] => 2999
+            [2] => 03.11.20-04:46:37
+            [3] => 78.40.117.55:24531
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/f114bfaaa9003332/maslanyj-radiator-polaris-pre-z-0715-belyj/
+        )
+
+    [https://dns-shop.ru/product/6ba982fd85af3330/vesy-polaris-pws-1874dg/] => Array
+        (
+            [0] => Весы Polaris PWS 1874DG
+            [1] => 999
+            [2] => 03.11.20-05:41:52
+            [3] => 109.248.205.102:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/6ba982fd85af3330/vesy-polaris-pws-1874dg/
+        )
+
+    [https://dns-shop.ru/product/aa09dfb713d73332/ventilator-polaris-psf-0740-belyj/] => Array
+        (
+            [0] => Вентилятор Polaris PSF 0740 белый
+            [1] => 1299
+            [2] => 03.11.20-04:40:55
+            [3] => 185.127.164.210:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/aa09dfb713d73332/ventilator-polaris-psf-0740-belyj/
+        )
+
+    [https://dns-shop.ru/product/1e2f0001a0f33330/elektrocajnik-polaris-pwk-1706cg-krasnyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1706CG красный
+            [1] => 2199
+            [2] => 03.11.20-04:41:04
+            [3] => 37.230.138.216:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/1e2f0001a0f33330/elektrocajnik-polaris-pwk-1706cg-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/7794218332f33330/uvlaznitel-vozduha-polaris-puh-7005-tfd/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 7005 TFD
+            [1] => 3599
+            [2] => 03.11.20-04:40:45
+            [3] => 185.112.13.17:2831
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/7794218332f33330/uvlaznitel-vozduha-polaris-puh-7005-tfd/
+        )
+
+    [https://dns-shop.ru/product/514fa977ac563332/fen-polaris-phd-2065ti-fioletovyjcernyj/] => Array
+        (
+            [0] => Фен Polaris PHD 2065Ti фиолетовый/черный
+            [1] => 899
+            [2] => 03.11.20-04:44:28
+            [3] => 37.230.138.127:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/514fa977ac563332/fen-polaris-phd-2065ti-fioletovyjcernyj/
+        )
+
+    [https://dns-shop.ru/product/d4e18f9e77483330/mikser-polaris-phm-7019-bezevyj/] => Array
+        (
+            [0] => Миксер Polaris PHM 7019 бежевый
+            [1] => 1199
+            [2] => 03.11.20-05:40:31
+            [3] => 46.243.160.154:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/d4e18f9e77483330/mikser-polaris-phm-7019-bezevyj/
+        )
+
+    [https://dns-shop.ru/product/d94923151dae3330/pylesos-polaris-pvb-1604-cernyj/] => Array
+        (
+            [0] => Пылесос Polaris PVB 1604 черный
+            [1] => 4699
+            [2] => 03.11.20-04:43:19
+            [3] => 185.127.165.205:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/d94923151dae3330/pylesos-polaris-pvb-1604-cernyj/
+        )
+
+    [https://dns-shop.ru/product/ba6e63e2f3db1b80/nabor-posudy-polaris-easykeep-4d/] => Array
+        (
+            [0] => Набор посуды Polaris EasyKeep-4D
+            [1] => 2999
+            [2] => 03.11.20-04:42:43
+            [3] => 92.119.193.213:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/ba6e63e2f3db1b80/nabor-posudy-polaris-easykeep-4d/
+        )
+
+    [https://dns-shop.ru/product/b0382cbf32833330/mikrovolnovaa-pec-polaris-pmo-2002d-rus-cernyj/] => Array
+        (
+            [0] => Микроволновая печь Polaris PMO 2002D RUS черный
+            [1] => 6999
+            [2] => 03.11.20-04:46:35
+            [3] => 37.230.138.96:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/b0382cbf32833330/mikrovolnovaa-pec-polaris-pmo-2002d-rus-cernyj/
+        )
+
+    [https://dns-shop.ru/product/2c55728cb8c41b80/paroocistitel-polaris-psc-1102c-steam-multidrive-belyj/] => Array
+        (
+            [0] => Пароочиститель Polaris PSC 1102C STEAM Multidrive белый
+            [1] => 3999
+            [2] => 30.10.20-10:47:27
+            [3] => 37.230.138.136:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/2c55728cb8c41b80/paroocistitel-polaris-psc-1102c-steam-multidrive-belyj/
+        )
+
+    [https://dns-shop.ru/product/3a1ba0f2c8403330/oresnica-polaris-pnt-0401-cernyj/] => Array
+        (
+            [0] => Орешница Polaris PNT 0401 черный
+            [1] => 1899
+            [2] => 03.11.20-04:43:44
+            [3] => 46.243.160.178:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/3a1ba0f2c8403330/oresnica-polaris-pnt-0401-cernyj/
+        )
+
+    [https://dns-shop.ru/product/6edc8a1d1a221b80/vodonagrevatel-polaris-delta-imf-30v/] => Array
+        (
+            [0] => Водонагреватель Polaris Delta IMF 30V
+            [1] => 7899
+            [2] => 25.10.20-05:42:05
+            [3] => 37.230.138.234:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/6edc8a1d1a221b80/vodonagrevatel-polaris-delta-imf-30v/
+        )
+
+    [https://dns-shop.ru/product/a66851e511871b80/fen-polaris-phd-2355-tdi-rozovyj/] => Array
+        (
+            [0] => Фен Polaris PHD 2355 TDI розовый
+            [1] => 2099
+            [2] => 03.11.20-04:41:32
+            [3] => 37.230.138.137:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/a66851e511871b80/fen-polaris-phd-2355-tdi-rozovyj/
+        )
+
+    [https://dns-shop.ru/product/9df5b3649b9f1b80/otparivatel-polaris-1422ca-travel-rozovyj/] => Array
+        (
+            [0] => Отпариватель Polaris 1422CA Travel розовый
+            [1] => 2499
+            [2] => 03.11.20-04:46:00
+            [3] => 185.127.164.61:443
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/9df5b3649b9f1b80/otparivatel-polaris-1422ca-travel-rozovyj/
+        )
+
+    [https://dns-shop.ru/product/90465dbd17843330/elektrocajnik-polaris-pwk-1260-belyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1260 белый
+            [1] => 2499
+            [2] => 03.11.20-05:39:38
+            [3] => 185.127.164.159:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/90465dbd17843330/elektrocajnik-polaris-pwk-1260-belyj/
+        )
+
+    [https://dns-shop.ru/product/3e3bdc59c68a3330/blender-polaris-phb-0757a-serebristyj/] => Array
+        (
+            [0] => Блендер Polaris PHB 0757A серебристый
+            [1] => 2199
+            [2] => 03.11.20-04:40:44
+            [3] => 185.181.246.225:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/3e3bdc59c68a3330/blender-polaris-phb-0757a-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/e47fbc41dd1b3332/sendvicnica-polaris-pst-0601-cernyj/] => Array
+        (
+            [0] => Сэндвичница Polaris PST 0601 черный
+            [1] => 999
+            [2] => 03.11.20-10:41:06
+            [3] => 95.182.125.99:3000
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/e47fbc41dd1b3332/sendvicnica-polaris-pst-0601-cernyj/
+        )
+
+    [https://dns-shop.ru/product/79ceb7b94bd41b80/ventilator-polaris-psf-40rc-violet-fioletovyj/] => Array
+        (
+            [0] => Вентилятор Polaris PSF 40RC Violet фиолетовый
+            [1] => 2899
+            [2] => 03.11.20-05:41:38
+            [3] => 185.127.165.192:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/79ceb7b94bd41b80/ventilator-polaris-psf-40rc-violet-fioletovyj/
+        )
+
+    [https://dns-shop.ru/product/3697867e77dd3332/ocistitel-vozduha-polaris-ppa-5068i-cernyj/] => Array
+        (
+            [0] => Очиститель воздуха Polaris PPA 5068i чёрный
+            [1] => 9999
+            [2] => 03.11.20-05:40:31
+            [3] => 5.252.20.48:24531
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/3697867e77dd3332/ocistitel-vozduha-polaris-ppa-5068i-cernyj/
+        )
+
+    [https://dns-shop.ru/product/deb3228a492b3332/susilka-dla-ovosej-i-fruktov-polaris-pfd-2505-seryj/] => Array
+        (
+            [0] => Сушилка для овощей и фруктов Polaris PFD 2505 серый
+            [1] => 1999
+            [2] => 03.11.20-04:47:21
+            [3] => 46.8.156.15:3000
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/deb3228a492b3332/susilka-dla-ovosej-i-fruktov-polaris-pfd-2505-seryj/
+        )
+
+    [https://dns-shop.ru/product/700e423a62403330/trimmer-polaris-phc-3019rc-retro/] => Array
+        (
+            [0] => Триммер Polaris PHC 3019RC Retro
+            [1] => 2699
+            [2] => 03.11.20-04:45:13
+            [3] => 46.243.160.197:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/700e423a62403330/trimmer-polaris-phc-3019rc-retro/
+        )
+
+    [https://dns-shop.ru/product/461fcbac64bc3330/multivarka-skorovarka-polaris-ppc-1305ad-cernyj/] => Array
+        (
+            [0] => Мультиварка-скороварка Polaris PPC 1305AD черный
+            [1] => 5299
+            [2] => 03.11.20-05:40:57
+            [3] => 185.127.164.213:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/461fcbac64bc3330/multivarka-skorovarka-polaris-ppc-1305ad-cernyj/
+        )
+
+    [https://dns-shop.ru/product/51f5e9c1caeb3332/toster-polaris-pet-0917a-bezevyj/] => Array
+        (
+            [0] => Тостер Polaris PET 0917A бежевый
+            [1] => 2199
+            [2] => 03.11.20-04:40:49
+            [3] => 46.8.156.15:3000
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/51f5e9c1caeb3332/toster-polaris-pet-0917a-bezevyj/
+        )
+
+    [https://dns-shop.ru/product/6d0ec9ae113e3330/skovoroda-polaris-faktura-24fr-krasnyj/] => Array
+        (
+            [0] => Сковорода Polaris Faktura-24FR красный
+            [1] => 1199
+            [2] => 03.11.20-04:44:34
+            [3] => 185.127.165.205:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/6d0ec9ae113e3330/skovoroda-polaris-faktura-24fr-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/ad04c888ddc33330/susilka-dla-ovosej-i-fruktov-polaris-pfd-2705-bezevyj/] => Array
+        (
+            [0] => Сушилка для овощей и фруктов Polaris PFD 2705 бежевый
+            [1] => 3950
+            [2] => 03.11.20-04:41:12
+            [3] => 185.181.246.225:3000
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/ad04c888ddc33330/susilka-dla-ovosej-i-fruktov-polaris-pfd-2705-bezevyj/
+        )
+
+    [https://dns-shop.ru/product/a2137aa61fd21b80/vypramitel-dla-volos-polaris-phss-2097ti-titan-prof/] => Array
+        (
+            [0] => Выпрямитель для волос Polaris PHSS 2097Ti Titan Prof.
+            [1] => 2099
+            [2] => 03.11.20-05:39:52
+            [3] => 185.127.165.31:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/a2137aa61fd21b80/vypramitel-dla-volos-polaris-phss-2097ti-titan-prof/
+        )
+
+    [https://dns-shop.ru/product/3d7a9213ab843332/sendvicnica-polaris-pst-0103-serebristyj/] => Array
+        (
+            [0] => Сэндвичница Polaris PST 0103 серебристый
+            [1] => 2099
+            [2] => 03.11.20-10:41:07
+            [3] => 46.243.160.245:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/3d7a9213ab843332/sendvicnica-polaris-pst-0103-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/94be6d0ff3da1b80/nabor-nozej-polaris-pro-collection-3ss/] => Array
+        (
+            [0] => Набор ножей Polaris PRO collection-3SS
+            [1] => 1399
+            [2] => 03.11.20-04:41:27
+            [3] => 185.127.164.165:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/94be6d0ff3da1b80/nabor-nozej-polaris-pro-collection-3ss/
+        )
+
+    [https://dns-shop.ru/product/a341ae05258e3330/multivarka-polaris-pmc-0365ad-serebristyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0365AD серебристый
+            [1] => 2299
+            [2] => 30.10.20-02:41:19
+            [3] => 185.127.167.39:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/a341ae05258e3330/multivarka-polaris-pmc-0365ad-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/00fa089be8a21b80/kuhonnye-vesy-polaris-pks-0742dg-seryj/] => Array
+        (
+            [0] => Кухонные весы Polaris PKS 0742DG серый
+            [1] => 999
+            [2] => 03.11.20-04:44:29
+            [3] => 46.243.160.230:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/00fa089be8a21b80/kuhonnye-vesy-polaris-pks-0742dg-seryj/
+        )
+
+    [https://dns-shop.ru/product/900039c9fee33330/vodonagrevatel-polaris-ultra-imf-50-v/] => Array
+        (
+            [0] => Водонагреватель Polaris ULTRA IMF 50 V
+            [1] => 14599
+            [2] => 03.11.20-05:40:37
+            [3] => 185.127.166.25:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/900039c9fee33330/vodonagrevatel-polaris-ultra-imf-50-v/
+        )
+
+    [https://dns-shop.ru/product/1f7ed248ac1d3332/masorubka-polaris-pmg-2050-rus-fioletovyj/] => Array
+        (
+            [0] => Мясорубка Polaris PMG 2050 RUS фиолетовый
+            [1] => 4199
+            [2] => 03.11.20-05:39:54
+            [3] => 46.243.160.154:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/1f7ed248ac1d3332/masorubka-polaris-pmg-2050-rus-fioletovyj/
+        )
+
+    [https://dns-shop.ru/product/50823fe42af33330/fen-polaris-phd-2067-cernyj/] => Array
+        (
+            [0] => Фен Polaris PHD 2067 черный
+            [1] => 1099
+            [2] => 03.11.20-05:40:31
+            [3] => 185.127.164.107:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/50823fe42af33330/fen-polaris-phd-2067-cernyj/
+        )
+
+    [https://dns-shop.ru/product/6c3bd062c9431b80/pylesos-robot-polaris-pvcr-1090-space-sence-aqua-cernyj/] => Array
+        (
+            [0] => Пылесос-робот Polaris PVCR 1090 Space Sence Aqua черный
+            [1] => 12999
+            [2] => 03.11.20-04:42:24
+            [3] => 185.112.15.8:2831
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+            [5] => https://dns-shop.ru/product/6c3bd062c9431b80/pylesos-robot-polaris-pvcr-1090-space-sence-aqua-cernyj/
+        )
+
+    [https://dns-shop.ru/product/f7c4ef99d4463330/mikatermiceskij-obogrevatel-polaris-pmh-2047/] => Array
+        (
+            [0] => Микатермический обогреватель Polaris PMH 2047
+            [1] => 6499
+            [2] => 20.10.20-02:40:54
+            [3] => 37.230.138.99:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/f7c4ef99d4463330/mikatermiceskij-obogrevatel-polaris-pmh-2047/
+        )
+
+    [https://dns-shop.ru/product/52173470a8fe3332/maslanyj-radiator-polaris-pre-z-0920-zolotistyj/] => Array
+        (
+            [0] => Масляный радиатор Polaris PRE Z 0920 золотистый
+            [1] => 2999
+            [2] => 16.10.20-14:41:21
+            [3] => 37.230.138.212:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/52173470a8fe3332/maslanyj-radiator-polaris-pre-z-0920-zolotistyj/
+        )
+
+    [https://dns-shop.ru/product/5740e9d115573332/teploventilator-polaris-pfh-2062/] => Array
+        (
+            [0] => Тепловентилятор Polaris PFH 2062
+            [1] => 1199
+            [2] => 03.11.20-10:41:00
+            [3] => 46.243.160.75:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+            [5] => https://dns-shop.ru/product/5740e9d115573332/teploventilator-polaris-pfh-2062/
+        )
+
+    [https://dns-shop.ru/product/c171420ecc7d1b80/utug-polaris-pir-2699k-cordless-cernyj/] => Array
+        (
+            [0] => Утюг Polaris PIR 2699K Cordless чёрный
+            [1] => 2799
+            [2] => 03.11.20-04:45:20
+            [3] => 185.127.164.61:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/c171420ecc7d1b80/utug-polaris-pir-2699k-cordless-cernyj/
+        )
+
+    [https://dns-shop.ru/product/54a0b2ebe6561b80/multivarka-skorovarka-polaris-ppc-1203ad-cernyj/] => Array
+        (
+            [0] => Мультиварка-скороварка Polaris PPC 1203AD черный
+            [1] => 3699
+            [2] => 03.11.20-04:46:03
+            [3] => 37.230.138.220:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/54a0b2ebe6561b80/multivarka-skorovarka-polaris-ppc-1203ad-cernyj/
+        )
+
+    [https://dns-shop.ru/product/b16e9e8a541e3332/utug-polaris-pir-2420ak-sinij/] => Array
+        (
+            [0] => Утюг Polaris PIR 2420AK синий
+            [1] => 1799
+            [2] => 03.11.20-05:39:55
+            [3] => 37.230.138.187:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/b16e9e8a541e3332/utug-polaris-pir-2420ak-sinij/
+        )
+
+    [https://dns-shop.ru/product/16029bb7f71f3333/multivarka-polaris-pmc-0574ad-serebristyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0574AD серебристый
+            [1] => 4399
+            [2] => 27.10.20-21:39:57
+            [3] => 185.127.165.196:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/16029bb7f71f3333/multivarka-polaris-pmc-0574ad-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/85de460ce3bb3330/pylesos-polaris-pvc2002ci-cernyj/] => Array
+        (
+            [0] => Пылесос Polaris PVC2002Ci черный
+            [1] => 5599
+            [2] => 03.11.20-04:41:28
+            [3] => 185.127.165.48:443
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/85de460ce3bb3330/pylesos-polaris-pvc2002ci-cernyj/
+        )
+
+    [https://dns-shop.ru/product/4dba783b1b413330/multivarka-polaris-pmc-0490ad-serebristyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0490AD серебристый
+            [1] => 3999
+            [2] => 03.11.20-04:41:00
+            [3] => 46.243.160.154:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/4dba783b1b413330/multivarka-polaris-pmc-0490ad-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/a40b1dfdd85b1b80/kofevarka-rozkovaa-polaris-pcm-2001ae-serebristyj/] => Array
+        (
+            [0] => Кофеварка рожковая Polaris PCM 2001AE серебристый
+            [1] => 22999
+            [2] => 03.11.20-04:41:27
+            [3] => 92.119.193.213:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/a40b1dfdd85b1b80/kofevarka-rozkovaa-polaris-pcm-2001ae-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/176e2bf399d73330/multivarka-polaris-pmc-0582adg-cernyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0582ADG черный
+            [1] => 3350
+            [2] => 03.11.20-05:42:44
+            [3] => 212.86.111.211:2831
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/176e2bf399d73330/multivarka-polaris-pmc-0582adg-cernyj/
+        )
+
+    [https://dns-shop.ru/product/b5484c4eac553332/fen-polaris-phd-2083ti-cernyj/] => Array
+        (
+            [0] => Фен Polaris PHD 2083Ti черный
+            [1] => 2550
+            [2] => 22.10.20-06:40:20
+            [3] => 185.127.165.195:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+            [5] => https://dns-shop.ru/product/b5484c4eac553332/fen-polaris-phd-2083ti-cernyj/
+        )
+
+    [https://dns-shop.ru/product/1d294a11d5383332/otparivatel-polaris-pgs-2020va-belyj/] => Array
+        (
+            [0] => Отпариватель Polaris PGS 2020VA белый
+            [1] => 9999
+            [2] => 03.11.20-04:46:02
+            [3] => 185.112.13.12:2831
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/1d294a11d5383332/otparivatel-polaris-pgs-2020va-belyj/
+        )
+
+    [https://dns-shop.ru/product/56841a4c2af33330/vesy-polaris-pws-1860dgf/] => Array
+        (
+            [0] => Весы Polaris PWS 1860DGF
+            [1] => 1699
+            [2] => 03.11.20-05:40:35
+            [3] => 37.230.138.119:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/56841a4c2af33330/vesy-polaris-pws-1860dgf/
+        )
+
+    [https://dns-shop.ru/product/64e3113fe0843120/multivarka-polaris-pmc-0513adg-cernyj/] => Array
+        (
+            [0] => Мультиварка Polaris PMC 0513ADG черный
+            [1] => 4099
+            [2] => 03.11.20-04:46:35
+            [3] => 46.243.160.230:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/64e3113fe0843120/multivarka-polaris-pmc-0513adg-cernyj/
+        )
+
+    [https://dns-shop.ru/product/286715655f5a3330/kuhonnaa-masina-polaris-pkm-1101-belyj/] => Array
+        (
+            [0] => Кухонная машина Polaris PKM 1101 белый
+            [1] => 6999
+            [2] => 30.10.20-10:47:21
+            [3] => 45.81.137.70:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/286715655f5a3330/kuhonnaa-masina-polaris-pkm-1101-belyj/
+        )
+
+    [https://dns-shop.ru/product/73467b9209ac1b80/parogenerator-polaris-pss-7530k-belyj/] => Array
+        (
+            [0] => Парогенератор Polaris PSS 7530K белый
+            [1] => 6999
+            [2] => 03.11.20-04:41:09
+            [3] => 188.130.185.146:3000
+            [4] => Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/73467b9209ac1b80/parogenerator-polaris-pss-7530k-belyj/
+        )
+
+    [https://dns-shop.ru/product/dc32899834ef3332/elektrocajnik-polaris-pwk-1852ca-krasnyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1852CA красный
+            [1] => 1699
+            [2] => 18.10.20-04:43:34
+            [3] => 185.127.164.192:443
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/dc32899834ef3332/elektrocajnik-polaris-pwk-1852ca-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/900039cafee33330/vodonagrevatel-polaris-ultra-imf-80v/] => Array
+        (
+            [0] => Водонагреватель Polaris ULTRA IMF 80V
+            [1] => 18599
+            [2] => 03.11.20-04:47:18
+            [3] => 185.127.166.104:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/900039cafee33330/vodonagrevatel-polaris-ultra-imf-80v/
+        )
+
+    [https://dns-shop.ru/product/3ff1ab333f0e3332/multistajler-polaris-phs-4090kt/] => Array
+        (
+            [0] => Мультистайлер Polaris PHS 4090KT
+            [1] => 1299
+            [2] => 03.11.20-04:40:40
+            [3] => 185.181.246.225:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/3ff1ab333f0e3332/multistajler-polaris-phs-4090kt/
+        )
+
+    [https://dns-shop.ru/product/68a6b32e0c7e3330/multistajler-polaris-phs-3010kti/] => Array
+        (
+            [0] => Мультистайлер Polaris PHS 3010KTi
+            [1] => 1250
+            [2] => 31.10.20-10:47:43
+            [3] => 185.127.164.171:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/68a6b32e0c7e3330/multistajler-polaris-phs-3010kti/
+        )
+
+    [https://dns-shop.ru/product/61f114383f0a3332/sipcy-dla-zavivki-volos-polaris-phs-1570k/] => Array
+        (
+            [0] => Щипцы для завивки волос Polaris PHS 1570K
+            [1] => 1899
+            [2] => 29.10.20-05:39:19
+            [3] => 46.243.160.184:443
+            [4] => Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/61f114383f0a3332/sipcy-dla-zavivki-volos-polaris-phs-1570k/
+        )
+
+    [https://dns-shop.ru/product/1df2769509be1b80/kuhonnye-vesy-polaris-pks-0558-serebristyj/] => Array
+        (
+            [0] => Кухонные весы Polaris PKS 0558 серебристый
+            [1] => 1150
+            [2] => 03.11.20-04:46:10
+            [3] => 46.243.160.236:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/1df2769509be1b80/kuhonnye-vesy-polaris-pks-0558-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/e9240dd2c86e1b80/infrakrasnyj-obogrevatel-polaris-pmh-2015/] => Array
+        (
+            [0] => Инфракрасный обогреватель Polaris PMH 2015
+            [1] => 5599
+            [2] => 29.10.20-05:39:17
+            [3] => 185.127.166.38:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/e9240dd2c86e1b80/infrakrasnyj-obogrevatel-polaris-pmh-2015/
+        )
+
+    [https://dns-shop.ru/product/33d2d79eeb9e1b80/masorubka-polaris-pmg-2546-serebristyj/] => Array
+        (
+            [0] => Мясорубка Polaris PMG 2546 серебристый
+            [1] => 4999
+            [2] => 03.11.20-04:41:41
+            [3] => 185.127.165.194:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/33d2d79eeb9e1b80/masorubka-polaris-pmg-2546-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/edde6684d4463330/mikatermiceskij-obogrevatel-polaris-pmh-1546/] => Array
+        (
+            [0] => Микатермический обогреватель Polaris PMH 1546
+            [1] => 4999
+            [2] => 21.10.20-04:39:56
+            [3] => 37.230.138.216:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/edde6684d4463330/mikatermiceskij-obogrevatel-polaris-pmh-1546/
+        )
+
+    [https://dns-shop.ru/product/5101cd9b85af3330/vesy-polaris-pws-1875dg/] => Array
+        (
+            [0] => Весы Polaris PWS 1875DG
+            [1] => 999
+            [2] => 21.10.20-06:40:02
+            [3] => 185.127.167.58:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/5101cd9b85af3330/vesy-polaris-pws-1875dg/
+        )
+
+    [https://dns-shop.ru/product/f7c4ef99d4463330/konvektor-polaris-pmh-2047/] => Array
+        (
+            [0] => Конвектор Polaris PMH 2047
+            [1] => 6499
+            [2] => 03.11.20-04:40:44
+            [3] => 185.127.165.111:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+            [5] => https://dns-shop.ru/product/f7c4ef99d4463330/konvektor-polaris-pmh-2047/
+        )
+
+    [https://dns-shop.ru/product/8ee52352d0ed3330/frenc-press-polaris-pixel-350fp-prozracnyj-koricnevyj/] => Array
+        (
+            [0] => Френч-пресс Polaris Pixel-350FP прозрачный, коричневый
+            [1] => 899
+            [2] => 21.10.20-04:40:56
+            [3] => 45.81.136.153:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/8ee52352d0ed3330/frenc-press-polaris-pixel-350fp-prozracnyj-koricnevyj/
+        )
+
+    [https://dns-shop.ru/product/d4f699ecb8131b80/gril-polaris-pgp-0602-golden-rush-serebristyj/] => Array
+        (
+            [0] => Гриль Polaris PGP 0602 Golden rush серебристый
+            [1] => 4499
+            [2] => 25.10.20-21:39:32
+            [3] => 94.154.131.171:24531
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/d4f699ecb8131b80/gril-polaris-pgp-0602-golden-rush-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/b834163ae87f1b80/uvlaznitel-vozduha-polaris-puh-8505tfd/] => Array
+        (
+            [0] => Увлажнитель воздуха Polaris PUH 8505TFD
+            [1] => 6299
+            [2] => 03.11.20-04:47:44
+            [3] => 37.230.138.220:443
+            [4] => Mozilla/5.0 (Windows NT 6.3; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/b834163ae87f1b80/uvlaznitel-vozduha-polaris-puh-8505tfd/
+        )
+
+    [https://dns-shop.ru/product/edde6684d4463330/konvektor-polaris-pmh-1546/] => Array
+        (
+            [0] => Конвектор Polaris PMH 1546
+            [1] => 4999
+            [2] => 29.10.20-04:39:30
+            [3] => 185.112.15.18:2831
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/edde6684d4463330/konvektor-polaris-pmh-1546/
+        )
+
+    [https://dns-shop.ru/product/b5484c4eac553332/fen-polaris-phd2083ti-cernyj/] => Array
+        (
+            [0] => Фен Polaris PHD2083Ti черный
+            [1] => 1350
+            [2] => 03.11.20-05:42:29
+            [3] => 185.127.165.227:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/b5484c4eac553332/fen-polaris-phd2083ti-cernyj/
+        )
+
+    [https://dns-shop.ru/product/ee1cebb7eb8c1b80/kastrula-polaris-grafitech-20c-koricnevyj/] => Array
+        (
+            [0] => Кастрюля Polaris Grafitech-20C коричневый
+            [1] => 2399
+            [2] => 25.10.20-21:40:47
+            [3] => 46.8.15.241:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/ee1cebb7eb8c1b80/kastrula-polaris-grafitech-20c-koricnevyj/
+        )
+
+    [https://dns-shop.ru/product/8da7e25e912e3330/kofevarka-rozkovaa-polaris-pcm-1528ae-krasnyj/] => Array
+        (
+            [0] => Кофеварка рожковая Polaris PCM 1528AE красный
+            [1] => 6499
+            [2] => 28.10.20-09:40:30
+            [3] => 46.243.160.193:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+            [5] => https://dns-shop.ru/product/8da7e25e912e3330/kofevarka-rozkovaa-polaris-pcm-1528ae-krasnyj/
+        )
+
+    [https://dns-shop.ru/product/f859d364fed11b80/komplekt-filtrov-polaris-pvc-1823/] => Array
+        (
+            [0] => Комплект фильтров Polaris PVC 1823
+            [1] => 1099
+            [2] => 29.10.20-10:40:53
+            [3] => 37.230.138.65:443
+            [4] => Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/f859d364fed11b80/komplekt-filtrov-polaris-pvc-1823/
+        )
+
+    [https://dns-shop.ru/product/597002f3e8c61b80/parovaa-stancia-polaris-pss-6520k-goluboj/] => Array
+        (
+            [0] => Паровая станция Polaris PSS 6520K голубой
+            [1] => 5299
+            [2] => 03.11.20-04:47:17
+            [3] => 45.84.176.37:3000
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/597002f3e8c61b80/parovaa-stancia-polaris-pss-6520k-goluboj/
+        )
+
+    [https://dns-shop.ru/product/2d703828d8533333/uvlaznitel-vozduha-puh-7804-tf/] => Array
+        (
+            [0] => Увлажнитель воздуха PUH 7804 TF
+            [1] => 3499
+            [2] => 03.11.20-04:45:11
+            [3] => 37.230.138.12:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/2d703828d8533333/uvlaznitel-vozduha-puh-7804-tf/
+        )
+
+    [https://dns-shop.ru/product/337925d0192c3332/skovoroda-polaris-grafitech-26f-koricnevyj/] => Array
+        (
+            [0] => Сковорода Polaris Grafitech-26F коричневый
+            [1] => 1799
+            [2] => 03.11.20-05:41:21
+            [3] => 37.230.138.216:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+            [5] => https://dns-shop.ru/product/337925d0192c3332/skovoroda-polaris-grafitech-26f-koricnevyj/
+        )
+
+    [https://dns-shop.ru/product/f0e9691a7d631b80/komplekt-filtrov-polaris-pvcf-1805/] => Array
+        (
+            [0] => Комплект фильтров Polaris PVCF 1805
+            [1] => 599
+            [2] => 03.11.20-10:41:01
+            [3] => 37.230.138.202:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/f0e9691a7d631b80/komplekt-filtrov-polaris-pvcf-1805/
+        )
+
+    [https://dns-shop.ru/product/5dff1ff47bb13330/masinka-dla-strizki-polaris-phc-0714/] => Array
+        (
+            [0] => Машинка для стрижки Polaris PHC 0714
+            [1] => 1199
+            [2] => 30.10.20-10:47:46
+            [3] => 46.243.160.214:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64; rv:52.0) Gecko/20100101 Firefox/52.0
+            [5] => https://dns-shop.ru/product/5dff1ff47bb13330/masinka-dla-strizki-polaris-phc-0714/
+        )
+
+    [https://dns-shop.ru/product/ceccf131eb8b1b80/cajnik-dla-plity-polaris-etna-3l-koricnevyj/] => Array
+        (
+            [0] => Чайник для плиты Polaris Etna-3L коричневый
+            [1] => 3199
+            [2] => 03.11.20-10:41:07
+            [3] => 46.243.160.230:443
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/ceccf131eb8b1b80/cajnik-dla-plity-polaris-etna-3l-koricnevyj/
+        )
+
+    [https://dns-shop.ru/product/7f3ea1d9f3dc1b80/skovoroda-polaris-pro-collection-26fp-cernyj/] => Array
+        (
+            [0] => Сковорода Polaris PRO collection-26FP черный
+            [1] => 2199
+            [2] => 29.10.20-05:39:16
+            [3] => 95.182.124.72:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/7f3ea1d9f3dc1b80/skovoroda-polaris-pro-collection-26fp-cernyj/
+        )
+
+    [https://dns-shop.ru/product/a3441888caf63332/mikrovolnovaa-pec-polaris-pmo-2303dg-eco-cernyj/] => Array
+        (
+            [0] => Микроволновая печь Polaris PMO 2303DG ECO черный
+            [1] => 7999
+            [2] => 29.10.20-05:39:19
+            [3] => 37.230.138.116:443
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+            [5] => https://dns-shop.ru/product/a3441888caf63332/mikrovolnovaa-pec-polaris-pmo-2303dg-eco-cernyj/
+        )
+
+    [https://dns-shop.ru/product/264ee4c7179c1b80/sendvicnica-polaris-pst-0105-serebristyj/] => Array
+        (
+            [0] => Сэндвичница Polaris PST 0105 серебристый
+            [1] => 2899
+            [2] => 29.10.20-05:39:19
+            [3] => 185.112.14.10:2831
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/264ee4c7179c1b80/sendvicnica-polaris-pst-0105-serebristyj/
+        )
+
+    [https://dns-shop.ru/product/520f176e5c251b80/vypramitel-dla-volos-polaris-phs-2599kt/] => Array
+        (
+            [0] => Выпрямитель для волос Polaris PHS 2599KT
+            [1] => 1550
+            [2] => 29.10.20-05:39:21
+            [3] => 5.252.21.61:24531
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.7 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.7
+            [5] => https://dns-shop.ru/product/520f176e5c251b80/vypramitel-dla-volos-polaris-phs-2599kt/
+        )
+
+    [https://dns-shop.ru/product/b9db3136155a3332/elektrocajnik-polaris-pwk-1735cgl-bordovyj/] => Array
+        (
+            [0] => Электрочайник Polaris PWK 1735CGL бордовый
+            [1] => 1999
+            [2] => 31.10.20-11:46:21
+            [3] => 185.112.15.16:2831
+            [4] => Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
+            [5] => https://dns-shop.ru/product/b9db3136155a3332/elektrocajnik-polaris-pwk-1735cgl-bordovyj/
+        )
+
+    [https://dns-shop.ru/product/0d476c8e0f731b80/blender-polaris-phb-1488-silent-cernyj/] => Array
+        (
+            [0] => Блендер Polaris PHB 1488 Silent черный
+            [1] => 2999
+            [2] => 03.11.20-04:45:07
+            [3] => 45.86.0.72:3000
+            [4] => Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.71 Safari/537.36
+            [5] => https://dns-shop.ru/product/0d476c8e0f731b80/blender-polaris-phb-1488-silent-cernyj/
+        )
+
+    [https://dns-shop.ru/product/de55653613773332/otparivatel-polaris-pgs-2090va-belyj/] => Array
+        (
+            [0] => Отпариватель Polaris PGS 2090VA белый
+            [1] => 8250
+            [2] => 03.11.20-05:41:38
+            [3] => 185.127.165.120:443
+            [4] => Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+            [5] => https://dns-shop.ru/product/de55653613773332/otparivatel-polaris-pgs-2090va-belyj/
+        )
+
+)

@@ -1,0 +1,8 @@
+http://dtd.ru/catalog/utyugi/?f[388][min]=&f[388][max]=&f[643][]=879&f[859][min]=&f[859][max]=
+http://dtd.ru/catalog/blendery/?f[370][min]=&f[370][max]=&f[625][]=879&f[845][min]=&f[845][max]=
+http://dtd.ru/catalog/chayniki_i_termopoty/?f[371][min]=&f[371][max]=&f[626][]=879&f[833][min]=&f[833][max]=&f[834][min]=&f[834][max]=
+http://dtd.ru/catalog/sokovyzhimalki/?f[372][min]=&f[372][max]=&f[627][]=879&f[1058][min]=&f[1058][max]=
+http://dtd.ru/catalog/feny/?f[413][min]=&f[413][max]=&f[668][]=879&f[903][min]=&f[903][max]=
+http://dtd.ru/catalog/manikyurnye_nabory/?f[1102][]=879&f[1103][min]=&f[1103][max]=&f[1104][min]=&f[1104][max]=
+http://dtd.ru/catalog/vesy_napolnye/?f[420][min]=&f[420][max]=&f[675][]=879&f[884][min]=&f[884][max]=
+http://dtd.ru/catalog/sokovyzhimalki_1/?f[372][min]=&f[372][max]=&f[627][]=879&f[1058][min]=&f[1058][max]=

@@ -1,0 +1,1 @@
+[32;1m[debug][0m [phantom] Navigation requested: url=https://www.auchan.ru/search/?query=polaris, type=Other, willNavigate=true, isMainFrame=true

@@ -1,0 +1,40 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.kcentr.ru	TRUE	/	FALSE	1937809182	session_uuid	38f8bc39-9be1-450d-a381-e185fdb26020
+.kcentr.ru	TRUE	/	FALSE	1626770984	dSesn	e2648489-d6c9-21a5-607e-c1fca33663b1
+kcentr.ru	FALSE	/	FALSE	1627978784	g4c_x	1
+.kcentr.ru	TRUE	/	FALSE	1658305185	_ym_uid	1626769185547625254
+.kcentr.ru	TRUE	/	FALSE	1658305185	_ym_d	1626769185
+.kcentr.ru	TRUE	/	FALSE	1626769245	_gat_UA-58067771-1	1
+.kcentr.ru	TRUE	/	FALSE	1626841185	_ym_isad	2
+.kcentr.ru	TRUE	/	FALSE	1658305186	rcuid	60f6871f53f84200016c962f
+kcentr.ru	FALSE	/	FALSE	1689841187	rraem	
+.kcentr.ru	TRUE	/	FALSE	1626769487	rrwpswu	true
+.kcentr.ru	TRUE	/	FALSE	1626770988	_ym_visorc	w
+kcentr.ru	FALSE	/	FALSE	1626855589	tmr_detect	0%7C1626769189154
+.kcentr.ru	TRUE	/	FALSE	1634545202	_fbp	fb.1.1626769185814.642236598
+.kcentr.ru	TRUE	/	FALSE	1657873206	store[region]	dd8caeab-c685-4f2a-bf5f-550aca1bbc48
+.kcentr.ru	TRUE	/	FALSE	1657873206	store[kladr]	21000001000
+.kcentr.ru	TRUE	/	FALSE	1657873206	store[manual_select]	1
+.kcentr.ru	TRUE	/	FALSE	1657873206	store[city]	%D0%A7%D0%B5%D0%B1%D0%BE%D0%BA%D1%81%D0%B0%D1%80%D1%8B
+.kcentr.ru	TRUE	/	FALSE	1657873206	store[city_id]	2015
+.kcentr.ru	TRUE	/	FALSE	1626769218	rr-testCookie	testvalue
+.kcentr.ru	TRUE	/	FALSE	1658305208	rrpvid	78822736503415
+.kcentr.ru	TRUE	/	FALSE	1626771008	_dvs	0:krbsdc39:0GyKGjccZhilkafD9tTmXsTWcH0dVZxD
+.kcentr.ru	TRUE	/	FALSE	1689841208	_userGUID	0:krbsdc39:j1V4DaAGvSMqFeNRjkEZujycbA1Uvg7_
+.kcentr.ru	TRUE	/	FALSE	1634545209	_gcl_au	1.1.288538289.1626769184
+kcentr.ru	FALSE	/	FALSE	1634545209	MgidSensorNVis	1
+kcentr.ru	FALSE	/	FALSE	1634545209	MgidSensorHref	https://kcentr.ru/
+.kcentr.ru	TRUE	/	FALSE	1626855610	terminal	0
+.kcentr.ru	TRUE	/	FALSE	1655540410	tmr_lvid	5be4e4654f9f5b2756071246abd02edb
+.kcentr.ru	TRUE	/	FALSE	1655540410	tmr_lvidTS	1626769185015
+.kcentr.ru	TRUE	/	FALSE	1655540410	tmr_reqNum	24
+.kcentr.ru	TRUE	/	FALSE	1689841210	_ga	GA1.2.954589866.1626769185
+.kcentr.ru	TRUE	/	FALSE	1626855610	_gid	GA1.2.1015254915.1626769185
+

@@ -1,0 +1,811 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => class="item product sku" id="bx_1664977501_551245" data-product-id="551245" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="551245" data-artnumber="31054119"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+									<button class="stock-icon">27%</button>
+												
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_kuhni/yogurtnitsy/yogurtnitsa-polaris-pym-0104.html" class="picture" id="picture_551245">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/e83/220_200_1/yogurtnitsa-polaris-pym-0104.jpg" alt="Йогуртница Polaris Pym 0104" title="Йогуртница Polaris Pym 0104">
+			<span class="getFastView" data-id="551245">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_kuhni/yogurtnitsy/yogurtnitsa-polaris-pym-0104.html" class="name"><span class="middle" id="name_551245">Йогуртница Polaris Pym 0104</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 31054119 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price w_disc" id="price_551245">
+																															<s class="discount">598.98 грн.<span class="meas" style="font-size: 8px"></span></s>
+																<div class="stable_price price_red">438.99 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_551245" href="/ru/bytovaya_tehnika/tehnika_dlya_kuhni/yogurtnitsy/yogurtnitsa-polaris-pym-0104.html" class="addCart imgBuy" data-measure="" data-artnumber="31054119" data-id="551245"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="preview_catalog"> 
+							Мощность - 20 Вт
+						</div>
+            [1] =>  sku" id="bx_1664977501_551245" data-product-id="551245" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="551245" data-artnumber="31054119"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+									<button class="stock-icon">27%</button>
+												
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_kuhni/yogurtnitsy/yogurtnitsa-polaris-pym-0104.html" class="picture" id="picture_551245">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/e83/220_200_1/yogurtnitsa-polaris-pym-0104.jpg" alt="Йогуртница Polaris Pym 0104" title="Йогуртница Polaris Pym 0104">
+			<span class="getFastView" data-id="551245">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_kuhni/yogurtnitsy/yogurtnitsa-polaris-pym-0104.html" class="name"><span class="middle" id="name_551245">Йогуртница Polaris Pym 0104</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 31054119 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price w_disc" id="price_551245">
+																															<s class="discount">598.98 грн.<span class="meas" style="font-size: 8px"></span></s>
+																<div class="stable_price price_red">438.99 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_551245" href="/ru/bytovaya_tehnika/tehnika_dlya_kuhni/yogurtnitsy/yogurtnitsa-polaris-pym-0104.html" class="addCart imgBuy" data-measure="" data-artnumber="31054119" data-id="551245"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="
+        )
+
+    [1] => Array
+        (
+            [0] => class="item product sku" id="bx_1664977501_493634" data-product-id="493634" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="493634" data-artnumber="31050102"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+									<button class="stock-icon">16%</button>
+												
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_doma/utyugi/utyug-polaris-pir-1007t.html" class="picture" id="picture_493634">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/607/220_200_1/utyug-polaris-pir-1007t.jpg" alt="Утюг Polaris PIR 1007T" title="Утюг Polaris PIR 1007T">
+			<span class="getFastView" data-id="493634">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_doma/utyugi/utyug-polaris-pir-1007t.html" class="name"><span class="middle" id="name_493634">Утюг Polaris PIR 1007T</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 31050102 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price w_disc" id="price_493634">
+																															<s class="discount">489 грн.<span class="meas" style="font-size: 8px"></span></s>
+																<div class="stable_price price_red">409 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_493634" href="/ru/bytovaya_tehnika/tehnika_dlya_doma/utyugi/utyug-polaris-pir-1007t.html" class="addCart imgBuy" data-measure="" data-artnumber="31050102" data-id="493634"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="preview_catalog"> 
+							Тип: дорожный<br />
+Мощность - 1000 Вт<br />
+Вертикальное отпаривание: есть<br />
+Защита от накипи: нет<br />
+Капля-стоп: нет
+						</div>
+            [1] =>  sku" id="bx_1664977501_493634" data-product-id="493634" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="493634" data-artnumber="31050102"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+									<button class="stock-icon">16%</button>
+												
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_doma/utyugi/utyug-polaris-pir-1007t.html" class="picture" id="picture_493634">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/607/220_200_1/utyug-polaris-pir-1007t.jpg" alt="Утюг Polaris PIR 1007T" title="Утюг Polaris PIR 1007T">
+			<span class="getFastView" data-id="493634">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_doma/utyugi/utyug-polaris-pir-1007t.html" class="name"><span class="middle" id="name_493634">Утюг Polaris PIR 1007T</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 31050102 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price w_disc" id="price_493634">
+																															<s class="discount">489 грн.<span class="meas" style="font-size: 8px"></span></s>
+																<div class="stable_price price_red">409 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_493634" href="/ru/bytovaya_tehnika/tehnika_dlya_doma/utyugi/utyug-polaris-pir-1007t.html" class="addCart imgBuy" data-measure="" data-artnumber="31050102" data-id="493634"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="
+        )
+
+    [2] => Array
+        (
+            [0] => class="item product sku" id="bx_1664977501_491500" data-product-id="491500" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="491500" data-artnumber="31033176"></a>
+			<div class="right_icons">
+												
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_kuhni/sokovyzhimalki/31033176.html" class="picture" id="picture_491500">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/8d9/220_200_1/31033176.jpg" alt="Соковыжималка Polaris Pea 1237A" title="Соковыжималка Polaris Pea 1237A">
+			<span class="getFastView" data-id="491500">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_kuhni/sokovyzhimalki/31033176.html" class="name"><span class="middle" id="name_491500">Соковыжималка Polaris Pea 1237A</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 31033176 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price " id="price_491500">
+																															<div class="stable_price ">1 498.98 грн.<span class="meas"></span></div>
+
+													</a>
+												<a href="#" id="addCart_491500" class="addCart imgBuy" data-measure="" data-artnumber="31033176" data-id="491500"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Купить</span></a>
+
+						
+
+						<div class="preview_catalog"> 
+							Мощность - 1200 Вт<br />
+Емкость для сока - 0.7 л<br />
+Количество скоростей - 2
+						</div>
+            [1] =>  sku" id="bx_1664977501_491500" data-product-id="491500" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="491500" data-artnumber="31033176"></a>
+			<div class="right_icons">
+												
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_kuhni/sokovyzhimalki/31033176.html" class="picture" id="picture_491500">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/8d9/220_200_1/31033176.jpg" alt="Соковыжималка Polaris Pea 1237A" title="Соковыжималка Polaris Pea 1237A">
+			<span class="getFastView" data-id="491500">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/tehnika_dlya_kuhni/sokovyzhimalki/31033176.html" class="name"><span class="middle" id="name_491500">Соковыжималка Polaris Pea 1237A</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 31033176 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price " id="price_491500">
+																															<div class="stable_price ">1 498.98 грн.<span class="meas"></span></div>
+
+													</a>
+												<a href="#" id="addCart_491500" class="addCart imgBuy" data-measure="" data-artnumber="31033176" data-id="491500"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Купить</span></a>
+
+						
+
+						<div class="
+        )
+
+    [3] => Array
+        (
+            [0] => class="item product sku" id="bx_1664977501_1153704" data-product-id="1153704" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="1153704" data-artnumber="30115372"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+												
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_0545d.html" class="picture" id="picture_1153704">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/759/220_200_1/uvlazhnitel_vozdukha_polaris_puh_0545d.jpeg" alt="Увлажнитель воздуха Polaris PUH 0545D" title="Увлажнитель воздуха Polaris PUH 0545D">
+			<span class="getFastView" data-id="1153704">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_0545d.html" class="name"><span class="middle" id="name_1153704">Увлажнитель воздуха Polaris PUH 0545D</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 30115372 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price " id="price_1153704">
+							
+								
+
+													</a>
+													<a  id="addCart_1153704" href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_0545d.html" class="addCart imgBuy" data-measure="" data-artnumber="30115372" data-id="1153704"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="preview_catalog"> 
+							
+						</div>
+            [1] =>  sku" id="bx_1664977501_1153704" data-product-id="1153704" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="1153704" data-artnumber="30115372"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+												
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_0545d.html" class="picture" id="picture_1153704">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/759/220_200_1/uvlazhnitel_vozdukha_polaris_puh_0545d.jpeg" alt="Увлажнитель воздуха Polaris PUH 0545D" title="Увлажнитель воздуха Polaris PUH 0545D">
+			<span class="getFastView" data-id="1153704">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_0545d.html" class="name"><span class="middle" id="name_1153704">Увлажнитель воздуха Polaris PUH 0545D</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 30115372 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price " id="price_1153704">
+							
+								
+
+													</a>
+													<a  id="addCart_1153704" href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_0545d.html" class="addCart imgBuy" data-measure="" data-artnumber="30115372" data-id="1153704"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="
+        )
+
+    [4] => Array
+        (
+            [0] => class="item product sku" id="bx_1664977501_1153717" data-product-id="1153717" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="1153717" data-artnumber="30115361"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+											<img class="partsPay" src="/local/templates/dresscode/images/pb_1_small.png" />
+								
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_polaris_9105_iq_home.html" class="picture" id="picture_1153717">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/e0d/220_200_1/uvlazhnitel_vozdukha_polaris_polaris_9105_iq_home.jpeg" alt="Увлажнитель воздуха Polaris POLARIS 9105 IQ Home" title="Увлажнитель воздуха Polaris POLARIS 9105 IQ Home">
+			<span class="getFastView" data-id="1153717">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_polaris_9105_iq_home.html" class="name"><span class="middle" id="name_1153717">Увлажнитель воздуха Polaris POLARIS 9105 IQ Home</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 30115361 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price " id="price_1153717">
+																															<div class="stable_price ">4 999 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_1153717" href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_polaris_9105_iq_home.html" class="addCart imgBuy" data-measure="" data-artnumber="30115361" data-id="1153717"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="preview_catalog"> 
+							
+						</div>
+            [1] =>  sku" id="bx_1664977501_1153717" data-product-id="1153717" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="1153717" data-artnumber="30115361"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+											<img class="partsPay" src="/local/templates/dresscode/images/pb_1_small.png" />
+								
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_polaris_9105_iq_home.html" class="picture" id="picture_1153717">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/e0d/220_200_1/uvlazhnitel_vozdukha_polaris_polaris_9105_iq_home.jpeg" alt="Увлажнитель воздуха Polaris POLARIS 9105 IQ Home" title="Увлажнитель воздуха Polaris POLARIS 9105 IQ Home">
+			<span class="getFastView" data-id="1153717">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_polaris_9105_iq_home.html" class="name"><span class="middle" id="name_1153717">Увлажнитель воздуха Polaris POLARIS 9105 IQ Home</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 30115361 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price " id="price_1153717">
+																															<div class="stable_price ">4 999 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_1153717" href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_polaris_9105_iq_home.html" class="addCart imgBuy" data-measure="" data-artnumber="30115361" data-id="1153717"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="
+        )
+
+    [5] => Array
+        (
+            [0] => class="item product sku" id="bx_1664977501_1153721" data-product-id="1153721" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="1153721" data-artnumber="30115364"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+									<button class="stock-icon">22%</button>
+											<img class="partsPay" src="/local/templates/dresscode/images/pb_1_small.png" />
+								
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_8105_tf.html" class="picture" id="picture_1153721">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/f0d/220_200_1/uvlazhnitel_vozdukha_polaris_puh_8105_tf.jpeg" alt="Увлажнитель воздуха Polaris PUH 8105 TF" title="Увлажнитель воздуха Polaris PUH 8105 TF">
+			<span class="getFastView" data-id="1153721">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_8105_tf.html" class="name"><span class="middle" id="name_1153721">Увлажнитель воздуха Polaris PUH 8105 TF</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 30115364 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price w_disc" id="price_1153721">
+																															<s class="discount">2 299 грн.<span class="meas" style="font-size: 8px"></span></s>
+																<div class="stable_price price_red">1 799 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_1153721" href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_8105_tf.html" class="addCart imgBuy" data-measure="" data-artnumber="30115364" data-id="1153721"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="preview_catalog"> 
+							
+						</div>
+            [1] =>  sku" id="bx_1664977501_1153721" data-product-id="1153721" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="1153721" data-artnumber="30115364"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+									<button class="stock-icon">22%</button>
+											<img class="partsPay" src="/local/templates/dresscode/images/pb_1_small.png" />
+								
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_8105_tf.html" class="picture" id="picture_1153721">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/f0d/220_200_1/uvlazhnitel_vozdukha_polaris_puh_8105_tf.jpeg" alt="Увлажнитель воздуха Polaris PUH 8105 TF" title="Увлажнитель воздуха Polaris PUH 8105 TF">
+			<span class="getFastView" data-id="1153721">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_8105_tf.html" class="name"><span class="middle" id="name_1153721">Увлажнитель воздуха Polaris PUH 8105 TF</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 30115364 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price w_disc" id="price_1153721">
+																															<s class="discount">2 299 грн.<span class="meas" style="font-size: 8px"></span></s>
+																<div class="stable_price price_red">1 799 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_1153721" href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_8105_tf.html" class="addCart imgBuy" data-measure="" data-artnumber="30115364" data-id="1153721"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="
+        )
+
+    [6] => Array
+        (
+            [0] => class="item product sku" id="bx_1664977501_1153729" data-product-id="1153729" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="1153729" data-artnumber="30115369"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+											<img class="partsPay" src="/local/templates/dresscode/images/pb_1_small.png" />
+								
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_7205di.html" class="picture" id="picture_1153729">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/baf/220_200_1/uvlazhnitel_vozdukha_polaris_puh_7205di.jpeg" alt="Увлажнитель воздуха Polaris PUH 7205Di" title="Увлажнитель воздуха Polaris PUH 7205Di">
+			<span class="getFastView" data-id="1153729">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_7205di.html" class="name"><span class="middle" id="name_1153729">Увлажнитель воздуха Polaris PUH 7205Di</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 30115369 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price " id="price_1153729">
+																															<div class="stable_price ">1 999 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_1153729" href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_7205di.html" class="addCart imgBuy" data-measure="" data-artnumber="30115369" data-id="1153729"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="preview_catalog"> 
+							
+						</div>
+            [1] =>  sku" id="bx_1664977501_1153729" data-product-id="1153729" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="1153729" data-artnumber="30115369"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+											<img class="partsPay" src="/local/templates/dresscode/images/pb_1_small.png" />
+								
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_7205di.html" class="picture" id="picture_1153729">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/baf/220_200_1/uvlazhnitel_vozdukha_polaris_puh_7205di.jpeg" alt="Увлажнитель воздуха Polaris PUH 7205Di" title="Увлажнитель воздуха Polaris PUH 7205Di">
+			<span class="getFastView" data-id="1153729">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_7205di.html" class="name"><span class="middle" id="name_1153729">Увлажнитель воздуха Polaris PUH 7205Di</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 30115369 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price " id="price_1153729">
+																															<div class="stable_price ">1 999 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_1153729" href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/uvlazhniteli_vozduha/e_uvlazhnitel_vozduha_polaris_puh_7205di.html" class="addCart imgBuy" data-measure="" data-artnumber="30115369" data-id="1153729"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="
+        )
+
+    [7] => Array
+        (
+            [0] => class="item product sku" id="bx_1664977501_1153674" data-product-id="1153674" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="1153674" data-artnumber="30124101"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+											<img class="partsPay" src="/local/templates/dresscode/images/pb_1_small.png" />
+								
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/ochistiteli_vozdukha/e_ochistitel_vozduha_polaris_ppa_5042i.html" class="picture" id="picture_1153674">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/347/220_200_1/ochistitel_vozdukha_polaris_ppa_5042i.jpeg" alt="Очиститель воздуха Polaris PPA 5042i" title="Очиститель воздуха Polaris PPA 5042i">
+			<span class="getFastView" data-id="1153674">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/ochistiteli_vozdukha/e_ochistitel_vozduha_polaris_ppa_5042i.html" class="name"><span class="middle" id="name_1153674">Очиститель воздуха Polaris PPA 5042i</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 30124101 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price " id="price_1153674">
+																															<div class="stable_price ">3 199 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_1153674" href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/ochistiteli_vozdukha/e_ochistitel_vozduha_polaris_ppa_5042i.html" class="addCart imgBuy" data-measure="" data-artnumber="30124101" data-id="1153674"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="preview_catalog"> 
+							
+						</div>
+            [1] =>  sku" id="bx_1664977501_1153674" data-product-id="1153674" data-iblock-id="" data-prop-id="" data-product-width="220" data-product-height="200" data-hide-measure="" data-price-code="">
+
+		<div class="tabloid">
+			<a href="#" class="removeFromWishlist" data-id="1153674" data-artnumber="30124101"></a>
+			<div class="right_icons">
+										
+						<button class="amount-upper">В наличии в другом маркете</button>
+											<img class="partsPay" src="/local/templates/dresscode/images/pb_1_small.png" />
+								
+			
+		</div>
+		
+		
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/ochistiteli_vozdukha/e_ochistitel_vozduha_polaris_ppa_5042i.html" class="picture" id="picture_1153674">
+			<img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/upload/resize_cache/iblock/347/220_200_1/ochistitel_vozdukha_polaris_ppa_5042i.jpeg" alt="Очиститель воздуха Polaris PPA 5042i" title="Очиститель воздуха Polaris PPA 5042i">
+			<span class="getFastView" data-id="1153674">Быстрый просмотр</span>
+		</a>
+		<a href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/ochistiteli_vozdukha/e_ochistitel_vozduha_polaris_ppa_5042i.html" class="name"><span class="middle" id="name_1153674">Очиститель воздуха Polaris PPA 5042i</span></a>
+
+		<div class="optional">
+			<div style="margin-bottom: 8px;float: left;font-size: 11px;color: #57595a;"> Артикул: 30124101 </div>
+							<span class="box" style="background: url(/upload/nl/box.png) 0 0 no-repeat;"> </span>
+				<span class="truck" style="background: url(/upload/nl/truck.png) 0 0 no-repeat;"> </span>
+				<div class="rating">
+									<i class="m" style="width:0px"></i>
+					<i class="h"></i>
+					<div style="
+					margin-left: 80px;
+					margin-top: -2px;
+					font-size: 9px;
+					color: #545454;
+					text-decoration: underline;
+					"></div>
+									</div>
+
+							
+						</div>
+					
+						<a class="price " id="price_1153674">
+																															<div class="stable_price ">3 199 грн.<span class="meas"></span></div>
+
+													</a>
+													<a  id="addCart_1153674" href="/ru/bytovaya_tehnika/klimaticheskaya_tehnika/ochistiteli_vozdukha/e_ochistitel_vozduha_polaris_ppa_5042i.html" class="addCart imgBuy" data-measure="" data-artnumber="30124101" data-id="1153674"><img  class="lazyload"  src="/local/images/windowLoading.svg" data-src="/local/images/buyBasket.png" /><span>Перейти</span></a>
+
+						
+
+						<div class="
+        )
+
+)

@@ -1,0 +1,40 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.auchan.ru	TRUE	/	FALSE	1623406662	qrator_jsr	1623406362.338.5M61HfmfRduyyZ5w-f5ktihs32roubiuth2ctmjf1mvf5ns9c-00
+.auchan.ru	TRUE	/	FALSE	1623408363	qrator_ssid	1623406363.064.iKkpYCPMXCrNd7gX-ov8ks52iaegn9pb3vjklit9obaeprgd0
+.auchan.ru	TRUE	/	FALSE	1623408364	qrator_jsid	1623406362.338.5M61HfmfRduyyZ5w-g9v7p9f92mbn2p2i3alkd3sdthpefc1a
+www.auchan.ru	FALSE	/	FALSE	1623492766	isAddressPopupShown_	true
+www.auchan.ru	FALSE	/	FALSE	1625998366	region_id	1
+.auchan.ru	TRUE	/	FALSE	1623406378	rr-testCookie	testvalue
+www.auchan.ru	FALSE	/	FALSE	3770890018	_GASHOP	001_Mitishchi
+www.auchan.ru	FALSE	/	FALSE	1625998372	methodDelivery_	1
+.auchan.ru	TRUE	/	FALSE	1686478375	_ga_6KC2J1XGF1	GS1.1.1623406369.1.0.1623406369.60
+.auchan.ru	TRUE	/	FALSE	1654942376	rcuid	60c337224e9b9d00011d99f9
+.auchan.ru	TRUE	/	FALSE	1654942376	rrpvid	855815531642868
+.auchan.ru	TRUE	/	FALSE	1631182376	_gcl_au	1.1.1742328678.1623406370
+.auchan.ru	TRUE	/	FALSE	1652177577	tmr_lvid	5bee6719c53174f7c4264efa563027e8
+.auchan.ru	TRUE	/	FALSE	1652177577	tmr_lvidTS	1623406377065
+.auchan.ru	TRUE	/	FALSE	1652177577	tmr_reqNum	2
+.auchan.ru	TRUE	/	FALSE	2150143200	mindboxDeviceUUID	8bb806f4-4f25-4bb5-a596-951a14a6412a
+.auchan.ru	TRUE	/	FALSE	1686430800	directCrm-session	%7B%22deviceGuid%22%3A%228bb806f4-4f25-4bb5-a596-951a14a6412a%22%7D
+www.auchan.ru	FALSE	/	FALSE	1654942377	_clck	kkt0hu
+.auchan.ru	TRUE	/	FALSE	1623406438	_dc_gtm_UA-49770337-2	1
+.auchan.ru	TRUE	/	FALSE	1623406438	_dc_gtm_UA-112545724-4	1
+.auchan.ru	TRUE	/	FALSE	1623406438	_gat_UA-112545724-4	1
+.auchan.ru	TRUE	/	FALSE	1623406438	_gat_UA-49770337-2	1
+.auchan.ru	TRUE	/	FALSE	1654942378	_ym_uid	1623406379739147690
+.auchan.ru	TRUE	/	FALSE	1654942378	_ym_d	1623406379
+.auchan.ru	TRUE	/	FALSE	1623478379	_ym_isad	2
+www.auchan.ru	FALSE	/	FALSE	1623492780	_clsk	1vhczqj|1623406380532|1|1|vmss-scus/collect
+.auchan.ru	TRUE	/	FALSE	1686478381	_ga	GA1.2.385792204.1623406375
+.auchan.ru	TRUE	/	FALSE	1623492781	_gid	GA1.2.734753867.1623406377
+.auchan.ru	TRUE	/	FALSE	1631182381	_fbp	fb.1.1623406378541.406513845
+www.auchan.ru	FALSE	/	FALSE	1654510381	acceptCookies_	true
+www.auchan.ru	FALSE	/	FALSE	1623492781	tmr_detect	0%7C1623406381663
+

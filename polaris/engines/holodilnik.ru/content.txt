@@ -1,0 +1,1982 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="windows-1251">
+<meta name="viewport" content="width=device-width">
+<title>Поиск товаров | Холодильник.Ру</title>
+<meta name="theme-color" content="#255994" />
+<link rel="shortcut icon" href="//www.holodilnik.ru/favicon.ico" />
+<link rel="apple-touch-icon" href="//www.holodilnik.ru/apple-touch-icon.png" />
+<link rel="canonical" href="//www.holodilnik.ru/search/" />
+<link rel="prev" href="//www.holodilnik.ru/search/?page=3" />
+<meta name="robots" content="noindex, nofollow" >
+<meta name='keywords' content="результаты поиска, поиск товаров" >
+<meta name='description' content="результаты поиска, поиск товаров" >
+<meta property="og:title" content="Поиск товаров | Холодильник.Ру" />
+<meta property="og:image" content="//www.holodilnik.ru/img/apple-touch-icon_160x160.png" />
+<meta property="og:description" content="Интернет-магазин бытовой техники и электроники Holodilnik.ru" />
+
+
+<link type='text/css' rel='stylesheet' href='/assets/css/main.css?v=3.2.709'/>
+
+<link type="text/css" rel="stylesheet" href="//www.holodilnik.ru/css/style_tmnu.css?v=2.0.4">
+<link type="text/css" rel="stylesheet" href="//www.holodilnik.ru/assets/css/swiper.min.css">
+<link type="text/css" rel="stylesheet" href="//www.holodilnik.ru/assets/css/jquery.fancybox.min.css">
+<link type='text/css' rel='stylesheet' href='//www.holodilnik.ru/css/styles_bridge.css?v=2.3.38'>
+<link type='text/css' rel='stylesheet' href='//www.holodilnik.ru/css/relevance.css'>
+<link type='text/css' rel='stylesheet' href='//www.holodilnik.ru/css/tipsy.css'>
+<link type='text/css' rel='stylesheet' href='//www.holodilnik.ru/assets/css/jquery.scrollbar.css'> 
+
+<script type="text/javascript"> if ((self.parent && !(self.parent===self))&&(self.parent.frames.length!=0)) {self.parent.location=document.location}</script>
+
+<script type='text/javascript'>var ie = false; 
+  var Hprtl = 'https';  var reg_page_moscow   = "0";
+  var reg_anchors2params= "0";
+  var bolJsDopWarrShow  =  true;
+  var cookieDomain = '.holodilnik.ru';  document.cookie  = 'csubsrc=1; path=/; domain=' + cookieDomain + ';';</script>
+<script type='text/javascript' src='//www.holodilnik.ru/assets/js/jquery-3.3.1.min.js'></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/custom.cookie.js' charset='windows-1251'></script> 
+
+<script type="text/javascript" src="//www.holodilnik.ru/assets/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="//www.holodilnik.ru/assets/js/jquery.lazy.min.js"></script>
+<script type="text/javascript" src="//www.holodilnik.ru/assets/js/swiper.min.js"></script>
+<script type="text/javascript" src="//www.holodilnik.ru/assets/js/jquery.fancybox.min.js"></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/jquery.json-2.4.min.js'></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/jq.scrollbar.js'></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/jquery.tipsy.js'></script>
+<!--script type='text/javascript' src='//www.holodilnik.ru/js/softmodul/bundle.js'></script-->
+ 
+
+ <script src='https://www.google.com/recaptcha/api.js?hl=ru' defer async='true'></script> 
+
+<script type='text/javascript' src='//www.holodilnik.ru/assets/js/main.min.js?v=2.0.5'></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/main_bridge.js?v=2.2.1'></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/regions_popup_window.js' charset="windows-1251"></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/shop_region.js'></script>
+<script type='text/javascript' src='/js/regional/info.js?v=327'></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/jquery.inputmask.min.js'></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/phones.js' charset="windows-1251"></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/url_tricks.js' charset="windows-1251"></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/search7.js'></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/s10.js?v=2.1.2'></script>
+<script type='text/javascript' src='//www.holodilnik.ru/js/side-navigation.js?v=2.0.2'></script>
+
+<script type="text/javascript">
+
+    (function(i,s,o,g,r,a,m) { i['GoogleAnalyticsObject']=r; i[r]=i[r] || function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();
+        a=s.createElement(o), m=s.getElementsByTagName(o)[0];
+        a.async=1;a.src=g;
+        m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-18077049-1', 'holodilnik.ru');
+    ga('require', 'displayfeatures');
+
+    ga(function(tracker) {
+        var clientId = tracker.get('clientId');
+        ga('set', 'dimension3', clientId);
+    });
+
+    ga('send', 'pageview');
+
+    function trackOutboundLink(link, category, action) {
+        try {
+            ga('send', 'event', category , action);
+        } catch(err){}
+        setTimeout(function() { document.location.href = link.href; }, 100);
+    }
+
+    function trackClick(category, action) {
+        try {
+            ga('send', 'event', category , action);
+        } catch(err){}
+    }
+
+    function ga_hit_tab(tab_name, tab_title){
+        try {
+            ga('send', 'pageview', '/tabs/'+tab_name+location.pathname);
+        } catch(err){}
+    }
+
+    function getRandomInt(min, max) {
+        return Math.floor(Math.random() * (max - min + 1)) + min;
+    }
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P93KGFB');
+
+ga('set', 'dimension1', 'Search_List');
+ga('set', 'dimension2', 'MainStream');
+</script>
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P93KGFB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+</head>
+<body class="skin-winter adaptive">
+<script type='text/javascript'>var hiddenBanners = [];</script>
+<script type='text/javascript'>$.cookie('banners_rotations', '288', {'path': '/', 'domain': cookieDomain});</script>
+<style type='text/css'>
+ .alert-common .alert-link__overlay {
+    display: block;
+    text-decoration: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 0;
+    z-index: 1;
+}
+.alert-common .alert-body {
+    height: 65px;
+}
+.alert-body {
+    position: relative;
+}
+.alert-common .close {
+    top: 14px;
+}
+.alert .close {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: url(/assets/img/icons/icon_close_0000.png) no-repeat;
+    width: 14px;
+    height: 14px;
+    font-size: 0;
+    opacity: 1;
+    z-index: 2;
+    padding: 0;
+    border: 0;
+    cursor: pointer;
+}
+.alert-common {
+    padding: 0;
+}
+.alert-container {
+    max-width: 1530px;
+    padding-right: 30px;
+    padding-left: 30px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.alert-common .alert-link__overlay {
+    display: block;
+    text-decoration: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    font-size: 0;
+    z-index: 1;
+}
+.alert_288 {
+background: #faeec4;
+}
+ 
+.alert_288 a {
+background-image: url(/i/actions/alert-action-narrow-288.jpg);
+background-position: center;
+background-repeat: no-repeat;
+}
+</style>
+<div class='alert alert-common fade show alert_288' role='alert'>
+ <div class='alert-container'>
+  <div class='alert-body'>
+   <button type='button' class='close' data-dismiss='alert' aria-label='Close' onclick='hideBanner(288)'></button>
+  </div>
+ </div>
+ <a href='/spasibosberbank/' class='alert-link__overlay' data-ga-view='TopBannerView,288' data-ga-click='TopBannerClick,288'>&nbsp;</a>
+</div>
+<header class="hru-header">
+  <div class="container">
+    <div class="skin-layer">
+      <div class="skin-wrapper"></div>
+    </div>
+    <div class="navbar navbar-panel">
+<a class="nav-link" href="//www.holodilnik.ru/action/">Акции</a>
+      <div class="dropdown link-brands">
+        <div class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Бренды</div>
+        <div class="dropdown-menu">
+          <ul class="nav flex-column">
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/bosch/' data-ga-click='BZ_bosch,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/menu_bosch2.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/delonghi/' data-ga-click='BZ_delonghi,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/BZ_min_logo_02.jpg' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/electrolux/' data-ga-click='BZ_electrolux,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/Electrolux_logo.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/haier/' data-ga-click='BZ_haier,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/menu_haier.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/hotpoint_ariston/' data-ga-click='BZ_hotpoint_ariston,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/menu_hotpoint2.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/liebherr/' data-ga-click='BZ_liebherr,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/lb_logo.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/samsung/' data-ga-click='BZ_samsung,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/logo_sams.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/whirlpool/' data-ga-click='BZ_whirlpool,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/BZ_logo_Whirlpool_small.jpg' alt='' /></span></li>
+          </ul>
+        </div>
+      </div>
+<a class="nav-link" href="//www.holodilnik.ru/shops/moscow/">Наши магазины</a>
+<a class="nav-link" href="//www.holodilnik.ru/delivery/">Доставка и оплата</a>
+<a class="nav-link" href="//www.holodilnik.ru/discount_cards/">Дисконтная программа</a>
+<a class="nav-link" href="//www.holodilnik.ru/action/vygodnaya_raccrochka/">Товары в рассрочку</a>
+<a class="nav-link" href="//www.holodilnik.ru/vcredit/">Покупка в кредит</a>
+    <div class="dropdown mr-auto link-more">
+        <div class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Еще</div>
+        <div class="dropdown-menu">
+            <div class="row">
+              <div class="col-6">
+                <ul class="nav flex-column d-none">
+                  <li class="nav-item dn1">
+                    <span class="jsg-replace-link nav-link" data-href="//www.holodilnik.ru/shops/">Наши магазины</span>
+                  </li>
+                  <li class="nav-item dn2">
+                    <span class="jsg-replace-link nav-link" data-href="//www.holodilnik.ru/delivery/">Доставка и оплата</span>
+                  </li>
+                  <li class="nav-item dn3">
+                    <span class="jsg-replace-link nav-link" data-href="//www.holodilnik.ru/discount_cards/">Дисконтная программа</span>
+                  </li>
+                </ul>
+                <ul class="nav flex-column"><li class="nav-item dn4"><span class="jsg-replace-link nav-link" data-href="//www.holodilnik.ru/action/vygodnaya_raccrochka/">Товары в рассрочку</span></li><li class="nav-item dn5"><span class="jsg-replace-link nav-link" data-href="//www.holodilnik.ru/vcredit/">Покупка в кредит</span></li><li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/komfort/">Программа комфорт+</a>
+                    <li class="nav-item"><span class="jsg-replace-link nav-link" data-href="//www.holodilnik.ru/service_center/">Подключение техники</span></li>
+                </ul>
+                <ul class="nav flex-column"><li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/garantiya/">Гарантийное обслуживание</a>
+<li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/delivery/#tovar">Получение техники</a>
+<li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/decor/">Художественная роспись</a>
+<li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/repair/">Уцененная техника</a>
+<li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/sales/">Распродажа</a>
+                </ul>
+              </div>
+              <div class="col-6">
+                <ul class="nav flex-column"><li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/wholesale/">Оптовые продажи</a>
+<li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/corp/">Корпоративным клиентам</a>
+<li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/regions/">Региональным клиентам</a>
+<li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/delivery/#rekv">Реквизиты</a>
+                </ul>
+                <ul class="nav flex-column"><li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/ch/">Статьи</a>
+<li class="nav-item"><a class="nav-link" href="//www.holodilnik.ru/forum/">Обмен мнениями (форум)</a>
+                </ul>
+              </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="navbar-toggler"></div>
+    <div class="navbar-brand"><a href="//www.holodilnik.ru/" ><img class="img-fluid" src="/assets/img/layout/header/logo_mobile.png" alt="Holodilnik.ru"></a>
+</div>
+    <ul class="nav nav-login">
+      <li class="nav-item item-phone">
+        <span class="nav-item__icon jsg-replace-link" data-href="tel:+74952320600">
+          <svg xmlns="http://www.w3.org/2000/svg" width="28px" height="28px" viewBox="0 0 54 54"><g>
+    <path class="st0" d="M10.7,4c0.1,0,0.3,0,0.4,0.1c2,1,5,5.2,6.5,7.7c0.1,0.2,0.2,0.4,0.2,0.5l-0.2,0.2c-2.9,2.4-3.4,3.1-3.5,3.3
+        l0,0l0,0c-2.7,3.9-2.3,8,1.1,11.4l11.5,11.5c1.9,1.9,4,2.9,6.2,2.9c1.7,0,3.4-0.6,5.2-1.8l0.1,0l0.1,0c0.2-0.2,0.9-0.6,3.3-3.5
+        l0.2-0.2c0.1,0,0.3,0.1,0.5,0.2c2.5,1.5,6.7,4.6,7.8,6.5c0.2,0.4,0.1,0.8-0.2,1.1l-2.5,2.5c-2.4,2.4-4.8,3.5-7.5,3.5
+        c-3.9,0-8.6-2.6-13.5-7.5L11.5,27.8C-1,15.3,5.4,8.9,7.5,6.8l2.5-2.5C10.3,4.1,10.5,4,10.7,4 M10.7,0C9.4,0,8.2,0.5,7.2,1.4L4.7,4
+        c-7.4,7.4-6,16.6,4,26.6l14.7,14.7c5.8,5.8,11.2,8.7,16.3,8.7c0,0,0,0,0,0c3.7,0,7.2-1.6,10.3-4.7l2.5-2.5c1.5-1.5,1.9-3.9,0.9-5.8
+        c-2-3.8-9-7.9-9.3-8.1c-0.9-0.5-1.8-0.8-2.7-0.8c-1.3,0-2.4,0.6-3,1.7c-1,1.2-2.3,2.6-2.6,2.9c-1.1,0.7-2,1.1-2.9,1.1
+        c-1.1,0-2.2-0.6-3.4-1.7L18,24.5c-2-2-2.2-3.9-0.6-6.3c0.2-0.3,1.7-1.6,2.9-2.6c0.8-0.5,1.3-1.2,1.5-2c0.3-1.1,0.1-2.4-0.7-3.7
+        C21,9.6,16.8,2.6,13,0.6C12.3,0.2,11.5,0,10.7,0L10.7,0z"/></g>
+    <path class="st0" d="M27.4,3.9c13,0,23.6,10.6,23.6,23.6c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1C53,13.4,41.5,1.9,27.4,1.9c-0.6,0-1,0.4-1,1C26.4,3.5,26.8,3.9,27.4,3.9z"/>
+    <path class="st0" d="M27.4,11C36.5,11,44,18.4,44,27.6c0,0.6,0.4,1,1,1c0.6,0,1-0.4,1-1C46,17.3,37.6,9,27.4,9c-0.6,0-1,0.4-1,1C26.4,10.5,26.8,11,27.4,11z"/>
+          </svg>
+        </span>
+      </li>
+      <li class="nav-item item-basket">
+        <span class="jsg-replace-link" data-href="/basket/">
+          <span class="nav-item__icon">
+            <span class="badge" id="numInCart">0</span>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 28">
+<path class="st0" d="M15.4,24.4c1,0,1.8,0.8,1.8,1.8S16.3,28,15.4,28s-1.8-0.8-1.8-1.8C13.5,25.2,14.4,24.4,15.4,24.4z"/>
+<path class="st0" d="M26.4,24.4c1,0,1.8,0.8,1.8,1.8S27.4,28,26.4,28c-1,0-1.8-0.8-1.8-1.8C24.5,25.2,25.3,24.4,26.4,24.4z"/>
+<path class="st0" d="M10.8,4.9c0,0-0.6-1.2-1.1-2.4C8.2-0.7,6,0.1,6,0.1H0l1.2,2.4h2.9C4.2,2.7,6,2.1,7,5.7
+    c1.8,6.3,5.3,19.8,5.3,19.8h18.4c0,0,1.2-0.6,1.2-1.2s-1.2-1.2-1.2-1.2h-16l-1-2.4c0,0,8.7,0,14.1,0c3.7,0,4.2-1.9,4.2-1.9v-3V6.1
+    L10.8,4.9z M29.4,18.3h-16L11,7.4l18.4,1.2V18.3z"/>
+            </svg>
+          </span>
+          <span class="nav-item__name">Корзина</span>
+        </span>
+      </li>
+      <li class="nav-item item-entry">
+        <span class="jsg-replace-link" id="hru-top-login-link" data-href="/auth/">
+          <span class="nav-item__icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 19">
+<path class="st0" d="M0,9h13v1H0V9z"/>
+<path class="st0" d="M7.9,3.2l6,6c0.2,0.2,0.2,0.5,0,0.7c-0.2,0.2-0.5,0.2-0.7,0l-6-6c-0.2-0.2-0.2-0.5,0-0.7C7.3,3,7.7,3,7.9,3.2z"/>
+<path class="st0" d="M7.9,15.9l6-6c0.2-0.2,0.2-0.5,0-0.7c-0.2-0.2-0.5-0.2-0.7,0l-6,6c-0.2,0.2-0.2,0.5,0,0.7C7.3,16.1,7.7,16.1,7.9,15.9z"/>
+<path class="st0" d="M13,0h5v1h-5V0z"/>
+<path class="st0" d="M16,0h2v19h-2V0z"/>
+<path class="st0" d="M13,18h5v1h-5V18z"/>
+            </svg>
+          </span>
+          <span class="nav-item__name">Войти</span>
+        </span>
+      </li>
+    </ul>
+  </div>
+  <div class="navbar navbar-expand form_search_in">
+    <div class="navbar-brand"><a href="//www.holodilnik.ru/" ><img src="/assets/img/layout/header/logo.png" alt="Holodilnik.ru"></a>
+<p>Результаты поиска</p>
+    </div>
+    <form class="navbar-search" name="search" method="get" action="/search/" accept-charset='windows-1251'>
+      <input type="hidden" id="form_siteId" name="form[siteId]" value="1">
+      <div class="input-group" id="form_query">
+        <input name="search" id="top_search" autocomplete="off" type="text" class="form-control" maxlength="120"
+            placeholder="Поиск по каталогу" required="required" aria-label="Поиск по каталогу" aria-describedby="basic-addon2">
+        <div class="input-group-append">
+            <button class="btn btn-search" type="submit" onclick=""><span class="sprite-cap hru-i-header-search"></span> Найти</button>
+        </div>
+      </div><p>Только «белая» бытовая техника. Гарантия отсутствия «серых» поставок. Гарантия только от производителей.</p>
+    </form>
+    <div id="phone_top" class="navbar-data">
+      <div class="data-region your_reg">
+        <div class="dropdown-toggle">Ваш город: <span>Москва и область </span> </div>
+      </div>
+      <div class="data-phone">
+        <div>8(495) <strong>232-<span>06</span>-00</strong></div>
+        <div>8(495) <strong>232-04-04</strong></div>
+      </div>
+      <div class="data-callback">
+        <div class="sprite-cap hru-i-header-phone modal-ajax-call" data-toggle="modal" data-target="#modal-user-callback">
+          <span>Заказать звонок</span>
+        </div>
+        <div class="working-hours"> <div>без выходных</div><div>пн.&#8209;вс. 9.00&#8209;21.00</div> </div>
+      </div>
+      <div id="reg_list" class="dropdown-menu top_reg_list">
+        <div class="reg_name">Ваш город: <span>Москва и область</span></div><div class="all_reg"></div>
+      </div>
+    </div>
+  </div>
+  </div>
+  <div class="navbar navbar-menu">
+    <div class="container">
+      <div class="nav nav-justified">
+        <div class="nav-item sprite-cap hru-i-dd1 dropdown dd1">
+          <a class="nav-link" href="//www.holodilnik.ru/refrigerator/">
+          <span>Холодильники,<br/> морозильники</span>
+          </a>        </div>
+        <div class="nav-item sprite-cap hru-i-dd2 dropdown dd2">
+          <a class="nav-link" href="//www.holodilnik.ru/washers/">
+          <span class="dn1">Посудомоечные,<br/> стиральные&nbsp;машины</span>
+          <span class="dn2">Стиральные,<br/> посудомоечные</span>
+          </a>        </div>
+        <div class="nav-item sprite-cap hru-i-dd3 dropdown dd3">
+          <a class="nav-link" href="//www.holodilnik.ru/gas-stoves/">
+          <span class="dn1">Электрические,<br/> газовые&nbsp;плиты</span>
+          <span class="dn2">Газовые,<br/> электроплиты</span>
+          </a>        </div>
+        <div class="nav-item sprite-cap hru-i-dd4 dropdown dd4">
+          <a class="nav-link" href="//www.holodilnik.ru/built-in/">
+          <span class="dn1">Встраиваемая<br/> бытовая&nbsp;техника</span>
+          <span class="dn2">Встраиваемая<br/> техника</span>
+          </a>        </div>
+        <div class="nav-item sprite-cap hru-i-dd5 dropdown dd5">
+          <a class="nav-link" href="//www.holodilnik.ru/small_domestic/">
+          <span class="dn1">Бытовая<br/> техника&nbsp;для&nbsp;кухни</span>
+          <span class="dn2">Техника<br/> для&nbsp;кухни</span>
+          </a>        </div>
+        <div class="nav-item sprite-cap hru-i-dd6 dropdown dd6">
+          <a class="nav-link" href="//www.holodilnik.ru/domestic/">
+          <span class="dn1">Бытовая<br/> техника&nbsp;для&nbsp;дома</span>
+          <span class="dn2">Техника<br/> для&nbsp;дома</span>
+          </a>        </div>
+        <div class="nav-item sprite-cap hru-i-dd7 dropdown dd7">
+          <a class="nav-link" href="//www.holodilnik.ru/cottage_repair/">
+          <span class="dn1">Товары&nbsp;для<br/> дачи&nbsp;и&nbsp;ремонта</span>
+          <span class="dn2">Дача,&nbsp;сад,<br/> ремонт</span>
+          </a>        </div>
+        <div class="nav-item sprite-cap hru-i-dd8 dropdown dd8">
+          <a class="nav-link" href="//www.holodilnik.ru/audio_video/">
+          <span class="dn1">Телевизоры, <br/><span class="text-nowrap">DVD,&nbsp;аудио-видео</span></span>
+          <span class="dn2">Телевизоры, <br/><span class="text-nowrap">аудио-видео</span></span>
+          </a>        </div>
+        <div class="nav-item sprite-cap hru-i-dd9 dropdown dd9">
+          <a class="nav-link" href="//www.holodilnik.ru/digital_tech/">
+          <span class="dn1">Цифровая&nbsp;техника,<br/> товары&nbsp;для&nbsp;офиса</span>
+          <span class="dn2">Цифровая<br/> техника</span>
+          </a>        </div>
+        <div class="nav-item sprite-cap hru-i-dd10 dropdown dd10">
+          <a class="nav-link" href="//www.holodilnik.ru/kids/">
+          <span class="dn1">Товары&nbsp;для<br/> детей&nbsp;и&nbsp;мам</span>
+          <span class="dn2">Товары<br/> для&nbsp;детей</span>
+          </a>        </div>
+        <div class="nav-item sprite-cap hru-i-dd11 dropdown dd11">
+          <a class="nav-link" href="//www.holodilnik.ru/beauty/">
+          <span class="dn1">Товары&nbsp;для<br/> красоты&nbsp;и&nbsp;здоровья</span>
+          <span class="dn2">Красота,<br/> здоровье</span>
+          </a>        </div>
+      </div>
+      <div class="btn btn-primary btn-block navbar-catalog">
+          Каталог товаров<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 17"><path class="st0" d="M0.6,7.7L8,0.3c0.4-0.4,1-0.4,1.4,0c0.4,0.4,0.4,1,0,1.4L2,9.1c-0.4,0.4-1,0.4-1.4,0C0.2,8.7,0.2,8.1,0.6,7.7z"/>
+          <path class="st0" d="M2,7.9l7.4,7.4c0.4,0.4,0.4,1,0,1.4c-0.4,0.4-1,0.4-1.4,0L0.6,9.3c-0.4-0.4-0.4-1,0-1.4C1,7.6,1.6,7.6,2,7.9z"/></svg>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="m-side" id="side-navigation" style="visibility: hidden;">
+    <ul>
+        <li class="mobile_region">
+            <span data-href="#" class="region_change jsg-replace-link">Сменить регион</span>
+            <div class="title_region" data-href="#">
+                <span>Москва и область</span>
+            </div>
+            <div class="region_phone">
+                <a href="tel:+74952320600">8&nbsp;(495)&nbsp;232-06-00</a>
+            </div>
+            <div id='reglistTop'></div>
+        </li>
+        <li class="user_profil"><div class='title_user'>Личный кабинет</div> 
+<p><span data-href="https://www.holodilnik.ru/auth/" class="jsg-replace-link">Войти</span> | <span data-href="https://www.holodilnik.ru/auth/#register-anchor" class="nav-reload jsg-replace-link">Регистрация</span></p>        </li>
+        <li id="catalog_menu" class="nav-ajax catalog_menu" data-category="0"><a href="#">Каталог товаров</a></li>
+        <li><span data-href="#" class="jsg-replace-link">Акции, бонусы, рассрочка</span>
+          <ul>
+            <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/action/"><em>Акции</em></span></li>
+                            <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/mnogo/"><em>Бонусы «Много.ру»</em></span></li>
+                        <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/aeroflot/"><em>Аэрофлот Бонус</em></span></li>
+                            <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/action/vygodnaya_raccrochka/"><em>ВыГОДная рассрочка</em></span></li>
+                            <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/spasibosberbank/"><em>Спасибо от Сбербанка</em></span></li>
+                            <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/komfort/"><em>Программа «Комфорт+»</em></span></li>
+                        <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/action/leaders/"><em>Лидеры продаж</em></span></li>
+            <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/action/new/"><em>Обзоры Новинок</em></span></li>
+            <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/sales/"><em>Распродажа</em></span></li>
+                            <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/repair/"><em>Уцененная техника</em></span></li>
+                        <li><span class='jsg-replace-link' data-href="//www.holodilnik.ru/new_production/"><em>Новая продукция</em></span></li>
+          </ul>
+        </li>
+        <li><span data-href="#" class="jsg-replace-link">Бренды</span>
+          <ul>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/bosch/' data-ga-click='BZ_bosch,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/menu_bosch2.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/delonghi/' data-ga-click='BZ_delonghi,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/BZ_min_logo_02.jpg' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/electrolux/' data-ga-click='BZ_electrolux,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/Electrolux_logo.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/haier/' data-ga-click='BZ_haier,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/menu_haier.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/hotpoint_ariston/' data-ga-click='BZ_hotpoint_ariston,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/menu_hotpoint2.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/liebherr/' data-ga-click='BZ_liebherr,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/lb_logo.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/samsung/' data-ga-click='BZ_samsung,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/logo_sams.png' alt='' /></span></li>
+<li class='nav-item'><span class='jsg-replace-link nav-link' data-href='//www.holodilnik.ru/brands/whirlpool/' data-ga-click='BZ_whirlpool,TopMenuClick'><img class='img-fluid' data-lazy='image' data-src='//www.holodilnik.ru/i/brands/BZ_logo_Whirlpool_small.jpg' alt='' /></span></li>
+          </ul>
+        </li>
+        <li><a href="//www.holodilnik.ru/discount_cards/">Дисконтная программа</a></li>
+        <li><a href="//www.holodilnik.ru/shops/moscow/">Наши магазины</a></li>
+        <li><span data-href="#" class="jsg-replace-link">Доставка и оплата</span>
+          <ul>
+            <li><span data-href="//www.holodilnik.ru/delivery/#pay" class='nav-reload jsg-replace-link'><em>Возможные способы оплаты</em></span></li>
+            <li><span data-href="//www.holodilnik.ru/delivery/#moscow" class='nav-reload jsg-replace-link'><em>Доставка по Москве и МО</em></span></li>
+            <li><span data-href="//www.holodilnik.ru/delivery/#tovar" class='nav-reload jsg-replace-link'><em>Получение товара</em></span></li>
+            <li><span data-href="//www.holodilnik.ru/delivery/#law"  class='nav-reload jsg-replace-link'><em>Законодательство</em></span></li>
+            <li><span data-href="//www.holodilnik.ru/delivery/#rekv" class='nav-reload jsg-replace-link'><em>Наши реквизиты</em></span></li>
+            <li><span data-href="//www.holodilnik.ru/delivery/#phone" class='nav-reload jsg-replace-link'><em>Наши телефоны</em></span></li>
+            <li><span data-href="//www.holodilnik.ru/about/" class='jsg-replace-link'><em>О компании</em></span></li>
+          </ul>
+        </li>
+                    <li><span data-href="//www.holodilnik.ru/corp/" class="jsg-replace-link">Корпоративный отдел</span></li>
+                    <li><span data-href="//www.holodilnik.ru/regions/" class="jsg-replace-link">Региональный отдел</span></li>
+                <li><span data-href="//www.holodilnik.ru/ch/" class="jsg-replace-link">Как выбрать бытовую технику?</span></li>
+        <li><span data-href="//www.holodilnik.ru/forum/" class='jsg-replace-link'>Форум</span></li>
+    </ul>
+</div>
+<div class="search-page catalog"><div class="container">
+<div id='eventsBox'>
+<script type='text/javascript'>
+    let current_category_id = 0;
+    try { current_category_id = 0; } catch (e) { }
+</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+
+<!-- Google enhanced ecommerce Counter allPgTop -->
+    <script type="text/javascript">
+         (typeof ga != 'undefined') && ga('require', 'ec');
+    </script>
+<!-- /Google enhanced ecommerce Counter allPgTop -->
+
+<!-- Criteo counter -->
+<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+<!-- /Criteo counter -->
+
+<!-- Facebook Pixel Code ELX-->
+<script type='text/javascript'>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2226358437383684');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2226358437383684&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code ELX -->
+
+<!-- GTM Counter allPgTop -->
+<script type='text/javascript'>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({"region_id":"1"});
+</script>
+<!-- /GTM Counter allPgTop -->
+
+<!-- Mindbox Counter allPgTop -->
+        <script type="text/javascript">
+            mindbox = window.mindbox || function() { mindbox.queue.push(arguments); };
+            mindbox.queue = mindbox.queue || [];
+            mindbox('create');
+        </script>
+        <script src="https://api.mindbox.ru/scripts/v1/tracker.js" async></script>
+<!-- /Mindbox Counter allPgTop -->
+
+</div>
+<h1>Результаты поиска</h1><div class="catalog-view view-row view-filter-on"><div class="row"><div class="col item-select parameters"><div class="wrapper"><div class="item-title">
+  <span>Категории</span>
+  <button id="filter-close" type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+</div>
+<div class="item-filter" id="boxact_reviews">          <div class="card">
+            <div class="card-header collapsed"
+              data-toggle="collapse" data-target="#category0005children"
+              aria-expanded="false" aria-controls="#category0005children">Бытовая техника для кухни</div>
+            <div class="collapse " id="category0005children">
+              <div class="card-body">
+                <ul class="card-list">      <li class=""><a href='/search/?cat=stational_blenders&search=polaris'>Блендеры</a>&nbsp;<span>(1)</span></li>
+      <li class=""><a href='/search/?cat=blenders&search=polaris'>Блендеры погружные</a>&nbsp;<span>(6)</span></li>
+      <li class=""><a href='/search/?cat=kitchen_libra&search=polaris'>Кухонные весы</a>&nbsp;<span>(7)</span></li>
+      <li class=""><a href='/search/?cat=mixers&search=polaris'>Миксеры</a>&nbsp;<span>(3)</span></li>
+      <li class=""><a href='/search/?cat=meat_grinder&search=polaris'>Мясорубки</a>&nbsp;<span>(4)</span></li>
+      <li class=""><a href='/search/?cat=dryers_for_vegetables&search=polaris'>Сушилки для овощей</a>&nbsp;<span>(1)</span></li>
+      <li class=""><a href='/search/?cat=sandtosters&search=polaris'>Бутербродницы и вафельницы</a>&nbsp;<span>(2)</span></li>
+      <li class=""><a href='/search/?cat=other_small_home_appliances&search=polaris'>Грили и шашлычницы</a>&nbsp;<span>(2)</span></li>
+      <li class=""><a href='/search/?cat=multivarki&search=polaris'>Мультиварки</a>&nbsp;<span>(2)</span></li>
+      <li class=""><a href='/search/?cat=double_boiler&search=polaris'>Пароварки</a>&nbsp;<span>(2)</span></li>
+      <li class=""><a href='/search/?cat=electric_furnace&search=polaris'>Электропечи</a>&nbsp;<span>(5)</span></li>
+      <li class=""><a href='/search/?cat=coffee_makers&search=polaris'>Кофеварки</a>&nbsp;<span>(7)</span></li>
+      <li class=""><a href='/search/?cat=coffee_grinders&search=polaris'>Кофемолки</a>&nbsp;<span>(1)</span></li>
+      <li class=""><a href='/search/?cat=juice_extractor&search=polaris'>Соковыжималки универсальные</a>&nbsp;<span>(1)</span></li>
+      <li class=""><a href='/search/?cat=teapots&search=polaris'>Чайники электрические</a>&nbsp;<span>(17)</span></li>
+</ul></div></div></div>
+          <div class="card">
+            <div class="card-header collapsed"
+              data-toggle="collapse" data-target="#category0006children"
+              aria-expanded="false" aria-controls="#category0006children">Бытовая техника для дома</div>
+            <div class="collapse " id="category0006children">
+              <div class="card-body">
+                <ul class="card-list">      <li class=""><a href='/search/?cat=fans&search=polaris'>Вентиляторы</a>&nbsp;<span>(6)</span></li>
+      <li class=""><a href='/search/?cat=heaters_of_waters&search=polaris'>Водонагреватели накопительные</a>&nbsp;<span>(3)</span></li>
+      <li class=""><a href='/search/?cat=cleaner_of_air&search=polaris'>Воздухоочистители</a>&nbsp;<span>(3)</span></li>
+      <li class=""><a href='/search/?cat=air_washer&search=polaris'>Мойки воздуха</a>&nbsp;<span>(3)</span></li>
+      <li class=""><a href='/search/?cat=infrared_heaters&search=polaris'>Инфракрасные обогреватели</a>&nbsp;<span>(1)</span></li>
+      <li class=""><a href='/search/?cat=konvectors&search=polaris'>Конвекторы</a>&nbsp;<span>(21)</span></li>
+      <li class=""><a href='/search/?cat=heaters&search=polaris'>Масляные обогреватели</a>&nbsp;<span>(5)</span></li>
+      <li class=""><a href='/search/?cat=mikathermal_heaters&search=polaris'>Микатермические обогреватели</a>&nbsp;<span>(8)</span></li>
+      <li class=""><a href='/search/?cat=heat_fans&search=polaris'>Тепловентиляторы</a>&nbsp;<span>(6)</span></li>
+      <li class=""><a href='/search/?cat=dampener_of_air&search=polaris'>Увлажнители воздуха</a>&nbsp;<span>(8)</span></li>
+      <li class=""><a href='/search/?cat=clears_steam&search=polaris'>Пароочистители</a>&nbsp;<span>(1)</span></li>
+      <li class=""><a href='/search/?cat=vacuum_cleaners&search=polaris'>Пылесосы</a>&nbsp;<span>(3)</span></li>
+      <li class=""><a href='/search/?cat=robo_cleaners&search=polaris'>Роботы-пылесосы</a>&nbsp;<span>(2)</span></li>
+      <li class=""><a href='/search/?cat=irons&search=polaris'>Утюги</a>&nbsp;<span>(6)</span></li>
+</ul></div></div></div>
+          <div class="card">
+            <div class="card-header collapsed"
+              data-toggle="collapse" data-target="#category0008children"
+              aria-expanded="false" aria-controls="#category0008children">Телевизоры, DVD, аудио-видео</div>
+            <div class="collapse " id="category0008children">
+              <div class="card-body">
+                <ul class="card-list">      <li class=""><a href='/search/?cat=headphones&search=polaris'>Наушники и гарнитуры</a>&nbsp;<span>(1)</span></li>
+</ul></div></div></div>
+          <div class="card">
+            <div class="card-header collapsed"
+              data-toggle="collapse" data-target="#category0010children"
+              aria-expanded="false" aria-controls="#category0010children">Товары для детей и мам</div>
+            <div class="collapse " id="category0010children">
+              <div class="card-body">
+                <ul class="card-list">      <li class=""><a href='/search/?cat=childrens_soft_furniture&search=polaris'>Мягкая мебель</a>&nbsp;<span>(2)</span></li>
+</ul></div></div></div>
+          <div class="card">
+            <div class="card-header collapsed"
+              data-toggle="collapse" data-target="#category0011children"
+              aria-expanded="false" aria-controls="#category0011children">Товары для красоты и здоровья</div>
+            <div class="collapse " id="category0011children">
+              <div class="card-body">
+                <ul class="card-list">      <li class=""><a href='/search/?cat=balance_on_flat&search=polaris'>Весы напольные</a>&nbsp;<span>(1)</span></li>
+      <li class=""><a href='/search/?cat=machine_for_a_hairstyle_of_hair&search=polaris'>Машинки для стрижки волос</a>&nbsp;<span>(5)</span></li>
+      <li class=""><a href='/search/?cat=hair_driers&search=polaris'>Фены</a>&nbsp;<span>(2)</span></li>
+      <li class=""><a href='/search/?cat=nipper_for_stacking_hair&search=polaris'>Щипцы для укладки волос</a>&nbsp;<span>(9)</span></li>
+      <li class=""><a href='/search/?cat=spa_baths_for_legs&search=polaris'>Гидромассажные ванночки для ног</a>&nbsp;<span>(2)</span></li>
+</ul></div></div></div>
+</div>
+
+<script type="text/javascript">
+  /*** Фиксирует Y-координату начала блока товаров для текущей акции в куках  */
+  var actAlias = '';
+
+  function fixProductsYPosition() {
+    var topValue = $('#boxact_reviews');
+    if (topValue.length) {
+        topValue = topValue.offset().top;
+        document.cookie = 'action_scroll=' + actAlias + '|' + topValue + '; path=/; domain=.holodilnik.ru;';
+    }
+  }
+
+  $(document).ready(function() {
+    fixProductsYPosition();
+    $(window).resize(function() {
+      fixProductsYPosition();
+    })
+  })
+</script>
+</div></div><script type='text/javascript'> var counter_product_details = {}; </script>
+<div class='col'>
+<div id='search_res_info' style='padding: 0px 10px 1.5em 0px;float:none;'>
+        Вы искали: <b class='sWords' onclick='setSWord2Input(this)'>polaris</b> <span class='desc_used'>(<b>без учета</b> описания товаров)</span>.
+        <div class='found_rows'> Найдено: <b>159</b> товаров.</div>
+        <a href='/search/?search=polaris&in_desc=1'>Искать
+            <b> c учетом</b> описания товаров</a>
+        </div>
+        <script type="text/javascript"> var search = "polaris";
+        function setSWord2Input(objMe) {
+            let objStxt = document.getElementById('top_search');
+            if (!objMe || !objStxt) return;
+            objStxt.value = objMe.innerHTML;
+        }
+        </script>
+<div class='row panel-sorting'><div class='col dm-block' id='filter-show'><div class='filter'><span>Категории</span></div></div><div class='col'><div class='dropdown'>
+<button class='btn btn-clear dropdown-toggle' type='button' id='dropdownItemSorting' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>Сортировка</button>
+<div class='dropdown-menu' aria-labelledby='dropdownItemSorting'>
+<span data-href='/search/?search=polaris&page=4&sort=price' class='jsg-replace-link dropdown-item'>Сначала дешевые</span>
+<span data-href='/search/?search=polaris&page=4&sort=price_desc' class='jsg-replace-link dropdown-item'>Сначала дорогие</span>
+<span data-href='/search/?search=polaris&page=4&sort=ord' class='jsg-replace-link dropdown-item'>По наличию на складе</span>
+<span data-href='/search/?search=polaris&page=4&sort=bestprice' class='jsg-replace-link dropdown-item'>По размеру скидки</span>
+</div>
+</div></div>
+<div class='col dm-none'><div class='switching' id='s'>
+        <span data-href='/search/?search=polaris&page=4&tile=1#s' class='jsg-replace-link sprite-catalog hru-i-switching-col' data-toggle='tooltip' data-placement='bottom' title='Вид каталога: Плитка'></span>
+        <span data-href='/search/?search=polaris&page=4&tile=0#s' class='jsg-replace-link sprite-catalog hru-i-switching-row active' data-toggle='tooltip' data-placement='bottom' title='Вид каталога: Список'></span>
+    </div></div>
+</div>
+
+<div id='view-row' class='row'>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/domestic/mikathermal_heaters/polaris/pmh_2015/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/54/646154.jpg' alt='Микатермический обогреватель Polaris PMH 2015' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/domestic/mikathermal_heaters/polaris/pmh_2015/"  itemprop="url"><span itemprop="name">Микатермический обогреватель Polaris PMH 2015</span></a></div>
+              <div class="product-code"><span>Код товара: 319889</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Мощность (Вт):</span></td><td><span> 2000</span></td></tr>
+<tr><td><span>Площадь обогрева (кв.м):</span></td><td><span> 30</span></td></tr>
+<tr><td><span>Тип обогрева:</span></td><td><span> конвекционный и тепловолновой</span></td></tr>
+<tr><td><span>Тип установки:</span></td><td><span> напольный</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 3 года</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+<div class='item-popover action-type'><div class="panel-sberbank"><a href="/sberbank_credit/" target="_blank"><img src="/img/sberbank/kt_icon.png"></a></div></div>                  <div class="item-order">
+                    <meta itemprop="price" content="7999"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 7 999 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/domestic/mikathermal_heaters/polaris/pmh_2015/add/"                         data-product-id="646154" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id646154'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>Количество ограничено</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+<div class='item-popover service-type'><div class='panel-service installment  procent_24' data-popover-service='installment' data-popover-content='#service-installment' data-credit-inf='24@24@/vcredit/vygodnaya_raccrochka/@646154@online;no@list' onclick="ga('send', 'event', 'Credit', 'Click link under price', 'Product List Lite', 800);"><span class='title-service'>В рассрочку</span> <span>от 330 руб./мес.</span></div></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/domestic/heat_fans/polaris/pcdh_0105/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/22/509222.jpg' alt='Тепловентилятор Polaris PCDH 0105' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/domestic/heat_fans/polaris/pcdh_0105/"  itemprop="url"><span itemprop="name">Тепловентилятор Polaris PCDH 0105</span></a></div>
+              <div class="product-code"><span>Код товара: 237206</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Максимальная мощность (Вт):</span></td><td><span> 500</span></td></tr>
+<tr><td><span>Цвет:</span></td><td><span> черный</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="740"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 740 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/domestic/heat_fans/polaris/pcdh_0105/add/"                         data-product-id="509222" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id509222'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>Витринный образец</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/domestic/heat_fans/polaris/pfh_2061/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/15/577215.jpg' alt='Тепловентилятор Polaris PFH 2061' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/domestic/heat_fans/polaris/pfh_2061/"  itemprop="url"><span itemprop="name">Тепловентилятор Polaris PFH 2061</span></a></div>
+              <div class="product-code"><span>Код товара: 281999</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Максимальная мощность (Вт):</span></td><td><span> 2000</span></td></tr>
+<tr><td><span>Цвет:</span></td><td><span> белый</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 2 года</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1050"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 050 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/domestic/heat_fans/polaris/pfh_2061/add/"                         data-product-id="577215" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id577215'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/domestic/heat_fans/polaris/pfh_2042/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/74/646274.jpg' alt='Тепловентилятор Polaris PFH 2042' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/domestic/heat_fans/polaris/pfh_2042/"  itemprop="url"><span itemprop="name">Тепловентилятор Polaris PFH 2042</span></a></div>
+              <div class="product-code"><span>Код товара: 319877</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Максимальная мощность (Вт):</span></td><td><span> 2000</span></td></tr>
+<tr><td><span>Цвет:</span></td><td><span> белый</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 2 года</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1299"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 299 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/domestic/heat_fans/polaris/pfh_2042/add/"                         data-product-id="646274" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id646274'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/domestic/heat_fans/polaris/pfh_4022/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/76/646276.jpg' alt='Тепловентилятор Polaris PFH 4022' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/domestic/heat_fans/polaris/pfh_4022/"  itemprop="url"><span itemprop="name">Тепловентилятор Polaris PFH 4022</span></a></div>
+              <div class="product-code"><span>Код товара: 319878</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Максимальная мощность (Вт):</span></td><td><span> 2000</span></td></tr>
+<tr><td><span>Цвет:</span></td><td><span> черный</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 2 года</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1299"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 299 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/domestic/heat_fans/polaris/pfh_4022/add/"                         data-product-id="646276" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id646276'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/domestic/dampener_of_air/polaris/puh_5903/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/83/577183.jpg' alt='Увлажнитель воздуха Polaris PUH 5903' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/domestic/dampener_of_air/polaris/puh_5903/"  itemprop="url"><span itemprop="name">Увлажнитель воздуха Polaris PUH 5903</span></a></div>
+              <div class="product-code"><span>Код товара: 281989</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Тип увлажнителя:</span></td><td><span> ультразвуковой</span></td></tr>
+<tr><td><span>Потребляемая мощность (Вт):</span></td><td><span> 25</span></td></tr>
+<tr><td><span>Объем помещения (куб. м):</span></td><td><span> 30</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1499"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 499 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/domestic/dampener_of_air/polaris/puh_5903/add/"                         data-product-id="577183" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id577183'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/domestic/dampener_of_air/polaris/puh_8505_tfd/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/52/646252.jpg' alt='Увлажнитель воздуха Polaris PUH 8505 TFD' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/domestic/dampener_of_air/polaris/puh_8505_tfd/"  itemprop="url"><span itemprop="name">Увлажнитель воздуха Polaris PUH 8505 TFD</span></a></div>
+              <div class="product-code"><span>Код товара: 319873</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Тип увлажнителя:</span></td><td><span> ультразвуковой</span></td></tr>
+<tr><td><span>Потребляемая мощность (Вт):</span></td><td><span> 25</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+<div class='item-popover action-type'><div class="panel-sberbank"><a href="/sberbank_credit/" target="_blank"><img src="/img/sberbank/kt_icon.png"></a></div></div>                  <div class="item-order">
+                    <meta itemprop="price" content="4999"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 4 999 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/domestic/dampener_of_air/polaris/puh_8505_tfd/add/"                         data-product-id="646252" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id646252'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+<div class='item-popover service-type'><div class='panel-service installment  procent_12' data-popover-service='installment' data-popover-content='#service-installment' data-credit-inf='12@12@/vcredit/vygodnaya_raccrochka/@646252@online;no@list' onclick="ga('send', 'event', 'Credit', 'Click link under price', 'Product List Lite', 500);"><span class='title-service'>В рассрочку</span> <span>от 420 руб./мес.</span></div></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/domestic/irons/polaris/pir_1007t/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/60/627260.jpg' alt='Утюг Polaris дорожный PIR 1007T, 1000W' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/domestic/irons/polaris/pir_1007t/"  itemprop="url"><span itemprop="name">Утюг Polaris дорожный PIR 1007T, 1000W</span></a></div>
+              <div class="product-code"><span>Код товара: 309955</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Мощность (Вт):</span></td><td><span> 1000</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1599"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 599 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/domestic/irons/polaris/pir_1007t/add/"                         data-product-id="627260" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id627260'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>Количество ограничено</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/domestic/irons/polaris/pir_2485k/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/50/627250.jpg' alt='Утюг Polaris PIR 2485K' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/domestic/irons/polaris/pir_2485k/"  itemprop="url"><span itemprop="name">Утюг Polaris PIR 2485K</span></a></div>
+              <div class="product-code"><span>Код товара: 309950</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Мощность (Вт):</span></td><td><span> 2400</span></td></tr>
+<tr><td><span>Функция самоочистки:</span></td><td><span> есть</span></td></tr>
+<tr><td><span>Защита от накипи:</span></td><td><span> есть</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 2 года</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="2027"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 2 027 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/domestic/irons/polaris/pir_2485k/add/"                         data-product-id="627250" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id627250'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/balance_on_flat/polaris/pws_1514dg/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/45/466845.jpg' alt='Весы напольные Polaris PWS 1514 DG' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/balance_on_flat/polaris/pws_1514dg/"  itemprop="url"><span itemprop="name">Весы напольные Polaris PWS 1514 DG</span></a></div>
+              <div class="product-code"><span>Код товара: 206836</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Тип:</span></td><td><span> электронные</span></td></tr>
+<tr><td><span>Максимальный вес (кг):</span></td><td><span> 150</span></td></tr>
+<tr><td><span>Память:</span></td><td><span> нет</span></td></tr>
+<tr><td><span>Цвет:</span></td><td><span> прозрачный</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1396"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 396 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/balance_on_flat/polaris/pws_1514dg/add/"                         data-product-id="466845" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id466845'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>Количество ограничено</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_2501_krasnyy/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/37/558937.jpg' alt='машинка для стрижки волос Polaris PHC 2501 Красный' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_2501_krasnyy/"  itemprop="url"><span itemprop="name">Машинка для стрижки волос Polaris PHC 2501 Красный</span></a></div>
+              <div class="product-code"><span>Код товара: 269544</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Система питания:</span></td><td><span> сеть</span></td></tr>
+<tr><td><span>Количество насадок:</span></td><td><span> 1</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="990"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'><div class='old-price'><span>1 299</span> <small>руб.</small></div> 990 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_2501_krasnyy/add/"                         data-product-id="558937" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id558937'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_1014_s/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/37/578837.jpg' alt='Машинка для стрижки волос Polaris PHC 1014 S' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_1014_s/"  itemprop="url"><span itemprop="name">Машинка для стрижки волос Polaris PHC 1014 S</span></a></div>
+              <div class="product-code"><span>Код товара: 282166</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Система питания:</span></td><td><span> сеть</span></td></tr>
+<tr><td><span>Количество насадок:</span></td><td><span> 4</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1001"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'><div class='old-price'><span>1 199</span> <small>руб.</small></div> 1 001 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_1014_s/add/"                         data-product-id="578837" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id578837'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_0914_megapolis_collection/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/16/627516.jpg' alt='Машинка для стрижки волос Polaris PHC 0914 Megapolis Collection' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_0914_megapolis_collection/"  itemprop="url"><span itemprop="name">Машинка для стрижки волос Polaris PHC 0914 Megapolis Collection</span></a></div>
+              <div class="product-code"><span>Код товара: 309927</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Система питания:</span></td><td><span> сеть</span></td></tr>
+<tr><td><span>Количество насадок:</span></td><td><span> 4</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1075"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 075 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_0914_megapolis_collection/add/"                         data-product-id="627516" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id627516'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>Количество ограничено</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_0954/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/20/627520.jpg' alt='Машинка для стрижки волос Polaris PHC 0954' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_0954/"  itemprop="url"><span itemprop="name">Машинка для стрижки волос Polaris PHC 0954</span></a></div>
+              <div class="product-code"><span>Код товара: 309928</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Система питания:</span></td><td><span> сеть</span></td></tr>
+<tr><td><span>Количество насадок:</span></td><td><span> 4</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1244"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 244 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_0954/add/"                         data-product-id="627520" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id627520'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>Количество ограничено</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_1201r/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/14/627514.jpg' alt='Машинка для стрижки волос Polaris PHC 1201R' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_1201r/"  itemprop="url"><span itemprop="name">Машинка для стрижки волос Polaris PHC 1201R</span></a></div>
+              <div class="product-code"><span>Код товара: 309926</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Система питания:</span></td><td><span> аккумулятор</span></td></tr>
+<tr><td><span>Количество насадок:</span></td><td><span> 5</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1790"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 790 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/machine_for_a_hairstyle_of_hair/polaris/phc_1201r/add/"                         data-product-id="627514" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id627514'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/nipper_for_stacking_hair/polaris/phs_2534_k_cherno_serebristyy/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/75/559175.jpg' alt='Щипцы для укладки волос Polaris PHS 2534 K Черно-серебристый' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/nipper_for_stacking_hair/polaris/phs_2534_k_cherno_serebristyy/"  itemprop="url"><span itemprop="name">Щипцы для укладки волос Polaris PHS 2534 K Черно-серебристый</span></a></div>
+              <div class="product-code"><span>Код товара: 269568</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Мощность (Вт):</span></td><td><span> 46</span></td></tr>
+<tr><td><span>Цвет:</span></td><td><span> черный/серебристый</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="890"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'><div class='old-price'><span>1 199</span> <small>руб.</small></div> 890 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/nipper_for_stacking_hair/polaris/phs_2534_k_cherno_serebristyy/add/"                         data-product-id="559175" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id559175'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/nipper_for_stacking_hair/polaris/phs_2546k/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/52/627552.jpg' alt='Щипцы  для моделирования Polaris PHS 2546K' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/nipper_for_stacking_hair/polaris/phs_2546k/"  itemprop="url"><span itemprop="name">Щипцы  для моделирования Polaris PHS 2546K</span></a></div>
+              <div class="product-code"><span>Код товара: 309966</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Количество режимов:</span></td><td><span> 1</span></td></tr>
+<tr><td><span>Мощность (Вт):</span></td><td><span> 46</span></td></tr>
+<tr><td><span>Цвет:</span></td><td><span> черный</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="949"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 949 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/nipper_for_stacking_hair/polaris/phs_2546k/add/"                         data-product-id="627552" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id627552'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/nipper_for_stacking_hair/polaris/phs_2580mk/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/18/627818.jpg' alt='Щипцы  для моделирования Polaris PHS 2580MK' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/nipper_for_stacking_hair/polaris/phs_2580mk/"  itemprop="url"><span itemprop="name">Щипцы  для моделирования Polaris PHS 2580MK</span></a></div>
+              <div class="product-code"><span>Код товара: 309967</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Количество режимов:</span></td><td><span> 1</span></td></tr>
+<tr><td><span>Мощность (Вт):</span></td><td><span> 25</span></td></tr>
+<tr><td><span>Цвет:</span></td><td><span> красный</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 2 года</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="999"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 999 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/nipper_for_stacking_hair/polaris/phs_2580mk/add/"                         data-product-id="627818" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id627818'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/nipper_for_stacking_hair/polaris/phs_2510k/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/56/627456.jpg' alt='Щипцы  для моделирования Polaris PHS 2510K' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/nipper_for_stacking_hair/polaris/phs_2510k/"  itemprop="url"><span itemprop="name">Щипцы  для моделирования Polaris PHS 2510K</span></a></div>
+              <div class="product-code"><span>Код товара: 309964</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Количество режимов:</span></td><td><span> 3</span></td></tr>
+<tr><td><span>Мощность (Вт):</span></td><td><span> 50</span></td></tr>
+<tr><td><span>Цвет:</span></td><td><span> красный</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 2 года</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1290"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 290 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/nipper_for_stacking_hair/polaris/phs_2510k/add/"                         data-product-id="627456" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id627456'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+
+        <div class="col-12"><div class="preview-product" itemprop="itemListElement" itemtype="http://schema.org/Product" itemscope>
+          <div class="row">
+            <div class="col product-image"> <span data-href='//www.holodilnik.ru/beauty/nipper_for_stacking_hair/polaris/phs_2190k/' class='d-flex jsg-replace-link' ><img class='img-fluid' itemprop='image' src='//holod.ru/pics/140x150/54/627454.jpg' alt='Щипцы  для моделирования Polaris PHS 2190K, Dreams Collection' /></span> </div>
+            <div class="col product-specification">
+              <div class="row">
+                <div class="col">
+                  <div class="product-name"><a href="//www.holodilnik.ru/beauty/nipper_for_stacking_hair/polaris/phs_2190k/"  itemprop="url"><span itemprop="name">Щипцы  для моделирования Polaris PHS 2190K, Dreams Collection</span></a></div>
+              <div class="product-code"><span>Код товара: 309963</span></div>
+                <div class="product-tth"><table class="table table-borderless"><tr><td><span>Мощность (Вт):</span></td><td><span> 35</span></td></tr>
+<tr><td><span>Цвет:</span></td><td><span> черный</span></td></tr>
+<tr><td><span>Гарантия:</span></td><td><span> 1 год</span></td></tr>
+<tr><td><span>Страна-производитель:</span></td><td><span> Китай</span></td></tr>
+                  </table></div>
+              </div>
+            <div class="col product-info">
+                  <div class="item-order">
+                    <meta itemprop="price" content="1490"/><meta itemprop="priceCurrency" content="RUB"/>
+                    <div class='price'> 1 490 <small>руб.</small> </div>
+<div class='add2cart2'>                        <span data-href="/beauty/nipper_for_stacking_hair/polaris/phs_2190k/add/"                         data-product-id="627454" class="btn btn-order jsg-replace-link " onclick="if(!$(this).hasClass('add_act')){ callAddCartHruEvents('id627454'); } ">В корзину</span></div>                  </div>
+                  <div class='item-status'><div>В наличии</div>  <span>Доставка по Москве и области до 100 км от МКАД  ежедневно </span></div>
+              </div>
+            </div>
+          </div>
+          </div>
+        </div></div>
+</div>
+<script type='text/javascript'> counter_product_details.id646154 = {}; 
+counter_product_details.id646154.ITEM_ID = "646154";
+counter_product_details.id646154.ITEM_NAME = "Микатермический обогреватель Polaris PMH 2015";
+counter_product_details.id646154.ITEM_VENDNAME = "Polaris";
+counter_product_details.id646154.ITEM_CATNAME = "Микатермический обогреватель";
+counter_product_details.id646154.ITEM_VENDID = "53";
+counter_product_details.id646154.ITEM_CATID = "520";
+counter_product_details.id646154.ITEM_PRICE = "7999";
+counter_product_details.id646154.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id509222 = {}; 
+counter_product_details.id509222.ITEM_ID = "509222";
+counter_product_details.id509222.ITEM_NAME = "Тепловентилятор Polaris PCDH 0105";
+counter_product_details.id509222.ITEM_VENDNAME = "Polaris";
+counter_product_details.id509222.ITEM_CATNAME = "Тепловентилятор";
+counter_product_details.id509222.ITEM_VENDID = "53";
+counter_product_details.id509222.ITEM_CATID = "273";
+counter_product_details.id509222.ITEM_PRICE = "740";
+counter_product_details.id509222.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id577215 = {}; 
+counter_product_details.id577215.ITEM_ID = "577215";
+counter_product_details.id577215.ITEM_NAME = "Тепловентилятор Polaris PFH 2061";
+counter_product_details.id577215.ITEM_VENDNAME = "Polaris";
+counter_product_details.id577215.ITEM_CATNAME = "Тепловентилятор";
+counter_product_details.id577215.ITEM_VENDID = "53";
+counter_product_details.id577215.ITEM_CATID = "273";
+counter_product_details.id577215.ITEM_PRICE = "1050";
+counter_product_details.id577215.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id646274 = {}; 
+counter_product_details.id646274.ITEM_ID = "646274";
+counter_product_details.id646274.ITEM_NAME = "Тепловентилятор Polaris PFH 2042";
+counter_product_details.id646274.ITEM_VENDNAME = "Polaris";
+counter_product_details.id646274.ITEM_CATNAME = "Тепловентилятор";
+counter_product_details.id646274.ITEM_VENDID = "53";
+counter_product_details.id646274.ITEM_CATID = "273";
+counter_product_details.id646274.ITEM_PRICE = "1299";
+counter_product_details.id646274.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id646276 = {}; 
+counter_product_details.id646276.ITEM_ID = "646276";
+counter_product_details.id646276.ITEM_NAME = "Тепловентилятор Polaris PFH 4022";
+counter_product_details.id646276.ITEM_VENDNAME = "Polaris";
+counter_product_details.id646276.ITEM_CATNAME = "Тепловентилятор";
+counter_product_details.id646276.ITEM_VENDID = "53";
+counter_product_details.id646276.ITEM_CATID = "273";
+counter_product_details.id646276.ITEM_PRICE = "1299";
+counter_product_details.id646276.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id577183 = {}; 
+counter_product_details.id577183.ITEM_ID = "577183";
+counter_product_details.id577183.ITEM_NAME = "Увлажнитель воздуха Polaris PUH 5903";
+counter_product_details.id577183.ITEM_VENDNAME = "Polaris";
+counter_product_details.id577183.ITEM_CATNAME = "Увлажнитель воздуха";
+counter_product_details.id577183.ITEM_VENDID = "53";
+counter_product_details.id577183.ITEM_CATID = "272";
+counter_product_details.id577183.ITEM_PRICE = "1499";
+counter_product_details.id577183.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id646252 = {}; 
+counter_product_details.id646252.ITEM_ID = "646252";
+counter_product_details.id646252.ITEM_NAME = "Увлажнитель воздуха Polaris PUH 8505 TFD";
+counter_product_details.id646252.ITEM_VENDNAME = "Polaris";
+counter_product_details.id646252.ITEM_CATNAME = "Увлажнитель воздуха";
+counter_product_details.id646252.ITEM_VENDID = "53";
+counter_product_details.id646252.ITEM_CATID = "272";
+counter_product_details.id646252.ITEM_PRICE = "4999";
+counter_product_details.id646252.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id627260 = {}; 
+counter_product_details.id627260.ITEM_ID = "627260";
+counter_product_details.id627260.ITEM_NAME = "Утюг Polaris дорожный PIR 1007T, 1000W";
+counter_product_details.id627260.ITEM_VENDNAME = "Polaris";
+counter_product_details.id627260.ITEM_CATNAME = "Утюг";
+counter_product_details.id627260.ITEM_VENDID = "53";
+counter_product_details.id627260.ITEM_CATID = "191";
+counter_product_details.id627260.ITEM_PRICE = "1599";
+counter_product_details.id627260.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id627250 = {}; 
+counter_product_details.id627250.ITEM_ID = "627250";
+counter_product_details.id627250.ITEM_NAME = "Утюг Polaris PIR 2485K";
+counter_product_details.id627250.ITEM_VENDNAME = "Polaris";
+counter_product_details.id627250.ITEM_CATNAME = "Утюг";
+counter_product_details.id627250.ITEM_VENDID = "53";
+counter_product_details.id627250.ITEM_CATID = "191";
+counter_product_details.id627250.ITEM_PRICE = "2027";
+counter_product_details.id627250.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id466845 = {}; 
+counter_product_details.id466845.ITEM_ID = "466845";
+counter_product_details.id466845.ITEM_NAME = "Весы напольные Polaris PWS 1514 DG";
+counter_product_details.id466845.ITEM_VENDNAME = "Polaris";
+counter_product_details.id466845.ITEM_CATNAME = "Весы напольные";
+counter_product_details.id466845.ITEM_VENDID = "53";
+counter_product_details.id466845.ITEM_CATID = "298";
+counter_product_details.id466845.ITEM_PRICE = "1396";
+counter_product_details.id466845.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id558937 = {}; 
+counter_product_details.id558937.ITEM_ID = "558937";
+counter_product_details.id558937.ITEM_NAME = "машинка для стрижки волос Polaris PHC 2501 Красный";
+counter_product_details.id558937.ITEM_VENDNAME = "Polaris";
+counter_product_details.id558937.ITEM_CATNAME = "Машинка для стрижки волос";
+counter_product_details.id558937.ITEM_VENDID = "53";
+counter_product_details.id558937.ITEM_CATID = "257";
+counter_product_details.id558937.ITEM_PRICE = "990";
+counter_product_details.id558937.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id578837 = {}; 
+counter_product_details.id578837.ITEM_ID = "578837";
+counter_product_details.id578837.ITEM_NAME = "Машинка для стрижки волос Polaris PHC 1014 S";
+counter_product_details.id578837.ITEM_VENDNAME = "Polaris";
+counter_product_details.id578837.ITEM_CATNAME = "Машинка для стрижки волос";
+counter_product_details.id578837.ITEM_VENDID = "53";
+counter_product_details.id578837.ITEM_CATID = "257";
+counter_product_details.id578837.ITEM_PRICE = "1001";
+counter_product_details.id578837.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id627516 = {}; 
+counter_product_details.id627516.ITEM_ID = "627516";
+counter_product_details.id627516.ITEM_NAME = "Машинка для стрижки волос Polaris PHC 0914 Megapolis Collection";
+counter_product_details.id627516.ITEM_VENDNAME = "Polaris";
+counter_product_details.id627516.ITEM_CATNAME = "Машинка для стрижки волос";
+counter_product_details.id627516.ITEM_VENDID = "53";
+counter_product_details.id627516.ITEM_CATID = "257";
+counter_product_details.id627516.ITEM_PRICE = "1075";
+counter_product_details.id627516.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id627520 = {}; 
+counter_product_details.id627520.ITEM_ID = "627520";
+counter_product_details.id627520.ITEM_NAME = "Машинка для стрижки волос Polaris PHC 0954";
+counter_product_details.id627520.ITEM_VENDNAME = "Polaris";
+counter_product_details.id627520.ITEM_CATNAME = "Машинка для стрижки волос";
+counter_product_details.id627520.ITEM_VENDID = "53";
+counter_product_details.id627520.ITEM_CATID = "257";
+counter_product_details.id627520.ITEM_PRICE = "1244";
+counter_product_details.id627520.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id627514 = {}; 
+counter_product_details.id627514.ITEM_ID = "627514";
+counter_product_details.id627514.ITEM_NAME = "Машинка для стрижки волос Polaris PHC 1201R";
+counter_product_details.id627514.ITEM_VENDNAME = "Polaris";
+counter_product_details.id627514.ITEM_CATNAME = "Машинка для стрижки волос";
+counter_product_details.id627514.ITEM_VENDID = "53";
+counter_product_details.id627514.ITEM_CATID = "257";
+counter_product_details.id627514.ITEM_PRICE = "1790";
+counter_product_details.id627514.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id559175 = {}; 
+counter_product_details.id559175.ITEM_ID = "559175";
+counter_product_details.id559175.ITEM_NAME = "Щипцы для укладки волос Polaris PHS 2534 K Черно-серебристый";
+counter_product_details.id559175.ITEM_VENDNAME = "Polaris";
+counter_product_details.id559175.ITEM_CATNAME = "Щипцы для укладки волос";
+counter_product_details.id559175.ITEM_VENDID = "53";
+counter_product_details.id559175.ITEM_CATID = "211";
+counter_product_details.id559175.ITEM_PRICE = "890";
+counter_product_details.id559175.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id627552 = {}; 
+counter_product_details.id627552.ITEM_ID = "627552";
+counter_product_details.id627552.ITEM_NAME = "Щипцы  для моделирования Polaris PHS 2546K";
+counter_product_details.id627552.ITEM_VENDNAME = "Polaris";
+counter_product_details.id627552.ITEM_CATNAME = "Щипцы для укладки волос";
+counter_product_details.id627552.ITEM_VENDID = "53";
+counter_product_details.id627552.ITEM_CATID = "211";
+counter_product_details.id627552.ITEM_PRICE = "949";
+counter_product_details.id627552.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id627818 = {}; 
+counter_product_details.id627818.ITEM_ID = "627818";
+counter_product_details.id627818.ITEM_NAME = "Щипцы  для моделирования Polaris PHS 2580MK";
+counter_product_details.id627818.ITEM_VENDNAME = "Polaris";
+counter_product_details.id627818.ITEM_CATNAME = "Щипцы для укладки волос";
+counter_product_details.id627818.ITEM_VENDID = "53";
+counter_product_details.id627818.ITEM_CATID = "211";
+counter_product_details.id627818.ITEM_PRICE = "999";
+counter_product_details.id627818.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id627456 = {}; 
+counter_product_details.id627456.ITEM_ID = "627456";
+counter_product_details.id627456.ITEM_NAME = "Щипцы  для моделирования Polaris PHS 2510K";
+counter_product_details.id627456.ITEM_VENDNAME = "Polaris";
+counter_product_details.id627456.ITEM_CATNAME = "Щипцы для укладки волос";
+counter_product_details.id627456.ITEM_VENDID = "53";
+counter_product_details.id627456.ITEM_CATID = "211";
+counter_product_details.id627456.ITEM_PRICE = "1290";
+counter_product_details.id627456.TRACK_URL = "";
+</script>
+<script type='text/javascript'> counter_product_details.id627454 = {}; 
+counter_product_details.id627454.ITEM_ID = "627454";
+counter_product_details.id627454.ITEM_NAME = "Щипцы  для моделирования Polaris PHS 2190K, Dreams Collection";
+counter_product_details.id627454.ITEM_VENDNAME = "Polaris";
+counter_product_details.id627454.ITEM_CATNAME = "Щипцы для укладки волос";
+counter_product_details.id627454.ITEM_VENDID = "53";
+counter_product_details.id627454.ITEM_CATID = "211";
+counter_product_details.id627454.ITEM_PRICE = "1490";
+counter_product_details.id627454.TRACK_URL = "";
+</script>
+<nav><ul class="pagination"><li class="page-item page-prev"><a class="page-link" href="/search/?search=polaris&page=3" aria-label="Предыдущая"><span class="dn1">Предыдущая</span><span class="dn2" aria-hidden="true">«</span></a></li><li class="page-item"><a class="page-link" href="/search/?search=polaris">1</a></li><li class="page-item"><a class="page-link" href="/search/?search=polaris&page=2">2</a></li><li class="page-item"><a class="page-link" href="/search/?search=polaris&page=3">3</a></li><li class="page-item active" aria-current="page"><span class="page-link">4</span></li><li class="page-item"><a class="page-link" href="/search/?search=polaris&page=5">5</a></li><li class="page-item"><a class="page-link" href="/search/?search=polaris&page=6">6</a></li><li class="page-item"><a class="page-link" href="/search/?search=polaris&page=7">7</a></li><li class="page-item"><a class="page-link" href="/search/?search=polaris&page=8">8</a></li><li class="page-item page-next"><a class="page-link" href="/search/?search=polaris&page=5" aria-label="Следующая"><span class="dn1">Следующая</span><span class="dn2" aria-hidden="true">»</span></a></li></ul></nav>
+
+
+<script type="text/javascript" src="//www.holodilnik.ru/js/credit.js?ver=5"></script>
+<script type="text/javascript">
+function doCreditNew(){
+  doCredit('ONYM38e', false);
+}
+function doCreditShopNew(){
+  doCredit('YM45e', false);
+}
+function doCreditNLNew(){
+  doCreditNL();
+}
+</script><div id="service-credit" class="d-none">
+    <div id="idcontent" class="popover-custom popover-service-credit">
+        <div class="popover-title large-as-h1 pb-4">Купить в кредит</div>
+        <div class="popover-description">
+            <div class="row">
+                <div class="col-12">
+                    <div id="credOnlineWin" class="d-flex flex-column justify-content-between">
+                        <div class="header-h3">
+                          <p style="width:300px;">Кредит доступен для покупок онлайн и в розничных магазинах «Холодильник.ру».
+Вы можете оформить покупку на сайте, выбрав способ оплаты «Кредит».
+Заполнить короткую анкету – и в течение 5 минут банком будет принято решение о вашем кредитовании.
+Либо прийти в магазин, выбрать товары и обратиться к представителю Банка-партнера для оформления кредита.</p>
+                        </div>
+                        <p><a href="/vcredit/#creditOnline" class="item-link" target="_blank">Узнать подробности</a>
+                           </p>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <hr>
+                                            <p data-alt='.'><span id="credReg"><b
+                                        onclick="return doCreditNL('ONYM38e', false);">Войти</b>
+            или <b onclick="return doCreditNL('ONYM38e', false);">Зарегистрироваться</b></span>
+                        </p>
+                                        <p class="text-note">Обращаем Ваше внимание!<br/> Покупка в кредит недоступна для юридических лиц.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="credit" style="height:1px;" data-domain=".holodilnik.ru" data-coockie="credit_key_ver2"
+         data-actionRasrochka="0"></div>
+</div>
+
+<script type="text/javascript" src="//www.holodilnik.ru/js/credit.js?ver=12"></script>
+<script type="text/javascript">
+function doCreditLiteNew(){
+  doCredit('ONYM38e', true);
+}
+function doCreditLineNLNew(){
+  doCreditNL();
+}
+</script><div id="service-installment" class="d-none">
+    <div class="popover-custom popover-service-installment">
+        <div class="popover-title large-as-h1">Купить в рассрочку</div>
+        <p><span id="idotp29"></span>Вы можете купить этот товар в рассрочку <span id="idotpOT" style="display:none;"></span>без переплаты и первого взноса. Оформить рассрочку можно онлайн и в
+            розничных магазинах «Холодильник.ру» на срок до <b id='idOnlineMonth'>24</b> месяцев.</p>
+        <a href="/vcredit/vygodnaya_raccrochka/" id="idCredActURLreg" target="_blank">Узнать подробности</a>
+                    <p><span id="credLiteReg">
+      <a href="#" onclick="return doCreditNL('ONYM38e', false);">Войти</a> или
+      <a href="#" onclick="return doCreditNL('ONYM38e', false);">Зарегистрироваться</a>
+    </span></p>
+                <p class="text-note">Обращаем Ваше внимание!<br/> Приобретая технику в рассрочку, вы не можете воспользоваться
+            другими видами скидок. Покупка в рассрочку недоступна для юридических лиц.</p>
+    </div>
+    <div id="credit" style="height:1px;" data-domain=".holodilnik.ru" data-coockie="credit_key_ver2"
+         data-actionRasrochka="0">
+    </div>
+</div>
+<div id="notification-admission" class="d-none">
+    <div class="popover-content popover-notification-admission modal">
+        <div class="popover-title">Уведомить о поступлении товара</div>
+        <div class="popover-description">
+            <div class="row">
+                <div class="col-12">
+					<div class="popover-title-product">Стиральная машина Indesit IWUB 4085</div>
+
+					<form>
+						<div class="form-group row"><label class="col-sm-3 col-form-label">Фамилия: <span class="text-danger">*</span></label>
+							<div class="col-sm-9"><input name="lastname" type="text" required="required" class="form-control" placeholder=""></div>
+						</div>
+						<div class="form-group row"><label class="col-sm-3 col-form-label">Имя: <span class="text-danger">*</span></label>
+							<div class="col-sm-9"><input name="firstname" type="text" required="required" class="form-control" placeholder=""></div>
+						</div>
+						<div class="form-group row"><label class="col-sm-3 col-form-label">Отчество:</label>
+							<div class="col-sm-9"><input name="thirdname" type="text" class="form-control" placeholder=""></div>
+						</div>
+						<div class="form-group row"><label class="col-sm-3 col-form-label">Email: <span class="text-danger">*</span></label>
+							<div class="col-sm-9"><input name="email" type="email" required="required" class="form-control" placeholder=""></div>
+						</div>
+						<div class="form-group row"><label class="col-sm-3 col-form-label">Телефон: <span class="text-danger">*</span></label>
+							<div class="col-sm-9"><input name="telephone" type="tel" required="required" class="form-control"></div>
+						</div>
+						<div class="form-group row align-items-center"><label class="col-sm-3 col-form-label">Регион: <span class="text-danger">*</span></label>
+							<div class="col-sm-9">Москва и область</div>
+						</div>
+						<div class="form-group row">
+							<div class="col-sm-9 ml-auto">
+								<div class="form-check">
+									<input name="subscr" value="1" class="form-check-input" type="checkbox" checked>
+									<label class="form-check-label">Предложить аналог при длительном отсутствии выбранного товара</label>
+								</div>
+							</div>
+						</div>
+						<div class="form-group row">
+							<div class="col-sm-9 ml-auto"><button type="submit" class="btn btn-primary">Отправить</button></div>
+						</div>
+						<div class="form-group row">
+							<div class="col-sm-12"><p class="form-help-text"><span class="text-danger">*</span> – поля, обязательные для заполнения.</p></div>
+						</div>
+					</form>
+				</div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<script type="text/javascript" src="//www.holodilnik.ru/js/credit_win.js?v=3"></script>
+<script type="text/javascript"> checkPath("search");</script>
+
+<script type='text/javascript'>$(function() {
+    $('[data-lazy="image"]').lazy();
+}); </script>
+    <script type='text/javascript' src='//www.holodilnik.ru/js/products.js' charset='windows-1251'></script>
+
+    <style type=text/css>.promodscnt {padding:0.5em 0; font-size:15px; color:#e89402; /*text-shadow: #ecb851 0px 1px;*/} /*.promodscnt b {font-weight:normal;*/}</style></div></div>
+<link type="text/css" rel="stylesheet" href="//www.holodilnik.ru/css/slider.css"><style type='text/css'>.delivery_div .container{box-shadow: 0 0 10px rgba(0, 0, 0, 0.4); margin-left: -600px; background: white; width: 800px;}</style><script type="text/javascript" src="//www.holodilnik.ru/js/jquery.jcarousel2.min.js"></script><script type="text/javascript" src="//www.holodilnik.ru/js/product_card.js"></script><script type='text/javascript' src='//www.holodilnik.ru/js/relevance_clicklog.js'></script>
+<div id='rr' data-href='type=search&num_rows=20&query=polaris'></div><div id='search_page_bottom'></div>
+
+</div></div>
+<div class="modal fade" id="modal-fastview" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <div id="block_fastview" class="modal-body"></div>
+    </div>
+  </div>
+</div>
+<div class="d-none"><div id='regList'><ul>
+<li><a href='//www.holodilnik.ru/' onclick='return changeRegion(1, true);'>Москва и область</a></li>
+<li><a href='//www.holodilnik.ru/sankt-peterburg/' onclick='return changeRegion(2, true);'>Санкт-Петербург</a></li>
+<li><a href='//adler.holodilnik.ru/' onclick='return changeRegion(38, true);'>Адлер</a></li>
+<li><a href='//anapa.holodilnik.ru/' onclick='return changeRegion(35, true);'>Анапа</a></li>
+<li><a href='//barnaul.holodilnik.ru/' onclick='return changeRegion(32, true);'>Барнаул</a></li>
+<li><a href='//vnovgorod.holodilnik.ru/' onclick='return changeRegion(13, true);'>Великий Новгород</a></li>
+<li><a href='//vladimir.holodilnik.ru/' onclick='return changeRegion(24, true);'>Владимир</a></li>
+<li><a href='//voronezh.holodilnik.ru/' onclick='return changeRegion(28, true);'>Воронеж</a></li>
+<li><a href='//voskresensk.holodilnik.ru/' onclick='return changeRegion(10, true);'>Воскресенск</a></li>
+<li><a href='//www.holodilnik.ru/volgograd/' onclick='return changeRegion(4, true);'>Волгоград</a></li>
+<li><a href='//gelendzhik.holodilnik.ru/' onclick='return changeRegion(34, true);'>Геленджик</a></li>
+<li><a href='//gklyuch.holodilnik.ru/' onclick='return changeRegion(39, true);'>Горячий Ключ</a></li>
+<li><a href='//dzhubga.holodilnik.ru/' onclick='return changeRegion(36, true);'>Джубга</a></li>
+<li><a href='//ekaterinburg.holodilnik.ru/' onclick='return changeRegion(41, true);'>Екатеринбург</a></li>
+<li><a href='//ivanovo.holodilnik.ru/' onclick='return changeRegion(23, true);'>Иваново</a></li>
+<li><a href='//kazan.holodilnik.ru/' onclick='return changeRegion(27, true);'>Казань</a></li>
+<li><a href='//www.holodilnik.ru/kaluga/' onclick='return changeRegion(5, true);'>Калуга</a></li>
+<li><a href='//kemerovo.holodilnik.ru/' onclick='return changeRegion(29, true);'>Кемерово</a></li>
+<li><a href='//kolomna.holodilnik.ru/' onclick='return changeRegion(11, true);'>Коломна</a></li>
+<li><a href='//kostroma.holodilnik.ru/' onclick='return changeRegion(25, true);'>Кострома</a></li>
+<li><a href='//krasnodar.holodilnik.ru/' onclick='return changeRegion(14, true);'>Краснодар</a></li>
+<li><a href='//krym.holodilnik.ru/' onclick='return changeRegion(40, true);'>Крым</a></li>
+<li><a href='//lipetsk.holodilnik.ru/' onclick='return changeRegion(22, true);'>Липецк</a></li>
+<li><a href='//michurinsk.holodilnik.ru/' onclick='return changeRegion(17, true);'>Мичуринск</a></li>
+<li><a href='//nnovgorod.holodilnik.ru/' onclick='return changeRegion(20, true);'>Нижний Новгород</a></li>
+<li><a href='//ntagil.holodilnik.ru/' onclick='return changeRegion(51, true);'>Нижний Тагил</a></li>
+<li><a href='//novokuybyshevsk.holodilnik.ru/' onclick='return changeRegion(48, true);'>Новокуйбышевск</a></li>
+<li><a href='//novomoskovsk.holodilnik.ru/' onclick='return changeRegion(21, true);'>Новомосковск</a></li>
+<li><a href='//novorossiysk.holodilnik.ru/' onclick='return changeRegion(33, true);'>Новороссийск</a></li>
+<li><a href='//novosibirsk.holodilnik.ru/' onclick='return changeRegion(19, true);'>Новосибирск</a></li>
+<li><a href='//www.holodilnik.ru/obninsk/' onclick='return changeRegion(8, true);'>Обнинск</a></li>
+<li><a href='//omsk.holodilnik.ru/' onclick='return changeRegion(49, true);'>Омск</a></li>
+<li><a href='//perm.holodilnik.ru/' onclick='return changeRegion(53, true);'>Пермь</a></li>
+<li><a href='//pyatigorsk.holodilnik.ru/' onclick='return changeRegion(42, true);'>Пятигорск</a></li>
+<li><a href='//rostovnd.holodilnik.ru/' onclick='return changeRegion(26, true);'>Ростов-на-Дону</a></li>
+<li><a href='//ryazan.holodilnik.ru/' onclick='return changeRegion(12, true);'>Рязань</a></li>
+<li><a href='//samara.holodilnik.ru/' onclick='return changeRegion(44, true);'>Самара</a></li>
+<li><a href='//sochi.holodilnik.ru/' onclick='return changeRegion(30, true);'>Сочи</a></li>
+<li><a href='//syzran.holodilnik.ru/' onclick='return changeRegion(47, true);'>Сызрань</a></li>
+<li><a href='//stavropol.holodilnik.ru/' onclick='return changeRegion(43, true);'>Ставрополь</a></li>
+<li><a href='//tambov.holodilnik.ru/' onclick='return changeRegion(16, true);'>Тамбов</a></li>
+<li><a href='//www.holodilnik.ru/tver/' onclick='return changeRegion(6, true);'>Тверь</a></li>
+<li><a href='//tolyatti.holodilnik.ru/' onclick='return changeRegion(45, true);'>Тольятти</a></li>
+<li><a href='//tomsk.holodilnik.ru/' onclick='return changeRegion(31, true);'>Томск</a></li>
+<li><a href='//tuapse.holodilnik.ru/' onclick='return changeRegion(37, true);'>Туапсе</a></li>
+<li><a href='//www.holodilnik.ru/tula/' onclick='return changeRegion(7, true);'>Тула</a></li>
+<li><a href='//tyumen.holodilnik.ru/' onclick='return changeRegion(52, true);'>Тюмень</a></li>
+<li><a href='//ulyanovsk.holodilnik.ru/' onclick='return changeRegion(46, true);'>Ульяновск</a></li>
+<li><a href='//ufa.holodilnik.ru/' onclick='return changeRegion(9, true);'>Уфа</a></li>
+<li><a href='//chelyabinsk.holodilnik.ru/' onclick='return changeRegion(50, true);'>Челябинск</a></li>
+<li><a href='//yaroslavl.holodilnik.ru/' onclick='return changeRegion(15, true);'>Ярославль</a></li>
+<li><a href='//www.holodilnik.ru/russia/' onclick='return changeRegion(3, true);'>Регионы России</a></li>
+</ul>
+</div></div>
+
+<footer class="hru-footer">
+<script type="text/javascript">var int_user_type = 0;</script>
+
+    <div class="panel-content">
+        <div class="container">
+            <div class="row">
+              <div class="col-xl-2 col-md-3">
+                <div class="navbar-box">
+                  <div class="navbar-brand">
+                    <span data-href="//www.holodilnik.ru/" class="jsg-replace-link">
+                        <img src="/assets/img/vector/footer-logo.svg" alt="Holodilnik.ru">
+                    </span>
+                  </div>
+                  <div class="footer-phones"><div class='footer-phone'><div>8&nbsp;(495)&nbsp;232-06-00</div></div><div class='footer-phone'><div>8&nbsp;(495)&nbsp;232-04-04</div></div></div>
+                </div>
+                <div class="navbar-box">
+                  <div class="working-hours">Время работы<br /> <div>без выходных</div><div>Пн.-Вс. 9.00-21.00</div></div>
+                  <div class="media sprite-basement hru-i-footer-phone">
+                    <span class="media-body modal-ajax-call" data-toggle="modal" data-target="#modal-user-callback">Заказать звонок</span>
+                  </div>
+                  <div class="media sprite-basement hru-i-footer-order">
+                    <span class="media-body modal-ajax-call" data-toggle="modal" data-target="#modal-product-request">Заказать товар</span>
+                  </div>
+                  <div class="media sprite-basement hru-i-footer-skype">
+                    <span class="jsg-replace-link media-body media-link" data-href="skype:holodilnik-msk?call">Звонок онлайн</span>
+                  </div>
+                  <div class="media sprite-basement hru-i-footer-icq">
+                    <span class="jsg-replace-link media-body media-link" data-href="//www.holodilnik.ru/online/">Онлайн консультация</span>
+                  </div>
+                  <div class="modal fade" id="viberModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-dialog-centered" role="document" style="width: 420px;">
+                      <div class="modal-content">
+                        <div class="modal-header" style="border-bottom: 0px;">
+                          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        </div>
+                        <div class="modal-body" style="text-align: center; padding: 0px 0px 70px;  font-size: 9px;">
+                          <img src="/img/mob/messengers/viber_launch.png" alt="">&nbsp;&nbsp;
+                          <span class="jsg-replace-link media-body media-link" data-href="viber://pa?chatURI=edilimport" style="font-size: 16px;">Открыть Viber</span><br><br>
+                          <img src="/img/mob/messengers/viber_download.png" alt="">&nbsp;&nbsp;
+                          <span class="jsg-replace-link media-body media-link" data-href="https://www.viber.com/ru/" target="_blank" style="font-size: 16px;">Скачать Viber</span><br />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="navbar-box">
+                  <div class="item-statistic"><script type="text/javascript">
+document.write("<span data-href='https://www.liveinternet.ru/click;HolodilnikRu' "+
+"target=_blank class='jsg-replace-link'><img src='https://counter.yadro.ru/hit;HolodilnikRu?t17.02;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border='0' width=88 height=31><\/span>");
+
+function live_internet_hit_tab(tab_name, tab_title){
+  var hit_url = location.protocol+'//'+location.host+'/tabs/'+tab_name+location.pathname;
+  var img = new Image();
+  img.src = "https://counter.yadro.ru/hit;HolodilnikRu?t21.10;r"+
+  escape(document.referrer)+((typeof(screen)=="undefined")?"":
+  ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+  screen.colorDepth:screen.pixelDepth))+";u"+escape(hit_url)+
+  ";"+Math.random();
+}
+</script>
+<a rel="nofollow" target="_blank" href="https://clck.yandex.ru/redir/dtype=stred/pid=47/cid=1248/*https://market.yandex.ru/shop/632/reviews"><img src="https://clck.yandex.ru/redir/dtype=stred/pid=47/cid=1248/*https://grade.market.yandex.ru/?id=632&amp;action=image&amp;size=0" class="footer-bottom__icons-yamarket-ico" alt="Читайте отзывы покупателей и оценивайте качество магазина на Яндекс.Маркете" width="88" height="31" border="0"></a>                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="row" id="accordionFooter">
+                  <div class="card col-xl-2 col-md-4">
+                    <div class="card-header collapsed" id="headerFooterList1" data-toggle="collapse" data-target="#collapseFooterList1" aria-expanded="true" aria-controls="collapseFooterList1">Холодильник.Ру</div>
+                    <div id="collapseFooterList1" class="collapse" data-parent="#accordionFooter">
+                      <div class="container">
+                        <ul class="navbar-list">
+                          <li class="navbar-list-title">Холодильник.Ру</li>
+                          <li class="navbar-list-element"><a href="//www.holodilnik.ru/about/">О компании</a></li>
+                          <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/shops/moscow/">Магазины</span></li>
+                          <li class="navbar-list-element"><a href="//www.holodilnik.ru/delivery/#phone">Контакты</a></li>
+                          <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/news/">Новости</span></li>
+                          <li class="navbar-list-element"><a href="//www.holodilnik.ru/delivery/#rekv">Реквизиты</a></li>
+                          <li>&nbsp;</li>
+                          <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/wholesale/">Оптовые продажи</span></li>
+                          <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/corp/">Корпоративным клиентам</span></li>
+                          <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/regions/">Региональным клиентам</span></li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col column-row-1">
+                    <div class="row">
+                      <div class="card col">
+                        <div class="card-header collapsed" id="headerFooterList2" data-toggle="collapse" data-target="#collapseFooterList2" aria-expanded="false"
+                           aria-controls="collapseFooterList2">Доставка и оплата</div>
+                        <div id="collapseFooterList2" class="collapse" data-parent="#accordionFooter">
+                          <div class="container">
+                            <ul class="navbar-list">
+                              <li class="navbar-list-title">Доставка и оплата</li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/delivery/">Доставка</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/delivery/#pay">Способы оплаты</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/vcredit/">Покупка в кредит</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/delivery/#tovar">Получение техники</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/delivery/#law">Законодательство</span></li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="card col">
+                        <div class="card-header collapsed" id="headerFooterList3" data-toggle="collapse" data-target="#collapseFooterList3" aria-expanded="false"
+                           aria-controls="collapseFooterList3">Акции, скидки</div>
+                        <div id="collapseFooterList3" class="collapse" data-parent="#accordionFooter">
+                          <div class="container">
+                            <ul class="navbar-list">
+                              <li class="navbar-list-title">Акции, скидки</li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/discount_cards/">Дисконтная программа</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/action/vygodnaya_raccrochka/">Товары в рассрочку</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/action/">Акции</span></li>
+                              <li class="navbar-list-element"><a href="//www.holodilnik.ru/action/leaders/">Лидеры продаж</a></li>
+                              <li class="navbar-list-element"><a href="//www.holodilnik.ru/action/new/">Обзоры новинок</a></li>
+                              <li>&nbsp;</li>
+                              <li class="navbar-list-element"><a href="//www.holodilnik.ru/decor/">Художественная роспись</a></li>
+                              <li class="navbar-list-element"><a href="//www.holodilnik.ru/repair/">Уцененная техника</a></li>
+                              <li class="navbar-list-element"><a href="//www.holodilnik.ru/sales/">Распродажа</a></li>
+                              <li class="navbar-list-element"><a href="//www.holodilnik.ru/brands/">Бренды</a></li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col column-row-2">
+                    <div class="row">
+                      <div class="card col">
+                        <div class="card-header collapsed" id="headerFooterList4" data-toggle="collapse" data-target="#collapseFooterList4" aria-expanded="false"
+                           aria-controls="collapseFooterList4">Сервис и поддержка</div>
+                        <div id="collapseFooterList4" class="collapse" data-parent="#accordionFooter">
+                          <div class="container">
+                            <ul class="navbar-list">
+                              <li class="navbar-list-title">Сервис и поддержка</li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/garantiya/">Гарантийное обслуживание</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/komfort/">Программа ”Комфорт+”</span></li>
+                              <li class="navbar-list-element"><a href="//www.holodilnik.ru/service_center/">Подключение техники</a></li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="card col">
+                        <div class="card-header collapsed" id="headerFooterList5" data-toggle="collapse" data-target="#collapseFooterList5" aria-expanded="false"
+                           aria-controls="collapseFooterList5">Нужна помощь?</div>
+                        <div id="collapseFooterList5" class="collapse" data-parent="#accordionFooter">
+                          <div class="container">
+                            <ul class="navbar-list">
+                              <li class="navbar-list-title">Нужна помощь?</li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/ch/">Статьи</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/forum/">Обмен мнениями (Форум)</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/defence/" target="_blank">Защита персональных данных</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/about/user_agreement/" target="_blank">Пользовательское соглашение</span></li>
+                              <li class="navbar-list-element"><span class="jsg-replace-link" data-href="//www.holodilnik.ru/about/cookies/" target="_blank">Политика использования cookie</span></li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+    </div>
+    <div class="panel-information">
+      <div class="container">
+        <div class="row">
+          <div class="col">
+            <div class="information-valid text-note" title=''>Информация действительна
+              <span class="text-nowrap">на 10:11 24.12.2019</span>
+            </div>
+          </div>
+          <div class="col-5">
+            <div class="item-social">
+              <div class="item-title text-note">Мы в соцсетях:</div>
+              <span class="jsg-replace-link social-vk" data-href="https://vk.com/holodilnik__ru" target="_blank">&nbsp;</span>
+              <span class="jsg-replace-link social-fb" data-href="https://www.facebook.com/holodilnikrus" target="_blank">&nbsp;</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="panel-pays">
+        <div class="container">
+            <div class="item-pays">
+                <div class="combined">
+<a href="//www.holodilnik.ru/delivery/#pay" class="combined-link"><span class="hru-i-pay-visa-mcard"></span><span class="hru-i-pay-mir"></span></a>                  <span data-href="//www.holodilnik.ru/halva/" class="hru-i-pay-halva jsg-replace-link"></span>
+                  <span data-href="//www.holodilnik.ru/sberbank_credit/" class="hru-i-pay-spasibosberbank jsg-replace-link"></span>
+                  <span data-href="//www.holodilnik.ru/gpay/" class="hru-i-pay-gpay jsg-replace-link"></span>
+    <span data-href="//www.holodilnik.ru/applepay/" class="hru-i-pay-applepay jsg-replace-link"></span>
+                </div>
+
+                  <span data-href="//www.holodilnik.ru/digift_card/" class="hru-i-bonus-digift-card jsg-replace-link"></span>
+                  <span data-href="//www.holodilnik.ru/mnogo/" class="hru-i-bonus-mnogoru jsg-replace-link"></span>
+                  <span data-href="//www.holodilnik.ru/aeroflot/" class="hru-i-bonus-aeroflot jsg-replace-link"></span>
+                  <span data-href="//www.holodilnik.ru/spasibosberbank/" class="hru-i-bonus-spasibo jsg-replace-link"></span>
+            </div>
+        </div>
+    </div>
+    <div class="panel-copyright">
+      <div class="container">
+        <div class="row">
+          <div class="col-xl-7 col-md-6">
+            <p>Интернет-магазин бытовой техники и электроники Холодильник.Ру в Москве и МО (Holodilnik, ХоумАпплайнс, Holod, Холод).</p>
+            <p><span><i>&copy;</i> 2003–2019 &nbsp;<span data-href="//www.holodilnik.ru/about/" class="jsg-replace-link">ООО «Эдил-Импорт», ООО «ХоумАпплайнс»</span></span></p>
+          </div>
+          <div class="col"><p class="d-flex align-items-center"><span>
+            <span data-href="//www.holodilnik.ru/akit/" class="jsg-replace-link sprite-basement hru-i-footer-akit">&nbsp;</span>
+            <span data-href="http://akret.ru/" class="jsg-replace-link sprite-basement hru-i-footer-akret">&nbsp;</span></span>
+          </p></div>
+        </div>
+      </div>
+    </div>
+</footer>
+
+
+    <script type="text/javascript" src="//www.holodilnik.ru/js/chatPanel.js?v=1"></script>
+    <script type="text/javascript">
+       var chatPanel = new ChatPanel({'bottom': 80, right: 16, 'collapse_on_click': true, 'hide_on_scroll': true, 'mouseover_sensible': true, 'slideable': true});
+              chatPanel.addButton({
+         'background': '/img/mob/messengers/icon_Skype.png',
+         'href': 'skype:holodilnik-msk?call',
+         'tooltip_text': 'Только онлайн звонок',
+         'tooltip_text_color': '#ffffff',
+         'tooltip_color': '#00a5eb'
+       });
+       chatPanel.render();
+    </script>
+
+<div id="return-to-top" class="sprite-basement hru-i-angle-up">Наверх</div>
+
+
+<div id="ads_box"><script type='text/javascript'>
+    function callSubscrEvent() {
+        var emailRE = new RegExp('^[-._a-zа-я0-9]+@(?:[a-zа-я0-9][-a-zа-я0-9]+\.)+[a-zа-я]{2,6}$');
+        if(emailRE.test(document.getElementById('UserEmail').value)){
+            
+yaCounter42.reachGoal('rassilka_na');
+ga('send', 'event', 'forms', 'submit', 'rassilka_na', 0);                
+    mindbox("sync", {
+        operation: "SubscribeFooter",
+        data: {
+          customer: {
+            email: document.getElementById("UserEmail").value,
+            area: {
+                ids: {
+                  externalId: "moscow"
+                }
+            },
+            subscriptions: [
+              {
+                brand: "Holodilnik",
+                pointOfContact: "email",
+              }
+            ]
+          }
+        },
+        onSuccess: function() {},
+        onError: function(error) {}
+    });
+        }
+    }
+  </script>
+<!-- Google Code for 2013_основной  Asinc version-->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories.
+ For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var conv_handler = window['google_trackConversion'];
+if (typeof(conv_handler) == 'function') {
+    window.google_trackConversion({
+      google_conversion_id: 1008750792,
+      google_conversion_label: "u3UqCMCWyAUQyKGB4QM",
+      google_custom_params: {use_case: 'retail',
+pagetype: '',
+prodid: '',
+pname: '',
+pcat: '',
+pvalue: '',
+},
+      google_remarketing_only: true
+    });
+}
+//]]>
+</script>
+<noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1008750792/?value=0&amp;label=u3UqCMCWyAUQyKGB4QM&amp;guid=ON&amp;script=0"/></div></noscript>
+<!-- Yandex.Metrika Counter allPgTop -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter42 = new Ya.Metrika({
+                    id:42,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    ecommerce:"dataLayer"
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/42" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika Counter allPgTop -->
+
+<!-- Rating@Mail.ru allPgTop counter -->
+<script type="text/javascript" defer  async="true">
+var _tmr = _tmr || [];
+_tmr.push({id: "2624345", type: "pageView", start: (new Date()).getTime()});
+(function (d, w) {
+   var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+   ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+   var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+   if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+</script><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2624345;js=na" style="border:0;width:0;height:0;" height="0" width="0" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru allPgTop counter -->
+<!-- Flocktory allPgTop -->
+
+<script type="text/javascript" src="//api.flocktory.com/v2/loader.js?site_id=1824" async="async"></script>
+<!-- /Flocktory allPgTop -->
+<!-- IngateVK Counter allPgTop -->
+<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="https://vk.com/js/api/openapi.js?160",t.onload=function(){VK.Retargeting.Init("VK-RTRG-323788-59gpY"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script>
+<noscript><img src="https://vk.com/rtrg?p=VK-RTRG-323788-59gpY" style="position:fixed; left:-999px;" alt=""/></noscript>
+<!-- /IngateVK Counter allPgTop -->
+
+<!-- Mail.ru remarketing other_pages -->
+<script type="text/javascript">
+var _tmr = _tmr || [];
+_tmr.push({
+type: 'itemView',
+productid: '',
+pagetype: 'other',
+totalvalue: '',
+list: '9' });
+</script>
+<!-- /Mail.ru remarketing other_pages -->
+
+<!-- TrackAd Counter -->
+<script type="text/javascript">
+var tgConfig = {
+"custom_city":"moscow",
+"page_type":"search",
+"category_product_ids": ["646154","509222","577215"],
+// User
+}
+</script>
+<script type="text/javascript" src="//tms-st.cdn.ngenix.net/holodilnik/tgContainer-min.js" async=true defer></script>
+<!-- /TrackAd Counter -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P93KGFB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+                
+<!-- Global site tag (gtag.js) - Google Ads: 1021019467 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1021019467"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-1021019467');
+</script>
+
+<!-- RichRelevance -->
+<script type="text/javascript">
+  var digiScript = document.createElement('script');
+  digiScript.src = '//cdn.diginetica.net/17/client.js';
+  digiScript.defer = 'true';
+  digiScript.async = 'true';
+  document.body.appendChild(digiScript);
+</script>
+<!-- /RichRelevance -->
+</div>
+</body>
+</html>

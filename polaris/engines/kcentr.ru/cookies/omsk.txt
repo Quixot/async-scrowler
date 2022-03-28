@@ -1,0 +1,36 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.market.yandex.ru	TRUE	/	FALSE	1627027662	market_cpa	1
+.yandex.ru	TRUE	/	TRUE	1942301262	skid	7834688601626768462
+.market.yandex.ru	TRUE	/	TRUE	2145906000	visits	1626768462-1626768462-1626768462
+.market.yandex.ru	TRUE	/	FALSE	2145906000	cmp-merge	true
+.market.yandex.ru	TRUE	/	FALSE	2145906000	reviews-merge	true
+market.yandex.ru	FALSE	/	FALSE	0	js	1
+market.yandex.ru	FALSE	/	TRUE	1626770263	ugcp	1
+market.yandex.ru	FALSE	/	TRUE	1626814801	dcm	1
+market.yandex.ru	FALSE	/	FALSE	1658304465	currentRegionId	2
+market.yandex.ru	FALSE	/	FALSE	1658304465	currentRegionName	%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3
+market.yandex.ru	FALSE	/	FALSE	1658304465	mOC	1
+.yandex.ru	TRUE	/	FALSE	1689840465	is_gdpr	0
+.yandex.ru	TRUE	/	FALSE	1689840465	is_gdpr_b	CLmULxD7Og==
+.yandex.ru	TRUE	/	TRUE	1689840465	i	LitLG5Kw3GWWmgKcPOA3r/zy+Q7xRpPFqUu7txSRThWN/T7/bCieD9uCky4h8FfzGEp3qOlYtkzwxpXl43dbL9zXUcs=
+market.yandex.ru	FALSE	/	FALSE	0	fonts-loaded	1
+.yandex.ru	TRUE	/	FALSE	1942128468	yandexuid	3403226351626768461
+.yandex.ru	TRUE	/	FALSE	1658304468	ymex	1942128468.yrts.1626768468
+.yandex.ru	TRUE	/	FALSE	0	gdpr	0
+.yandex.ru	TRUE	/	FALSE	1658304468	_ym_uid	1626768468459863261
+.yandex.ru	TRUE	/	FALSE	1658304468	_ym_d	1626768469
+.yandex.ru	TRUE	/	FALSE	1626840470	_ym_isad	2
+market.yandex.ru	FALSE	/	FALSE	1658304471	regionChangeMethod	manual
+.market.yandex.ru	TRUE	/	FALSE	2145906000	yandexmarket	48%2CRUR%2C1%2C%2C%2C%2C2%2C0%2C0%2C66%2C0%2C0%2C12%2C0
+.yandex.ru	TRUE	/	FALSE	1626770275	_ym_visorc	b
+.yandex.ru	TRUE	/	FALSE	1629360479	spravka	dD0xNjI2NzY4NDc5O2k9MTg1LjEzOS4yMTUuMTY7RD01RUVCQ0Y3Njk2MzVFNEVEQTZDOUQ2RjJENEU4RDg4RUZGRUY0RkRFRTZFMDU1MjM1RDQzMEVGNkIzNTk1MjQyO3U9MTYyNjc2ODQ3OTk2OTAyNzYzOTtoPWExY2QwZDE5ZGEwMjk2OGFiN2I4YmQxYmFiNjc3MDMz
+.market.yandex.ru	TRUE	/	FALSE	1626775680	lr	66
+.market.yandex.ru	TRUE	/	TRUE	0	parent_reqid_seq	1626768461989%2F4bca5d4b59a6e9de5e064f8c89c70500%2C1626768480022%2Ff31909b5de8d5f67e930628d89c70500
+

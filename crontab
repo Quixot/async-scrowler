@@ -1,0 +1,544 @@
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+# m h dom mon dow user	command
+17 *	* * *	root    cd / && run-parts --report /etc/cron.hourly
+25 6	* * *	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily )
+47 6	* * 7	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.weekly )
+52 6	1 * *	root	test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )
+
+# MAIN TASKS
+39 12	* * *	root	php /var/www/reporter/app.php search null polaris.ua null serg_me
+41 12	* * *	root	php /var/www/reporter/app.php search null polaris null serg_me
+0 0	* * *	root	php /var/www/reporter/maketodeyfolder.php
+58 23 * * *	root	php /var/www/polaris/copy_shop-polaris.ru.php
+42,44,45,46,47 12 * * 1-5	root	kill -9 `ps -ef | awk '/SCREEN.*polaris/ {print $2}'`
+42,44,45,46,47 10 * * 6,7	root	kill -9 `ps -ef | awk '/SCREEN.*polaris/ {print $2}'`
+30 * * * *	root	screen -wipe
+*/10 * * * *	root	php /var/www/lib/is_xeon_ok.php
+*/15 * * * *	root	php /var/www/lib/la_stat.php
+
+
+# POLARIS RU
+15 6	* * 1-5	root	php /var/www/reporter/app.php polaris_universal polaris_common polaris Report_Polaris_RU_$(date +\%d\%m\%y)_1 me
+15 7	* * 1-5	root	php /var/www/reporter/app.php polaris_universal polaris_common polaris Report_Polaris_RU_$(date +\%d\%m\%y)_1 operator
+27 6	* * 1-5	root	php /var/www/reporter/app.php polaris_big polaris 1 me
+27 7	* * 1-5	root	php /var/www/reporter/app.php polaris_big polaris 1 operator
+
+# внеочередной
+34 10	* * 1-5	root	php /var/www/reporter/app.php polaris_universal polaris_common polaris Report_Polaris_RU_$(date +\%d\%m\%y)_1 operator
+45 10	* * 1-5	root	php /var/www/reporter/app.php polaris_big polaris 1 operator
+46 10	* * 1-5	root	php /var/www/reporter/app.php make_xml_stores_v2 1
+
+
+01 12	* * 1-5	root	php /var/www/reporter/app.php polaris_universal polaris_common polaris Report_Polaris_RU_$(date +\%d\%m\%y)_2 me
+40 13	* * 1-5	root	php /var/www/reporter/app.php polaris_universal polaris_common polaris Report_Polaris_RU_$(date +\%d\%m\%y)_2 operator
+33 12 * * 1-5 root	php /var/www/reporter/app.php polaris_big polaris 2 me
+53 13 * * 1-5 root	php /var/www/reporter/app.php polaris_big polaris 2 operator
+
+
+45 11	* * 6,7	root	php /var/www/reporter/app.php polaris_universal polaris_common polaris Report_Polaris_RU_$(date +\%d\%m\%y)_1 operator
+01 12	* * 6,7	root	php /var/www/reporter/app.php polaris_universal polaris_common polaris Report_Polaris_RU_$(date +\%d\%m\%y)_2
+57 11	* * 6,7	root	php /var/www/reporter/app.php polaris_big polaris 1 operator
+
+# запасные
+18 10	* * 6,7	root	php /var/www/reporter/app.php polaris_universal polaris_common polaris Report_Polaris_RU_$(date +\%d\%m\%y)_1 me
+25 10	* * 6,7	root	php /var/www/reporter/app.php polaris_big polaris 1 me
+# запасные
+17 10	* * 6,7	root	php /var/www/reporter/app.php polaris.ua_universal polaris.ua_common polaris Report_Polaris_UA_$(date +\%d\%m\%y)_1 me
+23 10	* * 6,7	root	php /var/www/reporter/app.php polaris.ua_big polaris.ua 1 me
+
+# XML for Polaris
+27 7	* * 1-5	root	php /var/www/reporter/app.php make_xml_stores_v2 1
+57 13 * * 1-5 root	php /var/www/reporter/app.php make_xml_stores_v2 2
+57 11	* * 6,7	root	php /var/www/reporter/app.php make_xml_stores_v2 1
+0 9,12,16,17,18,21	* * *	root	php /var/www/reporter/app.php make_xml_stores_wbclub_cutprice
+
+# POLARIS UA
+27 5	* * 1-5	root	php /var/www/reporter/app.php polaris.ua_big polaris.ua 1 me
+27 7	* * 1-5	root	php /var/www/reporter/app.php polaris.ua_big polaris.ua 1 operator
+13 13 * * 1-5 root	php /var/www/reporter/app.php polaris.ua_big polaris.ua 2 me
+57 13 * * 1-5 root	php /var/www/reporter/app.php polaris.ua_big polaris.ua 2 operator
+15 5	* * 1-5	root	php /var/www/reporter/app.php polaris.ua_universal polaris.ua_common polaris Report_Polaris_UA_$(date +\%d\%m\%y)_1 me
+13 7	* * 1-5	root	php /var/www/reporter/app.php polaris.ua_universal polaris.ua_common polaris Report_Polaris_UA_$(date +\%d\%m\%y)_1 operator
+00 13	* * 1-5	root	php /var/www/reporter/app.php polaris.ua_universal polaris.ua_common polaris Report_Polaris_UA_$(date +\%d\%m\%y)_2 me
+49 13	* * 1-5	root	php /var/www/reporter/app.php polaris.ua_universal polaris.ua_common polaris Report_Polaris_UA_$(date +\%d\%m\%y)_2 operator
+
+50 11	* * 6,7	root	php /var/www/reporter/app.php polaris.ua_universal polaris.ua_common polaris Report_Polaris_UA_$(date +\%d\%m\%y)_1 operator
+00 12	* * 6,7	root	php /var/www/reporter/app.php polaris.ua_universal polaris.ua_common polaris Report_Polaris_UA_$(date +\%d\%m\%y)_2 
+58 11	* * 6,7	root	php /var/www/reporter/app.php polaris.ua_big polaris.ua 1 operator
+
+
+
+
+# POLARIS
+00,05,10,15,20,25,30,35,40,45,50,55 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 cheboksary
+01,06,11,16,21,26,31,36,41,46,51,56 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 chelyabinsk
+01,06,11,16,21,26,31,36,41,46,51,56 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 habarovsk
+01,06,11,16,21,26,31,36,41,46,51,56 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_kazan -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 kazan
+02,07,12,17,22,27,32,37,42,47,52,57 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 krasnodar
+03,08,13,18,23,28,33,38,43,48,53,58 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 krasnoyarsk
+03,08,13,18,23,28,33,38,43,48,53,58 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_moscow -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 moscow
+04,09,14,19,24,29,34,39,44,49,54,59 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_nchelny -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 naberezhnye-chelny
+04,09,14,19,24,29,34,39,44,49,54,59 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_novgorod -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 novgorod
+00,05,10,15,20,25,30,35,40,45,50,55 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 novosibirsk
+00,05,10,15,20,25,30,35,40,45,50,55 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_omsk -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 omsk
+02,07,12,17,22,27,32,37,42,47,52,57 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_rostov -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 rostov
+03,08,13,18,23,28,33,38,43,48,53,58 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_samara -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 samara
+03,08,13,18,23,28,33,38,43,48,53,58 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_spb -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 spb
+04,09,14,19,24,29,34,39,44,49,54,59 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_ufa -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 ufa
+04,09,14,19,24,29,34,39,44,49,54,59 0-7,9,10,11-23 * * 1-5	root	screen -S ozon.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 vladivostok
+00,05,10,15,20,25,30,35,40,45,50,55 0-7,9,10,11-23 * * 1-5	root	sleep 30; screen -S ozon.ru_polaris_volgograd -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 volgograd
+02,07,12,17,22,27,32,37,42,47,52,57 0-7,11-23 * * 1-5	root	sleep 30; screen -S ozon.ru_polaris_yekat -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 yekaterinburg
+
+00,05,10,15,20,25,30,35,40,45,50,55 0-23 * * 6,7	root	screen -S ozon.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 cheboksary
+01,06,11,16,21,26,31,36,41,46,51,56 0-23 * * 6,7	root	screen -S ozon.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 chelyabinsk
+01,06,11,16,21,26,31,36,41,46,51,56 0-23 * * 6,7	root	screen -S ozon.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 habarovsk
+01,06,11,16,21,26,31,36,41,46,51,56 0-23 * * 6,7	root	screen -S ozon.ru_polaris_kazan -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 kazan
+02,07,12,17,22,27,32,37,42,47,52,57 0-23 * * 6,7	root	screen -S ozon.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 krasnodar
+03,08,13,18,23,28,33,38,43,48,53,58 0-23 * * 6,7	root	screen -S ozon.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 krasnoyarsk
+03,08,13,18,23,28,33,38,43,48,53,58 0-23 * * 6,7	root	screen -S ozon.ru_polaris_moscow -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 moscow
+04,09,14,19,24,29,34,39,44,49,54,59 0-23 * * 6,7	root	screen -S ozon.ru_polaris_nchelny -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 naberezhnye-chelny
+04,09,14,19,24,29,34,39,44,49,54,59 0-23 * * 6,7	root	screen -S ozon.ru_polaris_novgorod -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 novgorod
+00,05,10,15,20,25,30,35,40,45,50,55 0-23 * * 6,7	root	screen -S ozon.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 novosibirsk
+00,05,10,15,20,25,30,35,40,45,50,55 0-23 * * 6,7	root	screen -S ozon.ru_polaris_omsk -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 omsk
+02,07,12,17,22,27,32,37,42,47,52,57 0-23 * * 6,7	root	screen -S ozon.ru_polaris_rostov -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 rostov
+03,08,13,18,23,28,33,38,43,48,53,58 0-23 * * 6,7	root	screen -S ozon.ru_polaris_samara -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 samara
+03,08,13,18,23,28,33,38,43,48,53,58 0-23 * * 6,7	root	screen -S ozon.ru_polaris_spb -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 spb
+04,09,14,19,24,29,34,39,44,49,54,59 0-23 * * 6,7	root	screen -S ozon.ru_polaris_ufa -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 ufa
+04,09,14,19,24,29,34,39,44,49,54,59 0-23 * * 6,7	root	screen -S ozon.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 vladivostok
+00,05,10,15,20,25,30,35,40,45,50,55 0-23 * * 6,7	root	sleep 30; screen -S ozon.ru_polaris_volgograd -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 volgograd
+02,07,12,17,22,27,32,37,42,47,52,57 0-23 * * 6,7	root	sleep 30; screen -S ozon.ru_polaris_yekat -d -m php /var/www/polaris/app.php ozon.ru polaris 1 10 yekaterinburg
+
+
+
+#05 4,5,6,7,11,12,13	* * *	root	screen -S auchan.ru_polaris_moscow -d -m php /var/www/polaris/app.php auchan.ru polaris 1 10 moscow
+
+00 3-5,10-13,14,15	* * *	root	screen -S globus.ru_polaris_moscow -d -m php /var/www/polaris/app.php globus.ru polaris 1 10 moscow
+
+00 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 chelyabinsk
+01 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 krasnodar
+02 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 krasnoyarsk
+03 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_moscow -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 moscow
+04 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_novgorod -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 novgorod
+05 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 novosibirsk
+06 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_rostov -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 rostov
+07 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_samara -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 samara
+08 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_spb -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 spb
+09 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_ufa -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 ufa
+10 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_volgograd -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 volgograd
+11 1-5,10-13,14,15	* * *	root	screen -S metro-cc.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php metro-cc.ru polaris 1 10 yekaterinburg
+
+01 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_moscow -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 moscow
+04 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_spb -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 spb
+08 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_rostov -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 rostov
+12 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 yekaterinburg
+16 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 chelyabinsk
+20 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_volgograd -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 volgograd
+24 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_kazan -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 kazan
+28 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_novgorod -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 novgorod
+32 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_samara -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 samara
+36 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 krasnoyarsk
+40 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 krasnodar
+44 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 naberezhnye-chelny
+48 1-5,10-13,14,15	* * *	root	screen -S citilink.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php citilink.ru polaris 1 15 cheboksary
+
+00 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 cheboksary
+02 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_arhangelsk -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 chelyabinsk
+04 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 habarovsk
+06 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_kazan -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 kazan
+08 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 krasnodar
+10 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 krasnoyarsk
+12 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_moscow -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 moscow
+14 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 naberezhnye-chelny
+16 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_novgorod -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 novgorod
+18 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 novosibirsk
+20 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_omsk -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 omsk
+22 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_rostov -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 rostov
+24 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_samara -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 samara
+26 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_spb -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 spb
+28 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_ufa -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 ufa
+30 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 vladivostok
+32 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_volgograd -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 volgograd
+34 4,5,11,13	* * *	root	screen -S kcentr.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php kcentr.ru polaris 1 10 yekaterinburg
+
+*/5 * * * *	root	screen -S dns-shop.ru_polaris_moscow -d -m php /var/www/polaris/app.php dns-shop.ru polaris 13 10 moscow
+#00 01,03,04,10,13,20	* * 1-4	root	screen -S dns-shop.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 15 cheboksary
+#06 01,03,04,10,13,20	* * 1-4	root	screen -S dns-shop.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 chelyabinsk
+#12 01,03,04,10,13,20	* * 1-4	root	screen -S dns-shop.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 15 habarovsk
+#18 01,03,04,10,13,20	* * 1-4	root	screen -S dns-shop.ru_polaris_kazan -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 kazan
+#24 01,03,04,10,13,20	* * 1-4	root	screen -S dns-shop.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 krasnodar
+#30 01,03,04,10,13,20	* * 1-4	root	screen -S dns-shop.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 krasnoyarsk
+#36 01,03,04,10,12,20	* * 1-4	root	screen -S dns-shop.ru_polaris_moscow -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 moscow
+#42 01,03,04,10,12,20	* * 1-4	root	screen -S dns-shop.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 15 naberezhnye-chelny
+#48 01,03,04,10,12,20	* * 1-4	root	screen -S dns-shop.ru_polaris_novgorod -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 novgorod
+#00 00,02,05,11,13,21	* * 1-4	root	screen -S dns-shop.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 novosibirsk
+#07 00,02,05,11,13,21	* * 1-4	root	screen -S dns-shop.ru_polaris_omsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 omsk
+#14 00,02,05,11,13,21	* * 1-4	root	screen -S dns-shop.ru_polaris_rostov -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 rostov
+#45 00,04,05,11,12,21	* * 1-4	root	screen -S dns-shop.ru_polaris_samara -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 samara
+#48 00,04,05,11,12,21	* * 1-4	root	screen -S dns-shop.ru_polaris_spb -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 spb
+#35 00,04,05,11,12,21	* * 1-4	root	screen -S dns-shop.ru_polaris_ufa -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 ufa
+#42 00,04,05,11,12,21	* * 1-4	root	screen -S dns-shop.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 vladivostok
+#49 00,04,05,11,12,21	* * 1-4	root	screen -S dns-shop.ru_polaris_volgograd -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 volgograd
+#57 00,04,05,11,12,21	* * 1-4	root	screen -S dns-shop.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 yekaterinburg
+
+#00 01,03,10,12	* * 5	root	screen -S dns-shop.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 15 cheboksary
+#06 01,03,10,12	* * 5	root	screen -S dns-shop.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 chelyabinsk
+#12 01,03,10,12	* * 5	root	screen -S dns-shop.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 15 habarovsk
+#18 01,03,10,12	* * 5	root	screen -S dns-shop.ru_polaris_kazan -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 kazan
+#24 01,03,10,12	* * 5	root	screen -S dns-shop.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 krasnodar
+#30 01,03,10,12	* * 5	root	screen -S dns-shop.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 krasnoyarsk
+#36 01,03,10,12	* * 5	root	screen -S dns-shop.ru_polaris_moscow -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 moscow
+#42 01,03,10,12	* * 5	root	screen -S dns-shop.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 15 naberezhnye-chelny
+#48 01,03,10,12	* * 5	root	screen -S dns-shop.ru_polaris_novgorod -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 novgorod
+#00 00,02,11,13	* * 5	root	screen -S dns-shop.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 novosibirsk
+#07 00,02,11,13	* * 5	root	screen -S dns-shop.ru_polaris_omsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 omsk
+#14 00,02,11,13	* * 5	root	screen -S dns-shop.ru_polaris_rostov -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 rostov
+#45 00,04,11,13	* * 5	root	screen -S dns-shop.ru_polaris_samara -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 samara
+#48 00,04,11,13	* * 5	root	screen -S dns-shop.ru_polaris_spb -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 spb
+#35 00,04,11,13	* * 5	root	screen -S dns-shop.ru_polaris_ufa -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 ufa
+#42 00,04,11,13	* * 5	root	screen -S dns-shop.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 vladivostok
+#49 00,04,11,13	* * 5	root	screen -S dns-shop.ru_polaris_volgograd -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 volgograd
+#57 00,04,11,13	* * 5	root	screen -S dns-shop.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 yekaterinburg
+
+#00 06,08	* * 6,7	root	screen -S dns-shop.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 15 cheboksary
+#06 06,08	* * 6,7	root	screen -S dns-shop.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 chelyabinsk
+#12 06,08	* * 6,7	root	screen -S dns-shop.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 habarovsk
+#18 06,08	* * 6,7	root	screen -S dns-shop.ru_polaris_kazan -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 kazan
+#24 06,08	* * 6,7	root	screen -S dns-shop.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 krasnodar
+#30 06,08	* * 6,7	root	screen -S dns-shop.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 krasnoyarsk
+#36 06,08	* * 6,7	root	screen -S dns-shop.ru_polaris_moscow -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 moscow
+#42 06,08	* * 6,7	root	screen -S dns-shop.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 15 naberezhnye-chelny
+#48 06,08	* * 6,7	root	screen -S dns-shop.ru_polaris_novgorod -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 novgorod
+#00 07,09	* * 6,7	root	screen -S dns-shop.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 novosibirsk
+#07 07,09	* * 6,7	root	screen -S dns-shop.ru_polaris_omsk -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 omsk
+#14 07,09	* * 6,7	root	screen -S dns-shop.ru_polaris_rostov -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 rostov
+#21 07,09	* * 6,7	root	screen -S dns-shop.ru_polaris_samara -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 samara
+#28 07,09	* * 6,7	root	screen -S dns-shop.ru_polaris_spb -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 spb
+#35 07,09	* * 6,7	root	screen -S dns-shop.ru_polaris_ufa -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 ufa
+#42 07,09	* * 6,7	root	screen -S dns-shop.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 vladivostok
+#48 07,09	* * 6,7	root	screen -S dns-shop.ru_polaris_volgograd -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 volgograd
+#57 07,09	* * 6,7	root	screen -S dns-shop.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php dns-shop.ru polaris 1 10 yekaterinburg
+
+
+#1 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 yekaterinburg
+#3 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 novosibirsk
+#5 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 chelyabinsk
+#7 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_rostov -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 rostov
+#9 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_omsk -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 omsk
+#11 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_kazan -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 kazan
+#13 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 krasnoyarsk
+#15 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 vladivostok
+#17 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 habarovsk
+#19 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 naberezhnye-chelny
+#21 1,2,4,10,11,12,13	* * *	root	screen -S technopoint.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php technopoint.ru polaris 1 10 cheboksary
+
+
+01 5,11	* * *	root	screen -S mvideo.ru_polaris_moscow -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 moscow
+51 5,11	* * *	root	screen -S mvideo.ru_polaris_spb -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 spb
+#05 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_rostov -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 rostov
+#07 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 novosibirsk
+#09 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 yekaterinburg
+#11 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 chelyabinsk
+#13 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_volgograd -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 volgograd
+#17 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_kazan -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 kazan
+#19 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_novgorod -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 novgorod
+#21 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_omsk -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 omsk
+#23 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_samara -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 samara
+#25 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_ufa -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 ufa
+#27 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 krasnoyarsk
+#29 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 krasnodar
+#31 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 vladivostok
+#33 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 habarovsk
+#41 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 naberezhnye-chelny
+#43 0-5,10-12	* * *	root	screen -S mvideo.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php mvideo.ru polaris 1 10 cheboksary
+
+01 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_moscow -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 moscow
+02 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_spb -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 spb
+03 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_rostov -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 rostov
+04 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 novosibirsk
+05 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 yekaterinburg
+06 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 chelyabinsk
+07 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_volgograd -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 volgograd
+09 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_kazan -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 kazan
+10 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_novgorod -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 novgorod
+11 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_omsk -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 omsk
+12 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_samara -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 samara
+13 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_ufa -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 ufa
+14 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 krasnoyarsk
+15 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 krasnodar
+17 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 vladivostok
+18 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 habarovsk
+21 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 naberezhnye-chelny
+22 1-5,10-13,14,15	* * *	root	screen -S eldorado.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php eldorado.ru polaris 1 10 cheboksary
+
+04 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_moscow -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 moscow
+05 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 novosibirsk
+06 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 yekaterinburg
+07 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 chelyabinsk
+08 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_volgograd -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 volgograd
+09 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_novgorod -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 novgorod
+10 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_omsk -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 omsk
+11 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_samara -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 samara
+12 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_ufa -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 ufa
+13 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 krasnoyarsk
+14 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 krasnodar
+15 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 vladivostok
+16 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 habarovsk
+17 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 naberezhnye-chelny
+18 1-5,10-13,14,15	* * *	root	screen -S technopark.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php technopark.ru polaris 1 10 cheboksary
+
+04 1-5,10-13,14,15	* * *	root	screen -S domotekhnika.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php domotekhnika.ru polaris 1 10 vladivostok
+08 1-5,10-13,14,15	* * *	root	screen -S domotekhnika.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php domotekhnika.ru polaris 1 10 habarovsk
+
+07 1-5,10-13,14,15	* * *	root	screen -S elex.ru_polaris_moscow -d -m php /var/www/polaris/app.php elex.ru polaris 1 10 moscow
+
+08 1-5,10-13,14,15,21,23	* * *	root	screen -S komus.ru_polaris_moscow -d -m php /var/www/polaris/app.php komus.ru polaris 1 10 moscow
+10 1-5,10-13,14,15,21,23	* * *	root	screen -S komus.ru_polaris_spb -d -m php /var/www/polaris/app.php komus.ru polaris 1 10 spb
+12 1-5,10-13,14,15,21,23	* * *	root	screen -S komus.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php komus.ru polaris 1 10 cheboksary
+
+05 1-5,10-13,14,15	* * *	root	screen -S nkteh.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php nkteh.ru polaris 1 10 habarovsk
+47 1-5,10-13,14,15	* * *	root	screen -S nkteh.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php nk.ru polaris 1 10 habarovsk
+
+30 1-5,10-13,14,15	* * *	root	screen -S maxidom.ru_polaris_moscow -d -m php /var/www/polaris/app.php maxidom.ru polaris 1 10 moscow
+35 1-5,10-13,14,15	* * *	root	screen -S maxidom.ru_polaris_spb -d -m php /var/www/polaris/app.php maxidom.ru polaris 1 10 spb
+40 1-5,10-13,14,15	* * *	root	screen -S maxidom.ru_polaris_novgorod -d -m php /var/www/polaris/app.php maxidom.ru polaris 1 10 novgorod
+45 1-5,10-13,14,15	* * *	root	screen -S maxidom.ru_polaris_kazan -d -m php /var/www/polaris/app.php maxidom.ru polaris 1 10 kazan
+50 1-5,10-13,14,15	* * *	root	screen -S maxidom.ru_polaris_samara -d -m php /var/www/polaris/app.php maxidom.ru polaris 1 10 samara
+10 1-5,10-13,14,15	* * *	root	screen -S maxidom.ru_polaris_ufa -d -m php /var/www/polaris/app.php maxidom.ru polaris 1 10 ufa
+00 1-5,10-13,14,15	* * *	root	screen -S maxidom.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php maxidom.ru polaris 1 10 yekaterinburg
+
+01,12,40,49 4-17	* * 1-5	root	screen -S shop-polaris.ru_polaris_moscow -d -m php /var/www/polaris/app.php shop-polaris.ru polaris 1 10 moscow
+30 8,10	* * 6,7	root	screen -S shop-polaris.ru_polaris_moscow -d -m php /var/www/polaris/app.php shop-polaris.ru polaris 1 10 moscow
+
+08 1-5,9-13	* * *	root	screen -S ru.aliexpress.com_polaris_moscow -d -m php /var/www/polaris/app.php ru.aliexpress.com polaris 1 15 moscow
+
+30 13	* * *	root	screen -S wildberries.ru_polaris_moscow -d -m php /var/www/polaris/app.php wildberries.ru polaris 2 10 moscow
+25 13	* * *	root	screen -S wildberries.ru_polaris_moscow -d -m php /var/www/polaris/app.php wildberries.ru polaris 13 10 moscow
+55 0,7,10,14,19	* * *	root	screen -S wildberries.ru_polaris_moscow -d -m php /var/www/polaris/app.php wildberries.ru polaris 2 10 moscow
+50 0,7,10,14,15,19	* * *	root	screen -S wildberries.ru_polaris_moscow -d -m php /var/www/polaris/app.php wildberries.ru polaris 13 10 moscow
+55 0,7,14,15,19	* * *	root	screen -S wildberries.ru_polaris_moscow -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 moscow
+58 0,7,14,15,19	* * *	root	screen -S wildberries.ru_polaris_moscow -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 moscow
+0 0,8,15,20	* * *	root	php /var/www/polaris/engines/wildberries.ru/wildberries.ru.profile.php
+
+
+30 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_moscow -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 moscow
+30 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_spb -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 spb
+30 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_novgorod -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 novgorod
+30 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 novosibirsk
+30 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 vladivostok
+31 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 15 habarovsk
+31 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_samara -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 samara
+31 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_kazan -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 kazan
+31 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 yekaterinburg
+31 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_rostov -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 rostov
+31 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 krasnoyarsk
+32 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 chelyabinsk
+32 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_volgograd -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 volgograd
+32 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_ufa -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 ufa
+32 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 krasnodar
+32 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_omsk -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 omsk
+32 6,10,11,13,15,16	* * *	root	screen -S wildberries.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php wildberries.ru polaris 1 10 naberezhnye-chelny
+
+
+05 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 cheboksary
+04 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 chelyabinsk
+06 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php beru.ru polaris 1 15 habarovsk
+07 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_kazan -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 kazan
+08 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 krasnodar
+09 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 krasnoyarsk
+10 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_moscow -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 moscow
+11 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 naberezhnye-chelny
+12 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_novgorod -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 novgorod
+13 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 novosibirsk
+14 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_omsk -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 omsk
+15 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_rostov -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 rostov
+16 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_samara -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 samara
+17 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_spb -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 spb
+18 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_ufa -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 ufa
+19 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 vladivostok
+20 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_volgograd -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 volgograd
+21 5-6,11-13	* * 1-5	root	screen -S beru.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 yekaterinburg
+
+0 9,10	* * 6,7	root	screen -S beru.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 chelyabinsk
+3 9,10	* * 6,7	root	screen -S beru.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 cheboksary
+6 9,10	* * 6,7	root	screen -S beru.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php beru.ru polaris 1 15 habarovsk
+9 9,10	* * 6,7	root	screen -S beru.ru_polaris_kazan -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 kazan
+12 9,10	* * 6,7	root	screen -S beru.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 krasnodar
+15 9,10	* * 6,7	root	screen -S beru.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 krasnoyarsk
+18 9,10	* * 6,7	root	screen -S beru.ru_polaris_moscow -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 moscow
+21 9,10	* * 6,7	root	screen -S beru.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 naberezhnye-chelny
+24 9,10	* * 6,7	root	screen -S beru.ru_polaris_novgorod -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 novgorod
+27 9,10	* * 6,7	root	screen -S beru.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 novosibirsk
+30 9,10	* * 6,7	root	screen -S beru.ru_polaris_omsk -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 omsk
+33 9,10	* * 6,7	root	screen -S beru.ru_polaris_rostov -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 rostov
+36 9,10	* * 6,7	root	screen -S beru.ru_polaris_samara -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 samara
+39 9,10	* * 6,7	root	screen -S beru.ru_polaris_spb -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 spb
+42 9,10	* * 6,7	root	screen -S beru.ru_polaris_ufa -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 ufa
+45 9,10	* * 6,7	root	screen -S beru.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 vladivostok
+48 9,10	* * 6,7	root	screen -S beru.ru_polaris_volgograd -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 volgograd
+51 9,10	* * 6,7	root	screen -S beru.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php beru.ru polaris 1 10 yekaterinburg
+
+
+
+05 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_moscow -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 moscow
+06 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_spb -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 spb
+07 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_rostov -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 rostov
+08 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 novosibirsk
+09 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 yekaterinburg
+10 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 chelyabinsk
+11 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_volgograd -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 volgograd
+12 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_kazan -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 kazan
+13 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_novgorod -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 novgorod
+14 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_omsk -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 omsk
+15 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_samara -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 samara
+16 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_ufa -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 ufa
+17 1-5,10-13,14,15	* * *	root	screen -S holodilnik.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php holodilnik.ru polaris 1 10 krasnodar
+
+
+05 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_moscow -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 moscow
+09 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_spb -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 spb
+21 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_chelyabinsk -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 chelyabinsk
+14 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_kazan -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 kazan
+11 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_krasnodar -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 krasnodar
+11 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 krasnoyarsk
+19 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_novgorod -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 novgorod
+17 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_novosibirsk -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 novosibirsk
+11 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_omsk -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 omsk
+13 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_rostov -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 rostov
+14 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_samara -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 samara
+18 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_ufa -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 ufa
+18 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_volgograd -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 volgograd
+20 1-5,10-13,14,15	* * *	root	screen -S lenta.com_polaris_yekaterinburg -d -m php /var/www/polaris/app.php lenta.com polaris 1 10 yekaterinburg
+
+01 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_moscow -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 moscow
+02 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_spb -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 spb
+03 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_rostov -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 rostov
+04 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 novosibirsk
+05 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 yekaterinburg
+06 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 chelyabinsk
+07 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_volgograd -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 volgograd
+09 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_kazan -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 kazan
+10 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_novgorod -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 novgorod
+11 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_omsk -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 omsk
+12 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_samara -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 samara
+13 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_ufa -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 ufa
+14 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 krasnoyarsk
+15 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 krasnodar
+17 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 vladivostok
+18 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 habarovsk
+21 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 naberezhnye-chelny
+22 5-7,11-13	* * *	root	screen -S sbermegamarket.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php sbermegamarket.ru polaris 1 10 cheboksary
+
+08 2-5,10-13,14,15	* * *	root	screen -S technohit.ru_polaris_moscow -d -m php /var/www/polaris/app.php technohit.ru polaris 1 10 moscow
+10 2-5,10-13,14,15	* * *	root	screen -S technohit.ru_polaris_spb -d -m php /var/www/polaris/app.php technohit.ru polaris 1 10 spb
+
+1 2-5,10-13,14,15,18	* * *	root	screen -S elmall.ru_polaris_moscow -d -m php /var/www/polaris/app.php elmall.ru polaris 1 10 moscow
+2 2-5,10-13,14,15,18	* * *	root	screen -S elmall.ru_polaris_spb -d -m php /var/www/polaris/app.php elmall.ru polaris 1 10 spb
+4 2-5,10-13,14,15,18	* * *	root	screen -S elmall.ru_polaris_kazan -d -m php /var/www/polaris/app.php elmall.ru polaris 1 10 kazan
+5 2-5,10-13,14,15,18	* * *	root	screen -S elmall.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php elmall.ru polaris 1 10 krasnodar
+6 2-5,10-13,14,15,18	* * *	root	screen -S elmall.ru_polaris_novgorod -d -m php /var/www/polaris/app.php elmall.ru polaris 1 10 novgorod
+8 2-5,10-13,14,15,18	* * *	root	screen -S elmall.ru_polaris_rostov -d -m php /var/www/polaris/app.php elmall.ru polaris 1 10 rostov
+9 2-5,10-13,14,15,18	* * *	root	screen -S elmall.ru_polaris_samara -d -m php /var/www/polaris/app.php elmall.ru polaris 1 10 samara
+10 2-5,10-13,14,15,18	* * *	root	screen -S elmall.ru_polaris_ufa -d -m php /var/www/polaris/app.php elmall.ru polaris 1 10 ufa
+11 2-5,10-13,14,15,18	* * *	root	screen -S elmall.ru_polaris_volgograd -d -m php /var/www/polaris/app.php elmall.ru polaris 1 10 volgograd
+12 2-5,10-13,14,15,18	* * *	root	screen -S elmall.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php elmall.ru polaris 1 10 yekaterinburg
+
+1 2-5,10-13,14,15	* * *	root	screen -S technostor.ru_polaris_moscow -d -m php /var/www/polaris/app.php technostor.ru polaris 1 10 moscow
+
+1 2-5,10-13,14,15	* * *	root	screen -S unixmart.ru_polaris_moscow -d -m php /var/www/polaris/app.php unixmart.ru polaris 1 10 moscow
+
+15 3-5,10-13,14,15	* * *	root	screen -S vstroyka-solo.ru_polaris_moscow -d -m php /var/www/polaris/app.php vstroyka-solo.ru polaris 1 10 moscow
+
+1 2-5,10-13,14,15	* * *	root	screen -S azbuka-techniki.ru_polaris_moscow -d -m php /var/www/polaris/app.php azbuka-techniki.ru polaris 1 10 moscow
+2 2-5,10-13,14,15	* * *	root	screen -S azbuka-techniki.ru_polaris_spb -d -m php /var/www/polaris/app.php azbuka-techniki.ru polaris 1 10 spb
+3 2-5,10-13,14,15	* * *	root	screen -S azbuka-techniki.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php azbuka-techniki.ru polaris 1 10 krasnodar
+5 2-5,10-13,14,15	* * *	root	screen -S azbuka-techniki.ru_polaris_kazan -d -m php /var/www/polaris/app.php azbuka-techniki.ru polaris 1 10 kazan
+6 2-5,10-13,14,15	* * *	root	screen -S azbuka-techniki.ru_polaris_novgorod -d -m php /var/www/polaris/app.php azbuka-techniki.ru polaris 1 10 novgorod
+8 2-5,10-13,14,15	* * *	root	screen -S azbuka-techniki.ru_polaris_rostov -d -m php /var/www/polaris/app.php azbuka-techniki.ru polaris 1 10 rostov
+12 2-5,10-13,14,15	* * *	root	screen -S azbuka-techniki.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php azbuka-techniki.ru polaris 1 10 yekaterinburg
+
+1 1-5,10-13,14,15	* * *	root	screen -S elecity.ru_polaris_moscow -d -m php /var/www/polaris/app.php elecity.ru polaris 1 10 moscow
+2 1-5,10-13,14,15	* * *	root	screen -S elecity.ru_polaris_spb -d -m php /var/www/polaris/app.php elecity.ru polaris 1 10 spb
+6 1-5,10-13,14,15	* * *	root	screen -S elecity.ru_polaris_novgorod -d -m php /var/www/polaris/app.php elecity.ru polaris 1 10 novgorod
+
+1 1-5,10-13,14,15	* * *	root	screen -S energoboom.ru_polaris_moscow -d -m php /var/www/polaris/app.php energoboom.ru polaris 1 10 moscow
+2 1-5,10-13,14,15	* * *	root	screen -S energoboom.ru_polaris_moscow -d -m php /var/www/polaris/app.php energoboom.ru polaris 1 10 novosibirsk
+3 1-5,10-13,14,15	* * *	root	screen -S energoboom.ru_polaris_moscow -d -m php /var/www/polaris/app.php energoboom.ru polaris 1 10 krasnoyarsk
+4 1-5,10-13,14,15	* * *	root	screen -S energoboom.ru_polaris_moscow -d -m php /var/www/polaris/app.php energoboom.ru polaris 1 10 yekaterinburg
+
+1 1-5,10-13,14,15	* * *	root	screen -S grandtechno.ru_polaris_moscow -d -m php /var/www/polaris/app.php grandtechno.ru polaris 1 10 moscow
+2 1-5,10-13,14,15	* * *	root	screen -S grandtechno.ru_polaris_spb -d -m php /var/www/polaris/app.php grandtechno.ru polaris 1 10 spb
+6 1-5,10-13,14,15	* * *	root	screen -S grandtechno.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php grandtechno.ru polaris 1 10 krasnodar
+7 1-5,10-13,14,15	* * *	root	screen -S grandtechno.ru_polaris_rostov -d -m php /var/www/polaris/app.php grandtechno.ru polaris 1 10 rostov
+
+1 3-5,10-13,14,15	* * *	root	screen -S technoluxe.ru_polaris_moscow -d -m php /var/www/polaris/app.php technoluxe.ru polaris 1 10 moscow
+
+1 3-5,10-13,14,15	* * *	root	screen -S topcomputer.ru_polaris_moscow -d -m php /var/www/polaris/app.php topcomputer.ru polaris 1 10 moscow
+
+1 3-5,10-13,14,15	* * *	root	screen -S timetv.ru_polaris_moscow -d -m php /var/www/polaris/app.php timetv.ru polaris 1 10 moscow
+2 3-5,10-13,14,15	* * *	root	screen -S timetv.ru_polaris_spb -d -m php /var/www/polaris/app.php timetv.ru polaris 1 10 spb
+4 3-5,10-13,14,15	* * *	root	screen -S timetv.ru_polaris_kazan -d -m php /var/www/polaris/app.php timetv.ru polaris 1 10 kazan
+#5 3-5,10-13,14,15	* * *	root	screen -S timetv.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php timetv.ru polaris 1 10 krasnodar
+#6 3-5,10-13,14,15	* * *	root	screen -S timetv.ru_polaris_novgorod -d -m php /var/www/polaris/app.php timetv.ru polaris 1 10 novgorod
+#14 3-5,10-13,14,15	* * *	root	screen -S timetv.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php timetv.ru polaris 1 10 yekaterinburg
+
+
+10 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_moscow -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 moscow
+11 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_spb -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 spb
+12 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_novgorod -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 novgorod
+13 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 novosibirsk
+14 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 vladivostok
+15 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php techport.ru polaris 1 15 habarovsk
+16 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_samara -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 samara
+17 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_kazan -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 kazan
+18 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 yekaterinburg
+19 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_rostov -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 rostov
+20 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 krasnoyarsk
+21 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 chelyabinsk
+22 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_volgograd -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 volgograd
+23 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_ufa -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 ufa
+24 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 krasnodar
+25 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_omsk -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 omsk
+26 4,5,10-13,14,15	* * *	root	screen -S techport.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php techport.ru polaris 1 10 naberezhnye-chelny
+
+07 5,11,12,13,20 * * *	root	screen -S positronica.ru_polaris_moscow -d -m php /var/www/polaris/app.php positronica.ru polaris 13 10 moscow
+#24 4,5,12 * * *	root	screen -S positronica.ru_polaris_spb -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 spb
+
+#00 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_arhangelsk -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 arhangelsk
+#02 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_cheboksary -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 cheboksary
+#04 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_chelyabinsk -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 chelyabinsk
+#06 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_habarovsk -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 habarovsk
+#08 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_kazan -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 kazan
+#10 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_krasnodar -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 krasnodar
+#12 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_krasnoyarsk -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 krasnoyarsk
+#14 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_moscow -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 moscow
+#16 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_naberezhnye-chelny -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 naberezhnye-chelny
+#18 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_novgorod -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 novgorod
+#20 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_novosibirsk -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 novosibirsk
+#22 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_omsk -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 omsk
+#24 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_perm -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 perm
+#26 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_petrozavodsk -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 petrozavodsk
+#28 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_pyatigorsk -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 pyatigorsk
+#30 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_rostov -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 rostov
+#32 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_samara -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 samara
+#36 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_ufa -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 ufa
+#38 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_vladivostok -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 vladivostok
+#40 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_volgograd -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 volgograd
+#42 4,5,10-12 * * *	root	screen -S positronica.ru_polaris_yekaterinburg -d -m php /var/www/polaris/app.php positronica.ru polaris 1 10 yekaterinburg
+
+
+
+# POLARIS UA
+
+#00,15,30,45 * * * *	root	screen -S comfy.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php comfy.ua polaris 1 10 kiev
+15 1-5,10-12 * * 1-5	root	screen -S eldorado.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php eldorado.ua polaris 1 10 kiev
+20 1-5,10-12 * * 1-5	root	screen -S epicentrk.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php epicentrk.ua polaris 1 10 kiev
+00,05,10,15,20,25,30,35,40,45,50,55 * * * *	root	screen -S foxtrot.com.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php foxtrot.com.ua polaris 1 10 kiev
+14 0-5,10-12 * * 1-5	root	screen -S polaris-shop.com.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php polaris-shop.com.ua polaris 1 10 kiev
+14 1-5,10-12 * * 1-5	root	screen -S rozetka.com.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php rozetka.com.ua polaris 1 10 kiev
+
+#12 6-10 * * 6,7	root	screen -S comfy.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php comfy.ua polaris 1 10 kiev
+15 6-10 * * 6,7	root	screen -S eldorado.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php eldorado.ua polaris 1 10 kiev
+20 6-10 * * 6,7	root	screen -S epicentrk.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php epicentrk.ua polaris 1 10 kiev
+14 6-10 * * 6,7	root	screen -S polaris-shop.com.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php polaris-shop.com.ua polaris 1 10 kiev
+30 6-10 * * 6,7	root	screen -S rozetka.com.ua_polaris.ua_kiev  -d -m php /var/www/polaris.ua/app.php rozetka.com.ua polaris 1 10 kiev

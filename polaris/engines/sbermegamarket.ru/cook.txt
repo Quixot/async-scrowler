@@ -1,0 +1,59 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.sbermegamarket.ru	TRUE	/	TRUE	1665050745	visid_incap_2641526	lVtGUpvATL6G7D8lQSx0bGC2XmEAAAAAQUIPAAAAAABWULYwJfIFHSpCNlekaQD3
+.sbermegamarket.ru	TRUE	/	TRUE	1665050745	visid_incap_2641523	Cvz/eLygR3+xGhai0EEQYGC2XmEAAAAAQUIPAAAAAACGvrgyZWzdFNigzdLzOljO
+.sbermegamarket.ru	TRUE	/	TRUE	1664701027	analytics_session_id	cd09446d-cd64-42cc-996b-cd4445976ae8
+.sbermegamarket.ru	TRUE	/	TRUE	1696669030	adspire_uid	AS.1252375377.1633597030
+sbermegamarket.ru	FALSE	/	TRUE	4105029600	KFP_DID	684e0684-a041-3d0c-902a-7aecc544f359
+.sbermegamarket.ru	TRUE	/	FALSE	1641373032	_gcl_au	1.1.1592831476.1633597032
+.sbermegamarket.ru	TRUE	/	FALSE	1696669034	uxs_uid	90e49520-274c-11ec-94d2-43516eee1be4
+.sbermegamarket.ru	TRUE	/	TRUE	1636189034	user-id_1.0.5_lr_lruid	pQ8AAGu2XmHeMNDOATbqugA%3D
+sbermegamarket.ru	FALSE	/	FALSE	1662368236	flocktory-uuid	79c2bb2b-b46b-4c91-93d8-63845f281278-5
+.sbermegamarket.ru	TRUE	/	FALSE	1665133043	_ym_uid	1633597043913337592
+.sbermegamarket.ru	TRUE	/	FALSE	1665133043	_ym_d	1633597043
+.sbermegamarket.ru	TRUE	/	TRUE	1664704372	goodsUserProfile	false
+sbermegamarket.ru	FALSE	/	FALSE	1634379550	PHPSESSID	18jf3u45ssilto4mk3ujncsrbl
+.sbermegamarket.ru	TRUE	/	TRUE	2524597202	goodsLoyaltyCardNumber	unknown
+.sbermegamarket.ru	TRUE	/	FALSE	1634120418	_gat_gtag_UA_89387429_5	1
+.sbermegamarket.ru	TRUE	/	FALSE	1634120418	_dc_gtm_UA-89387429-1	1
+.sbermegamarket.ru	TRUE	/	FALSE	1634120418	_gat_UA-89387429-4	1
+.sbermegamarket.ru	TRUE	/	FALSE	1634120419	_gat	1
+.sbermegamarket.ru	TRUE	/	FALSE	1665224361	_gpVisits	{"isFirstVisitDomain":true,"todayD":"Wed%20Oct%2013%202021","idContainer":"10002472"}
+.sbermegamarket.ru	TRUE	/	FALSE	1634192366	_ym_isad	2
+sbermegamarket.ru	FALSE	/	FALSE	1634206771	tmr_detect	0%7C1634120371750
+.sbermegamarket.ru	TRUE	/	FALSE	1641896377	_fbp	fb.1.1633597043732.291490951
+.sbermegamarket.ru	TRUE	/	TRUE	1665224377	region_info	%7B%22displayName%22%3A%22%D0%A7%D1%83%D0%B2%D0%B0%D1%88%D1%81%D0%BA%D0%B0%D1%8F%20%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B0%22%2C%22kladrId%22%3A%222100000000000%22%2C%22isDeliveryEnabled%22%3Atrue%2C%22geo%22%3A%7B%22lat%22%3A56.135926%2C%22lon%22%3A47.235344%7D%2C%22id%22%3A%2221%22%2C%22domain%22%3A%22%22%2C%22subfolder%22%3A%22%22%7D
+.sbermegamarket.ru	TRUE	/	TRUE	1634206777	region_id	21
+.sbermegamarket.ru	TRUE	/	TRUE	1634206777	region_lat	56.135926
+.sbermegamarket.ru	TRUE	/	TRUE	1634206777	region_lon	47.235344
+.sbermegamarket.ru	TRUE	/	TRUE	2524597202	goods_user_token	cc60e323-77a1-44d1-aeb5-19034c3ce48d
+.sbermegamarket.ru	TRUE	/	TRUE	1949480379	hasAccount	0
+.sbermegamarket.ru	TRUE	/	FALSE	1634120390	rr-testCookie	testvalue
+.sbermegamarket.ru	TRUE	/	FALSE	1665656380	rrpvid	889891790473543
+.sbermegamarket.ru	TRUE	/	FALSE	1665656383	ssaid	8ee71770-274c-11ec-8d25-bb3c7851db39
+.sbermegamarket.ru	TRUE	/	TRUE	1634123985	__exponea_time2__	-1.15144944190979
+.sbermegamarket.ru	TRUE	/	FALSE	1634206785	_gid	GA1.2.497963385.1634120358
+.sbermegamarket.ru	TRUE	/	FALSE	1697192385	_ga_W49D2LL5S1	GS1.1.1634120356.2.1.1634120383.33
+.sbermegamarket.ru	TRUE	/	FALSE	1697192385	_ga_7H4Y87EYV1	GS1.1.1634120356.2.1.1634120383.0
+.sbermegamarket.ru	TRUE	/	FALSE	1697192385	_ga	GA1.2.1710812889.1633597033
+.sbermegamarket.ru	TRUE	/	FALSE	1665656388	rcuid	615eb66ad55af2000115eb9d
+.sbermegamarket.ru	TRUE	/	FALSE	0	__tld__	null
+sbermegamarket.ru	FALSE	/	TRUE	1634122189	oxxfgh	2c6bd332-5975-4217-9b94-35b82f0bbbcd#0#1800000#5000#1800000
+.sbermegamarket.ru	TRUE	/	FALSE	1634206789	_gp10002472	{"vc":1,"hits":2}
+.sbermegamarket.ru	TRUE	/	FALSE	1634122189	_ym_visorc	b
+.sbermegamarket.ru	TRUE	/	TRUE	1728728389	__exponea_etc__	95f4e7a3-0ea1-47f7-a0c3-1c5c56ba107c
+.sbermegamarket.ru	TRUE	/	FALSE	1662891589	tmr_lvid	e3310facbc88c0a1c6f6259e0061fc34
+.sbermegamarket.ru	TRUE	/	FALSE	1662891589	tmr_lvidTS	1633597037725
+.sbermegamarket.ru	TRUE	/	FALSE	1665656389	top100_id	t1.6795753.1851648757.1633597034679
+.sbermegamarket.ru	TRUE	/	FALSE	1720520389	last_visit	1634109589908::1634120389908
+.sbermegamarket.ru	TRUE	/	TRUE	1665656389	adtech_uid	3baaa0c4-7b10-4313-a5eb-6c087534e440%3Asbermegamarket.ru
+.sbermegamarket.ru	TRUE	/	FALSE	1665656389	t1_sid_6795753	s1.1410263237.1634120367583.1634120389916.2.3.10
+.sbermegamarket.ru	TRUE	/	FALSE	1662891589	tmr_reqNum	145
+.sbermegamarket.ru	TRUE	/	FALSE	1668284390	cto_bundle	XlrGDF9TdVAzVE12STRkNGk1WTFKbVREMzc4dGJDc2xTV3Q1RXhiVkZMbllaSW9jaVI3d1VXN0xmd2pRTDdLbkFTcW1IakVDSkhaV1hJUjBTdVJuMEFrNGR3R3R0TnpDNnRLY0l4dFFremNONjZ3Tm1yZDNacHFCQXc3TnZaMWNOVW83NWVPb0ljZWZLa0FtSHBlTGhYeTNLYWclM0QlM0Q
+

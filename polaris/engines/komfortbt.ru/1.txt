@@ -1,0 +1,1025 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Интернет магазин бытовой техники и электроники | KomfortBT.ru</title>
+	<meta name="robots" content="index,follow" />	<meta name="keywords" content="Интернет магазин  бытовая техника выбрать купить москва санкт петербург" />
+	<meta name="description" content="Интернет магазин бытовой техники | Выбрать и купить бытовую технику" />
+	<meta http-equiv="Last-Modified" content="Tue, 04 Jul 2017 06:15:47 GMT" />
+	
+	<meta property="og:title" content="Интернет магазин бытовой техники и электроники | KomfortBT.ru">
+	<meta property="og:type" content="website">
+	<meta property="og:site_name" content="Интернет-магазин KomfortBT.ru">
+	<meta property="og:image" content="//www.komfortbt.ru/style/2017/img/favicon.png">
+	<meta property="og:url" content="https://www.komfortbt.ru/search/">
+	<meta property="og:description" content="Интернет магазин бытовой техники | Выбрать и купить бытовую технику">	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="/style/2017/webfont-rouble/rouble_style.css?1484652966">
+	<link rel="stylesheet" href="/style/2017/fontawesome/css/font-awesome.min.css?1484652936">
+	<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700&amp;subset=cyrillic" rel="stylesheet">
+	<link rel="stylesheet" href="/style/2017/bootstrap.css?1497429938">
+	<link rel="stylesheet" href="/style/2017/owl.css?1484652936">
+	<link rel="stylesheet" href="/style/2017/styles.css?1499057379">
+	<link rel="stylesheet" href="/style/2017/nouislider.css?1484652934">
+	<link rel="stylesheet" href="/style/2017/scrollbar.css?1484652936">
+	<link rel="stylesheet" href="/style/2017/rating.css?1484652936">
+	<link rel="stylesheet" href="/style/2017/modal.css?1498890199">
+	<link rel="stylesheet" href="/style/2017/jquery.ui.css?1498830778">
+	<link rel="stylesheet" href="/style/2017/search.css?1498830774">
+	<link rel="stylesheet" href="/style/2017/desktop.css?1497747380">
+	<link rel="icon" type="image/png" href="/style/2017/img/favicon.png" sizes="100x100">
+
+<script type="text/javascript">
+dataLayer = [];
+dataLayer.push({"ecomm_pagetype":"searchresults"});
+
+var aProducts = [
+{'name': 'Увлажнители воздуха Vitek VT-1764', 'url': 'https://www.komfortbt.ru/climatics/humidifiers/vitek/vt_1764/', 'id': '4021', 'price': '6310', 'brand': 'Vitek', 'category': 'Климатическая техника / Увлажнители воздуха', 'variant': 'В наличии', 'list': 'Поиск', 'position': 1},
+{'name': 'Увлажнители воздуха Vitek VT-1767', 'url': 'https://www.komfortbt.ru/climatics/humidifiers/vitek/vt_1767/', 'id': '4025', 'price': '6120', 'brand': 'Vitek', 'category': 'Климатическая техника / Увлажнители воздуха', 'variant': 'В наличии', 'list': 'Поиск', 'position': 2},
+{'name': 'Увлажнители воздуха Vitek VT-1765', 'url': 'https://www.komfortbt.ru/climatics/humidifiers/vitek/vt_1765/', 'id': '5566', 'price': '5010', 'brand': 'Vitek', 'category': 'Климатическая техника / Увлажнители воздуха', 'variant': 'На заказ', 'list': 'Поиск', 'position': 3},
+{'name': 'утюги Vitek VITEK VT-1201 G', 'url': 'https://www.komfortbt.ru/appliances_for_the_home/irons/vitek/vt_1201_g/', 'id': '9626', 'price': '1570', 'brand': 'Vitek', 'category': 'Товары для дома / утюги', 'variant': 'На заказ', 'list': 'Поиск', 'position': 4},
+{'name': 'утюги Vitek VITEK VT- 1201 BN', 'url': 'https://www.komfortbt.ru/appliances_for_the_home/irons/vitek/vt_1201_bn/', 'id': '9627', 'price': '1530', 'brand': 'Vitek', 'category': 'Товары для дома / утюги', 'variant': 'В наличии', 'list': 'Поиск', 'position': 5},
+{'name': 'утюги Vitek VITEK VT-1209 VT', 'url': 'https://www.komfortbt.ru/appliances_for_the_home/irons/vitek/vt_1209_vt/', 'id': '9629', 'price': '1790', 'brand': 'Vitek', 'category': 'Товары для дома / утюги', 'variant': 'В наличии', 'list': 'Поиск', 'position': 6},
+{'name': 'утюги Vitek VITEK VT-1209 BN', 'url': 'https://www.komfortbt.ru/appliances_for_the_home/irons/vitek/vt_1209_bn/', 'id': '9630', 'price': '1970', 'brand': 'Vitek', 'category': 'Товары для дома / утюги', 'variant': 'В наличии', 'list': 'Поиск', 'position': 7},
+{'name': 'Увлажнители воздуха Vitek VT-1770', 'url': 'https://www.komfortbt.ru/climatics/humidifiers/vitek/vt_1770/', 'id': '21917', 'price': '7470', 'brand': 'Vitek', 'category': 'Климатическая техника / Увлажнители воздуха', 'variant': 'На заказ', 'list': 'Поиск', 'position': 8},
+{'name': 'Мультиварки Vitek VT-4216', 'url': 'https://www.komfortbt.ru/domestics/multi_cook/vitek/vt_4216/', 'id': '28281', 'price': '5790', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Приготовление пищи / Мультиварки', 'variant': 'На заказ', 'list': 'Поиск', 'position': 9},
+{'name': 'Мультиварки Vitek VT-4220', 'url': 'https://www.komfortbt.ru/domestics/multi_cook/vitek/vt_4220/', 'id': '28283', 'price': '5920', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Приготовление пищи / Мультиварки', 'variant': 'На заказ', 'list': 'Поиск', 'position': 10},
+{'name': 'Увлажнители воздуха Vitek WX-3101', 'url': 'https://www.komfortbt.ru/climatics/humidifiers/vitek/wx_3101/', 'id': '28878', 'price': '2280', 'brand': 'Vitek', 'category': 'Климатическая техника / Увлажнители воздуха', 'variant': 'В наличии', 'list': 'Поиск', 'position': 11},
+{'name': 'Мультиварки Vitek VT-4209', 'url': 'https://www.komfortbt.ru/domestics/multi_cook/vitek/vt_4209/', 'id': '29196', 'price': '9150', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Приготовление пищи / Мультиварки', 'variant': 'В наличии', 'list': 'Поиск', 'position': 12},
+{'name': 'Мультиварки Vitek VT-4218', 'url': 'https://www.komfortbt.ru/domestics/multi_cook/vitek/vt_4218/', 'id': '29205', 'price': '7000', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Приготовление пищи / Мультиварки', 'variant': 'В наличии', 'list': 'Поиск', 'position': 13},
+{'name': 'Мясорубки Vitek VT-3601 BW', 'url': 'https://www.komfortbt.ru/domestics/grinder/vitek/vt_3601_bw/', 'id': '29620', 'price': '5470', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Обработка продуктов / Мясорубки', 'variant': 'На заказ', 'list': 'Поиск', 'position': 14},
+{'name': 'Мясорубки Vitek VT-3605', 'url': 'https://www.komfortbt.ru/domestics/grinder/vitek/vt_3605/', 'id': '34102', 'price': '3990', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Обработка продуктов / Мясорубки', 'variant': 'В наличии', 'list': 'Поиск', 'position': 15},
+{'name': 'Мультиварки Vitek VT-4205 BK', 'url': 'https://www.komfortbt.ru/domestics/multi_cook/vitek/vt_4205_bk/', 'id': '34384', 'price': '5230', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Приготовление пищи / Мультиварки', 'variant': 'На заказ', 'list': 'Поиск', 'position': 16},
+{'name': 'Мультиварки Vitek VT-4205 BW', 'url': 'https://www.komfortbt.ru/domestics/multi_cook/vitek/vt_4205_bw/', 'id': '34385', 'price': '5230', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Приготовление пищи / Мультиварки', 'variant': 'На заказ', 'list': 'Поиск', 'position': 17},
+{'name': 'Увлажнители воздуха Vitek VT-2351(W)', 'url': 'https://www.komfortbt.ru/climatics/humidifiers/vitek/vt_2351/', 'id': '36173', 'price': '2250', 'brand': 'Vitek', 'category': 'Климатическая техника / Увлажнители воздуха', 'variant': 'В наличии', 'list': 'Поиск', 'position': 18},
+{'name': 'Бритвы Vitek VT-2371(BK)', 'url': 'https://www.komfortbt.ru/technology_for_health_and_krso/razor/vitek/vt_2371/', 'id': '36174', 'price': '660', 'brand': 'Vitek', 'category': 'Техника для здоровья и красоты / Бритвы', 'variant': 'В наличии', 'list': 'Поиск', 'position': 19},
+{'name': 'Мясорубки Vitek VT-3602 (BW)', 'url': 'https://www.komfortbt.ru/domestics/grinder/vitek/vt_3602_bw/', 'id': '36319', 'price': '6540', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Обработка продуктов / Мясорубки', 'variant': 'На заказ', 'list': 'Поиск', 'position': 20},
+{'name': 'Мясорубки Vitek VT-3603', 'url': 'https://www.komfortbt.ru/domestics/grinder/vitek/vt_3603/', 'id': '36320', 'price': '3410', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Обработка продуктов / Мясорубки', 'variant': 'В наличии', 'list': 'Поиск', 'position': 21},
+{'name': 'Мясорубки Vitek VT-3604(W)', 'url': 'https://www.komfortbt.ru/domestics/grinder/vitek/vt_3604_w/', 'id': '36321', 'price': '6530', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Обработка продуктов / Мясорубки', 'variant': 'В наличии', 'list': 'Поиск', 'position': 22},
+{'name': 'Мультиварки Vitek VT-4208(CL)', 'url': 'https://www.komfortbt.ru/domestics/multi_cook/vitek/vt_4208/', 'id': '36323', 'price': '4170', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Приготовление пищи / Мультиварки', 'variant': 'В наличии', 'list': 'Поиск', 'position': 23},
+{'name': 'Мультиварки Vitek VT-4214(R)', 'url': 'https://www.komfortbt.ru/domestics/multi_cook/vitek/vt_4214/', 'id': '36326', 'price': '4410', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Приготовление пищи / Мультиварки', 'variant': 'На заказ', 'list': 'Поиск', 'position': 24},
+{'name': 'Мультиварки Vitek VT-4217(BN)', 'url': 'https://www.komfortbt.ru/domestics/multi_cook/vitek/vt_4217_bn/', 'id': '36328', 'price': '4810', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Приготовление пищи / Мультиварки', 'variant': 'На заказ', 'list': 'Поиск', 'position': 25},
+{'name': 'Бритвы Vitek VT1372', 'url': 'https://www.komfortbt.ru/technology_for_health_and_krso/razor/vitek/vt_1372/', 'id': '36350', 'price': '1040', 'brand': 'Vitek', 'category': 'Техника для здоровья и красоты / Бритвы', 'variant': 'В наличии', 'list': 'Поиск', 'position': 26},
+{'name': 'Бритвы Vitek VT1373', 'url': 'https://www.komfortbt.ru/technology_for_health_and_krso/razor/vitek/vt_1373/', 'id': '36351', 'price': '1400', 'brand': 'Vitek', 'category': 'Техника для здоровья и красоты / Бритвы', 'variant': 'В наличии', 'list': 'Поиск', 'position': 27},
+{'name': 'Бритвы Vitek VT1377', 'url': 'https://www.komfortbt.ru/technology_for_health_and_krso/razor/vitek/vt_1377/', 'id': '36352', 'price': '1480', 'brand': 'Vitek', 'category': 'Техника для здоровья и красоты / Бритвы', 'variant': 'В наличии', 'list': 'Поиск', 'position': 28},
+{'name': 'Мясорубки Vitek VT-3611(W)', 'url': 'https://www.komfortbt.ru/domestics/grinder/vitek/vt_361128w29/', 'id': '62467', 'price': '2390', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Обработка продуктов / Мясорубки', 'variant': 'В наличии', 'list': 'Поиск', 'position': 29},
+{'name': 'Мясорубки Vitek VT-3613 BN', 'url': 'https://www.komfortbt.ru/domestics/grinder/vitek/vt_3613_bn/', 'id': '77550', 'price': '3210', 'brand': 'Vitek', 'category': 'Бытовая техника для кухни / Обработка продуктов / Мясорубки', 'variant': 'В наличии', 'list': 'Поиск', 'position': 30}
+];
+dataLayer.push({'ecommerce':{'promoView': { 'promotions': [{'id': '20000202', 'name': 'Отключение воды близко!', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_1'},
+{'id': '20000066', 'name': 'Последняя кухонная мойка Elleci по особой цене', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_2'},
+{'id': '20000208', 'name': 'Представляем плиты Flama', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_3'},
+{'id': '20000124', 'name': 'Timberk. Выбирая с умом, выбираешь лучшее', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_4'},
+{'id': '20000114', 'name': 'Подарки от Zigmund & Shtain', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_5'},
+{'id': '20000149', 'name': 'Timberk с доставкой на дом', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_6'}]},'currencyCode': 'RUR',
+'impressions': aProducts}});
+
+</script>
+<!-- Google Tag Manager -->
+<script type="text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NJGRK6H');</script>
+<!-- End Google Tag Manager -->
+
+
+</head>
+<body onclick=''>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NJGRK6H" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	<div class='everything'>
+		<div class='left-menu-outer'>
+			<ul class='left-menu'>
+				<li>
+					<a href='/catalog/' onclick="this.parentNode.parentNode.parentNode.toggleClass('active');return clkLMenu2Go();">
+						<div class='inborder'>
+							<div class='pic'>
+								<img src='/style/2017/img/menu-icon-bars.png'>
+								<img src='/style/2017/img/menu-icon-bars-hover.png'>
+							</div><span>Каталог товаров:</span>
+						</div>
+					</a>
+				</li>
+				<div class='menu-top-duplicate'>
+					<a href='javascript:void(0);' onclick='ncm_Show("yourcity");' class='green'><i class="fa fa-location-arrow" aria-hidden="true"></i> <b>Москва и область</b></a>
+<a href="/rubrics/possible_methods_of_payment/" class='grey'>Способы оплаты</a>
+<a href="/rubrics/punkti_samovivoza_msk/" class='grey'>Пункты выдачи</a>
+<a href="/rubrics/delivery/" class='grey'>Доставка</a>
+<a href="/rubrics/optovye_prodagi/" class='grey'>Оптовым покупателям</a>
+<a href="/rubrics/invite/" class='grey'>Приглашаем новых поставщиков</a>
+<a href="/actions/" class='grey'>Акции</a>				</div>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/holodilniki/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-holodilniki.png'>
+								<img src='/style/2017/img/menu-icon-holodilniki-hover.png'>
+							</div><span>Холодильники и морозильники</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/holodilniki/holodilniki/'>Холодильники</a><ul><li><a href='/holodilniki/odnokamernye/'>Однокамерные холодильники</a></li><li><a href='/holodilniki/dvuhkamernye/'>Двухкамерные холодильники</a></li><li><a href='/holodilniki/side-by-side/'>Холодильники side by side</a></li><li><a href='/holodilniki/trjohkamernye/'>Трехкамерные холодильники</a></li><li><a href='/holodilniki/vstraivaemye/'>Встраиваемые холодильники</a></li><li><a href='/holodilniki/holodilnye-vitriny/'>Холодильные витрины</a></li><li><a href='/holodilniki/vinnye-shkafy/'>Винные шкафы</a></li></ul></div><div class='upshow-block'><a href='/holodilniki/morozilnye-kamery/'>Морозильные камеры</a><ul><li><a href='/morozilnye-kamery/morozilnyy-shkaf/'>Морозильные шкафы</a></li><li><a href='/morozilnye-kamery/morozilnyy-lar/'>Морозильные лари</a></li><li><a href='/holodilniki/vstraivaemye/morozilnye-kamery/'>Встраиваемые морозильные камеры</a></li><li><a href='/morozilnye-kamery/dvuhkamernye/'>Двухкамерные морозильные камеры</a></li></ul></div><div class='upshow-block'><a href='/holodilniki/avtomobilnye/'>Автомобильные холодильники</a></div><div class='upshow-block'><a href='/holodilniki/refrigerator_accessories/'>Аксессуары к холодильникам и морозильникам</a></div><div class='upshow-block'><a href='/holodilniki/sumki-holodilniki/'>Сумки-холодильники</a></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/builtintechnics/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-builtintechnics.png'>
+								<img src='/style/2017/img/menu-icon-builtintechnics-hover.png'>
+							</div><span>Встраиваемая бытовая техника</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/builtintechnics/built_independent_hobs/'>Встраиваемые независимые варочные панели</a><ul><li><a href='/builtintechnics/built_in_gas_hobs/'>Газовые варочные панели</a></li><li><a href='/builtintechnics/embedded_combined_hobs/'>Встраиваемые комбинированные варочные панели</a></li><li><a href='/builtintechnics/recessed_glass_ceramic_hobs/'>Встраиваемые стеклокерамические варочные панели</a></li><li><a href='/builtintechnics/embedded_traditional_hobs/'>Встраиваемые традиционные варочные панели</a></li></ul></div><div class='upshow-block'><a href='/builtintechnics/built_in_hobs_domino/'>Встраиваемые варочные панели Домино</a><ul><li><a href='/builtintechnics/gas_hobs_domino/'>Газовые варочные панели домино</a></li><li><a href='/builtintechnics/ceramic_hobs_domino/'>Керамические варочные панели домино</a></li><li><a href='/builtintechnics/grill__deep_fryer_domino/'>Гриль, фритюрницы домино</a></li><li><a href='/builtintechnics/traditional_hobs_domino/'>Традиционные варочные панели домино</a></li></ul></div><div class='upshow-block'><a href='/builtintechnics/built_independent_ovens/'>Встраиваемые независимые духовые шкафы</a><ul><li><a href='/builtintechnics/gas_ovens_are_independent/'>Независимые газовые духовые шкафы</a></li><li><a href='/builtintechnics/oven_independent/'>Электрические духовые шкафы независимые</a></li></ul></div><div class='upshow-block'><a href='/builtintechnics/hood/'>Вытяжки</a><ul><li><a href='/builtintechnics/traditional_hood/'>Традиционные вытяжки</a></li><li><a href='/builtintechnics/fireplace_hood/'>Каминные вытяжки</a></li><li><a href='/builtintechnics/built_hood/'>Встраиваемые вытяжки</a></li><li><a href='/builtintechnics/island_hood/'>Островные вытяжки</a></li></ul></div><div class='upshow-block'><a href='/builtintechnics/built_in_kits/'>Встраиваемые комплекты</a><ul><li><a href='/builtintechnics/built_in_gas_electric_kits/'>Встраиваемые газо-электрические комплекты</a></li><li><a href='/builtintechnics/built_in_electrical_kits/'>Встраиваемые электрические комплекты</a></li></ul></div><div class='upshow-block'><a href='/holodilniki/vstraivaemye/'>Встраиваемые холодильники</a></div><div class='upshow-block'><a href='/posudomoechnye-mashiny/vstraivaemye/'>Встраиваемые посудомоечные машины</a></div><div class='upshow-block'><a href='/stiralnye-mashiny/vstraivaemye/'>Встраиваемые стиральные машины</a></div><div class='upshow-block'><a href='/builtintechnics/built_in_microwave_ovens/'>Встраиваемые микроволновые печи</a></div><div class='upshow-block'><a href='/builtintechnics/built_in_steamers/'>Встраиваемые пароварки</a></div><div class='upshow-block'><a href='/builtintechnics/built_in_espresso_machine/'>Встраиваемые кофемашины</a></div><div class='upshow-block'><a href='/builtintechnics/food_waste_disposer/'>Измельчители пищевых отходов</a></div><div class='upshow-block'><a href='/builtintechnics/cabinets_for_heating_cookware/'>Шкафы для подогрева посуды</a></div><div class='upshow-block'><a href='/builtintechnics/accessories_to_built/'>Аксессуары и дополнительные принадлежности для встраиваемой техники</a><ul><li><a href='/builtintechnics/accessories_to_the_oven/'>Аксессуары к духовым шкафам</a></li><li><a href='/builtintechnics/accessories_to_the_cooking_surfa/'>Аксессуары к варочным поверхностям</a></li><li><a href='/builtintechnics/accessories_dishwashers/'>Принадлежности к посудомоечным машинам</a></li><li><a href='/builtintechnics/to_the_washing_machine/'>Принадлежности к стиральным машинам</a></li><li><a href='/builtintechnics/accessories_to_hood/'>Аксессуары к вытяжкам</a></li></ul></div><div class='upshow-block'><a href='/builtintechnics/built_dependent_hobs/'>Встраиваемые зависимые варочные панели</a><ul><li><a href='/builtintechnics/built_dependent_glass_panel/'>Встраиваемые зависимые стеклокерамические панели</a></li></ul></div><div class='upshow-block'><a href='/builtintechnics/built_dependent_ovens/'>Встраиваемые зависимые духовые шкафы</a></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/posudomoechnye-mashiny/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-posudomoechnye-mashiny.png'>
+								<img src='/style/2017/img/menu-icon-posudomoechnye-mashiny-hover.png'>
+							</div><span>Посудомоечные машины</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/posudomoechnye-mashiny/vstraivaemye/'>Встраиваемые посудомоечные машины</a><ul><li><a href='/posudomoechnye-mashiny/vstraivaemye-kompaktnye/'>Компактные</a></li><li><a href='/posudomoechnye-mashiny/vstraivaemye-9-10-person/'>Встраиваемые на 9-10 персон</a></li><li><a href='/posudomoechnye-mashiny/vstraivaemye-12-14-person/'>Встраиваемые на 12-14 персон</a></li></ul></div><div class='upshow-block'><a href='/posudomoechnye-mashiny/otdelnostojashhie/'>Отдельностоящие посудомоечные машины</a><ul><li><a href='/posudomoechnye-mashiny/12-komplektov/'>Отдельностоящие 12-15 комплектов</a></li><li><a href='/posudomoechnye-mashiny/8-komplektov/'>Отдельностоящие 8-10 комплектов</a></li></ul></div><div class='upshow-block'><a href='/posudomoechnye-mashiny/nastolnye/'>Настольные посудомоечные машины</a></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/stiralnye-mashiny/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-stiralnye-mashiny.png'>
+								<img src='/style/2017/img/menu-icon-stiralnye-mashiny-hover.png'>
+							</div><span>Стиральные и сушильные машины</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/stiralnye-mashiny/stiralnye-mashiny/'>Стиральные машины</a><ul><li><a href='/stiralnye-mashiny/vstraivaemye/'>Встраиваемые стиральные машины</a></li><li><a href='/stiralnye-mashiny/s-frontalnoj-zagruzkoj/'>Фронтальные стиральные машины</a></li><li><a href='/stiralnye-mashiny/s-vertikalnoj-zagruzkoj/'>Стиральные машины с вертикальной загрузкой</a></li><li><a href='/stiralnye-mashiny/aktivatornogo-tipa/'>Стиральные машины активаторного типа</a></li></ul></div><div class='upshow-block'><a href='/stiralnye-mashiny/dryers/'>Сушильные машины</a></div><div class='upshow-block'><a href='/stiralnye-mashiny/dishwashers_machines_accessories/'>Аксессуары и дополнительные принадлежности для стиральных и посудомоечных машин</a></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/cookers/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-cookers.png'>
+								<img src='/style/2017/img/menu-icon-cookers-hover.png'>
+							</div><span>Электрические и газовые плиты</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/cookers/electric_stoves_cteklokeramich/'>Электрические плиты стеклокерамические</a></div><div class='upshow-block'><a href='/cookers/traditional_electric_stoves/'>Электрические плиты традиционные</a></div><div class='upshow-block'><a href='/cookers/electric_stoves_combo/'>Электрические плиты комбинированные</a></div><div class='upshow-block'><a href='/cookers/gas_stove_with_gas_oven/'>Газовые плиты с газовой духовкой</a></div><div class='upshow-block'><a href='/cookers/gas_stove_with_an_oven/'>Газовые плиты с электрической духовкой</a></div><div class='upshow-block'><a href='/cookers/gas_stoves_combo/'>Газовые плиты комбинированные</a></div><div class='upshow-block'><a href='/cookers/stoves_desktops/'>Плиты настольные</a></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/domestics/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-domestics.png'>
+								<img src='/style/2017/img/menu-icon-domestics-hover.png'>
+							</div><span>Бытовая техника для кухни</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/domestics/processing_of_products/'>Обработка продуктов</a><ul><li><a href='/domestics/blenders/'>Блендеры</a></li><li><a href='/domestics/shredders/'>Измельчители продуктов</a></li><li><a href='/domestics/kitchen_scales/'>Кухонные весы</a></li><li><a href='/domestics/food_processors/'>Кухонные комбайны</a></li><li><a href='/domestics/mixers/'>Миксеры</a></li><li><a href='/domestics/grinder/'>Мясорубки</a></li><li><a href='/domestics/vacuum_sealer/'>Вакуумные упаковщики</a></li><li><a href='/domestics/slicers/'>Ломтерезки</a></li></ul></div><div class='upshow-block'><a href='/domestics/cooking/'>Приготовление пищи</a><ul><li><a href='/domestics/aerogrili/'>Аэрогрили</a></li><li><a href='/domestics/blinnitsy/'>Блинницы</a></li><li><a href='/domestics/sandwich/'>Бутербродницы</a></li><li><a href='/domestics/waffle_makers/'>Вафельницы</a></li><li><a href='/domestics/electro_gril/'>Грили электрические</a></li><li><a href='/domestics/yogurtnitsy/'>Йогуртницы</a></li><li><a href='/domestics/ice_cream_makers/'>Мороженицы</a></li><li><a href='/domestics/microwave_ovens/'>Микроволновые печи</a></li><li><a href='/domestics/mini_ovens/'>Мини-печи</a></li><li><a href='/domestics/multi_cook/'>Мультиварки</a></li><li><a href='/domestics/steamer/'>Пароварки</a></li><li><a href='/domestics/toasters/'>Тостеры</a></li><li><a href='/domestics/smokehouse/'>Коптильни</a></li><li><a href='/domestics/deep_fryers/'>Фритюрницы</a></li><li><a href='/domestics/fondue/'>Фондю</a></li><li><a href='/domestics/bread/'>Хлебопечки</a></li><li><a href='/domestics/egg_cooker/'>Яйцеварки</a></li><li><a href='/domestics/elektroskovorody/'>Электросковороды</a></li><li><a href='/domestics/elektroshashlychnitsy/'>Электрошашлычницы</a></li><li><a href='/domestics/electronic_meat_probe/'>Электронные термощупы</a></li></ul></div><div class='upshow-block'><a href='/domestics/making_coffee_and_tea/'>Приготовление кофе и чая</a><ul><li><a href='/domestics/teapots/'>Чайники</a></li><li><a href='/domestics/kophevarki/'>Кофеварки</a></li><li><a href='/domestics/coffee_machines/'>Кофемашины</a></li><li><a href='/domestics/grinders/'>Кофемолки</a></li><li><a href='/domestics/milk_foaming/'>Вспениватели молока</a></li><li><a href='/domestics/samovari/'>Самовары</a></li><li><a href='/domestics/kofe-i-chay/'>Кофе и Чай</a></li><li><a href='/domestics/accessories_for_coffee_makers_and_coffee_machines/'>Аксессуары для кофеварок и кофемашин</a></li></ul></div><div class='upshow-block'><a href='/domestics/juicers/'>Соковыжималки</a></div><div class='upshow-block'><a href='/domestics/water_coolers/'>Кулеры для воды</a></div><div class='upshow-block'><a href='/domestics/sokovarki/'>соковарки</a></div><div class='upshow-block'><a href='/domestics/water_purifier/'>Очистители воды</a><ul><li><a href='/domestics/accessories_for_water_purifier/'>аксессуары для очистителей воды</a></li></ul></div><div class='upshow-block'><a href='/domestics/plumbing_for_kitchen/'>Сантехника для кухни</a><ul><li><a href='/domestics/kitchen_sink/'>Кухонные мойки</a></li><li><a href='/domestics/tap/'>Смесители</a></li><li><a href='/domestics/accessory_for_the_kitchen_sink/'>Аксессуары к кухонным мойкам</a></li><li><a href='/domestics/set_of_kitchen_sink_and_mixer/'>Комплекты мойка+смеситель</a></li></ul></div><div class='upshow-block'><a href='/domestics/householdappliances_accessories/'>аксессуары и дополнительные принадлежности для кухни</a></div><div class='upshow-block'><a href='/domestics/other_hardware/'>другое оборудование</a><ul><li><a href='/domestics/sushilki_vegetable/'>Сушилки для овощей</a></li><li><a href='/domestics/elektrootkryvalki/'>Электрооткрывалки</a></li><li><a href='/domestics/vacutainer/'>Вакуумные контейнеры</a></li><li><a href='/domestics/pelmennici/'>Пельменницы</a></li><li><a href='/domestics/omletnica/'>Омлетницы</a></li></ul></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/dishes_and_kitchenware/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-dishes_and_kitchenware.png'>
+								<img src='/style/2017/img/menu-icon-dishes_and_kitchenware-hover.png'>
+							</div><span>Посуда</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/dishes_and_kitchenware/utensils_for_cooking/'>Посуда для приготовления</a><ul><li><a href='/dishes_and_kitchenware/sets_of_utensils_for_cooking/'>наборы посуды для приготовления</a></li><li><a href='/dishes_and_kitchenware/kastrulia/'>кастрюли</a></li><li><a href='/dishes_and_kitchenware/cover/'>крышки</a></li><li><a href='/dishes_and_kitchenware/ovenproof_pots/'>жаропрочные горшочки</a></li><li><a href='/dishes_and_kitchenware/baking_dish/'>формы для выпечки</a></li><li><a href='/dishes_and_kitchenware/kovsh/'>ковши</a></li><li><a href='/dishes_and_kitchenware/colander/'>дуршлаги</a></li></ul></div><div class='upshow-block'><a href='/dishes_and_kitchenware/pan/'>Сковороды</a><ul><li><a href='/dishes_and_kitchenware/standard_pan/'>Сковороды стандартные</a></li><li><a href='/dishes_and_kitchenware/pan_pancake/'>Сковороды блинные</a></li><li><a href='/dishes_and_kitchenware/pans_wok/'>Сковороды-вок</a></li><li><a href='/dishes_and_kitchenware/cauldrons/'>Казаны</a></li><li><a href='/dishes_and_kitchenware/stewpot/'>Сотейники</a></li><li><a href='/dishes_and_kitchenware/pan-grill/'>Сковороды-гриль</a></li></ul></div><div class='upshow-block'><a href='/dishes_and_kitchenware/knives_and_accessories/'>Ножи и аксессуары</a><ul><li><a href='/dishes_and_kitchenware/kitchen_knives/'>кухонные ножи</a></li><li><a href='/dishes_and_kitchenware/sets_of_knives/'>наборы ножей</a></li><li><a href='/dishes_and_kitchenware/holders_for_knives/'>держатели для ножей</a></li><li><a href='/dishes_and_kitchenware/knife_sharpeners/'>точилки для ножей</a></li></ul></div><div class='upshow-block'><a href='/dishes_and_kitchenware/kitchenware/'>Кухонные принадлежности</a><ul><li><a href='/dishes_and_kitchenware/scissors/'>ножницы</a></li><li><a href='/dishes_and_kitchenware/corkscrews/'>штопоры</a></li><li><a href='/dishes_and_kitchenware/otkrivalki/'>открывалки</a></li><li><a href='/dishes_and_kitchenware/cutting_boards/'>разделочные доски</a></li><li><a href='/dishes_and_kitchenware/kitchen_set/'>кухонные наборы</a></li><li><a href='/dishes_and_kitchenware/kitchen_accessory/'>кухонные аксессуары</a></li><li><a href='/dishes_and_kitchenware/potholders/'>прихватки</a></li><li><a href='/dishes_and_kitchenware/brushes_culinary/'>кисточки кулинарые</a></li><li><a href='/dishes_and_kitchenware/sieve/'>сито</a></li><li><a href='/dishes_and_kitchenware/culinary_blades/'>лопатки кулинарные</a></li><li><a href='/dishes_and_kitchenware/ripper_meat/'>рыхлители мяса</a></li><li><a href='/dishes_and_kitchenware/dish_dryers/'>сушилки для посуды</a></li><li><a href='/dishes_and_kitchenware/graters/'>терки</a></li></ul></div><div class='upshow-block'><a href='/dishes_and_kitchenware/utensils_for_serving/'>Приборы для сервировки</a><ul><li><a href='/dishes_and_kitchenware/cookware_sets/'>наборы посуды</a></li><li><a href='/dishes_and_kitchenware/breadboxes/'>хлебницы</a></li><li><a href='/dishes_and_kitchenware/menazhnicy/'>менажницы</a></li><li><a href='/dishes_and_kitchenware/dishes/'>блюда</a></li><li><a href='/dishes_and_kitchenware/vases/'>вазы</a></li><li><a href='/dishes_and_kitchenware/servizi/'>сервизы</a></li><li><a href='/dishes_and_kitchenware/towel_holders/'>держатели для полотенец</a></li><li><a href='/dishes_and_kitchenware/salad_bowls/'>салатники</a></li><li><a href='/dishes_and_kitchenware/maslenki/'>масленки</a></li><li><a href='/dishes_and_kitchenware/sugar_bowl/'>сахарницы</a></li><li><a href='/dishes_and_kitchenware/pepper_mill/'>перцемолки</a></li><li><a href='/dishes_and_kitchenware/sets_for_spices/'>наборы для специй</a></li><li><a href='/dishes_and_kitchenware/for_fruits/'>фруктовницы</a></li></ul></div><div class='upshow-block'><a href='/dishes_and_kitchenware/utensils_for_drinks/'>Посуда для напитков</a><ul><li><a href='/dishes_and_kitchenware/french-press/'>френч-прессы</a></li><li><a href='/dishes_and_kitchenware/thermoses/'>термосы</a></li><li><a href='/dishes_and_kitchenware/cups/'>кружки</a></li><li><a href='/dishes_and_kitchenware/tyrki/'>турки</a></li><li><a href='/dishes_and_kitchenware/molokovarki/'>молоковарки</a></li><li><a href='/dishes_and_kitchenware/flasks/'>фляги</a></li></ul></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/appliances_for_the_home/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-appliances_for_the_home.png'>
+								<img src='/style/2017/img/menu-icon-appliances_for_the_home-hover.png'>
+							</div><span>Товары для дома</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/appliances_for_the_home/vacuum_cleaners/'>пылесосы</a><ul><li><a href='/appliances_for_the_home/vacuum_cleaners_for_dry_cleani/'>Пылесосы для сухой уборки</a></li><li><a href='/appliances_for_the_home/vacuum_cleaners_for_wet_cleani/'>Пылесосы для влажной уборки</a></li><li><a href='/appliances_for_the_home/with_aquafiltering/'>Пылесосы с аквафильтром</a></li><li><a href='/appliances_for_the_home/vacuum_cleaners_for_avto/'>Автомобильные пылесосы</a></li><li><a href='/appliances_for_the_home/robot_vacuum_cleaners/'>Роботы-пылесосы</a></li></ul></div><div class='upshow-block'><a href='/appliances_for_the_home/irons/'>утюги</a></div><div class='upshow-block'><a href='/appliances_for_the_home/steam_cleaner/'>пароочистители</a></div><div class='upshow-block'><a href='/appliances_for_the_home/steamers/'>отпариватели</a></div><div class='upshow-block'><a href='/appliances_for_the_home/ironing_boards/'>гладильные доски</a><ul><li><a href='/appliances_for_the_home/ironing_board_covers/'>Чехлы для гладильных досок</a></li></ul></div><div class='upshow-block'><a href='/appliances_for_the_home/machine_to_remove_lint/'>машинки для удаления катышков</a></div><div class='upshow-block'><a href='/appliances_for_the_home/wipers/'>стеклоочистители</a></div><div class='upshow-block'><a href='/appliances_for_the_home/domestic_accessories/'>аксессуары и дополнительные принадлежности для дома</a><ul><li><a href='/appliances_for_the_home/iron_accessories/'>Аксессуары для утюгов</a></li><li><a href='/appliances_for_the_home/vacuum_cleaners_accessories/'>Аксессуары для пылесосов</a></li></ul></div><div class='upshow-block'><a href='/appliances_for_the_home/boot_dryers/'>сушилки для обуви</a></div><div class='upshow-block'><a href='/appliances_for_the_home/hand_dryers/'>сушилки для рук</a></div><div class='upshow-block'><a href='/appliances_for_the_home/drying_laundry/'>сушки для белья</a></div><div class='upshow-block'><a href='/appliances_for_the_home/electronic_board_clock/'>электронные настольные часы</a></div><div class='upshow-block'><a href='/appliances_for_the_home/sewing_equipment/'>швейное оборудование</a><ul><li><a href='/appliances_for_the_home/sewing_machines/'>Швейные машины</a></li><li><a href='/appliances_for_the_home/overlock/'>Оверлоки</a></li></ul></div><div class='upshow-block'><a href='/appliances_for_the_home/warm_floors/'>теплые полы</a></div><div class='upshow-block'><a href='/appliances_for_the_home/ladder/'>стремянки</a></div><div class='upshow-block'><a href='/appliances_for_the_home/wall_clock/'>часы настенные</a></div><div class='upshow-block'><a href='/appliances_for_the_home/moonshine/'>Самогоноварение</a><ul><li><a href='/appliances_for_the_home/moonshine_apparatuses/'>Самогонные аппараты</a></li><li><a href='/appliances_for_the_home/accessories_for_moonshine_apparatuses/'>аксессуары для самогонных аппаратов</a></li></ul></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/home_textiles/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-home_textiles.png'>
+								<img src='/style/2017/img/menu-icon-home_textiles-hover.png'>
+							</div><span>Текстиль для дома</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/home_textiles/bed_linen/'>Постельное белье</a><ul><li><a href='/home_textiles/full_size_bed_linen/'>Полутороспальные комплекты постельного белья</a></li><li><a href='/home_textiles/double_bed_linen/'>Двуспальные комплекты постельного белья</a></li><li><a href='/home_textiles/euro_bed_linen/'>Евро комплекты постельного белья</a></li><li><a href='/home_textiles/family_set_of_bed_linen/'>Семейные комплекты постельного белья</a></li></ul></div><div class='upshow-block'><a href='/home_textiles/pillows/'>Подушки</a></div><div class='upshow-block'><a href='/home_textiles/blankets/'>Одеяла</a></div><div class='upshow-block'><a href='/home_textiles/bedspread/'>Покрывала</a></div><div class='upshow-block'><a href='/home_textiles/plaids/'>Пледы</a></div><div class='upshow-block'><a href='/home_textiles/curtains_gardins_tulle/'>Шторы, гардины, тюль</a><ul><li><a href='/home_textiles/curtains/'>Шторы</a></li><li><a href='/home_textiles/sets_of_curtains/'>Комплекты штор</a></li></ul></div><div class='upshow-block'><a href='/home_textiles/towels/'>Полотенца</a><ul><li><a href='/home_textiles/mahr-towels/'>Махровые полотенца</a></li></ul></div><div class='upshow-block'><a href='/home_textiles/textiles_with_electricheating/'>Текстиль с электроподогревом</a><ul><li><a href='/home_textiles/electromattresses/'>Электроматрасы</a></li><li><a href='/home_textiles/electroblankets/'>Электроодеяла</a></li><li><a href='/home_textiles/electrosheets/'>Электропростыни</a></li></ul></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/products_for_garden/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-products_for_garden.png'>
+								<img src='/style/2017/img/menu-icon-products_for_garden-hover.png'>
+							</div><span>Товары для сада</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/products_for_garden/corncrusher/'>зернодробилки</a></div><div class='upshow-block'><a href='/products_for_garden/mini_washing/'>минимойки</a></div><div class='upshow-block'><a href='/products_for_garden/ulichnye_grili/'>уличные грили</a></div><div class='upshow-block'><a href='/products_for_garden/snow_machines/'>снегоуборочные машины</a></div><div class='upshow-block'><a href='/products_for_garden/lawn_mower/'>Газонокосилки</a><ul><li><a href='/products_for_garden/gasoline_lawn_mower/'>Бензиновые газонокосилки</a></li><li><a href='/products_for_garden/electric_lawn_mower/'>Электрические газонокосилки</a></li><li><a href='/products_for_garden/accessories_lawn_mower/'>Аксессуары для газонокосилок</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/vertikutter/'>вертикуттеры</a></div><div class='upshow-block'><a href='/products_for_garden/instrument/'>Инструменты</a><ul><li><a href='/products_for_garden/drills/'>Дрели</a></li><li><a href='/products_for_garden/perforator/'>Перфораторы</a></li><li><a href='/products_for_garden/fretsaw/'>Лобзики</a></li><li><a href='/products_for_garden/sanders/'>Шлифовальные машины</a></li><li><a href='/products_for_garden/hot_air/'>Термопистолеты</a></li><li><a href='/products_for_garden/screwdrivers/'>Шуруповерты</a></li><li><a href='/products_for_garden/sets_of_hand_tools/'>Наборы ручного инструмента</a></li><li><a href='/products_for_garden/paint_sprayers/'>Краскораспылители</a></li><li><a href='/products_for_garden/rubanki/'>Рубанки</a></li><li><a href='/products_for_garden/saw/'>Пилы</a></li><li><a href='/products_for_garden/frezer/'>Фрезеры</a></li><li><a href='/products_for_garden/building_mixer/'>Строительные миксеры</a></li><li><a href='/products_for_garden/termovozduhoduvka/'>Термовоздуходувки</a></li><li><a href='/products_for_garden/screwdriver/'>Отвертки</a></li><li><a href='/products_for_garden/instrument_accessories/'>Аксессуары для инструментов</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/tent/'>тенты-шатры</a><ul><li><a href='/products_for_garden/wall_for_tent/'>Стенки для тентов</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/pump/'>насосы</a><ul><li><a href='/products_for_garden/accessories_for_pumps/'>Аксессуары для насосов</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/generators/'>Генераторы</a><ul><li><a href='/products_for_garden/accessory_for_generators/'>Аксессуары для генераторов</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/chemical_toilet/'>биотуалеты</a><ul><li><a href='/products_for_garden/accessory_for_biotoilet/'>Аксессуары для биотуалетов</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/garden_tiller/'>мотокультиваторы</a></div><div class='upshow-block'><a href='/products_for_garden/motobloki/'>мотоблоки</a></div><div class='upshow-block'><a href='/products_for_garden/garden_vacuum_cleaner/'>садовые пылесосы (воздуходувки)</a></div><div class='upshow-block'><a href='/products_for_garden/chipper/'>кусторезы</a></div><div class='upshow-block'><a href='/products_for_garden/extensions/'>удлинители</a></div><div class='upshow-block'><a href='/products_for_garden/welding_machines/'>сварочные аппараты</a></div><div class='upshow-block'><a href='/products_for_garden/garden_tools/'>садовые инструменты</a></div><div class='upshow-block'><a href='/products_for_garden/compressors/'>компрессоры</a><ul><li><a href='/products_for_garden/accessory_for_compressors/'>аксессуары для компрессоров</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/pumps/'>мотопомпы</a></div><div class='upshow-block'><a href='/products_for_garden/concrete_mixers/'>бетономешалки</a></div><div class='upshow-block'><a href='/products_for_garden/grinding_machines/'>точильные станки</a></div><div class='upshow-block'><a href='/products_for_garden/voltage_stabilizer/'>стабилизаторы электрического напряжения</a></div><div class='upshow-block'><a href='/products_for_garden/incubators/'>инкубаторы</a><ul><li><a href='/products_for_garden/accessories_for_incubators/'>аксессуары для инкубаторов</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/garden_shredders/'>садовые измельчители</a></div><div class='upshow-block'><a href='/products_for_garden/boers/'>буры</a><ul><li><a href='/products_for_garden/augers/'>Мотобуры (бензобуры)</a></li><li><a href='/products_for_garden/accessories_for_boers/'>Аксессуары к бурам</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/start_and_chargers/'>пуско-зарядные и зарядные устройства</a></div><div class='upshow-block'><a href='/products_for_garden/garden_composters/'>Садовые компостеры</a></div><div class='upshow-block'><a href='/products_for_garden/accessories_for_irrigation/'>Аксессуары для полива</a><ul><li><a href='/products_for_garden/hoses_for_watering/'>Шланги для полива</a></li><li><a href='/products_for_garden/kapelnye-polivy/'>Капельные поливы</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/greenhouses_and_glazing_units/'>Парники и теплицы</a><ul><li><a href='/products_for_garden/glazing_units/'>Теплицы</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/sprayers_for_garden/'>Садовые опрыскиватели</a></div><div class='upshow-block'><a href='/products_for_garden/urovni/'>Уровни</a><ul><li><a href='/products_for_garden/lazernye-urovni/'>Лазерные уровни</a></li></ul></div><div class='upshow-block'><a href='/products_for_garden/garden_accessories/'>аксессуары и дополнительные принадлежности для сада</a><ul><li><a href='/products_for_garden/minimoyka_accessories/'>Аксессуары для минимоек</a></li><li><a href='/products_for_garden/accessories_for_welding_machines/'>Аксессуары для сварочных аппаратов</a></li><li><a href='/products_for_garden/accessories_for_cultivators/'>Аксессуары для культиваторов</a></li><li><a href='/products_for_garden/accessories_for_snowblowers/'>Аксессуары для снегоуборочных машин</a></li><li><a href='/products_for_garden/steam_cleaner_accessories/'>Аксессуары для пароочистителей</a></li></ul></div><div class='upshow-block'><a href='/holodilniki/sumki-holodilniki/'>Сумки-холодильники</a></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/climatics/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-climatics.png'>
+								<img src='/style/2017/img/menu-icon-climatics-hover.png'>
+							</div><span>Климатическая техника</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/climatics/air_conditioners/'>Кондиционеры</a><ul><li><a href='/climatics/mobile_air_conditioners/'>Мобильные кондиционеры</a></li><li><a href='/climatics/split_systems/'>Сплит-системы</a></li><li><a href='/climatics/kolonnye_split_sistemy/'>Колонные сплит-системы</a></li></ul></div><div class='upshow-block'><a href='/climatics/water_heaters/'>Водонагреватели</a><ul><li><a href='/climatics/storage_water_heaters/'>Накопительные водонагреватели</a></li><li><a href='/climatics/storage_water_heaters_with_dry_ten/'>Накопительные водонагреватели с сухим тэном</a></li><li><a href='/climatics/instantaneous_water_heaters/'>Проточные водонагреватели</a></li><li><a href='/climatics/gazovye_kolonki/'>Газовые колонки</a></li><li><a href='/climatics/gas_boilers/'>Газовые котлы</a></li></ul></div><div class='upshow-block'><a href='/climatics/heaters/'>Масляные обогреватели</a></div><div class='upshow-block'><a href='/climatics/gas_heaters/'>Газовые обогреватели</a></div><div class='upshow-block'><a href='/climatics/infrared_heater/'>Инфракрасные обогреватели</a></div><div class='upshow-block'><a href='/climatics/heat_gun/'>Тепловые пушки</a><ul><li><a href='/climatics/elektricheskie_heat_gun/'>Электрические тепловые пушки</a></li><li><a href='/climatics/gazovye_heat_gun/'>Газовые тепловые пушки</a></li><li><a href='/climatics/dizel_heat_gun/'>Дизельные тепловые пушки</a></li></ul></div><div class='upshow-block'><a href='/climatics/airheaters/'>Тепловентиляторы</a></div><div class='upshow-block'><a href='/climatics/fans/'>вентиляторы</a></div><div class='upshow-block'><a href='/climatics/fuel_heaters/'>топливные обогреватели</a></div><div class='upshow-block'><a href='/climatics/convectors/'>Конвекторы</a></div><div class='upshow-block'><a href='/climatics/heating_boilers/'>Отопительные котлы</a></div><div class='upshow-block'><a href='/climatics/electric_fireplace/'>камины электрические</a></div><div class='upshow-block'><a href='/climatics/radiators/'>радиаторы</a></div><div class='upshow-block'><a href='/climatics/vozduhoochistiteli/'>Воздухоочистители</a></div><div class='upshow-block'><a href='/climatics/humidifiers/'>Увлажнители воздуха</a></div><div class='upshow-block'><a href='/climatics/air_driers/'>осушители воздуха</a></div><div class='upshow-block'><a href='/climatics/weather_station/'>Метеостанции</a></div><div class='upshow-block'><a href='/climatics/accessories_to_climatics/'>Аксессуары для климатической техники</a></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/products_for_children/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-products_for_children.png'>
+								<img src='/style/2017/img/menu-icon-products_for_children-hover.png'>
+							</div><span>Товары для детей</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/products_for_children/goods_for_moms_and_babies/'>Товары для мам и малышей</a><ul><li><a href='/products_for_children/feeding/'>Кормление</a></li><li><a href='/products_for_children/sleep/'>Сон</a></li><li><a href='/products_for_children/all_for_mom/'>Все для мамы</a></li><li><a href='/products_for_children/care_hygiene/'>Уход/гигиена</a></li><li><a href='/products_for_children/bathing_supplies_baby/'>Принадлежности для купания малыша</a></li><li><a href='/products_for_children/child_safety/'>Безопасность ребенка</a></li><li><a href='/products_for_children/cosmetics_for_babies/'>Детская косметика</a></li></ul></div><div class='upshow-block'><a href='/products_for_children/children-s_room/'>Детская комната</a><ul><li><a href='/products_for_children/baby_cots/'>Детские кроватки</a></li><li><a href='/products_for_children/changing_tables/'>Пеленальные столики</a></li><li><a href='/products_for_children/changing_dressers/'>Пеленальные комоды</a></li><li><a href='/products_for_children/cabinets/'>Шкафы</a></li><li><a href='/products_for_children/furniture_sets/'>Наборы мебели</a></li><li><a href='/products_for_children/tables/'>Столы</a></li><li><a href='/products_for_children/chairs/'>Стулья</a></li><li><a href='/products_for_children/deck_chairs/'>Шезлонги</a></li><li><a href='/products_for_children/electronic_swing/'>Качели электронные</a></li><li><a href='/products_for_children/toy_store/'>Хранение игрушек</a></li><li><a href='/products_for_children/manege/'>Манежи</a></li><li><a href='/products_for_children/cradle/'>Колыбели</a></li><li><a href='/products_for_children/pad_for_changing/'>Накладки для пеленания</a></li><li><a href='/products_for_children/armchairs/'>Мягкие кресла</a></li><li><a href='/products_for_children/furniture_for_mom/'>Мебель для мамы</a></li></ul></div><div class='upshow-block'><a href='/products_for_children/walking_travel/'>Прогулки и путешествия</a><ul><li><a href='/products_for_children/carseats/'>Автокресла</a></li><li><a href='/products_for_children/strollers/'>Коляски</a></li><li><a href='/products_for_children/carry_for_kids/'>Переноски для малышей</a></li><li><a href='/products_for_children/sling/'>Слинги</a></li><li><a href='/products_for_children/ryukzak-kenguru/'>Рюкзаки-кенгуру</a></li></ul></div><div class='upshow-block'><a href='/products_for_children/transport_for_children/'>Транспорт для детей</a><ul><li><a href='/products_for_children/velo_det/'>Детские велосипеды</a></li><li><a href='/products_for_children/samokaty/'>Самокаты</a></li><li><a href='/products_for_children/snow-cats/'>Снегокаты</a></li><li><a href='/products_for_children/sled/'>Санки</a></li><li><a href='/products_for_children/sledge-stroller/'>Санки-коляски</a></li><li><a href='/products_for_children/ledyanki/'>Ледянки</a></li><li><a href='/products_for_children/tubing/'>Ватрушки-тюбинги</a></li><li><a href='/products_for_children/barrow/'>Каталки</a></li><li><a href='/products_for_children/begovely/'>Беговелы</a></li><li><a href='/products_for_children/electric_car/'>Электромобили</a></li><li><a href='/products_for_children/pedal_cars/'>Педальные машины</a></li><li><a href='/products_for_children/girobordy/'>Гироборды</a></li><li><a href='/products_for_children/det_elektrosamokaty/'>Детские электросамокаты</a></li></ul></div><div class='upshow-block'><a href='/products_for_children/toys/'>Игрушки</a><ul><li><a href='/products_for_children/derevyannyie_igrushki/'>Деревянные игрушки</a></li><li><a href='/products_for_children/igrushki_dlya_devochek/'>Игрушки для девочек</a></li><li><a href='/products_for_children/konstruktoryi/'>Конструкторы</a></li><li><a href='/products_for_children/igrushki_dlya_malyishey/'>Игрушки для малышей</a></li><li><a href='/products_for_children/igrushki_dlya_malchikov/'>Игрушки для мальчиков</a></li><li><a href='/products_for_children/play_sets_for_children/'>Игровые наборы для детей</a></li><li><a href='/products_for_children/myagkie_igrushki/'>Мягкие игрушки</a></li><li><a href='/products_for_children/razvivayuschie_igrushki/'>Развивающие игры и игрушки</a></li><li><a href='/products_for_children/transformeryi/'>Трансформеры</a></li><li><a href='/products_for_children/nastolnyie_igryi/'>Настольные игры</a></li><li><a href='/products_for_children/toy_musical_instruments/'>Игрушечные музыкальные инструменты</a></li><li><a href='/products_for_children/interactive_toys/'>Интерактивные игрушки</a></li></ul></div><div class='upshow-block'><a href='/products_for_children/dlya_igr_na_ulitse/'>Для игр на улице</a><ul><li><a href='/products_for_children/sportivnyie_tovaryi/'>Спортивные товары</a></li><li><a href='/products_for_children/batuti/'>Батуты</a></li><li><a href='/products_for_children/kupanie_i_igryi_v_vode/'>Купание и игры в воде</a></li><li><a href='/products_for_children/swing/'>Качели</a></li><li><a href='/products_for_children/houses_for_children/'>Домики для детей</a></li><li><a href='/products_for_children/playgrounds/'>Игровые комплексы</a></li><li><a href='/products_for_children/sandbox/'>Песочницы</a></li><li><a href='/products_for_children/sand_toys/'>Наборы для песка</a></li><li><a href='/products_for_children/children_slide/'>Детские горки</a></li><li><a href='/products_for_children/myilnyie_puzyiri/'>Мыльные пузыри</a></li><li><a href='/products_for_children/play_tents/'>Игровые палатки</a></li></ul></div><div class='upshow-block'><a href='/products_for_children/kits_for_creativity/'>Наборы для творчества</a><ul><li><a href='/products_for_children/painting/'>Рисование</a></li><li><a href='/products_for_children/sets_for_burning/'>Наборы для выжигания</a></li><li><a href='/products_for_children/models_for_bonding/'>Модели для склеивания</a></li><li><a href='/products_for_children/applique/'>Аппликации</a></li><li><a href='/products_for_children/mosaics/'>Мозаики</a></li><li><a href='/products_for_children/weaving/'>Плетение</a></li><li><a href='/products_for_children/create_jewelry/'>Создание украшений и аксессуаров</a></li><li><a href='/products_for_children/lepka/'>Лепка</a></li><li><a href='/products_for_children/soap-boiling/'>мыловарение</a></li><li><a href='/products_for_children/quilling/'>квиллинг</a></li><li><a href='/products_for_children/decoupage/'>декупаж</a></li><li><a href='/products_for_children/3d_handles_and_accessories/'>3D ручки и аксессуары</a></li><li><a href='/products_for_children/sewing_and_embroidery/'>Шитье и вышивание</a></li><li><a href='/products_for_children/kits_for_growing_plants/'>Наборы для выращивания растений</a></li></ul></div><div class='upshow-block'><a href='/products_for_children/books/'>Книжки</a><ul><li><a href='/products_for_children/fiction_books/'>художественные книги</a></li><li><a href='/products_for_children/educational_books/'>развивающие книжки</a></li><li><a href='/products_for_children/music_books/'>музыкальные книжки</a></li><li><a href='/products_for_children/interactive_books/'>интерактивные книжки</a></li><li><a href='/products_for_children/talking_book/'>говорящие книжки</a></li></ul></div><div class='upshow-block'><a href='/products_for_children/children_s_umbrellas/'>детские зонты</a></div><div class='upshow-block'><a href='/products_for_children/tovary-dlya-shkoly/'>Товары для школы</a><ul><li><a href='/products_for_children/childrens_backpacks/'>Детские рюкзаки</a></li><li><a href='/products_for_children/shkolnye-penaly/'>Школьные пеналы</a></li></ul></div><div class='upshow-block'><a href='/products_for_children/solncezashchitnye-ochki-dlya-detey/'>солнцезащитные очки для детей</a></div><div class='upshow-block'><a href='/products_for_children/new_year_goods/'>Новогодние товары</a><ul><li><a href='/products_for_children/firs/'>Елки</a></li><li><a href='/products_for_children/christmas_finery/'>Елочные украшения</a></li><li><a href='/products_for_children/new_year_figures_and_souvenirs/'>Новогодний декор, фигурки и сувениры</a></li></ul></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/digital_technique/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-digital_technique.png'>
+								<img src='/style/2017/img/menu-icon-digital_technique-hover.png'>
+							</div><span>Цифровая техника</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/digital_technique/tv/'>Телевизоры и аксессуары</a><ul><li><a href='/digital_technique/15-25_inch/'>15-25 дюймов</a></li><li><a href='/digital_technique/26-37_inch/'>26-37 дюймов</a></li><li><a href='/digital_technique/39-52_inch/'>39-52 дюймов</a></li><li><a href='/digital_technique/55-80_inch/'>55-82 дюймов </a></li><li><a href='/digital_technique/kronshtejny/'>Кронштейны</a></li><li><a href='/digital_technique/remote_control/'>Пульты ДУ</a></li><li><a href='/digital_technique/tv_tuners/'>Цифровые ТВ ресиверы</a></li><li><a href='/digital_technique/antennas/'>Антенны</a></li></ul></div><div class='upshow-block'><a href='/digital_technique/audio-video_equipment/'>Аудио-видео техника</a><ul><li><a href='/digital_technique/videocamera/'>Видеокамеры</a></li><li><a href='/digital_technique/home_theater/'>Домашние кинотеатры</a></li><li><a href='/digital_technique/receivers/'>Магнитолы</a></li><li><a href='/digital_technique/stereos/'>Музыкальные центры</a></li><li><a href='/digital_technique/dvd_blu_ray_players/'>DVD-плееры</a></li><li><a href='/digital_technique/radios/'>Радиоприемники</a></li><li><a href='/digital_technique/stac_mediaplayers/'>Стационарные медиаплееры</a></li></ul></div><div class='upshow-block'><a href='/digital_technique/portable_electronics/'>Портативная электроника</a><ul><li><a href='/digital_technique/headphones/'>Наушники</a></li><li><a href='/digital_technique/dictaphone/'>Диктофоны</a></li></ul></div><div class='upshow-block'><a href='/digital_technique/telephony/'>Телефония</a><ul><li><a href='/digital_technique/radiotelephones/'>Радиотелефоны</a></li><li><a href='/digital_technique/corded_phones/'>Проводные телефоны</a></li></ul></div><div class='upshow-block'><a href='/digital_technique/computers_and_peripherals/'>Компьютеры и периферия</a><ul><li><a href='/digital_technique/laptops/'>Ноутбуки</a></li><li><a href='/digital_technique/tablet_pc/'>Планшеты</a></li><li><a href='/digital_technique/computer_speakers/'>Колонки</a></li><li><a href='/digital_technique/monitors/'>Мониторы</a></li><li><a href='/digital_technique/mouse-computer/'>Мыши</a></li><li><a href='/digital_technique/keyboards/'>Клавиатуры</a></li><li><a href='/digital_technique/printers/'>Принтеры</a></li><li><a href='/digital_technique/hard_disks/'>Жесткие диски</a></li><li><a href='/digital_technique/cd-diski/'>Аудиодиски</a></li><li><a href='/digital_technique/paper_for_printers/'>Бумага для принтеров</a></li></ul></div><div class='upshow-block'><a href='/digital_technique/audio_video_accessories/'>Аксессуары и дополнительные принадлежности для цифровой техники</a><ul><li><a href='/digital_technique/usb_cable/'>Кабели USB</a></li></ul></div><div class='upshow-block'><a href='/digital_technique/lumiere_and_lighting/'>Светомузыка и освещение</a><ul><li><a href='/digital_technique/lighting_effects/'>Световые эффекты</a></li></ul></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/technology_for_health_and_krso/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-technology_for_health_and_krso.png'>
+								<img src='/style/2017/img/menu-icon-technology_for_health_and_krso-hover.png'>
+							</div><span>Техника для здоровья и красоты</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/technology_for_health_and_krso/razor/'>Бритвы</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/trimmers_hair/'>Триммеры для стрижки волос</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/toothbrushes/'>Зубные щетки</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/scales/'>Напольные весы</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/hair_dlya_strizhki/'>машинки для стрижки</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/hairdryers/'>фены</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/hair_straightener/'>выпрямители для волос</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/forceps_for_placing/'>щипцы для укладки</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/epilators/'>эпиляторы</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/foot_bath/'>ванночки для ног</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/mirror/'>зеркала для макияжа</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/electro_bigudi/'>электробигуди</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/brush_eyelashes/'>щёточки  для ресниц</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/eyelash_curlers/'>щипцы для завивки ресниц</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/devices_for_face/'>устройства по уходу за лицом</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/sets_of_pedicure/'>наборы для педикюра</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/set_of_manicure/'>наборы для маникюра</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/massagers/'>массажеры</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/combs/'>расчески</a></div><div class='upshow-block'><a href='/technology_for_health_and_krso/accessories/'>аксессуары к товарам для здоровья и красоты</a><ul><li><a href='/technology_for_health_and_krso/replacement_nozzle_for_toothbrush/'>Сменные насадки для зубных щеток</a></li><li><a href='/technology_for_health_and_krso/caps_change_for_shaving/'>Сменные насадки для бритв</a></li><li><a href='/technology_for_health_and_krso/means_to_care_for_razors/'>Средства по уходу за бритвами</a></li><li><a href='/technology_for_health_and_krso/care_products_for_face/'>Средства по уходу за лицом</a></li><li><a href='/technology_for_health_and_krso/caps_change_for_epilators/'>Сменные насадки для эпиляторов</a></li><li><a href='/technology_for_health_and_krso/attachments_for_manicure_set/'>Насадки для маникюрного набора</a></li><li><a href='/technology_for_health_and_krso/removable_nozzle_forceps/'>Сменные насадки для щипцов</a></li></ul></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/sports_and_recreation/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-sports_and_recreation.png'>
+								<img src='/style/2017/img/menu-icon-sports_and_recreation-hover.png'>
+							</div><span>Товары для спорта и отдыха</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/sports_and_recreation/tourism/'>Туризм</a><ul><li><a href='/sports_and_recreation/tourist_tent/'>Палатки туристические</a></li><li><a href='/sports_and_recreation/rucksacks/'>Рюкзаки туристические</a></li><li><a href='/sports_and_recreation/sleeping_bags/'>Спальные мешки</a></li><li><a href='/sports_and_recreation/rugs_for_tourist/'>Коврики туристические</a></li><li><a href='/sports_and_recreation/camping_furniture/'>Походная мебель</a></li></ul></div><div class='upshow-block'><a href='/sports_and_recreation/bicycles_and_accessories/'>Велосипеды и аксессуары</a><ul><li><a href='/sports_and_recreation/bicycles/'>Велосипеды</a></li><li><a href='/sports_and_recreation/cycling_gloves/'>Велоперчатки</a></li><li><a href='/sports_and_recreation/bike_computer/'>Велокомпьютеры</a></li></ul></div><div class='upshow-block'><a href='/sports_and_recreation/for_strength_training/'>Товары для силовых тренировок</a><ul><li><a href='/sports_and_recreation/trapezes/'>Турники</a></li></ul></div><div class='upshow-block'><a href='/sports_and_recreation/for_fitness/'>Товары для фитнеса</a><ul><li><a href='/sports_and_recreation/gymnastic_mats/'>Гимнастические маты</a></li></ul></div><div class='upshow-block'><a href='/sports_and_recreation/blisks_and_giroskutery/'>Моноколеса и гироскутеры</a><ul><li><a href='/sports_and_recreation/giroskutery/'>Гироскутеры</a></li><li><a href='/sports_and_recreation/blisks/'>Моноколеса</a></li></ul></div><div class='upshow-block'><a href='/sports_and_recreation/scooters_for_adults/'>Самокаты для взрослых</a><ul><li><a href='/sports_and_recreation/elektrosamokaty/'>Электросамокаты</a></li><li><a href='/sports_and_recreation/urban_scooters/'>Городские самокаты</a></li></ul></div><div class='upshow-block'><a href='/sports_and_recreation/skis_and_accessories/'>Лыжи и аксессуары</a><ul><li><a href='/sports_and_recreation/cross-country_skiing/'>Беговые лыжи</a></li><li><a href='/sports_and_recreation/ski_poles/'>Лыжные палки</a></li></ul></div><div class='upshow-block'><a href='/sports_and_recreation/products_for_water_sports/'>Товары для водного спорта</a><ul><li><a href='/sports_and_recreation/inflatable_boat/'>Надувные лодки</a></li><li><a href='/sports_and_recreation/masks_for_diving/'>Маски для подводного плавания</a></li><li><a href='/sports_and_recreation/diving_tubes/'>Трубки для подводного плавания</a></li><li><a href='/sports_and_recreation/sets_for_diving/'>Наборы для подводного плавания</a></li></ul></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/products_for_cars_and_moto/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-products_for_cars_and_moto.png'>
+								<img src='/style/2017/img/menu-icon-products_for_cars_and_moto-hover.png'>
+							</div><span>Товары для авто и мототехники</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/products_for_cars_and_moto/automotive_appliances_and_electronics/'>Автомобильная техника и электроника</a><ul><li><a href='/products_for_cars_and_moto/alcoholtesters/'>Алкотестеры</a></li><li><a href='/products_for_cars_and_moto/videoregistrator/'>Видеорегистраторы</a></li><li><a href='/products_for_cars_and_moto/gps_navigators/'>Навигационные системы</a></li><li><a href='/products_for_cars_and_moto/radar-detectors/'>Радар-детекторы</a></li><li><a href='/products_for_cars_and_moto/fm_transmitter/'>FM-трансмиттеры</a></li><li><a href='/products_for_cars_and_moto/car-inverters/'>Автомобильные инверторы</a></li><li><a href='/products_for_cars_and_moto/carradios/'>Автомагнитолы</a></li><li><a href='/products_for_cars_and_moto/parking_radars/'>Парковочные радары</a></li></ul></div><div class='upshow-block'><a href='/products_for_cars_and_moto/car_acoustics/'>Автомобильная акустика</a><ul><li><a href='/products_for_cars_and_moto/automobile_columns/'>Автомобильные колонки</a></li><li><a href='/products_for_cars_and_moto/automobile_subwoofers/'>Автомобильные сабвуферы</a></li><li><a href='/products_for_cars_and_moto/automobile_amplifiers/'>Автомобильные усилители</a></li></ul></div><div class='upshow-block'><a href='/products_for_cars_and_moto/oil_and_liquids/'>Автомобильные масла и жидкости</a><ul><li><a href='/products_for_cars_and_moto/transmission_oils/'>Трансмиссионные масла</a></li><li><a href='/products_for_cars_and_moto/motor_oils/'>Моторные масла</a></li><li><a href='/products_for_cars_and_moto/brake_fluid/'>Тормозные жидкости</a></li><li><a href='/products_for_cars_and_moto/automotive_antifreeze/'>Автомобильные антифризы</a></li><li><a href='/products_for_cars_and_moto/auto_nezamerzaiky/'>Незамерзающие жидкости</a></li></ul></div><div class='upshow-block'><a href='/products_for_cars_and_moto/auto-chemistry_and_auto-cosmetic/'>Автохимия и автокосметика</a><ul><li><a href='/products_for_cars_and_moto/autoenamels/'>Автоэмали</a></li><li><a href='/products_for_cars_and_moto/polishingforcars/'>Полироли для автомобилей</a></li><li><a href='/products_for_cars_and_moto/sealants_for_cars/'>Герметики для автомобилей</a></li><li><a href='/products_for_cars_and_moto/car_anticorrosion/'>Автомобильные антикоры</a></li><li><a href='/products_for_cars_and_moto/primers_for_cars/'>Грунты для автомобилей</a></li></ul></div><div class='upshow-block'><a href='/holodilniki/avtomobilnye/'>Автомобильные холодильники</a></div></div>				</li>
+				<li onclick='this.toggleClass("active");'>
+					<a href='/furniture/' onclick='return clkLMenu2Go();'><div class='inborder'><div class='pic'>
+								<img src='/style/2017/img/menu-icon-furniture.png'>
+								<img src='/style/2017/img/menu-icon-furniture-hover.png'>
+							</div><span>Мебель</span></div></a>
+<div class='upshow'><div class='upshow-block'><a href='/furniture/sofas_and_armchairs/'>Диваны и кресла</a><ul><li><a href='/furniture/direct_sofas/'>Прямые диваны</a></li><li><a href='/furniture/corner_sofas/'>Угловые диваны</a></li><li><a href='/furniture/couches/'>Кушетки</a></li><li><a href='/furniture/lounge/'>Кресла</a></li><li><a href='/furniture/rocking_chairs/'>Кресла-качалки</a></li><li><a href='/furniture/puffs/'>Пуфы</a></li></ul></div><div class='upshow-block'><a href='/furniture/furniture_for_anteroom/'>Мебель для прихожей</a><ul><li><a href='/furniture/obuvnitsy/'>Обувницы</a></li><li><a href='/furniture/bancettes/'>Банкетки</a></li><li><a href='/furniture/clothes_hangers/'>Вешалки для одежды</a></li><li><a href='/furniture/mirrors/'>Зеркала</a></li></ul></div><div class='upshow-block'><a href='/furniture/bedroom_furniture/'>Мебель для спальни</a><ul><li><a href='/furniture/mattresses/'>Матрасы</a></li><li><a href='/furniture/bases_for_beds/'>Ортопедические основания</a></li><li><a href='/furniture/chests/'>Комоды</a></li><li><a href='/furniture/accessories_for_furniture/'>Аксессуары для мебели</a></li></ul></div><div class='upshow-block'><a href='/furniture/living_room_furniture/'>Мебель для гостиной</a><ul><li><a href='/furniture/coffee_tables/'>Журнальные столы</a></li></ul></div><div class='upshow-block'><a href='/furniture/furniture_for_kitchen/'>Мебель для кухни</a><ul><li><a href='/furniture/dining_tables/'>Обеденные столы</a></li><li><a href='/furniture/tables_notebook/'>Столы-книжки</a></li><li><a href='/furniture/transforming_tables/'>Столы-трансформеры</a></li><li><a href='/furniture/chairs_for_kitchen/'>Стулья для кухни</a></li><li><a href='/furniture/stools/'>Табуреты</a></li><li><a href='/furniture/kitchen_sets/'>Кухонные гарнитуры</a></li><li><a href='/furniture/kitchen_sofas/'>Кухонные диваны</a></li></ul></div><div class='upshow-block'><a href='/furniture/office_furniture/'>Офисная мебель</a><ul><li><a href='/furniture/computer_tables/'>Компьютерные столы</a></li><li><a href='/furniture/desks/'>Письменные столы</a></li><li><a href='/furniture/office_armchairs/'>Офисные кресла</a></li><li><a href='/furniture/office_chairs/'>Офисные стулья</a></li></ul></div><div class='upshow-block'><a href='/furniture/frameless_furniture/'>Бескаркасная мебель</a><ul><li><a href='/furniture/armchairs-bags/'>Кресла-мешки</a></li><li><a href='/furniture/ottoman/'>Пуфики</a></li></ul></div><div class='upshow-block'><a href='/furniture/furniture_for_storage/'>Мебель для хранения</a><ul><li><a href='/furniture/iron_chests/'>Гладильные комоды</a></li></ul></div></div>				</li>
+				<li>
+					<a href='/discounted/'>
+						<div class='inborder'>
+							<div class='pic'>
+								<img src='/style/2017/img/menu-icon-percent.png'>
+								<img src='/style/2017/img/menu-icon-percent-hover.png'>
+							</div><span>Уцененные товары</span>
+						</div>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class='x-container'>
+			<div class='x-row-1'>
+				<div class='menu-top'>
+					<a href='javascript:void(0);' onclick='ncm_Show("yourcity");' class='green'><i class="fa fa-location-arrow" aria-hidden="true"></i> <b>Москва и область</b></a>
+<a href="/rubrics/possible_methods_of_payment/" class='grey'>Способы оплаты</a>
+<a href="/rubrics/punkti_samovivoza_msk/" class='grey'>Пункты выдачи</a>
+<a href="/rubrics/delivery/" class='grey'>Доставка</a>
+<a href="/rubrics/optovye_prodagi/" class='grey'>Оптовым покупателям</a>
+<a href="/rubrics/invite/" class='grey'>Приглашаем новых поставщиков</a>
+<a href="/actions/" class='grey'>Акции</a>					<span class='shop-menu-top'>
+						<span onclick=''>Информация для покупателей</span>
+						<ul><li><a href="/rubrics/possible_methods_of_payment/">Способы оплаты</a></li>
+<li><a href="/rubrics/punkti_samovivoza_msk/">Пункты выдачи</a></li>
+<li><a href="/rubrics/delivery/">Доставка</a></li>
+<li><a href="/rubrics/optovye_prodagi/">Оптовым покупателям</a></li>
+<li><a href="/rubrics/invite/">Приглашаем новых поставщиков</a></li>
+<li><a href="/actions/">Акции</a></li></ul>
+					</span>
+				</div>
+				<hr>
+				<div class='userbar'>
+					<a href='javascript:void(0)' class='left-menu-toggler' onclick="document.querySelector('.everything .left-menu-outer').toggleClass('active')"><img src='/style/2017/img/menu-icon-bars.png'></a>
+					<a class='logo' href='/'>
+						<img src='/style/2017/img/logo.png'>
+					</a>
+					<div class='phone'>
+						<p class='small'>Пн-Пт 9-21, Сб-Вс 10-18&nbsp;</p>						<span class='phone-body'>
+							<a href='tel:+74959833139' id='phoneBody'>+7 (495) 983-31-39</a>
+							<div class='phones-list'>
+								<a href='tel:+74959833139' onclick='fPhoneBody("+74959833139", "+7 (495) 983-31-39");'>+7 (495) 983-31-39</a>							</div>
+						</span>
+					</div>
+					<form action='/search/' method='GET' name='frm_search' id='frm_search'>
+						<input class='input' name='search[s_word]' type='search' placeholder='Поиск' />
+						<input name='search[action]' type='hidden' value='search' />
+						<input name='search[cat_path]' class='cat_path' type='hidden' value='' />
+						<i class='fa fa-search' onclick='frm_search.submit();'></i>
+						<div class='search-categories' onclick=''>
+							<span class='cat_name'>Все категории</span>
+							<i class='fa fa-angle-down'></i>
+							<div class='search-categories-list'>
+								<a href='javascript:void(0);' onclick='fSearchChangeCat("", "Все категории");'>Все категории</a>
+								<a href='javascript:void(0);' onclick='fSearchChangeCat("001", "Холодильники и морозильники");'>Холодильники и морозильники</a><a href='javascript:void(0);' onclick='fSearchChangeCat("002", "Встраиваемая бытовая техника");'>Встраиваемая бытовая техника</a><a href='javascript:void(0);' onclick='fSearchChangeCat("003", "Посудомоечные машины");'>Посудомоечные машины</a><a href='javascript:void(0);' onclick='fSearchChangeCat("004", "Стиральные и сушильные машины");'>Стиральные и сушильные машины</a><a href='javascript:void(0);' onclick='fSearchChangeCat("005", "Электрические и газовые плиты");'>Электрические и газовые плиты</a><a href='javascript:void(0);' onclick='fSearchChangeCat("006", "Бытовая техника для кухни");'>Бытовая техника для кухни</a><a href='javascript:void(0);' onclick='fSearchChangeCat("007", "Посуда");'>Посуда</a><a href='javascript:void(0);' onclick='fSearchChangeCat("008", "Товары для дома");'>Товары для дома</a><a href='javascript:void(0);' onclick='fSearchChangeCat("009", "Текстиль для дома");'>Текстиль для дома</a><a href='javascript:void(0);' onclick='fSearchChangeCat("010", "Товары для сада");'>Товары для сада</a><a href='javascript:void(0);' onclick='fSearchChangeCat("011", "Климатическая техника");'>Климатическая техника</a><a href='javascript:void(0);' onclick='fSearchChangeCat("013", "Товары для детей");'>Товары для детей</a><a href='javascript:void(0);' onclick='fSearchChangeCat("015", "Цифровая техника");'>Цифровая техника</a><a href='javascript:void(0);' onclick='fSearchChangeCat("016", "Техника для здоровья и красоты");'>Техника для здоровья и красоты</a><a href='javascript:void(0);' onclick='fSearchChangeCat("017", "Товары для спорта и отдыха");'>Товары для спорта и отдыха</a><a href='javascript:void(0);' onclick='fSearchChangeCat("018", "Товары для авто и мототехники");'>Товары для авто и мототехники</a><a href='javascript:void(0);' onclick='fSearchChangeCat("019", "Мебель");'>Мебель</a>							</div>
+						</div>
+					</form>
+					<div class='controls'>
+																		<a class='icon-control cart' href='/cart/'>
+							<img src='/style/2017/img/icon-cart-grey.png'>
+							<img src='/style/2017/img/icon-cart-dark.png'>
+							<img src='/style/2017/img/icon-cart-white.png'>
+							<span class='inline'>
+								<span class='counter' id='cart_counter'>0<span> товаров</span></span>
+								<div class='price'>
+									<b><span id='cart_total_price'>0</span> <span class='rouble'>a</span></b>
+								</div>
+							</span>
+						</a>
+					</div>
+				</div>
+			</div>
+			<div class='x-row-2'>
+<ul class='breadcrumbs'><li><a href='/'><i class='fa fa-home'></i></a></li><li>Результат поиска</li></ul><div class="mainpage-banner mainpage-banner-thin">
+	<a href='/actions/vodi-net/' class='go_bann' itemsid='20000202'><img src='/content/d41d8cd98f00b204e9800998ecf8427e/act_vodi-net-100.jpg'></a>
+	<a href='/actions/moiki_elleci_po_special_cene/' class='go_bann' itemsid='20000066'><img src='/content/d41d8cd98f00b204e9800998ecf8427e/act_uspey-kupit-svoyu-1860h100.jpg'></a>
+	<a href='/actions/predstavlyaem-plity-flama/' class='go_bann' itemsid='20000208'><img src='/content/d41d8cd98f00b204e9800998ecf8427e/act_flama-1860h100.jpg'></a>
+	<a href='/actions/timberk_by_choosing_wisely_choose_the_best/' class='go_bann' itemsid='20000124'><img src='/content/d41d8cd98f00b204e9800998ecf8427e/act_timb-1860h100.jpg'></a>
+	<a href='/actions/zs_give_gifts/' class='go_bann' itemsid='20000114'><img src='/content/d41d8cd98f00b204e9800998ecf8427e/act_podarki-zs-1860h100.jpg'></a>
+	<a href='/actions/timberk_besplatno_na_dom/' class='go_bann' itemsid='20000149'><img src='/content/d41d8cd98f00b204e9800998ecf8427e/act_timb-na-dom-1860h100.jpg'></a>
+</div>
+
+<div class='catalogue-group'>
+	<div class='main-column'>
+		<div class='title'>
+			<h1>Результат поиска</h1>
+		</div>
+		<div class="article"><p>Вы искали: <b>vitek</b></p></div>
+				<div class='pagination'>
+			<a href='/search/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon active'><b>1</b></a><a href='/search/page_2/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>2</b></a><a href='/search/page_3/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>3</b></a><a href='/search/page_4/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>4</b></a><a href='/search/page_5/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>5</b></a><a href='/search/page_6/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>6</b></a><a href='/search/page_7/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>7</b></a>			<a href='/search/page_all/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-orange'>Показать все</a>		</div>
+		<div class='cards-list cards-list-catalogue'>
+					<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/climatics/humidifiers/vitek/vt_1764/' class='pic action_field_from' itemsid='4021'>
+					<img class='lazy' data-original='/sm/psmall_4021.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>6 310 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_4021" href="#" onclick="checkincart(4021,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0026114</b></div>
+				</div>				<a href='/climatics/humidifiers/vitek/vt_1764/' class='action_field_from' itemsid='4021'>Увлажнители воздуха Vitek VT-1764</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/climatics/humidifiers/vitek/vt_1767/' class='pic action_field_from' itemsid='4025'>
+					<img class='lazy' data-original='/sm/psmall_4025.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>6 120 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_4025" href="#" onclick="checkincart(4025,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0001176</b></div>
+				</div>				<a href='/climatics/humidifiers/vitek/vt_1767/' class='action_field_from' itemsid='4025'>Увлажнители воздуха Vitek VT-1767</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/climatics/humidifiers/vitek/vt_1765/' class='pic action_field_from' itemsid='5566'>
+					<img class='lazy' data-original='/sm/psmall_5566.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>5 010 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_5566" href="#" onclick="checkincart(5566,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0026115</b></div>
+				</div>				<a href='/climatics/humidifiers/vitek/vt_1765/' class='action_field_from' itemsid='5566'>Увлажнители воздуха Vitek VT-1765</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/appliances_for_the_home/irons/vitek/vt_1201_g/' class='pic action_field_from' itemsid='9626'>
+					<img class='lazy' data-original='/sm/psmall_9626.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>1 570 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_9626" href="#" onclick="checkincart(9626,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0024317</b></div>
+				</div>				<a href='/appliances_for_the_home/irons/vitek/vt_1201_g/' class='action_field_from' itemsid='9626'>утюги Vitek VITEK VT-1201 G</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/appliances_for_the_home/irons/vitek/vt_1201_bn/' class='pic action_field_from' itemsid='9627'>
+					<img class='lazy' data-original='/sm/psmall_9627.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>1 530 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_9627" href="#" onclick="checkincart(9627,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0024315</b></div>
+				</div>				<a href='/appliances_for_the_home/irons/vitek/vt_1201_bn/' class='action_field_from' itemsid='9627'>утюги Vitek VITEK VT- 1201 BN</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/appliances_for_the_home/irons/vitek/vt_1209_vt/' class='pic action_field_from' itemsid='9629'>
+					<img class='lazy' data-original='/sm/psmall_9629.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>1 790 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_9629" href="#" onclick="checkincart(9629,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0024322</b></div>
+				</div>				<a href='/appliances_for_the_home/irons/vitek/vt_1209_vt/' class='action_field_from' itemsid='9629'>утюги Vitek VITEK VT-1209 VT</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/appliances_for_the_home/irons/vitek/vt_1209_bn/' class='pic action_field_from' itemsid='9630'>
+					<img class='lazy' data-original='/sm/psmall_9630.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>1 970 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_9630" href="#" onclick="checkincart(9630,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0001143</b></div>
+				</div>				<a href='/appliances_for_the_home/irons/vitek/vt_1209_bn/' class='action_field_from' itemsid='9630'>утюги Vitek VITEK VT-1209 BN</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/climatics/humidifiers/vitek/vt_1770/' class='pic action_field_from' itemsid='21917'>
+					<img class='lazy' data-original='/sm/psmall_21917.JPG'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>7 470 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_21917" href="#" onclick="checkincart(21917,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0026117</b></div>
+				</div>				<a href='/climatics/humidifiers/vitek/vt_1770/' class='action_field_from' itemsid='21917'>Увлажнители воздуха Vitek VT-1770</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/multi_cook/vitek/vt_4216/' class='pic action_field_from' itemsid='28281'>
+					<img class='lazy' data-original='/sm/psmall_28281.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>5 790 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_28281" href="#" onclick="checkincart(28281,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0024512</b></div>
+				</div>				<a href='/domestics/multi_cook/vitek/vt_4216/' class='action_field_from' itemsid='28281'>Мультиварки Vitek VT-4216</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/multi_cook/vitek/vt_4220/' class='pic action_field_from' itemsid='28283'>
+					<img class='lazy' data-original='/sm/psmall_28283.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>5 920 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_28283" href="#" onclick="checkincart(28283,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0024513</b></div>
+				</div>				<a href='/domestics/multi_cook/vitek/vt_4220/' class='action_field_from' itemsid='28283'>Мультиварки Vitek VT-4220</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/climatics/humidifiers/vitek/wx_3101/' class='pic action_field_from' itemsid='28878'>
+					<img class='lazy' data-original='/sm/psmall_28878.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>2 280 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_28878" href="#" onclick="checkincart(28878,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0011372</b></div>
+				</div>				<a href='/climatics/humidifiers/vitek/wx_3101/' class='action_field_from' itemsid='28878'>Увлажнители воздуха Vitek WX-3101</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/multi_cook/vitek/vt_4209/' class='pic action_field_from' itemsid='29196'>
+					<img class='lazy' data-original='/sm/psmall_29196.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>9 150 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_29196" href="#" onclick="checkincart(29196,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0024509</b></div>
+				</div>				<a href='/domestics/multi_cook/vitek/vt_4209/' class='action_field_from' itemsid='29196'>Мультиварки Vitek VT-4209</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/multi_cook/vitek/vt_4218/' class='pic action_field_from' itemsid='29205'>
+					<img class='lazy' data-original='/sm/psmall_29205.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>7 000 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_29205" href="#" onclick="checkincart(29205,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0028911</b></div>
+				</div>				<a href='/domestics/multi_cook/vitek/vt_4218/' class='action_field_from' itemsid='29205'>Мультиварки Vitek VT-4218</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/grinder/vitek/vt_3601_bw/' class='pic action_field_from' itemsid='29620'>
+					<img class='lazy' data-original='/sm/psmall_29620.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>5 470 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_29620" href="#" onclick="checkincart(29620,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0011937</b></div>
+				</div>				<a href='/domestics/grinder/vitek/vt_3601_bw/' class='action_field_from' itemsid='29620'>Мясорубки Vitek VT-3601 BW</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/grinder/vitek/vt_3605/' class='pic action_field_from' itemsid='34102'>
+					<img class='lazy' data-original='/sm/psmall_34102.jpeg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>3 990 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_34102" href="#" onclick="checkincart(34102,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0012645</b></div>
+				</div>				<a href='/domestics/grinder/vitek/vt_3605/' class='action_field_from' itemsid='34102'>Мясорубки Vitek VT-3605</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/multi_cook/vitek/vt_4205_bk/' class='pic action_field_from' itemsid='34384'>
+					<img class='lazy' data-original='/sm/psmall_34384.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>5 230 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_34384" href="#" onclick="checkincart(34384,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0028910</b></div>
+				</div>				<a href='/domestics/multi_cook/vitek/vt_4205_bk/' class='action_field_from' itemsid='34384'>Мультиварки Vitek VT-4205 BK</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/multi_cook/vitek/vt_4205_bw/' class='pic action_field_from' itemsid='34385'>
+					<img class='lazy' data-original='/sm/psmall_34385.JPG'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>5 230 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_34385" href="#" onclick="checkincart(34385,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0000429</b></div>
+				</div>				<a href='/domestics/multi_cook/vitek/vt_4205_bw/' class='action_field_from' itemsid='34385'>Мультиварки Vitek VT-4205 BW</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/climatics/humidifiers/vitek/vt_2351/' class='pic action_field_from' itemsid='36173'>
+					<img class='lazy' data-original='/sm/psmall_36173.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>2 250 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36173" href="#" onclick="checkincart(36173,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0011127</b></div>
+				</div>				<a href='/climatics/humidifiers/vitek/vt_2351/' class='action_field_from' itemsid='36173'>Увлажнители воздуха Vitek VT-2351(W)</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/technology_for_health_and_krso/razor/vitek/vt_2371/' class='pic action_field_from' itemsid='36174'>
+					<img class='lazy' data-original='/sm/psmall_36174.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>660 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36174" href="#" onclick="checkincart(36174,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0011128</b></div>
+				</div>				<a href='/technology_for_health_and_krso/razor/vitek/vt_2371/' class='action_field_from' itemsid='36174'>Бритвы Vitek VT-2371(BK)</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/grinder/vitek/vt_3602_bw/' class='pic action_field_from' itemsid='36319'>
+					<img class='lazy' data-original='/sm/psmall_36319.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>6 540 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36319" href="#" onclick="checkincart(36319,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0005588</b></div>
+				</div>				<a href='/domestics/grinder/vitek/vt_3602_bw/' class='action_field_from' itemsid='36319'>Мясорубки Vitek VT-3602 (BW)</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/grinder/vitek/vt_3603/' class='pic action_field_from' itemsid='36320'>
+					<img class='lazy' data-original='/sm/psmall_36320.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>3 410 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36320" href="#" onclick="checkincart(36320,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0072544</b></div>
+				</div>				<a href='/domestics/grinder/vitek/vt_3603/' class='action_field_from' itemsid='36320'>Мясорубки Vitek VT-3603</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/grinder/vitek/vt_3604_w/' class='pic action_field_from' itemsid='36321'>
+					<img class='lazy' data-original='/sm/psmall_36321.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>6 530 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36321" href="#" onclick="checkincart(36321,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0011152</b></div>
+				</div>				<a href='/domestics/grinder/vitek/vt_3604_w/' class='action_field_from' itemsid='36321'>Мясорубки Vitek VT-3604(W)</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/multi_cook/vitek/vt_4208/' class='pic action_field_from' itemsid='36323'>
+					<img class='lazy' data-original='/sm/psmall_36323.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>4 170 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36323" href="#" onclick="checkincart(36323,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0011154</b></div>
+				</div>				<a href='/domestics/multi_cook/vitek/vt_4208/' class='action_field_from' itemsid='36323'>Мультиварки Vitek VT-4208(CL)</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/multi_cook/vitek/vt_4214/' class='pic action_field_from' itemsid='36326'>
+					<img class='lazy' data-original='/sm/psmall_36326.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>4 410 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36326" href="#" onclick="checkincart(36326,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0005596</b></div>
+				</div>				<a href='/domestics/multi_cook/vitek/vt_4214/' class='action_field_from' itemsid='36326'>Мультиварки Vitek VT-4214(R)</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/multi_cook/vitek/vt_4217_bn/' class='pic action_field_from' itemsid='36328'>
+					<img class='lazy' data-original='/sm/psmall_36328.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>4 810 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36328" href="#" onclick="checkincart(36328,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0011155</b></div>
+				</div>				<a href='/domestics/multi_cook/vitek/vt_4217_bn/' class='action_field_from' itemsid='36328'>Мультиварки Vitek VT-4217(BN)</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/technology_for_health_and_krso/razor/vitek/vt_1372/' class='pic action_field_from' itemsid='36350'>
+					<img class='lazy' data-original='/sm/psmall_36350.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>1 040 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36350" href="#" onclick="checkincart(36350,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0024361</b></div>
+				</div>				<a href='/technology_for_health_and_krso/razor/vitek/vt_1372/' class='action_field_from' itemsid='36350'>Бритвы Vitek VT1372</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/technology_for_health_and_krso/razor/vitek/vt_1373/' class='pic action_field_from' itemsid='36351'>
+					<img class='lazy' data-original='/sm/psmall_36351.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>1 400 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36351" href="#" onclick="checkincart(36351,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0000275</b></div>
+				</div>				<a href='/technology_for_health_and_krso/razor/vitek/vt_1373/' class='action_field_from' itemsid='36351'>Бритвы Vitek VT1373</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/technology_for_health_and_krso/razor/vitek/vt_1377/' class='pic action_field_from' itemsid='36352'>
+					<img class='lazy' data-original='/sm/psmall_36352.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>1 480 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_36352" href="#" onclick="checkincart(36352,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0001152</b></div>
+				</div>				<a href='/technology_for_health_and_krso/razor/vitek/vt_1377/' class='action_field_from' itemsid='36352'>Бритвы Vitek VT1377</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/grinder/vitek/vt_361128w29/' class='pic action_field_from' itemsid='62467'>
+					<img class='lazy' data-original='/sm/psmall_62467.jpg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>2 390 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_62467" href="#" onclick="checkincart(62467,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0055589</b></div>
+				</div>				<a href='/domestics/grinder/vitek/vt_361128w29/' class='action_field_from' itemsid='62467'>Мясорубки Vitek VT-3611(W)</a>
+							</div>
+			<div class='card'>
+				<div class='card-tags'>
+									</div>
+				<a href='/domestics/grinder/vitek/vt_3613_bn/' class='pic action_field_from' itemsid='77550'>
+					<img class='lazy' data-original='/sm/psmall_77550.jpeg'>
+				</a>
+				<div class='texts'>
+										<div class='price'>
+												<b>3 210 <span class='rouble'>a</span></b>
+					</div>
+					<div class='controls'>
+						<a class="icon-control prdincart_77550" href="#" onclick="checkincart(77550,0,'active');return false;">
+							<img src="/style/2017/img/icon-cart-grey.png">
+							<img src="/style/2017/img/icon-cart-dark.png">
+						</a>
+											</div>
+									</div>
+				<div class='star-rating star-rating-value-4'>
+					<div><b class='mute small'>Код товара: </b><b class='text-red fw400'>0068771</b></div>
+				</div>				<a href='/domestics/grinder/vitek/vt_3613_bn/' class='action_field_from' itemsid='77550'>Мясорубки Vitek VT-3613 BN</a>
+							</div>
+		</div>
+				<div class='pagination'>
+			<a href='/search/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon active'><b>1</b></a><a href='/search/page_2/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>2</b></a><a href='/search/page_3/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>3</b></a><a href='/search/page_4/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>4</b></a><a href='/search/page_5/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>5</b></a><a href='/search/page_6/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>6</b></a><a href='/search/page_7/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-icon'><b>7</b></a>			<a href='/search/page_all/?search%5Bs_word%5D=vitek&search%5Baction%5D=search&search%5Bcat_path%5D=' class='button button-orange'>Показать все</a>		</div>
+	</div>
+</div>			</div>
+			<div class='x-row-3'>
+			<div class='menu-bottom'><a href="/discounted/" class="grey">Уцененные товары</a><a href="/articles/" class="grey">Статьи</a><a href="/rubrics/optovye_prodagi/" class="grey">Оптовым покупателям</a><a href="/rubrics/obmen_i_vozvrat/" class="grey">Обмен и возврат товара</a><a href="/rubrics/invite/" class="grey">Приглашаем новых поставщиков</a></div>
+				<div class='footer' itemscope itemtype='http://schema.org/Organization'>
+					<p class='info small'>
+						&copy;&nbsp;2007&mdash;2017 Интернет магазин бытовой техники и электроники KomfortBT.RU.&nbsp;<span itemprop='name'>ОНЛАЙН-МАРКЕТ</span><br />
+						<span class='mute' itemprop='address' itemscope itemtype='http://schema.org/PostalAddress'>г. <span itemprop="addressLocality">Москва</span>, <span itemprop="streetAddress">127287,  ул. 2-я Хуторская, д. 38А, стр. 1</span></span>
+					</p>
+					<div class='right-corner'>
+						<p class='phone'>
+							<span class='mute small'>Контактный телефон</span><br>
+							<a href='tel:+74959833139' itemprop='telephone'>+7 (495) 983-31-39</a>
+						</p>
+						<p class='mail'>
+							<span class='mute small'>Почта для вопросов</span><br>
+							<a class='green' href='mailto:shop@komfortbt.ru' itemprop='email'>shop@komfortbt.ru</a>
+						</p>
+						<p class='socials'>
+	<a href='//vkontakte.ru/komfort_bt' class='button button-icon'><i class='fa fa-vk'></i></a><!--
+	--><a href='//www.facebook.com/komfortbtshop' class='button button-icon'><i class='fa fa-facebook'></i></a><!--
+	--><a href='//www.odnoklassniki.ru/group/51682688827528' class='button button-icon'><i class='fa fa-odnoklassniki'></i></a><!--
+	--><a href='#' class='button button-icon button-orange '><i class='fa fa-arrow-up'></i></a>
+	</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!-- Darken -->
+	<div class="nc34-darken"></div>
+	<!-- Modal -->
+	<div class="nc34-modal">
+        <i class="fa fa-times nc34-closing-button" onclick="ncm_Hide();"></i>
+		        <div class="yourcity">
+            <h2>Ваш город</h2>
+			<ul class="standart">
+			<li><a href="javascript: void(0);" class="active" onclick="ncm_Hide('yourcity');">Москва и область</a></li><li><a href="?action=changeSubRegion&amp;df_subregions=tvr">Тверь</a></li><li><a href="?action=changeSubRegion&amp;df_subregions=klg">Калуга</a></li>			</ul>
+        </div>        <div class="added-to-cart">
+	        <p>Товар добавлен в корзину<br /><br /></p>
+			<div class="outer-input">
+				<input type="button" class="btn-big button button-orange" value="В корзину" onclick="location.href = '/cart/';" >
+				<button class="button" onclick="nc34_darkenHide();" >Продолжить покупки</button>
+			</div>
+        </div>    </div>
+
+<script type="text/javascript" src='/js/2017/jquery.js?1484652966'></script>
+<script type="text/javascript" src='/js/2017/jquery.ui.js?1498830803'></script>
+<script type="text/javascript" src='/js/2017/jquery.lazyload.min.js?1458927882'></script>
+<script type="text/javascript" src='/js/2017/nouislider.js?1484652966'></script>
+<script type="text/javascript" src='/js/2017/maskedinput.js?1484652966'></script>
+<script type="text/javascript" src='/js/2017/masonry.js?1484652966'></script>
+<script type="text/javascript" src='/js/2017/modal.js?1484652966'></script>
+<script type="text/javascript" src='/js/2017/owl.js?1484652966'></script>
+<script type="text/javascript" src='/js/2017/scripts.js?1498937532'></script>
+<script type="text/javascript" src='/js/2017/search.js?1498830798'></script>
+<noindex><script type="text/javascript">
+var aBanners = [
+{'id': '20000202', 'name': 'Отключение воды близко!', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_1', 'destinationUrl': 'https://www.komfortbt.ru/actions/vodi-net/'},
+{'id': '20000066', 'name': 'Последняя кухонная мойка Elleci по особой цене', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_2', 'destinationUrl': 'https://www.komfortbt.ru/actions/moiki_elleci_po_special_cene/'},
+{'id': '20000208', 'name': 'Представляем плиты Flama', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_3', 'destinationUrl': 'https://www.komfortbt.ru/actions/predstavlyaem-plity-flama/'},
+{'id': '20000124', 'name': 'Timberk. Выбирая с умом, выбираешь лучшее', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_4', 'destinationUrl': 'https://www.komfortbt.ru/actions/timberk_by_choosing_wisely_choose_the_best/'},
+{'id': '20000114', 'name': 'Подарки от Zigmund & Shtain', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_5', 'destinationUrl': 'https://www.komfortbt.ru/actions/zs_give_gifts/'},
+{'id': '20000149', 'name': 'Timberk с доставкой на дом', 'creative': 'Акции', 'position': 'Cat_Upper_Longer_6', 'destinationUrl': 'https://www.komfortbt.ru/actions/timberk_besplatno_na_dom/'} 
+];
+$(document).ready(function(){
+	$(".go_bann").click(function(){
+		var banId = $(this).attr('itemsid');
+		clkBanner(banId);
+	});
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$(".action_field_from").click(function(){
+		var prdId = $(this).attr('itemsid');
+		clkProductDetail(prdId, 'Поиск');
+	});
+});
+</script>
+	</noindex>
+<script type="text/javascript">
+$(document).ready(function(){
+dataLayerLog();$("img.lazy").lazyload();
+});
+	</script>
+</body>
+</html>

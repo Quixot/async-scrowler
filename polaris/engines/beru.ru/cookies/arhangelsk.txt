@@ -1,0 +1,32 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.pokupki.market.yandex.ru	TRUE	/	TRUE	2145906000	Cookie_check	checked
+.yandex.ru	TRUE	/	TRUE	1930376486	skid	9703088171614843686
+.pokupki.market.yandex.ru	TRUE	/	TRUE	2145906000	visits	1614843686-1614843686-1614843686
+.pokupki.market.yandex.ru	TRUE	/	TRUE	2145906000	reviews-merge	true
+pokupki.market.yandex.ru	FALSE	/	FALSE	0	js	1
+pokupki.market.yandex.ru	FALSE	/	FALSE	1614845485	last-loaded-page-id	blue-market%3Asearch
+.market.yandex.ru	TRUE	/	FALSE	1617522086	dist_hide	0
+.yandex.ru	TRUE	/	TRUE	1930203687	i	saf0cKZtPedv+0PErHcaImt+yR09lVajzUzdqmUEiiBtJqzqLrG5+k4c/uCC3mLErqApfW17gky0GdqEuOXDz8ajlLE=
+.yandex.ru	TRUE	/	FALSE	1930203687	yandexuid	8765986721614843686
+.yandex.ru	TRUE	/	FALSE	1646379687	ymex	1930203687.yrts.1614843687#1930203687.yrtsi.1614843687
+pokupki.market.yandex.ru	FALSE	/	FALSE	1615059701	fonts-loaded	1
+pokupki.market.yandex.ru	FALSE	/	FALSE	1615059701	font-balloon-loaded	1
+.yandex.ru	TRUE	/	FALSE	0	gdpr	0
+.yandex.ru	TRUE	/	FALSE	1646379688	_ym_uid	1614843686441877006
+.yandex.ru	TRUE	/	FALSE	1646379688	_ym_d	1614843689
+.yandex.ru	TRUE	/	TRUE	1614930094	acclinks	
+.market.yandex.ru	TRUE	/	TRUE	2145906000	yandexmarket	10%2CRUR%2C1%2C%2C%2C%2C2%2C0%2C0%2C20%2C0%2C0
+pokupki.market.yandex.ru	FALSE	/	FALSE	1646379693	first_region_init	true
+pokupki.market.yandex.ru	FALSE	/	FALSE	1646379693	regionChanged	true
+.market.yandex.ru	TRUE	/	FALSE	1614850893	lr	20
+.pokupki.market.yandex.ru	TRUE	/	TRUE	0	parent_reqid_seq	1614843685986%2Fb918a7b207ee7038ca604518b1bc0500%2C1614843694551%2F655f26c314e032dd3212c818b1bc0500
+.pokupki.market.yandex.ru	TRUE	/	TRUE	1614850894	server_request_id_blue-market:search	1614843694551%2F655f26c314e032dd3212c818b1bc0500
+.market.yandex.ru	TRUE	/	TRUE	1646379694	_ym_uid	1614843686441877006
+

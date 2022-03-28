@@ -1,0 +1,2878 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Поиск</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+		<script data-skip-moving='true' async src='https://antisovetnic.ru/anti/43a2cf2f9c7e61b1f368f1ca2feea582'></script>
+	<script src="https://www.google.com/recaptcha/api.js?render=6LdSwM8aAAAAACHnMm8FvC5Nn18RzC7FPi0Rs5ji" async defer></script>
+	<link rel="icon" href="//spb.technohit.ru/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="//spb.technohit.ru/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="/static/css/reset.css" />
+<link rel="stylesheet" href="/static/css/main.css" />
+<link rel="stylesheet" href="/static/css/fancybox.css" />
+	<script type="text/javascript" src="/static/js/jquery.js"></script>
+<script type="text/javascript" src="/static/js/autocomplete.js"></script>
+<script type="text/javascript" src="/static/js/mask.js"></script>
+<script type="text/javascript" src="/static/js/zoom.js"></script>
+<script type="text/javascript" src="/static/js/fancybox.js"></script>
+<script type="text/javascript" src="/static/js/swipe.js"></script>
+<script type="text/javascript" src="/static/js/main.js"></script>
+<script src="//u-login.com/js/ulogin.js" defer="defer"></script>
+<script src="/engine/shared/metrika.js" type="text/javascript"></script>
+		<meta name="geo.region" content="RU" />
+	<meta name="geo.placename" content="Санкт-Петербург" />
+	<meta name="geo.position" content="59.950000;30.317000" />
+	<meta name="ICBM" content="59.950000, 30.317000" />
+	<meta property="og:type" content="website" />
+<meta property="og:title" content="Поиск" />
+<meta property="og:url" content="https://spb.technohit.ru/search/?FIND=polaris" />
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.2/css/all.css" integrity="sha384-/rXc/GQVaYpyDdyxK+ecHPVYJSN9bmVFBvjA/9eOB+pb3F2w2N6fc5qB9Ew5yIns" crossorigin="anonymous">
+	
+	<!-- Global site tag (gtag.js) - Google Ads: 742118202 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-742118202"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-742118202'); </script>	<link rel="next" href="https://spb.technohit.ru/search/page/2/?FIND=polaris&ARTICUL=N" />
+<link rel="canonical" href="https://spb.technohit.ru/search/" />
+</head>	<body>
+											<div id="wrap">
+			<div id="header">
+		<div id="tools">
+		<div id="callback">
+	<a href="/callback/" class="ajaxify">
+		<span class="inner">
+			<span class="title">Заказать звонок</span>
+		</span>
+	</a>
+</div>		<div id="cart">
+	<a href="/cart/">
+		<span class="inner">
+			<span class="icon"><span></span></span>
+			<span class="info">
+									<i>В корзине<br />нет товаров</i>
+							</span>
+		</span>
+	</a>
+</div>		<div id="cabinet">
+			<div class="profile">
+			<a href="/registration/">
+				<span class="inner">Регистрация</span>
+			</a>
+		</div>
+		<div class="login">
+			<a href="/login/" class="ajaxify">
+				<span class="inner">Вход</span>
+			</a>
+		</div>
+	</div>	</div>
+	<div id="logo" class="in-side fx">
+		<a href="/">Интернет-магазин бытовой техники</a>	</div>
+	<div id="phones" class="out-side fx modal">
+	<div itemscope itemtype="http://schema.org/Organization">
+		<meta itemprop="name" content="spb.technohit.ru" />
+		<div class="tel">
+												<div class="region">
+						<div class="name" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+							<span class="choose" itemprop="addressLocality">Санкт-Петербург и область</span>
+						</div>
+						<div class="number" itemprop="telephone" content="7 (812) 407-12-76"><a href="tel:7 (812) 407-12-76"><span>7</span> (812) 407-12-76</a></div>
+					</div>
+														<div class="region">
+					<div class="name">Россия</div>
+					<div class="number" itemprop="telephone" content="7 (800) 775-17-36"><a href="tel:7 (800) 775-17-36"><span>7</span> (800) 775-17-36</a></div>
+				</div>
+					</div>
+					<div class="oncall">Время приема заказов по телефону: пн-пт: 9-18, суббота, воскресенье: 10-18</div>
+				<link itemprop="url" href="https://spb.technohit.ru/" />
+	</div>
+</div>	<div id="search" class="out-side fx modal">
+	<form method="GET" action="/search/">
+		<div class="input">
+			<input type="text" name="FIND" placeholder="Поиск в каталоге товаров бытовой техники" value="polaris" class="query" />
+			<input type="submit" class="submit" />
+		</div>
+		<div class="mode">
+			<label><input type="checkbox" value="Y" name="ARTICUL" /> Искать по коду товара</label>
+		</div>
+					<div class="example">
+				<div class="name checked">Например: <span>GranFest Rondo GF-R480 графит</span></div>
+				<div class="articul">Например: <span>260341</span></div>
+			</div>
+			</form>
+</div>
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org",
+	"@type": "WebSite",
+	"url": "https://spb.technohit.ru/",
+	"potentialAction": {
+		"@type": "SearchAction",
+		"target": "https://spb.technohit.ru/search/?FIND={search_term_string}",
+		"query-input": "required name=search_term_string"
+	}
+}
+</script>	<div id="nav">
+	<div id="catalog" class="in-side fx">
+		<a href="/catalog/">Каталог товаров</a>
+					<span></span>
+			</div>
+			<div id="menu" class="out-side fx modal">
+							<div class="item">
+					<a href="/delivery/" target="_self" title="Доставка и оплата" class="ajaxify">Доставка и оплата</a>
+				</div>
+							<div class="item">
+					<a href="/warranty/" target="_self" title="Гарантии и установка" class="ajaxify">Гарантии и установка</a>
+				</div>
+							<div class="item">
+					<a href="/contacts/" target="_self" title="Контакты" class="ajaxify">Контакты</a>
+				</div>
+							<div class="item">
+					<a href="/corporate/" target="_self" title="Для юр. лиц" class="ajaxify">Для юр. лиц</a>
+				</div>
+					</div>
+	</div></div>			<div id="body">
+				<div id="main">
+					<div id="sidebar" class="out-side fx fixit">
+													<div class="expandable" id="rubricator">
+					<div class="item">
+				<a href="/catalog/krupnaja-bytovaja-tehnika/2380/" title="Крупная бытовая техника" >Крупная бытовая техника</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/holodilniki/2402/" title="Холодильники">Холодильники</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/morozilniki/8365/" title="Морозильники">Морозильники</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/stiralnye-mashiny/2394/" title="Стиральные машины">Стиральные машины</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sushilnye-mashiny/2411/" title="Сушильные машины">Сушильные машины</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/posudomoechnye-mashiny/2390/" title="Посудомоечные машины">Посудомоечные машины</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/plity-elektricheskie/2386/" title="Плиты электрические">Плиты электрические</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/gazovye-plity/2381/" title="Газовые плиты">Газовые плиты</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/aksessuary-dlja-krupnoj-bytovoj-tehniki/6274/" title="Аксессуары для крупной бытовой техники">Аксессуары для крупной бытовой техники</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/recirkuljatory/8622/" title="Рециркуляторы">Рециркуляторы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/parovye-shkafy-po-uhodu-za-odezhdoj/8878/" title="Паровые шкафы по уходу за одеждой">Паровые шкафы по уходу за одеждой</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/ldogeneratory/6190/" title="Льдогенераторы">Льдогенераторы</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/vstraivaemaja-bytovaja-tehnika/2416/" title="Встраиваемая бытовая техника" >Встраиваемая бытовая техника</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/vytjazhki/2436/" title="Вытяжки">Вытяжки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/posudomoechnye-mashiny/2417/" title="Посудомоечные машины">Посудомоечные машины</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/varochnye-poverhnosti-nezavisimye/2431/" title="Варочные поверхности независимые">Варочные поверхности независимые</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/varochnye-poverhnosti-zavisimye/2428/" title="Варочные поверхности зависимые">Варочные поверхности зависимые</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/holodilniki/2422/" title="Холодильники">Холодильники</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/morozilnye-kamery/2427/" title="Морозильные камеры">Морозильные камеры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/stiralnye-mashiny/2421/" title="Стиральные машины">Стиральные машины</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/duhovye-shkafy-zavisimye/2442/" title="Духовые шкафы зависимые">Духовые шкафы зависимые</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/komplekty/2450/" title="Комплекты">Комплекты</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/duhovye-shkafy-nezavisimye/2444/" title="Духовые шкафы независимые">Духовые шкафы независимые</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/mikrovolnovye-pechi/2449/" title="Микроволновые печи">Микроволновые печи</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kofemashiny/2451/" title="Кофемашины">Кофемашины</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/grili/2458/" title="Грили">Грили</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/holodilniki-dlja-hranenija-vin/2426/" title="Холодильники для хранения вин">Холодильники для хранения вин</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/fritjurnicy/2457/" title="Фритюрницы">Фритюрницы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/podogrevateli-dlja-posudy/2455/" title="Подогреватели для посуды">Подогреватели для посуды</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/mebel-dlja-vstraivanija/2452/" title="Мебель для встраивания">Мебель для встраивания</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/dozatory-vody/2456/" title="Дозаторы воды">Дозаторы воды</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/izmelchiteli-picshevyh-othodov/2479/" title="Измельчители пищевых отходов">Измельчители пищевых отходов</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/aksessuary-dlja-vstraivaemoj-tehniki/6275/" title="Аксессуары для встраиваемой техники">Аксессуары для встраиваемой техники</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/vakuumnye-upakovcshiki/8659/" title="Вакуумные упаковщики">Вакуумные упаковщики</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/santehnika/2460/" title="Сантехника" >Сантехника</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/dushevye-kabiny/2463/" title="Душевые кабины">Душевые кабины</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/vanny/6353/" title="Ванны">Ванны</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/smesiteli/2472/" title="Смесители">Смесители</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/rakoviny-pedestaly-polupedestaly/2461/" title="Раковины, пьедесталы, полупьедесталы">Раковины, пьедесталы, полупьедесталы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kuhonnye-mojki/2483/" title="Кухонные мойки">Кухонные мойки</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/dushevye-ograzhdenija-poddony/6354/" title="Душевые ограждения, поддоны">Душевые ограждения, поддоны</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/dushevye-paneli-i-garnitury/6355/" title="Душевые панели и гарнитуры">Душевые панели и гарнитуры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/unitazy/2467/" title="Унитазы">Унитазы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/pissuary/2482/" title="Писсуары">Писсуары</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/bide/2464/" title="Биде">Биде</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/sistemy-installjacii/2468/" title="Системы инсталляции">Системы инсталляции</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/mebel-dlja-vannoj/2484/" title="Мебель для ванной">Мебель для ванной</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/aksessuary-dlja-vannoj-komnaty/2764/" title="Аксессуары для ванной комнаты">Аксессуары для ванной комнаты</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/komplektujucshie-dlja-santehniki/6359/" title="Комплектующие для сантехники">Комплектующие для сантехники</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/polotencesushiteli/9054/" title="Полотенцесушители">Полотенцесушители</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/tehnika-dlja-kuhni/2486/" title="Техника для кухни" >Техника для кухни</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/mikrovolnovye-i-mini-pechi/2487/" title="Микроволновые и мини-печи">Микроволновые и мини-печи</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kofemashiny-i-kofevarki/6245/" title="Кофемашины и кофеварки">Кофемашины и кофеварки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/chajniki-i-termopoty/6248/" title="Чайники и термопоты">Чайники и термопоты</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/dlja-zdorovoj-picshi/6251/" title="Для здоровой пищи">Для здоровой пищи</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/prigotovlenie-polufabrikatov/6255/" title="Приготовление полуфабрикатов">Приготовление полуфабрикатов</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/vse-dlja-zharki/6259/" title="Все для жарки">Все для жарки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/vse-dlja-vypechki-i-deserta/6261/" title="Все для выпечки и десерта">Все для выпечки и десерта</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/posuda/2652/" title="Посуда">Посуда</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/obrabotka-i-ochistka-vody/6270/" title="Обработка и очистка воды">Обработка и очистка воды</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/samogonnye-apparaty-i-pivovarni/6271/" title="Самогонные аппараты и пивоварни">Самогонные аппараты и пивоварни</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/prochie-kuhonnye-prinadlezhnosti/6272/" title="Прочие кухонные принадлежности">Прочие кухонные принадлежности</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/aksessuary-dlja-kuhonnoj-tehniki/6273/" title="Аксессуары для кухонной техники">Аксессуары для кухонной техники</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/tehnika-dlja-doma/6230/" title="Техника для дома" >Техника для дома</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/pylesosy/2491/" title="Пылесосы">Пылесосы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/utjugi/2504/" title="Утюги">Утюги</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/shvejnoe-oborudovanie/2623/" title="Швейное оборудование">Швейное оборудование</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/otparivateli-i-paroochistiteli/2525/" title="Отпариватели и пароочистители">Отпариватели и пароочистители</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/gladilnye-sistemy-i-doski/6231/" title="Гладильные системы и доски">Гладильные системы и доски</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/parovye-shvabry/6238/" title="Паровые швабры">Паровые швабры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sushilki-dlja-belja/5752/" title="Сушилки для белья">Сушилки для белья</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/elektrosushilki-dlja-odezhdy/2514/" title="Электросушилки для одежды">Электросушилки для одежды</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/trimmery-dlja-tkani/5767/" title="Триммеры для ткани">Триммеры для ткани</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/aksessuary-dlja-melkoj-bytovoj-tehniki/6276/" title="Аксессуары для мелкой бытовой техники">Аксессуары для мелкой бытовой техники</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/elektroveniki/8714/" title="Электровеники">Электровеники</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/klimaticheskaja-tehnika/2532/" title="Климатическая техника" >Климатическая техника</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/vodonagrevateli/2473/" title="Водонагреватели">Водонагреватели</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kondicionery/2537/" title="Кондиционеры">Кондиционеры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/uvlazhniteli-vozduha/2533/" title="Увлажнители воздуха">Увлажнители воздуха</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/vozduhoochistiteli/2536/" title="Воздухоочистители">Воздухоочистители</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/ventiljatory/2535/" title="Вентиляторы">Вентиляторы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/konvektory/2539/" title="Конвекторы">Конвекторы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/termoventiljatory/2541/" title="Термовентиляторы">Термовентиляторы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/teplovye-pushki/2538/" title="Тепловые пушки">Тепловые пушки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/elektrokaminy/5431/" title="Электрокамины">Электрокамины</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/infrakrasnye-obogrevateli-vozduha/2542/" title="Инфракрасные обогреватели воздуха">Инфракрасные обогреватели воздуха</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/meteostancii/2544/" title="Метеостанции">Метеостанции</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/radiatory/2534/" title="Радиаторы">Радиаторы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/osushiteli-vozduha/6199/" title="Осушители воздуха">Осушители воздуха</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/termoreguljatory/2540/" title="Терморегуляторы">Терморегуляторы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/teplovye-zavesy/2543/" title="Тепловые завесы">Тепловые завесы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/aksessuary-dlja-klimaticheskogo-oborudovanija/2765/" title="Аксессуары для климатического оборудования">Аксессуары для климатического оборудования</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/prinadlezhnosti-dlja-konvektorov/2778/" title="Принадлежности для конвекторов">Принадлежности для конвекторов</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/aromatizatory-vozduha/6614/" title="Ароматизаторы воздуха">Ароматизаторы воздуха</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/keramicheskie-obogrevateli/6632/" title="Керамические обогреватели">Керамические обогреватели</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/radiatory-otoplenija/8359/" title="Радиаторы отопления">Радиаторы отопления</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/pechi/8372/" title="Печи">Печи</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/gazovye-obogrevateli/8614/" title="Газовые обогреватели">Газовые обогреватели</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/teplye-poly/8693/" title="Теплые полы">Теплые полы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/otopitelnye-kotly/8767/" title="Отопительные котлы">Отопительные котлы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/zhidkotoplivnye-obogrevateli/8823/" title="Жидкотопливные обогреватели">Жидкотопливные обогреватели</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/tv-audio-i-video/2546/" title="ТВ, аудио и видео" >ТВ, аудио и видео</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/televizory/2547/" title="Телевизоры">Телевизоры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/videokamery-cifrovye/2552/" title="Видеокамеры цифровые">Видеокамеры цифровые</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/audiotehnika/19363/" title="Аудиотехника">Аудиотехника</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/dvd/2553/" title="DVD">DVD</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/podstavki-i-kronshtejny/2557/" title="Подставки и кронштейны">Подставки и кронштейны</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/videorekordery/2559/" title="Видеорекордеры">Видеорекордеры</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/stacionarnye-mediapleery/2560/" title="Стационарные медиаплееры">Стационарные медиаплееры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/multimedijnye-proigryvateli/2561/" title="Мультимедийные проигрыватели">Мультимедийные проигрыватели</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/blu-ray/2563/" title="Blu-ray">Blu-ray</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/tv-tjunery/2566/" title="TV-тюнеры">TV-тюнеры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/tumby-i-stojki-pod-televizory/6209/" title="Тумбы и стойки под телевизоры">Тумбы и стойки под телевизоры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/aksessuary-dlja-tv/2775/" title="Аксессуары для TV">Аксессуары для TV</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/sredstva-po-uhodu-za-orgtehnikoj-audio-i-videotehnikoj/2772/" title="Средства по уходу за оргтехникой, аудио- и видеотехникой">Средства по уходу за оргтехникой, аудио- и видеотехникой</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/igrovye-konsoli/2558/" title="Игровые консоли">Игровые консоли</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/televizionnye-antenny/6662/" title="Телевизионные антенны">Телевизионные антенны</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/zvukovye-paneli-i-saundbary/8510/" title="Звуковые панели и саундбары">Звуковые панели и саундбары</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/sportivnye-tovary/5773/" title="Спортивные товары" >Спортивные товары</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/massazhnye-stoly/5774/" title="Массажные столы">Массажные столы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/igrovye-stoly/5775/" title="Игровые столы">Игровые столы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/velo-tehnika/5490/" title="Вело-техника">Вело-техника</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/batuty/5776/" title="Батуты">Батуты</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/edinoborstva/5777/" title="Единоборства">Единоборства</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sportivnye-igry/5780/" title="Спортивные игры">Спортивные игры</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/trenazhjory/5792/" title="Тренажёры">Тренажёры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/elektrovelotehnika/5816/" title="Электровелотехника">Электровелотехника</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/nastolnyj-tennis/5820/" title="Настольный теннис">Настольный теннис</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/tjazhjolaja-atletika/5828/" title="Тяжёлая атлетика">Тяжёлая атлетика</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/fitnes/5837/" title="Фитнес">Фитнес</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/joga-i-pilates/5850/" title="Йога и пилатес">Йога и пилатес</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/skejtbordy-longbordy-i-dzhampery/5855/" title="Скейтборды, лонгборды и джамперы">Скейтборды, лонгборды и джамперы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/monokolesa-i-giroskutery/6503/" title="Моноколеса и гироскутеры">Моноколеса и гироскутеры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/odezhda-i-obuv-dlja-sporta/6539/" title="Одежда и обувь для спорта">Одежда и обувь для спорта</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/zimnie-vidy-sporta/8380/" title="Зимние виды спорта">Зимние виды спорта</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/rolikovye-konki-i-aksessuary/10408/" title="Роликовые коньки и аксессуары">Роликовые коньки и аксессуары</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/detskie-tovary/5440/" title="Детские товары" >Детские товары</a>
+														<div class="sub cols-1">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/igrushki/5441/" title="Игрушки">Игрушки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/aktivnyj-otdyh/8413/" title="Активный отдых">Активный отдых</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/progulki-i-puteshestvija/5470/" title="Прогулки и путешествия">Прогулки и путешествия</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kormlenie/5500/" title="Кормление">Кормление</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kupanie-i-gigiena/5497/" title="Купание и гигиена">Купание и гигиена</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/detskaja-komnata/5455/" title="Детская комната">Детская комната</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/razvivajucshie-i-obuchajucshie-igrushki/8854/" title="Развивающие и обучающие игрушки">Развивающие и обучающие игрушки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/hobbi-i-tvorchestvo/10327/" title="Хобби и творчество">Хобби и творчество</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/instrumenty-sad-ogorod/2612/" title="Инструменты, Сад, Огород" >Инструменты, Сад, Огород</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/stroitelnyj-instrument/6306/" title="Строительный инструмент">Строительный инструмент</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sadovaja-tehnika-i-instrument/6315/" title="Садовая техника и инструмент">Садовая техника и инструмент</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/izmeritelnoe-obrudovanie/2627/" title="Измерительное обрудование">Измерительное обрудование</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/ruchnoj-instrument/9831/" title="Ручной инструмент">Ручной инструмент</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/silovaja-tehnika/2628/" title="Силовая техника">Силовая техника</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/sadovaja-santehnika/6312/" title="Садовая сантехника">Садовая сантехника</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/professionalnye-i-stroitelnye-pylesosy/4545/" title="Профессиональные и строительные пылесосы">Профессиональные и строительные пылесосы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/stanki-i-verstaki/6302/" title="Станки и верстаки">Станки и верстаки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/tovary-dlja-fermerov-sadovodov-dachnikov/6205/" title="Товары для фермеров, садоводов, дачников">Товары для фермеров, садоводов, дачников</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/snegouborcshiki/8389/" title="Снегоуборщики">Снегоуборщики</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/lestnicy-i-stremjanki/8461/" title="Лестницы и стремянки">Лестницы и стремянки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/montazhnaja-pena-germetiki-zhidkie-gvozdi/9957/" title="Монтажная пена, герметики, жидкие гвозди">Монтажная пена, герметики, жидкие гвозди</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/lako-krasochnye-materialy/9971/" title="Лако-красочные материалы">Лако-красочные материалы</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/krasota-i-zdorove/2680/" title="Красота и здоровье" >Красота и здоровье</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/pribory-dlja-uhoda-za-volosami/2682/" title="Приборы для ухода за волосами">Приборы для ухода за волосами</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/elektrobritvy/2681/" title="Электробритвы">Электробритвы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/epiljatory-i-zhenskie-elektrobritvy/2690/" title="Эпиляторы и женские электробритвы">Эпиляторы и женские электробритвы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/vesy-napolnye/2706/" title="Весы напольные">Весы напольные</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/vesy-napolnye-diagnosticheskie/2705/" title="Весы напольные диагностические">Весы напольные диагностические</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/massazhery-i-massazhnye-vannochki/2693/" title="Массажеры и массажные ванночки">Массажеры и массажные ванночки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/manikjurnye-nabory/2711/" title="Маникюрные наборы">Маникюрные наборы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/elektricheskie-zubnye-cshetki/2689/" title="Электрические зубные щетки">Электрические зубные щетки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/elektronika-dlja-zdorovja/2709/" title="Электроника для здоровья">Электроника для здоровья</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/irrigatory/8643/" title="Ирригаторы">Ирригаторы</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/medicinskie-materialy/10437/" title="Медицинские материалы">Медицинские материалы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sredstva-po-uhodu-za-kozhej-ruk/21021/" title="Средства по уходу за кожей рук">Средства по уходу за кожей рук</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/shkola-i-obuchenie/8772/" title="Школа и обучение" >Школа и обучение</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/rjukzaki-i-rancy/8773/" title="Рюкзаки и ранцы">Рюкзаки и ранцы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/penaly-i-sumki-dlja-obuvi/9509/" title="Пеналы и сумки для обуви">Пеналы и сумки для обуви</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/fartuki-dlja-urokov-truda/9525/" title="Фартуки для уроков труда">Фартуки для уроков труда</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/papki-dlja-tetradej-i-urokov-truda/9526/" title="Папки для тетрадей и уроков труда">Папки для тетрадей и уроков труда</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/karty-atlasy-globusy/9533/" title="Карты, атласы, глобусы">Карты, атласы, глобусы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/doski-i-molberty/8840/" title="Доски и мольберты">Доски и мольберты</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/detskie-opyty-i-eksperimenty/5445/" title="Детские опыты и эксперименты">Детские опыты и эксперименты</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/obuchajucshie-kompjutery-i-planshety/8844/" title="Обучающие компьютеры и планшеты">Обучающие компьютеры и планшеты</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/opticheskie-pribory/9541/" title="Оптические приборы">Оптические приборы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/nabory-dlja-pervoklasnikov/9545/" title="Наборы для первокласников">Наборы для первокласников</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/prinadlezhnosti-dlja-risovanija/9549/" title="Принадлежности для рисования">Принадлежности для рисования</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/zhilety-svetootrazhajucshie/9553/" title="Жилеты светоотражающие">Жилеты светоотражающие</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/tovary-dlja-lepki/9679/" title="Товары для лепки">Товары для лепки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/cvetnaja-bumaga-i-karton/9870/" title="Цветная бумага и картон">Цветная бумага и картон</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/aksessuary-dlja-tetradej-knig-i-uchebnikov/9879/" title="Аксессуары для тетрадей, книг и учебников">Аксессуары для тетрадей, книг и учебников</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/tetradi/10139/" title="Тетради">Тетради</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/dnevniki-shkolnye-raspisanie-urokov/10404/" title="Дневники школьные, расписание уроков">Дневники школьные, расписание уроков</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/portfolio/10425/" title="Портфолио">Портфолио</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/cifrovaja-tehnika/2712/" title="Цифровая техника" >Цифровая техника</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/noutbuki/2713/" title="Ноутбуки">Ноутбуки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/smartfony-telefony-radiotelefony/5722/" title="Смартфоны, телефоны, радиотелефоны">Смартфоны, телефоны, радиотелефоны</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/planshety/2722/" title="Планшеты">Планшеты</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/umnye-chasy-i-braslety-kolonki-veb-kamery-mikrofony/19379/" title="Умные часы и браслеты, колонки, веб-камеры, микрофоны">Умные часы и браслеты, колонки, веб-камеры, микрофоны</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sistemnye-bloki/6089/" title="Системные блоки">Системные блоки</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/monobloki/6088/" title="Моноблоки">Моноблоки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/monitory/2723/" title="Мониторы">Мониторы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kompjuternaja-akustika/2735/" title="Компьютерная акустика">Компьютерная акустика</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/fototehnika/2740/" title="Фототехника">Фототехника</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sistemy-bezopasnosti/2673/" title="Системы безопасности">Системы безопасности</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/marshrutizatory-i-setevoe-oborudovanie/5739/" title="Маршрутизаторы и сетевое оборудование">Маршрутизаторы и сетевое оборудование</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/komplektujucshie/6119/" title="Комплектующие">Комплектующие</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/programmnoe-obespechenie/5663/" title="Программное обеспечение">Программное обеспечение</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/nositeli-informacii/5701/" title="Носители информации">Носители информации</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kabeli-i-adaptery/9942/" title="Кабели и адаптеры">Кабели и адаптеры</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/vse-dlja-avto/2743/" title="Все для авто" >Все для авто</a>
+														<div class="sub cols-2">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/avtomagnitoly/2729/" title="Автомагнитолы">Автомагнитолы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/avtomobilnye-pylesosy/2494/" title="Автомобильные пылесосы">Автомобильные пылесосы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/avtoakustika/2730/" title="Автоакустика">Автоакустика</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/avtomobilnye-videoregistratory/2746/" title="Автомобильные видеорегистраторы">Автомобильные видеорегистраторы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/radar-detektory/2747/" title="Радар-детекторы">Радар-детекторы</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/gps-navigatory/2748/" title="GPS-Навигаторы">GPS-Навигаторы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/avtoaksessuary/2753/" title="Автоаксессуары">Автоаксессуары</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/avtomobilnye-usiliteli/8818/" title="Автомобильные усилители">Автомобильные усилители</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/avtomobilnye-instrumenty/8828/" title="Автомобильные инструменты">Автомобильные инструменты</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/avtomobilnye-invertory/19327/" title="Автомобильные инверторы">Автомобильные инверторы</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/mebel-i-tekstil/5638/" title="Мебель и текстиль" >Мебель и текстиль</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/mebel-dlja-personala/9075/" title="Мебель для персонала">Мебель для персонала</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/mebel-dlja-spalni/9099/" title="Мебель для спальни">Мебель для спальни</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/mebel-dlja-prihozhej/9095/" title="Мебель для прихожей">Мебель для прихожей</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/mebel-dlja-gostinoj/9091/" title="Мебель для гостиной">Мебель для гостиной</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/mjagkaja-mebel/8469/" title="Мягкая мебель">Мягкая мебель</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/mebel-dlja-kuhni/8526/" title="Мебель для кухни">Мебель для кухни</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sadovaja-mebel-i-dekor/8582/" title="Садовая мебель и декор">Садовая мебель и декор</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/mebel-dlja-shkol-i-drugih-uchebnyh-zavedenij/9167/" title="Мебель для школ и других учебных заведений">Мебель для школ и других учебных заведений</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/osvecshenie/8810/" title="Освещение">Освещение</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/chasy-budilniki/9071/" title="Часы, будильники">Часы, будильники</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/mebel-dlja-gostinic-i-obcshezhitij/10074/" title="Мебель для гостиниц и общежитий">Мебель для гостиниц и общежитий</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/dizajn-interera/10347/" title="Дизайн интерьера">Дизайн интерьера</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/zhaljuzi-i-shtory/21033/" title="Жалюзи и шторы">Жалюзи и шторы</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/turizm-i-otdyh/5856/" title="Туризм и отдых" >Туризм и отдых</a>
+														<div class="sub cols-2">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/piknik/8449/" title="Пикник">Пикник</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/bassejny/5857/" title="Бассейны">Бассейны</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/turisticheskie-palatki/5861/" title="Туристические палатки">Туристические палатки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/lodki/5862/" title="Лодки">Лодки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/naduvnaja-mebel/5865/" title="Надувная мебель">Надувная мебель</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/spalnye-meshki/5870/" title="Спальные мешки">Спальные мешки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/rjukzaki-i-sumki/5871/" title="Рюкзаки и сумки">Рюкзаки и сумки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/tovary-dlja-rybalki/6674/" title="Товары для рыбалки">Товары для рыбалки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/plavanie/6686/" title="Плавание">Плавание</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/uristicheskie-kovriki/8748/" title="Туристические коврики">Туристические коврики</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/hoztovary/9183/" title="Хозтовары" >Хозтовары</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/gigienicheskie-tovary/9184/" title="Гигиенические товары">Гигиенические товары</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/dispensery-dlja-zhidkogo-myla/9185/" title="Диспенсеры для жидкого мыла">Диспенсеры для жидкого мыла</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/dispensery-dlja-polotenec-i-tualetnoj-bumagi/9186/" title="Диспенсеры для полотенец и туалетной бумаги">Диспенсеры для полотенец и туалетной бумаги</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kontejnery-i-vedra-dlja-musora/9187/" title="Контейнеры и ведра для мусора">Контейнеры и ведра для мусора</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/inventar-dlja-uborki-pola/9188/" title="Инвентарь для уборки пола">Инвентарь для уборки пола</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/inventar-dlja-mytja-okon/9341/" title="Инвентарь для мытья окон">Инвентарь для мытья окон</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/sredstva-zacshity-i-specodezhda/9207/" title="Средства защиты и спецодежда">Средства защиты и спецодежда</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/trjapki-salfetki-gubki/9265/" title="Тряпки, салфетки, губки">Тряпки, салфетки, губки</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kartridzhi-dlja-dispenserov/9293/" title="Картриджи и мыло для диспенсеров">Картриджи и мыло для диспенсеров</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/hozjajstvennye-prinadlezhnosti/9381/" title="Хозяйственные принадлежности">Хозяйственные принадлежности</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/pokrytija-dlja-pola/9401/" title="Покрытия для пола">Покрытия для пола</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/inventar-dlja-uborki-na-ulice/9513/" title="Инвентарь для уборки на улице">Инвентарь для уборки на улице</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/meshki-dlja-musora/9517/" title="Мешки для мусора">Мешки для мусора</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/upakovochnye-materialy/9518/" title="Упаковочные материалы">Упаковочные материалы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sushilki-dlja-ruk/6202/" title="Сушилки для рук">Сушилки для рук</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/bidony-fljagi-baki-kanistry/8594/" title="Бидоны, фляги, баки, канистры">Бидоны, фляги, баки, канистры</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/dispensery-dlja-aerozolnyh-kartridzhej/9873/" title="Диспенсеры для аэрозольных картриджей">Диспенсеры для аэрозольных картриджей</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/klejkie-lenty-i-dispensery-k-nim/9882/" title="Клейкие ленты и диспенсеры к ним">Клейкие ленты и диспенсеры к ним</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/bytovaja-i-professionalnaja-himija/9225/" title="Бытовая и профессиональная химия" >Бытовая и профессиональная химия</a>
+														<div class="sub cols-1">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/professionalnaja-himija/9226/" title="Профессиональная химия">Профессиональная химия</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/dezinficirujucshie-sredstva/9261/" title="Дезинфицирующие средства">Дезинфицирующие средства</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/chistjacshie-i-mojucshie-sredstva/9277/" title="Чистящие и моющие средства">Чистящие и моющие средства</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sredstva-dlja-kuhni/9377/" title="Средства для кухни">Средства для кухни</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/osvezhiteli-vozduha/9493/" title="Освежители воздуха">Освежители воздуха</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/torgovoe-oborudovanie/9297/" title="Торговое оборудование" >Торговое оборудование</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/aksessuary-dlja-inkassacii-i-kassy/9298/" title="Аксессуары для инкассации и кассы">Аксессуары для инкассации и кассы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/vesy-dlja-torgovli/9299/" title="Весы для торговли">Весы для торговли</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/detektory-i-upakovcshiki-banknot/9300/" title="Детекторы и упаковщики банкнот">Детекторы и упаковщики банкнот</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/sejfy-shkafy-kassira/9301/" title="Сейфы, шкафы кассира">Сейфы, шкафы кассира</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/skanery-shtrihkodov/9302/" title="Сканеры штрихкодов">Сканеры штрихкодов</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/schetchiki-banknot/9303/" title="Счетчики банкнот и монет">Счетчики банкнот и монет</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/jacshiki-i-lotki-dlja-kassira/9304/" title="Ящики и лотки для кассира">Ящики и лотки для кассира</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/inventar-dlja-skladov-i-magazinov/9337/" title="Инвентарь для складов и магазинов">Инвентарь для складов и магазинов</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/printery-pechati-etiketok-i-kartridzhi-k-nim/9734/" title="Принтеры печати этикеток и картриджи к ним">Принтеры печати этикеток и картриджи к ним</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/tovary-dlja-oplombirovanija/9789/" title="Товары для опломбирования">Товары для опломбирования</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/pistolety-markiratory-i-rashodnye-materialy-k-nim/9816/" title="Пистолеты-маркираторы и расходные материалы к ним">Пистолеты-маркираторы и расходные материалы к ним</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/derzhateli-dlja-cennikov/9825/" title="Держатели для ценников">Держатели для ценников</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/protivokrazhnoe-oborudovanie/9906/" title="Противокражное оборудование">Противокражное оборудование</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/pakety-upakovochnye/9933/" title="Пакеты упаковочные">Пакеты упаковочные</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/ofis/9349/" title="Офис" >Офис</a>
+														<div class="sub cols-3">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/bloknoty-zapisnye-knizhki-i-tetradi/9670/" title="Блокноты, записные книжки и тетради">Блокноты, записные книжки и тетради</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/delovye-aksessuary/9350/" title="Деловые аксессуары">Деловые аксессуары</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/ezhednevniki-planingi-organajzery-kalendari/9351/" title="Ежедневники, планинги, органайзеры, календари">Ежедневники, планинги, органайзеры, календари</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kalkuljatory/9352/" title="Калькуляторы">Калькуляторы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kontorskoe-oborudovanie/9761/" title="Конторское оборудование">Конторское оборудование</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/nastolnye-aksessuary/9354/" title="Настольные аксессуары">Настольные аксессуары</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/mfu-printery-skanery-kopiry/6159/" title="МФУ, принтеры, сканеры, копиры">МФУ, принтеры, сканеры, копиры</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/shtempelnye-prinadlezhnosti/9389/" title="Штемпельные принадлежности">Штемпельные принадлежности</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/oborudovanie-dlja-prezentacij/6149/" title="Оборудование для презентаций">Оборудование для презентаций</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/rezaki-dlja-bumagi/9409/" title="Резаки для бумаги">Резаки для бумаги</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/laminatory-i-rashodnye-materialy/9413/" title="Ламинаторы и расходные материалы">Ламинаторы и расходные материалы</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/perepletnye-mashiny-i-materialy-dlja-perepleta/9417/" title="Переплетные машины и материалы для переплета">Переплетные машины и материалы для переплета</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/unichtozhiteli-bumag/5657/" title="Уничтожители бумаг">Уничтожители бумаг</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/zacshita-pitanija/5658/" title="Защита питания">Защита питания</a>
+							</div>
+																																					</div>
+																<div class="col">
+														<div class="item">
+								<a href="/catalog/manipuljatory-i-ustrojstva-vvoda/5665/" title="Манипуляторы и устройства ввода">Манипуляторы и устройства ввода</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/bumaga/9437/" title="Бумага">Бумага</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/predmety-oformlenija-interera/9465/" title="Предметы оформления интерьера">Предметы оформления интерьера</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/bejdzhi-i-derzhateli-k-nim/9485/" title="Бейджи и держатели к ним">Бейджи и держатели к ним</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kanctovary/9561/" title="Канцтовары">Канцтовары</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/podstavki-i-derzhateli-dlja-ofisnoj-tehniki/9752/" title="Подставки и держатели для офисной техники">Подставки и держатели для офисной техники</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/hudozhnikam/9421/" title="Художникам" >Художникам</a>
+														<div class="sub cols-1">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/vspomogatelnye-materialy-i-instrumenty/9422/" title="Вспомогательные материалы и инструменты">Вспомогательные материалы и инструменты</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kraski-hudozhestvennye/9423/" title="Краски художественные">Краски художественные</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/holsty-molberty-etjudniki-gruntovannyj-karton/9424/" title="Холсты, мольберты, этюдники, грунтованный картон">Холсты, мольберты, этюдники, грунтованный картон</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/kisti-hudozhestvennye/9481/" title="Кисти художественные">Кисти художественные</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/materialy-dlja-grafiki/9497/" title="Материалы для графики">Материалы для графики</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/professionalnye-nabory-dlja-hudozhnikov/9667/" title="Профессиональные наборы для художников">Профессиональные наборы для художников</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/bumaga-dlja-pasteli-akvareli-grafiki/9822/" title="Бумага для пастели, акварели, графики">Бумага для пастели, акварели, графики</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/podarki-i-prazdnik/9998/" title="Подарки и праздник" >Подарки и праздник</a>
+														<div class="sub cols-1">
+																													<div class="col">
+														<div class="item">
+								<a href="/catalog/shary-vozdushnye-i-aksessuary-k-nim/9999/" title="Шары воздушные и аксессуары к ним">Шары воздушные и аксессуары к ним</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/karnavalnye-aksessuary/10000/" title="Карнавальные аксессуары">Карнавальные аксессуары</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/nagradnaja-produkcija/9912/" title="Наградная продукция">Наградная продукция</a>
+							</div>
+																											<div class="item">
+								<a href="/catalog/podarochnye-nozhi-i-nabory/10007/" title="Подарочные ножи и наборы">Подарочные ножи и наборы</a>
+							</div>
+															</div>
+																		</div>
+							</div>
+					<div class="item">
+				<a href="/catalog/knigi/19613/" title="Книги" >Книги</a>
+							</div>
+					<div class="item highlight">
+				<a href="/catalog/discount/" title="Товары со скидкой" >Товары со скидкой</a>
+							</div>
+					<div class="item highlight">
+				<a href="/catalog/markdown/" title="Товары с уценкой" >Товары с уценкой</a>
+							</div>
+			</div>
+												<div class="divider"></div>
+																<div class="links">
+		<div class="features">
+							<div class="item">
+					<a href="/credit/" target="_self" title="Онлайн кредитование" class="credit ajaxify">Онлайн кредитование</a>
+				</div>
+							<div class="item">
+					<a href="/feedback/" target="_self" title="Директор читает все претензии клиентов!" class="opinions ajaxify">Пожелания, предложения и претензии к магазину</a>
+				</div>
+							<div class="item">
+					<a href="https://market.yandex.ru/shop/932/reviews?sort_by=date" target="_blank" title="Отзывы покупателей на Яндекс.Маркете" class="opinions">Отзывы покупателей на Яндекс.Маркете</a>
+				</div>
+					</div>
+	</div>
+												<div class="divider"></div>
+															</div>
+					<div id="center" class="out-side fx fx-fade fixit">
+									<div id="breadcrumbs">
+																							<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a itemprop="url" href="/" title="Главная"><span itemprop="title">Главная</span></a>
+					</span>
+																								<span class="arrow">&rarr;</span>
+													<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a itemprop="url" href="/search/" title="Поиск"><span itemprop="title">Поиск</span></a>
+					</span>
+																								<span class="arrow">&rarr;</span>
+													<b>Результаты поиска</b>
+																		</div>
+								<div id="content">
+											<h1>Результаты поиска</h1>
+							<div id="wizard">
+									<div class="modes">
+							<div class="mode">
+					<a href="/search/?FIND=polaris&ARTICUL=N&VIEW=D">Списком</a>
+				</div>
+							<div class="mode active">
+					<a href="/search/?FIND=polaris&ARTICUL=N&VIEW=S">Плиткой</a>
+				</div>
+					</div>
+						<div class="info">
+					<div class="totals">Выбрано товаров &ndash; 1546, показано с 1 по 24</div>
+													<div class="sorting">Сортировать по: 									<a class="active" href="/search/?FIND=polaris&ARTICUL=N&SORT=1&ORDER=1">релевантности</a>
+									<a href="/search/?FIND=polaris&ARTICUL=N&SORT=4&ORDER=1">цене</a>
+									<a href="/search/?FIND=polaris&ARTICUL=N&SORT=2&ORDER=1">популярности</a>
+									<a href="/search/?FIND=polaris&ARTICUL=N&SORT=3&ORDER=1">названию</a>
+																<a class="active" href="/search/?FIND=polaris&ARTICUL=N&SORT=1&ORDER=1">по возрастанию</a>
+									<a href="/search/?FIND=polaris&ARTICUL=N&SORT=1&ORDER=2">по убыванию</a>
+							</div>
+								</div>
+			</div>
+			<div class="products" data-ec="impressions" data-list="Результаты поиска">
+				<div class="list">
+						<div class="product-short">
+		<div class="product" data-ec="product" data-id="372701" data-name="Миксер Polaris PHM 4026 бел/серый" data-brand="Polaris" data-category="Миксеры" data-price="1187" data-position="1">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/miksery/2503/polaris-phm-4026-bel-seryj/372701/">Миксер Polaris PHM 4026 бел/серый</a>
+				</div>
+				<div class="articul">Артикул товара: <span>234448</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_1" href="/data/uploads/m/iblock/products/372701/19368.jpg" title="Миксер Polaris PHM 4026 бел/серый" target="_blank">
+																<img src="/data/uploads/m/iblock/products/372701/4879.jpg" alt="Миксер Polaris PHM 4026 бел/серый" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/miksery/2503/polaris-phm-4026-bel-seryj/372701/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-y">
+															<div class="available">Товар в наличии</div>
+																						<div class="price">
+									<b>1 187 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+													<div class="cart">
+																	<button type="submit" name="BUY" value="ADD" data-ec="add" data-add="once" onclick="yaCounter789338.reachGoal('PRODUCT_BASKET_ADD'); return true;"
+>
+										<span>В корзину</span>
+									</button>
+															</div>
+							<div class="buy">
+								<button type="submit" name="BUY" value="QUICK">Быстрый заказ</button>
+							</div>
+											</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="319835" data-name="Кресло-качалка Мебель Импэкс Комфорт Модель 67, каркас венге, обивка Polaris Beige" data-brand="Мебель Импэкс" data-category="Кресла-качалки" data-price="9558" data-position="2">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/kresla-kachalki/8409/mebel-impeks-kreslo-kachalka-komfort-model-67-karkas-venge-obivka-polaris-beige/319835/">Кресло-качалка Мебель Импэкс Комфорт Модель 67, каркас венге, обивка Polaris Beige</a>
+				</div>
+				<div class="articul">Артикул товара: <span>186214</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_2" href="/data/uploads/k/iblock/products/319835/68739.jpg" title="Кресло-качалка Мебель Импэкс Комфорт Модель 67, каркас венге, обивка Polaris Beige" target="_blank">
+																<img src="/data/uploads/k/iblock/products/319835/94153.jpg" alt="Кресло-качалка Мебель Импэкс Комфорт Модель 67, каркас венге, обивка Polaris Beige" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/kresla-kachalki/8409/mebel-impeks-kreslo-kachalka-komfort-model-67-karkas-venge-obivka-polaris-beige/319835/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-y">
+															<div class="available">Товар в наличии</div>
+																						<div class="price">
+									<b>9 558 <span>р.</span></b>
+								</div>
+																						<div class="credit">В кредит <span>за 956 <span>р.</span> в мес.</span></div>
+													</div>
+					</div>
+					<div class="actions">
+													<div class="cart">
+																	<button type="submit" name="BUY" value="ADD" data-ec="add" data-add="once" onclick="yaCounter789338.reachGoal('PRODUCT_BASKET_ADD'); return true;"
+>
+										<span>В корзину</span>
+									</button>
+															</div>
+							<div class="buy">
+								<button type="submit" name="BUY" value="QUICK">Быстрый заказ</button>
+							</div>
+											</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="383727" data-name="Кресло Мебель Импэкс Leset Remix Орех, к/з Polaris Beige" data-brand="Мебель Импэкс" data-category="Кресла" data-price="11944" data-position="3">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-remix-oreh-k-z-polaris-beige/383727/">Кресло Мебель Импэкс Leset Remix Орех, к/з Polaris Beige</a>
+				</div>
+				<div class="articul">Артикул товара: <span>245692</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_3" href="/data/uploads/m/iblock/products/383727/46487.jpg" title="Кресло Мебель Импэкс Leset Remix Орех, к/з Polaris Beige" target="_blank">
+																<img src="/data/uploads/m/iblock/products/383727/13950.jpg" alt="Кресло Мебель Импэкс Leset Remix Орех, к/з Polaris Beige" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-remix-oreh-k-z-polaris-beige/383727/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-y">
+															<div class="available">Товар в наличии</div>
+																						<div class="price">
+									<b>11 944 <span>р.</span></b>
+								</div>
+																						<div class="credit">В кредит <span>за 1 194 <span>р.</span> в мес.</span></div>
+													</div>
+					</div>
+					<div class="actions">
+													<div class="cart">
+																	<button type="submit" name="BUY" value="ADD" data-ec="add" data-add="once" onclick="yaCounter789338.reachGoal('PRODUCT_BASKET_ADD'); return true;"
+>
+										<span>В корзину</span>
+									</button>
+															</div>
+							<div class="buy">
+								<button type="submit" name="BUY" value="QUICK">Быстрый заказ</button>
+							</div>
+											</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="409551" data-name="Кресло Мебель Импэкс Leset Retro Венге, к/з Polaris Beige" data-brand="Мебель Импэкс" data-category="Кресла" data-price="10189" data-position="4">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-retro-venge-k-z-polaris-beige/409551/">Кресло Мебель Импэкс Leset Retro Венге, к/з Polaris Beige</a>
+				</div>
+				<div class="articul">Артикул товара: <span>264690</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_4" href="/data/uploads/n/iblock/products/409551/93937.jpg" title="Кресло Мебель Импэкс Leset Retro Венге, к/з Polaris Beige" target="_blank">
+																<img src="/data/uploads/n/iblock/products/409551/49821.jpg" alt="Кресло Мебель Импэкс Leset Retro Венге, к/з Polaris Beige" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-retro-venge-k-z-polaris-beige/409551/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-y">
+															<div class="available">Товар в наличии</div>
+																						<div class="price">
+									<b>10 189 <span>р.</span></b>
+								</div>
+																						<div class="credit">В кредит <span>за 1 019 <span>р.</span> в мес.</span></div>
+													</div>
+					</div>
+					<div class="actions">
+													<div class="cart">
+																	<button type="submit" name="BUY" value="ADD" data-ec="add" data-add="once" onclick="yaCounter789338.reachGoal('PRODUCT_BASKET_ADD'); return true;"
+>
+										<span>В корзину</span>
+									</button>
+															</div>
+							<div class="buy">
+								<button type="submit" name="BUY" value="QUICK">Быстрый заказ</button>
+							</div>
+											</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="409544" data-name="Кресло Мебель Импэкс Leset Remix Венге, к/з Polaris Beige" data-brand="Мебель Импэкс" data-category="Кресла" data-price="11944" data-position="5">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-remix-venge-k-z-polaris-beige/409544/">Кресло Мебель Импэкс Leset Remix Венге, к/з Polaris Beige</a>
+				</div>
+				<div class="articul">Артикул товара: <span>264692</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_5" href="/data/uploads/n/iblock/products/409544/42496.jpg" title="Кресло Мебель Импэкс Leset Remix Венге, к/з Polaris Beige" target="_blank">
+																<img src="/data/uploads/n/iblock/products/409544/74626.jpg" alt="Кресло Мебель Импэкс Leset Remix Венге, к/з Polaris Beige" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-remix-venge-k-z-polaris-beige/409544/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-y">
+															<div class="available">Товар в наличии</div>
+																						<div class="price">
+									<b>11 944 <span>р.</span></b>
+								</div>
+																						<div class="credit">В кредит <span>за 1 194 <span>р.</span> в мес.</span></div>
+													</div>
+					</div>
+					<div class="actions">
+													<div class="cart">
+																	<button type="submit" name="BUY" value="ADD" data-ec="add" data-add="once" onclick="yaCounter789338.reachGoal('PRODUCT_BASKET_ADD'); return true;"
+>
+										<span>В корзину</span>
+									</button>
+															</div>
+							<div class="buy">
+								<button type="submit" name="BUY" value="QUICK">Быстрый заказ</button>
+							</div>
+											</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="409554" data-name="Кресло Мебель Импэкс Leset Retro Орех, к/з Polaris Beige" data-brand="Мебель Импэкс" data-category="Кресла" data-price="10189" data-position="6">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-retro-oreh-k-z-polaris-beige/409554/">Кресло Мебель Импэкс Leset Retro Орех, к/з Polaris Beige</a>
+				</div>
+				<div class="articul">Артикул товара: <span>264700</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_6" href="/data/uploads/n/iblock/products/409554/97747.jpg" title="Кресло Мебель Импэкс Leset Retro Орех, к/з Polaris Beige" target="_blank">
+																<img src="/data/uploads/n/iblock/products/409554/79689.jpg" alt="Кресло Мебель Импэкс Leset Retro Орех, к/з Polaris Beige" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-retro-oreh-k-z-polaris-beige/409554/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-y">
+															<div class="available">Товар в наличии</div>
+																						<div class="price">
+									<b>10 189 <span>р.</span></b>
+								</div>
+																						<div class="credit">В кредит <span>за 1 019 <span>р.</span> в мес.</span></div>
+													</div>
+					</div>
+					<div class="actions">
+													<div class="cart">
+																	<button type="submit" name="BUY" value="ADD" data-ec="add" data-add="once" onclick="yaCounter789338.reachGoal('PRODUCT_BASKET_ADD'); return true;"
+>
+										<span>В корзину</span>
+									</button>
+															</div>
+							<div class="buy">
+								<button type="submit" name="BUY" value="QUICK">Быстрый заказ</button>
+							</div>
+											</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="409558" data-name="Кресло Мебель Импэкс Leset Tinto Венге, к/з Polaris Beige" data-brand="Мебель Импэкс" data-category="Кресла" data-price="11338" data-position="7">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-tinto-venge-k-z-polaris-beige/409558/">Кресло Мебель Импэкс Leset Tinto Венге, к/з Polaris Beige</a>
+				</div>
+				<div class="articul">Артикул товара: <span>264704</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_7" href="/data/uploads/n/iblock/products/409558/27276.jpg" title="Кресло Мебель Импэкс Leset Tinto Венге, к/з Polaris Beige" target="_blank">
+																<img src="/data/uploads/n/iblock/products/409558/3867.jpg" alt="Кресло Мебель Импэкс Leset Tinto Венге, к/з Polaris Beige" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-tinto-venge-k-z-polaris-beige/409558/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-y">
+															<div class="available">Товар в наличии</div>
+																						<div class="price">
+									<b>11 338 <span>р.</span></b>
+								</div>
+																						<div class="credit">В кредит <span>за 1 134 <span>р.</span> в мес.</span></div>
+													</div>
+					</div>
+					<div class="actions">
+													<div class="cart">
+																	<button type="submit" name="BUY" value="ADD" data-ec="add" data-add="once" onclick="yaCounter789338.reachGoal('PRODUCT_BASKET_ADD'); return true;"
+>
+										<span>В корзину</span>
+									</button>
+															</div>
+							<div class="buy">
+								<button type="submit" name="BUY" value="QUICK">Быстрый заказ</button>
+							</div>
+											</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="409560" data-name="Кресло Мебель Импэкс Leset Tinto релакс Венге, к/з Polaris Beige" data-brand="Мебель Импэкс" data-category="Кресла" data-price="11944" data-position="8">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-tinto-relaks-venge-k-z-polaris-beige/409560/">Кресло Мебель Импэкс Leset Tinto релакс Венге, к/з Polaris Beige</a>
+				</div>
+				<div class="articul">Артикул товара: <span>264706</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_8" href="/data/uploads/n/iblock/products/409560/77925.jpg" title="Кресло Мебель Импэкс Leset Tinto релакс Венге, к/з Polaris Beige" target="_blank">
+																<img src="/data/uploads/n/iblock/products/409560/65202.jpg" alt="Кресло Мебель Импэкс Leset Tinto релакс Венге, к/з Polaris Beige" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-tinto-relaks-venge-k-z-polaris-beige/409560/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-y">
+															<div class="available">Товар в наличии</div>
+																						<div class="price">
+									<b>11 944 <span>р.</span></b>
+								</div>
+																						<div class="credit">В кредит <span>за 1 194 <span>р.</span> в мес.</span></div>
+													</div>
+					</div>
+					<div class="actions">
+													<div class="cart">
+																	<button type="submit" name="BUY" value="ADD" data-ec="add" data-add="once" onclick="yaCounter789338.reachGoal('PRODUCT_BASKET_ADD'); return true;"
+>
+										<span>В корзину</span>
+									</button>
+															</div>
+							<div class="buy">
+								<button type="submit" name="BUY" value="QUICK">Быстрый заказ</button>
+							</div>
+											</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="409563" data-name="Кресло Мебель Импэкс Leset Tinto релакс Орех, к/з Polaris Beige" data-brand="Мебель Импэкс" data-category="Кресла" data-price="11944" data-position="9">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-tinto-relaks-oreh-k-z-polaris-beige/409563/">Кресло Мебель Импэкс Leset Tinto релакс Орех, к/з Polaris Beige</a>
+				</div>
+				<div class="articul">Артикул товара: <span>264709</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_9" href="/data/uploads/n/iblock/products/409563/89269.jpg" title="Кресло Мебель Импэкс Leset Tinto релакс Орех, к/з Polaris Beige" target="_blank">
+																<img src="/data/uploads/n/iblock/products/409563/82910.jpg" alt="Кресло Мебель Импэкс Leset Tinto релакс Орех, к/з Polaris Beige" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/kresla/8710/mebel-impeks-kreslo-leset-tinto-relaks-oreh-k-z-polaris-beige/409563/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-y">
+															<div class="available">Товар в наличии</div>
+																						<div class="price">
+									<b>11 944 <span>р.</span></b>
+								</div>
+																						<div class="credit">В кредит <span>за 1 194 <span>р.</span> в мес.</span></div>
+													</div>
+					</div>
+					<div class="actions">
+													<div class="cart">
+																	<button type="submit" name="BUY" value="ADD" data-ec="add" data-add="once" onclick="yaCounter789338.reachGoal('PRODUCT_BASKET_ADD'); return true;"
+>
+										<span>В корзину</span>
+									</button>
+															</div>
+							<div class="buy">
+								<button type="submit" name="BUY" value="QUICK">Быстрый заказ</button>
+							</div>
+											</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="357123" data-name="Чайник Polaris PWK 1852CA" data-brand="Polaris" data-category="Чайники" data-price="2308" data-position="10">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/chajniki/2497/polaris-pwk-1852ca/357123/">Чайник Polaris PWK 1852CA</a>
+				</div>
+				<div class="articul">Артикул товара: <span>220002</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_10" href="/data/uploads/l/iblock/products/357123/43425.jpg" title="Чайник Polaris PWK 1852CA" target="_blank">
+																<img src="/data/uploads/l/iblock/products/357123/12310.jpg" alt="Чайник Polaris PWK 1852CA" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/chajniki/2497/polaris-pwk-1852ca/357123/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>2 308 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="374138" data-name="Блендер Polaris PHB 1467AL" data-brand="Polaris" data-category="Блендеры" data-price="3170" data-position="11">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/blendery/2502/polaris-phb-1467al/374138/">Блендер Polaris PHB 1467AL</a>
+				</div>
+				<div class="articul">Артикул товара: <span>235852</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_11" href="/data/uploads/m/iblock/products/374138/29198.jpg" title="Блендер Polaris PHB 1467AL" target="_blank">
+																<img src="/data/uploads/m/iblock/products/374138/59896.jpg" alt="Блендер Polaris PHB 1467AL" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/blendery/2502/polaris-phb-1467al/374138/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>3 170 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="353793" data-name="Мини-печь Polaris PTO 0320GL" data-brand="Polaris" data-category="Мини-печи" data-price="4770" data-position="12">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/mini-pechi/2518/polaris-pto-0320gl/353793/">Мини-печь Polaris PTO 0320GL</a>
+				</div>
+				<div class="articul">Артикул товара: <span>216670</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_12" href="/data/uploads/l/iblock/products/353793/73790.jpg" title="Мини-печь Polaris PTO 0320GL" target="_blank">
+																<img src="/data/uploads/l/iblock/products/353793/53263.jpg" alt="Мини-печь Polaris PTO 0320GL" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/mini-pechi/2518/polaris-pto-0320gl/353793/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>4 770 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="352421" data-name="Кофеварка Polaris PCM 4005A" data-brand="Polaris" data-category="Кофеварки" data-price="3600" data-position="13">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/kofevarki/2499/polaris-pcm-4005a/352421/">Кофеварка Polaris PCM 4005A</a>
+				</div>
+				<div class="articul">Артикул товара: <span>215411</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_13" href="/data/uploads/l/iblock/products/352421/40741.jpg" title="Кофеварка Polaris PCM 4005A" target="_blank">
+																<img src="/data/uploads/l/iblock/products/352421/50818.jpg" alt="Кофеварка Polaris PCM 4005A" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/kofevarki/2499/polaris-pcm-4005a/352421/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>3 600 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="324462" data-name="Блендер Polaris PHB 0826 AL" data-brand="Polaris" data-category="Блендеры" data-price="3050" data-position="14">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/blendery/2502/polaris-phb-0826-al/324462/">Блендер Polaris PHB 0826 AL</a>
+				</div>
+				<div class="articul">Артикул товара: <span>189785</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_14" href="/data/uploads/k/iblock/products/324462/1690.jpg" title="Блендер Polaris PHB 0826 AL" target="_blank">
+																<img src="/data/uploads/k/iblock/products/324462/58690.jpg" alt="Блендер Polaris PHB 0826 AL" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 96px;" class="rate">4.8</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/blendery/2502/polaris-phb-0826-al/324462/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>3 050 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="379019" data-name="Тостер Polaris PET 0916A" data-brand="Polaris" data-category="Тостеры" data-price="2440" data-position="15">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/tostery/2506/polaris-pet-0916a/379019/">Тостер Polaris PET 0916A</a>
+				</div>
+				<div class="articul">Артикул товара: <span>240668</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_15" href="/data/uploads/m/iblock/products/379019/9564.jpg" title="Тостер Polaris PET 0916A" target="_blank">
+																<img src="/data/uploads/m/iblock/products/379019/10452.jpg" alt="Тостер Polaris PET 0916A" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/tostery/2506/polaris-pet-0916a/379019/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>2 440 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="316449" data-name="Термопот Polaris PWP 3218" data-brand="Polaris" data-category="Термопоты" data-price="2800" data-position="16">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/termopoty/2521/polaris-pwp-3218/316449/">Термопот Polaris PWP 3218</a>
+				</div>
+				<div class="articul">Артикул товара: <span>181603</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_16" href="/data/uploads/k/iblock/products/316449/91599.jpg" title="Термопот Polaris PWP 3218" target="_blank">
+																<img src="/data/uploads/k/iblock/products/316449/43061.jpg" alt="Термопот Polaris PWP 3218" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/termopoty/2521/polaris-pwp-3218/316449/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>2 800 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="312446" data-name="Мультиварка Polaris EVO 0446DS" data-brand="Polaris" data-category="Электроварки / мультиварки" data-price="7750" data-position="17">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/elektrovarki-multivarki/2522/polaris-evo-0446ds/312446/">Мультиварка Polaris EVO 0446DS</a>
+				</div>
+				<div class="articul">Артикул товара: <span>178818</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_17" href="/data/uploads/k/iblock/products/312446/85689.jpg" title="Мультиварка Polaris EVO 0446DS" target="_blank">
+																<img src="/data/uploads/k/iblock/products/312446/72555.jpg" alt="Мультиварка Polaris EVO 0446DS" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/elektrovarki-multivarki/2522/polaris-evo-0446ds/312446/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>7 750 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="304368" data-name="Сушилка для овощей и фруктов Polaris PFD 1005" data-brand="Polaris" data-category="Сушилки для овощей и фруктов" data-price="2240" data-position="18">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/sushilki-dlja-ovocshej-i-fruktov/2527/polaris-pfd-1005/304368/">Сушилка для овощей и фруктов Polaris PFD 1005</a>
+				</div>
+				<div class="articul">Артикул товара: <span>173900</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_18" href="/data/uploads/k/iblock/products/304368/2398.jpg" title="Сушилка для овощей и фруктов Polaris PFD 1005" target="_blank">
+																<img src="/data/uploads/k/iblock/products/304368/89821.jpg" alt="Сушилка для овощей и фруктов Polaris PFD 1005" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/sushilki-dlja-ovocshej-i-fruktov/2527/polaris-pfd-1005/304368/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>2 240 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="340225" data-name="Сушилка для овощей и фруктов Polaris PFD 0505R" data-brand="Polaris" data-category="Сушилки для овощей и фруктов" data-price="2700" data-position="19">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/sushilki-dlja-ovocshej-i-fruktov/2527/polaris-pfd-0505r/340225/">Сушилка для овощей и фруктов Polaris PFD 0505R</a>
+				</div>
+				<div class="articul">Артикул товара: <span>204581</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_19" href="/data/uploads/l/iblock/products/340225/87815.jpg" title="Сушилка для овощей и фруктов Polaris PFD 0505R" target="_blank">
+																<img src="/data/uploads/l/iblock/products/340225/30692.jpg" alt="Сушилка для овощей и фруктов Polaris PFD 0505R" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/sushilki-dlja-ovocshej-i-fruktov/2527/polaris-pfd-0505r/340225/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>2 700 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="377165" data-name="Сушилка для овощей и фруктов Polaris PFD 2705" data-brand="Polaris" data-category="Сушилки для овощей и фруктов" data-price="3754" data-position="20">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/sushilki-dlja-ovocshej-i-fruktov/2527/polaris-pfd-2705/377165/">Сушилка для овощей и фруктов Polaris PFD 2705</a>
+				</div>
+				<div class="articul">Артикул товара: <span>238846</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_20" href="/data/uploads/m/iblock/products/377165/47609.jpg" title="Сушилка для овощей и фруктов Polaris PFD 2705" target="_blank">
+																<img src="/data/uploads/m/iblock/products/377165/14456.jpg" alt="Сушилка для овощей и фруктов Polaris PFD 2705" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/sushilki-dlja-ovocshej-i-fruktov/2527/polaris-pfd-2705/377165/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>3 754 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="346575" data-name="Щипцы для укладки Polaris PHS 2590KT" data-brand="Polaris" data-category="Щипцы для укладки" data-price="990" data-position="21">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/cshipcy-dlja-ukladki/2687/polaris-phs-2590kt/346575/">Щипцы для укладки Polaris PHS 2590KT</a>
+				</div>
+				<div class="articul">Артикул товара: <span>210479</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_21" href="/data/uploads/l/iblock/products/346575/18071.jpg" title="Щипцы для укладки Polaris PHS 2590KT" target="_blank">
+																<img src="/data/uploads/l/iblock/products/346575/17970.jpg" alt="Щипцы для укладки Polaris PHS 2590KT" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/cshipcy-dlja-ukladki/2687/polaris-phs-2590kt/346575/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>990 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="429403" data-name="Увлажнитель воздуха Polaris PUH 4570 TFD" data-brand="Polaris" data-category="Увлажнители воздуха" data-price="8100" data-position="22">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/uvlazhniteli-vozduha/2533/polaris-puh-4570-tfd/429403/">Увлажнитель воздуха Polaris PUH 4570 TFD</a>
+				</div>
+				<div class="articul">Артикул товара: <span>280386</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_22" href="/data/uploads/o/iblock/products/429403/9354.jpg" title="Увлажнитель воздуха Polaris PUH 4570 TFD" target="_blank">
+																<img src="/data/uploads/o/iblock/products/429403/75193.jpg" alt="Увлажнитель воздуха Polaris PUH 4570 TFD" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/uvlazhniteli-vozduha/2533/polaris-puh-4570-tfd/429403/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>8 100 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="380557" data-name="Радиатор Polaris CR V 0920 Compact black" data-brand="Polaris" data-category="Радиаторы" data-price="2500" data-position="23">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/radiatory/2534/polaris-cr-v-0920-compact-black/380557/">Радиатор Polaris CR V 0920 Compact black</a>
+				</div>
+				<div class="articul">Артикул товара: <span>241604</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_23" href="/data/uploads/m/iblock/products/380557/30553.jpg" title="Радиатор Polaris CR V 0920 Compact black" target="_blank">
+																<img src="/data/uploads/m/iblock/products/380557/52587.jpg" alt="Радиатор Polaris CR V 0920 Compact black" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/radiatory/2534/polaris-cr-v-0920-compact-black/380557/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>2 500 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+					<div class="product-short">
+		<div class="product" data-ec="product" data-id="315545" data-name="Вентилятор Polaris PSF 0740" data-brand="Polaris" data-category="Вентиляторы" data-price="1885" data-position="24">
+					<div class="card">
+				<div class="name">
+					<a href="https://spb.technohit.ru/catalog/ventiljatory/2535/polaris-psf-0740/315545/">Вентилятор Polaris PSF 0740</a>
+				</div>
+				<div class="articul">Артикул товара: <span>180914</span></div>
+				<div class="side">
+											<div class="photo">
+							<div class="cover">
+																																<!------------------------------------------->
+																	<a class="gallery_cat" rel="group_24" href="/data/uploads/k/iblock/products/315545/88128.jpg" title="Вентилятор Polaris PSF 0740" target="_blank">
+																<img src="/data/uploads/k/iblock/products/315545/49208.jpg" alt="Вентилятор Polaris PSF 0740" />
+																	<div class="zoom"></div>
+									</a>
+																								<!------------------------------------------->
+
+							</div>
+						</div>
+										<div class="rating">
+									<ul class="units">
+			<li style="width: 0px;" class="rate">0</li>
+					</ul>
+									</div>
+				</div>
+							</div>
+			<div class="sale">
+				<form method="POST" action="https://spb.technohit.ru/catalog/ventiljatory/2535/polaris-psf-0740/315545/">
+					<div class="tools">
+													<div class="bookmark">
+																	<button type="submit" name="BOOKMARK" value="ADD">В закладки</button>
+															</div>
+												<div class="compare">
+															<button type="submit" name="COMPARE" value="ADD">К сравнению</button>
+													</div>
+					</div>
+					<div class="pricing">
+						<div class="available-n">
+															<div class="available">Нет в наличии</div>
+																						<div class="price">
+									<b>1 885 <span>р.</span></b>
+								</div>
+																						<div class="credit"><br class="no" /></div>
+													</div>
+					</div>
+					<div class="actions">
+																					<div class="remind">
+									<button type="submit" name="REMIND" value="NEW">
+										<span>Сообщить о поступлении</span>
+									</button>
+								</div>
+								<div class="pre">
+									<button type="submit" name="PRE_ORDER" value="NEW">Оставить предзаказ</button>
+								</div>
+																		</div>
+									</form>
+			</div>
+			</div>
+			</div>
+				</div>
+					</div>
+																<script>
+					$(document).ready(function() {
+						$('#pager').paging({
+							url: '/search/?FIND=polaris&ARTICUL=N',
+							callback: function(more) {
+								$('.products > .list').append($(more).html()).ui();
+							}
+						});
+					});
+				</script>
+						<div id="pager">
+				<div class="pages">
+					
+<a class="active" href="/search/?FIND=polaris&ARTICUL=N">1</a>
+<a href="/search/page/2/?FIND=polaris&ARTICUL=N">2</a>
+<a href="/search/page/3/?FIND=polaris&ARTICUL=N">3</a>
+<a href="/search/page/4/?FIND=polaris&ARTICUL=N">4</a>
+<a href="/search/page/5/?FIND=polaris&ARTICUL=N">5</a>
+<a href="/search/page/6/?FIND=polaris&ARTICUL=N">6</a>
+<a href="/search/page/7/?FIND=polaris&ARTICUL=N">...</a>
+<a href="/search/page/65/?FIND=polaris&ARTICUL=N">65</a>				</div>
+									<div class="more">
+						<span>Показать еще 24 товара</span>
+					</div>
+							</div>
+																													</div>
+					</div>
+				</div>
+							</div>
+			<div id="footer" class="fx-hide">
+	<div class="menu">
+				<div class="catalog">
+		<div class="title">Каталог товаров</div>
+		<div class="sub">
+																	<div class="col">
+								<a href="/catalog/krupnaja-bytovaja-tehnika/2380/" title="Крупная бытовая техника">Крупная бытовая техника</a>
+															<a href="/catalog/vstraivaemaja-bytovaja-tehnika/2416/" title="Встраиваемая бытовая техника">Встраиваемая бытовая техника</a>
+															<a href="/catalog/santehnika/2460/" title="Сантехника">Сантехника</a>
+															<a href="/catalog/tehnika-dlja-kuhni/2486/" title="Техника для кухни">Техника для кухни</a>
+															<a href="/catalog/tehnika-dlja-doma/6230/" title="Техника для дома">Техника для дома</a>
+															<a href="/catalog/klimaticheskaja-tehnika/2532/" title="Климатическая техника">Климатическая техника</a>
+															<a href="/catalog/tv-audio-i-video/2546/" title="ТВ, аудио и видео">ТВ, аудио и видео</a>
+															<a href="/catalog/sportivnye-tovary/5773/" title="Спортивные товары">Спортивные товары</a>
+																						</div>
+										<div class="col">
+								<a href="/catalog/detskie-tovary/5440/" title="Детские товары">Детские товары</a>
+															<a href="/catalog/instrumenty-sad-ogorod/2612/" title="Инструменты, Сад, Огород">Инструменты, Сад, Огород</a>
+															<a href="/catalog/krasota-i-zdorove/2680/" title="Красота и здоровье">Красота и здоровье</a>
+															<a href="/catalog/shkola-i-obuchenie/8772/" title="Школа и обучение">Школа и обучение</a>
+															<a href="/catalog/cifrovaja-tehnika/2712/" title="Цифровая техника">Цифровая техника</a>
+															<a href="/catalog/vse-dlja-avto/2743/" title="Все для авто">Все для авто</a>
+															<a href="/catalog/mebel-i-tekstil/5638/" title="Мебель и текстиль">Мебель и текстиль</a>
+															<a href="/catalog/turizm-i-otdyh/5856/" title="Туризм и отдых">Туризм и отдых</a>
+																						</div>
+										<div class="col">
+								<a href="/catalog/hoztovary/9183/" title="Хозтовары">Хозтовары</a>
+															<a href="/catalog/bytovaja-i-professionalnaja-himija/9225/" title="Бытовая и профессиональная химия">Бытовая и профессиональная химия</a>
+															<a href="/catalog/torgovoe-oborudovanie/9297/" title="Торговое оборудование">Торговое оборудование</a>
+															<a href="/catalog/ofis/9349/" title="Офис">Офис</a>
+															<a href="/catalog/hudozhnikam/9421/" title="Художникам">Художникам</a>
+															<a href="/catalog/podarki-i-prazdnik/9998/" title="Подарки и праздник">Подарки и праздник</a>
+															<a href="/catalog/knigi/19613/" title="Книги">Книги</a>
+									</div>
+									</div>
+	</div>
+			<div class="about">
+		<div class="title">О компании</div>
+		<div class="sub">
+							<a href="/sposobpokupki/" target="_self" title="Как купить" class="ajaxify">Как купить</a>
+							<a href="/delivery/" target="_self" title="Доставка и оплата" class="ajaxify">Доставка и оплата</a>
+							<a href="/warranty/" target="_self" title="Гарантии" class="ajaxify">Гарантии</a>
+							<a href="http://vk.com/technohit_ru" target="_blank" title="Группа &quot;Вконтакте&quot; магазина Технохит" class="vk">Мы Вконтакте</a>
+							<a href="https://plus.google.com/+TechnohitRu" target="_blank" title="Мы в Google+" class="gplus">Мы в Google+</a>
+							<a href="/contacts/" target="_self" title="Контакты" class="ajaxify">Контакты</a>
+							<a href="https://technohit.ru/defence/" target="_blank" title="Политика конфиденциальности магазина «Технохит»" class="ajaxify">Конфиденциальность</a>
+					</div>
+	</div>
+	</div>
+	<div class="copyrights">&copy; Интернет-магазин "Технохит", 2003 &ndash; 2021</div>
+	<div class="payments">
+		<img src="/static/i/pk.png" alt="Visa / Mastercard / PayKeeper" />
+	</div>
+	<div class="attention-footer">Вся информация предоставленная на сайте spb.technohit.ru носит справочный характер и не является публичной офертой (положения cтатьи 437 ГК РФ).<br /><br />Технические характеристики (спецификация) и комплект поставки товара могут быть изменены производителем без предварительного уведомления.<br /><br />Более подробную информацию уточняйте у наших консультантов.</div>
+</div>
+<div id="toolbar" class="out-side fx fx-fade">
+	<div class="items">
+					<div class="item">
+				<span class="region">
+					<span class="icon"></span>
+					<span class="title">Санкт-Петербург и область</span>
+				</span>
+			</div>
+				<div class="item">
+			<span class="compare">
+				<a href="/catalog/compare/">
+					<span class="icon"></span>
+					<span class="title">Сравнение</span>
+					<span class="count">0</span>
+				</a>
+			</span>
+		</div>
+		<div class="item">
+			<span class="bookmarks">
+				<a href="/cabinet/bookmarks/">
+					<span class="icon"></span>
+					<span class="title">Закладки</span>
+					<span class="count">0</span>
+				</a>
+			</span>
+		</div>
+		<div class="item">
+			<span class="cart">
+				<a href="/cart/">
+					<span class="icon"></span>
+					<span class="title">Корзина</span>
+					<span class="count">0</span>
+					<span class="sum">Пока пусто</span>
+				</a>
+			</span>
+		</div>
+	</div>
+</div>		</div>
+						<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MZ4MW8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZ4MW8');</script>
+<!-- End Google Tag Manager -->    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-43060999-3', 'auto');
+      ga('send', 'pageview');
+    </script>	<!--LiveInternet counter--><script type="text/javascript">
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t44.6;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";h"+escape(document.title.substring(0,150))+";"+Math.random()+
+"' alt='' title='LiveInternet' "+
+"border='0' width='1' height='1'><\/a>")
+</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --> <script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(31067646, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, ecommerce:"dataLayer" }); </script> <noscript><div><img src="https://mc.yandex.ru/watch/31067646" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter --><!-- Global site tag (gtag.js) - Google Ads: 742118202 --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-742118202"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-742118202'); </script>	</body>
+</html>

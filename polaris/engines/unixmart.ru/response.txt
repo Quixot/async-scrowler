@@ -1,0 +1,863 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="utf-8" />
+    <title>Поиск :: www.unixmart.ru</title>
+                <meta name="robots" content="index, follow" />
+                    <link rel="next" href="/search?page=2" />
+    <link rel="stylesheet" href="/Content/css/style.min.css" />
+    <link rel="stylesheet" href="/Content/css/additional.css" />
+    <script>
+  (function(d, w, c, e, l) {
+    w[c] = w[c] || 'JWd7Kbt8XReyY5uUjl0Bw3bJESlKKakL';
+    w[e] = w[e] || 'antisov.ru';
+    w[l] = w[l] || 1;
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.src = 'https://cdn.' + w[e] + '/advisor.js';
+    s.async = true;
+    try {
+        d.getElementsByTagName('head')[0].appendChild(s);
+    } catch (e) {}
+  })(document, window, 'AdvisorApiToken', 'AdvisorHost', 'AdvisorSecure');
+</script>
+
+    <script src="/Scripts/modernizr-2.8.3.js"></script>
+</head>
+<body class="home category-01">
+    
+    
+    <!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W7LKKN"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W7LKKN');</script>
+<!-- End Google Tag Manager -->
+    
+<header class="header" id="top">
+    <div class="container">
+        <div class="header-logo">
+            <a href="/">
+                <img src="/Content/images/logo_unixmart.png" alt="магазин бытовой техники" />
+                <span>магазин бытовой техники</span>
+            </a>
+        </div>
+        <div class="header-contacts">
+            <div class="header-contacts-phone">
+                    <span class="header-contacts-phone-value">8(495)627-5707</span>
+                
+<a href="#" data-action="dropdown" id="callback_dropdown">Заказать звонок</a>
+<div class="popup-container card-phone-container" aria-labelledby="callback_dropdown">
+    <span class="popup-container-close" data-action='close'></span>
+    <div class="card-phone-container-head">Укажите номер телефона – оператор сам перезвонит вам через 4 минуты</div>
+<form action="/request" class="requestCallback" method="post">        <input type="phone" placeholder="" value="" name="callbackPhone" class="mask-phone" pattern = "[0-9]\([0-9]{3}\)[0-9]{7}" inputmode = "numeric" />
+        <button type="submit" class="btn btn-apply" id="submitButton">Позвонить</button>
+</form></div>            </div>
+            
+        </div>
+        <div class="header-service">
+            <div class="header-service-link" data-action="dropdown" aria-label="Открыть меню" id="service_dropdown">
+                    <span>Доставка</span>
+                    <span>Самовывоз</span>
+                    <span>Способы оплаты</span>
+                    <span>Возврат и обмен</span>
+                    <span>Для поставщиков</span>
+            </div>
+            <div class="header-service-list" aria-labelledby="service_dropdown">
+                    <a href="/info/delivery">
+                        <span class="icon icon-cargo"></span>
+                        Доставка
+                    </a>
+                    <a href="/info/points">
+                        <span class="icon icon-list"></span>
+                        Самовывоз
+                    </a>
+                    <a href="/info/payment">
+                        <span class="icon icon-gears"></span>
+                        Способы оплаты
+                    </a>
+                    <a href="/info/return">
+                        <span class="icon icon-info"></span>
+                        Возврат и обмен
+                    </a>
+                    <a href="/info/dlja-postavshhikov">
+                        <span class="icon icon-cargo"></span>
+                        Для поставщиков
+                    </a>
+            </div>
+        </div>
+        <div class="header-digits" title="Сообщите номер оператору по телефону">
+    <span class="header-digits-title">номер сессии</span>
+    00-01
+</div>
+    </div>
+</header>
+
+    <div class="nav">
+    <div class="container">
+        <div class="nav-catalog popup">
+            <a href="#" class="nav-catalog-open popup-link" data-action="dropdown" id="catalog_dropdown">
+                <i class="icon icon-bars-white"></i>
+                Каталог
+            </a>
+            <div class="nav-catalog-dropdown popup-container" aria-labelledby="catalog_dropdown">
+                <span class="popup-container-close" data-action='close'></span>
+                <div class="popup-container-body">
+                    <ul class="nav-catalog-dropdown-list">
+                            <li class="nav-catalog-dropdown-item catalog-dropdown-item-01 hasSubitems">
+                                <a href="/catalog/bytovaja-tekhnika">Бытовая 
+техника</a>
+                                <ul>
+                                        <li><a href="/catalog/holodilniki">Холодильники</a></li>
+                                        <li><a href="/catalog/stiralnye-mashiny">Стиральные машины</a></li>
+                                        <li><a href="/catalog/vytjazhki">Вытяжки</a></li>
+                                        <li><a href="/catalog/morozilnye-kamery">Морозильные камеры</a></li>
+                                        <li><a href="/catalog/posudomoechnye-mashiny">Посудомоечные машины</a></li>
+                                        <li><a href="/catalog/plity">Плиты</a></li>
+                                        <li><a href="/catalog/sushilnye-mashiny">Сушильные машины</a></li>
+                                        <li><a href="/catalog/aksessuary-dlja-bytovojj-tekhniki">Аксессуары для бытовой техники</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-catalog-dropdown-item catalog-dropdown-item-02 hasSubitems">
+                                <a href="/catalog/vstraivaemaja-tekhnika">Встраиваемая 
+техника</a>
+                                <ul>
+                                        <li><a href="/catalog/vstraivaemye-varochnye-paneli">Встраиваемые варочные панели</a></li>
+                                        <li><a href="/catalog/vstraivaemye-duhovye-shkafy">Встраиваемые духовые шкафы</a></li>
+                                        <li><a href="/catalog/vstraivaemye-vytjazhki">Встраиваемые вытяжки</a></li>
+                                        <li><a href="/catalog/vstraivaemye-holodilniki">Встраиваемые холодильники</a></li>
+                                        <li><a href="/catalog/vstraivaemye-posudomoechnye-mashiny">Встраиваемые посудомоечные машины</a></li>
+                                        <li><a href="/catalog/vstraivaemye-stiralnye-mashiny">Встраиваемые стиральные машины</a></li>
+                                        <li><a href="/catalog/vstraivaemye-mikrovolnovye-pechi">Встраиваемые микроволновые печи</a></li>
+                                        <li><a href="/catalog/aksessuary-dlja-vstraivaemojj-tekhniki">Аксессуары для встраиваемой техники</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-catalog-dropdown-item catalog-dropdown-item-06 hasSubitems">
+                                <a href="/catalog/kukhonnaja-tekhnika">Кухонная техника</a>
+                                <ul>
+                                        <li><a href="/catalog/mikrovolnovye-pechi">Микроволновые печи</a></li>
+                                        <li><a href="/catalog/chayniky">Чайники</a></li>
+                                        <li><a href="/catalog/muliitivarki">Мультиварки</a></li>
+                                        <li><a href="/catalog/mjasorubki">Мясорубки</a></li>
+                                        <li><a href="/catalog/hlebopechki">Хлебопечки</a></li>
+                                        <li><a href="/catalog/blendery">Блендеры</a></li>
+                                        <li><a href="/catalog/kukhonnye-kombajjny">Кухонные комбайны</a></li>
+                                        <li><a href="/catalog/parovarki">Пароварки</a></li>
+                                        <li><a href="/catalog/miksery">Миксеры</a></li>
+                                        <li><a href="/catalog/sokovyzhimalki">Соковыжималки</a></li>
+                                        <li><a href="/catalog/mini-pechi">Минипечи</a></li>
+                                        <li><a href="/catalog/vesy-kukhonnye">Весы кухонные</a></li>
+                                        <li><a href="/catalog/tostery-grili-sehndvichnicy">Тостеры / Грили / Сэндвичницы</a></li>
+                                        <li><a href="/catalog/kofevarki-kofemashiny">Кофеварки и кофемашины</a></li>
+                                        <li><a href="/catalog/termopoty">Термопоты</a></li>
+                                        <li><a href="/catalog/jjogurtnica">Йогуртницы</a></li>
+                                        <li><a href="/catalog/blinnicy">Блинницы</a></li>
+                                        <li><a href="/catalog/lomterezki">Ломтерезки</a></li>
+                                        <li><a href="/catalog/sushilki-dlja-ovoshhejj">Сушилки для овощей</a></li>
+                                        <li><a href="/catalog/aksessuary-dlja-mbt">Аксессуары для МБТ</a></li>
+                                        <li><a href="/catalog/kukhonnaja-utvarii">Прочее</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-catalog-dropdown-item catalog-dropdown-item-08 hasSubitems">
+                                <a href="/catalog/tekhnika-dlya-doma">Техника для дома</a>
+                                <ul>
+                                        <li><a href="/catalog/pylesosy">Пылесосы</a></li>
+                                        <li><a href="/catalog/utjugi">Утюги</a></li>
+                                        <li><a href="/catalog/gladiliinye-sistemy-i-mashiny">Гладильные системы</a></li>
+                                        <li><a href="/catalog/otparivateli">Отпариватели</a></li>
+                                        <li><a href="/catalog/parogeneratory">Парогенераторы</a></li>
+                                        <li><a href="/catalog/paroochistiteli">Пароочистители</a></li>
+                                        <li><a href="/catalog/aksessuary-dlya-domashnej-tekhniki">Аксессуары для домашней техники</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-catalog-dropdown-item catalog-dropdown-item-03 hasSubitems">
+                                <a href="/catalog/pribory-dlja-uhoda-za-soboj">Приборы для ухода за собой</a>
+                                <ul>
+                                        <li><a href="/catalog/pribory-dlja-ukladki-volos">Приборы для укладки волос</a></li>
+                                        <li><a href="/catalog/pribory-dlya-britya-i-strizhki-volos">Приборы для бритья и стрижки волос</a></li>
+                                        <li><a href="/catalog/pribory-dlya-krasoty-i-zdorovya">Приборы для красоты и здоровья</a></li>
+                                        <li><a href="/catalog/ehpiljatory">Эпиляторы</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-catalog-dropdown-item catalog-dropdown-item-09 hasSubitems">
+                                <a href="/catalog/stroitelstvo-i-remont">Строительство и 
+ремонт</a>
+                                <ul>
+                                        <li><a href="/catalog/ehlektroinstrument">Электроинструмент</a></li>
+                                </ul>
+                            </li>
+                            <li class="nav-catalog-dropdown-item catalog-dropdown-item-04 hasSubitems">
+                                <a href="/catalog/klimaticheskaja-tekhnika">Климатическая 
+техника</a>
+                                <ul>
+                                        <li><a href="/catalog/obogrevateli">Обогреватели</a></li>
+                                        <li><a href="/catalog/vodonagrevateli">Водонагреватели</a></li>
+                                        <li><a href="/catalog/obrabotka-vozdukha">Обработка воздуха</a></li>
+                                        <li><a href="/catalog/aksessuary-dlja-klimaticheskoi-texniki">Аксессуары для климатической техники</a></li>
+                                </ul>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="nav-search">
+<form action="/search" method="post">                <input type="text" name="search_query" value="" placeholder="Поиск" />
+                <button type="submit">Искать</button>
+</form>        </div>
+        <div class="nav-personal">
+            <div class="nav-personal-cart" id="basketAmount">
+                
+<a href="#">Корзина</a>
+<span class="nav-personal-cart-num">0</span>
+<a href="#" class="btn btn-apply">Оформить заказ</a>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="catList">
+    <div class="container">
+        <nav>
+                <a class="catList-item catList-item-01" href="/catalog/bytovaja-tekhnika">Бытовая 
+техника</a>
+                <a class="catList-item catList-item-02" href="/catalog/vstraivaemaja-tekhnika">Встраиваемая 
+техника</a>
+                <a class="catList-item catList-item-03" href="/catalog/kukhonnaja-tekhnika">Кухонная техника</a>
+                <a class="catList-item catList-item-08" href="/catalog/tekhnika-dlya-doma">Техника для дома</a>
+                <a class="catList-item catList-item-04" href="/catalog/pribory-dlja-uhoda-za-soboj">Приборы для ухода за собой</a>
+                <a class="catList-item catList-item-09" href="/catalog/stroitelstvo-i-remont">Строительство и 
+ремонт</a>
+                <a class="catList-item catList-item-05" href="/catalog/klimaticheskaja-tekhnika">Климатическая 
+техника</a>
+        </nav>
+    </div>
+</div>
+    
+    <div class="content">
+        <div class="container">
+            
+
+<div class="breadcrumbs">
+    <a href="/">Главная</a>
+    |
+    <span>Поиск</span>
+</div>
+
+<h1>Результаты поиска &laquo;polaris&raquo; 138</h1>
+
+<div id="GoodsList" class="content-cols">
+    <div class="content-cols-main pull-right col-md-9">
+    <div class="pager">
+                <a href="javascript:" class="pager-current">1</a>
+<a href="/search?search_query=polaris&amp;page=2">2</a><a href="/search?search_query=polaris&amp;page=3">3</a><a href="/search?search_query=polaris&amp;page=4">4</a><a href="/search?search_query=polaris&amp;page=5">5</a>                &hellip;
+<a href="/search?search_query=polaris&amp;page=10">10</a>                &hellip;
+<a href="/search?search_query=polaris&amp;page=12">12</a><a class="pager-next" href="/search?search_query=polaris&amp;page=2">следующая</a></div>
+<div class="showOptions">
+         Сортировать:
+        <a href="/search?search_query=polaris&amp;page=1&amp;sort=pop">по популярности</a>
+        <a href="/search?search_query=polaris&amp;page=1&amp;sort=down">по цене &#8593;</a>
+</div>
+
+    <div class="index">
+            <article class="index-item">
+                <a href="/goods/uvlazhnitelii-vozdukha-polaris-puh-6005di-641382">
+                    <figure class="index-item-image">
+                        <img src="/img/642053-uvlazhnitelii-vozdukha-polaris-puh-6005di.jpg" alt="Увлажнитель воздуха Polaris PUH 6005Di фото" title="Заказать Увлажнитель воздуха Polaris PUH 6005Di" />
+                    </figure>
+                    <h3>Увлажнитель воздуха Polaris PUH 6005Di <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Ионизация:</td>
+                                    <td>есть </td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">3 940 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="641382">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/uvlazhnitelii-vozdukha-polaris-puh-8505-tfd-chernyjj-608685">
+                    <figure class="index-item-image">
+                        <img src="/img/610105-uvlazhnitelii-vozdukha-polaris-puh-8505-tfd-chernyjj.jpg" alt="Увлажнитель воздуха Polaris PUH 8505 TFD, Черный фото" title="Заказать Увлажнитель воздуха Polaris PUH 8505 TFD, Черный" />
+                    </figure>
+                    <h3>Увлажнитель воздуха Polaris PUH 8505 TFD, Черный <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Ионизация:</td>
+                                    <td>есть </td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">3 200 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="608685">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/chajjnik-polaris-pwk-1702cgl-619422">
+                    <figure class="index-item-image">
+                        <img src="/img/622160-chajjnik-polaris-pwk-1702cgl.jpg" alt="Чайник Polaris PWK 1702CGL фото" title="Заказать Чайник Polaris PWK 1702CGL" />
+                    </figure>
+                    <h3>Чайник Polaris PWK 1702CGL <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Мощность:</td>
+                                    <td>1850-2150 Вт</td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Объем:</td>
+                                    <td>1,7 л</td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">3 999 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="619422">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/grilii-polaris-pgp-1102d-611368">
+                    <figure class="index-item-image">
+                        <img src="/img/612011-grilii-polaris-pgp-1102d.jpg" alt="Гриль Polaris PGP 1102D фото" title="Заказать Гриль Polaris PGP 1102D" />
+                    </figure>
+                    <h3>Гриль Polaris PGP 1102D <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">3 850 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="611368">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/kofevarka-polaris-pcm-1215a-597736">
+                    <figure class="index-item-image">
+                        <img src="/img/598995-kofevarka-polaris-pcm-1215a.jpg" alt="Кофеварка Polaris PCM 1215A фото" title="Заказать Кофеварка Polaris PCM 1215A" />
+                    </figure>
+                    <h3>Кофеварка Polaris PCM 1215A <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Материал корпуса:</td>
+                                    <td>нержавеющая сталь </td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Цвет:</td>
+                                    <td>черный </td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">1 790 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="597736">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/toster-polaris-pet-0702l-750w-belyjj-423980">
+                    <figure class="index-item-image">
+                        <img src="/img/432317-toster-polaris-pet-0702l-750w-belyjj.jpg" alt="Тостер Polaris PET 0702L 750W, Белый фото" title="Заказать Тостер Polaris PET 0702L 750W, Белый" />
+                    </figure>
+                    <h3>Тостер Polaris PET 0702L 750W, Белый <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Мощность, Вт:</td>
+                                    <td>750 </td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Количество тостов:</td>
+                                    <td>2 </td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Решетка для подогрева булочек:</td>
+                                    <td>есть </td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">1 799 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="423980">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/blender-polaris-phb0523-chernyjj-268341">
+                    <figure class="index-item-image">
+                        <img src="/img/412763-blender-polaris-phb0523-chernyjj.jpg" alt="Блендер Polaris PHB0523,Черный фото" title="Заказать Блендер Polaris PHB0523,Черный" />
+                    </figure>
+                    <h3>Блендер Polaris PHB0523,Черный <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Тип блендера:</td>
+                                    <td>погружной </td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Мощность:</td>
+                                    <td>500 Вт</td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Количество скоростей блендера:</td>
+                                    <td>2 </td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Материал погружной части:</td>
+                                    <td>металл </td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Материал корпуса:</td>
+                                    <td>пластик </td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">1 590 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="268341">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/mjasorubka-polaris-pmg-1852-bordo-571714">
+                    <figure class="index-item-image">
+                        <img src="/img/632185-mjasorubka-polaris-pmg-1852-bordo.jpg" alt="Мясорубка Polaris PMG 1852 Бордо фото" title="Заказать Мясорубка Polaris PMG 1852 Бордо" />
+                    </figure>
+                    <h3>Мясорубка Polaris PMG 1852 Бордо <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Мощность:</td>
+                                    <td>1800 Вт</td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Производительность:</td>
+                                    <td>2 кг/мин</td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Система реверса:</td>
+                                    <td>есть </td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">4 499 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="571714">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/chajjnik-polaris-pwk-1759cgl-chernyjj-640320">
+                    <figure class="index-item-image">
+                        <img src="/img/641164-chajjnik-polaris-pwk-1759cgl-chernyjj.jpg" alt="Чайник Polaris PWK 1759CGL, Черный фото" title="Заказать Чайник Polaris PWK 1759CGL, Черный" />
+                    </figure>
+                    <h3>Чайник Polaris PWK 1759CGL, Черный <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Мощность:</td>
+                                    <td>1850,215 Вт</td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Объем:</td>
+                                    <td>1,5 л</td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Цвет:</td>
+                                    <td>черный </td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">2 999 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="640320">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/chajjnik-polaris-pwk-1759cgl-belyjj-chernyjj-640319">
+                    <figure class="index-item-image">
+                        <img src="/img/641155-chajjnik-polaris-pwk-1759cgl-belyjj-chernyjj.jpg" alt="Чайник Polaris PWK 1759CGL, Белый-черный фото" title="Заказать Чайник Polaris PWK 1759CGL, Белый-черный" />
+                    </figure>
+                    <h3>Чайник Polaris PWK 1759CGL, Белый-черный <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Мощность:</td>
+                                    <td>1850,215 Вт</td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Объем:</td>
+                                    <td>1,5 л</td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Цвет:</td>
+                                    <td>белый </td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">2 990 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="640319">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/pylesos-polaris-pvc-1730cr-418187">
+                    <figure class="index-item-image">
+                        <img src="/img/418875-pylesos-polaris-pvc-1730cr.jpg" alt="Пылесос Polaris PVC 1730CR фото" title="Заказать Пылесос Polaris PVC 1730CR" />
+                    </figure>
+                    <h3>Пылесос Polaris PVC 1730CR <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Мощность всасывания:</td>
+                                    <td>350 Вт</td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Регулятор мощности:</td>
+                                    <td>на корпусе </td>
+
+                                </tr>
+                                <tr>
+                                    <td class="c-gray s12">Цвет:</td>
+                                    <td>фиолетовый </td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">3 190 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="418187">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+            <article class="index-item">
+                <a href="/goods/pylesos-polaris-pvc-1730cr-404523">
+                    <figure class="index-item-image">
+                        <img src="/img/405006-pylesos-polaris-pvc-1730cr.jpg" alt="Пылесос Polaris PVC 1730CR фото" title="Заказать Пылесос Polaris PVC 1730CR" />
+                    </figure>
+                    <h3>Пылесос Polaris PVC 1730CR <span>#</span>
+                    </h3>
+                </a>
+                <div class="index-item-descr">
+                    <table class="index-item-descr-chars">
+                                <tr>
+                                    <td class="c-gray s12">Мощность всасывания:</td>
+                                    <td>350 Вт</td>
+
+                                </tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                                <tr><td>&nbsp;</td><td></td></tr>
+                    </table>
+                    <div class="index-item-descr-price">3 190 руб.</div>
+                    <div class="index-item-descr-buy popup" data-remote="true" data-target="#cartPopup" data-pos="above" data-id="404523">
+                        <a href="#" class="btn btn-apply popup-link">Купить</a>
+                    </div>
+                </div>
+            </article>
+    </div>
+    <div class="pager">
+                <a href="javascript:" class="pager-current">1</a>
+<a href="/search?search_query=polaris&amp;page=2">2</a><a href="/search?search_query=polaris&amp;page=3">3</a><a href="/search?search_query=polaris&amp;page=4">4</a><a href="/search?search_query=polaris&amp;page=5">5</a>                &hellip;
+<a href="/search?search_query=polaris&amp;page=10">10</a>                &hellip;
+<a href="/search?search_query=polaris&amp;page=12">12</a><a class="pager-next" href="/search?search_query=polaris&amp;page=2">следующая</a></div>
+<div class="showOptions">
+         Сортировать:
+        <a href="/search?search_query=polaris&amp;page=1&amp;sort=pop">по популярности</a>
+        <a href="/search?search_query=polaris&amp;page=1&amp;sort=down">по цене &#8593;</a>
+</div>
+
+</div>
+
+</div>
+<!-- .content-cols -->
+
+
+
+        </div>
+    </div>
+    
+    
+<div class="footerNav">
+    <div class="container">
+        <div class="footerNav-logo">
+            <a href="#">
+                <img src="/Content/images/logo_unixmart_footer.png" alt="магазин бытовой техники" />
+                <span>магазин бытовой техники</span>
+            </a>
+        </div>
+        <nav>
+
+            <ul class="columns" data-columns="4">
+                    <li class="dontsplit">
+                        <a href="/catalog/bytovaja-tekhnika">Бытовая 
+техника</a>
+                        <ul>
+                                <li><a href="/catalog/holodilniki">Холодильники</a></li>
+                                <li><a href="/catalog/stiralnye-mashiny">Стиральные машины</a></li>
+                                <li><a href="/catalog/vytjazhki">Вытяжки</a></li>
+                                <li><a href="/catalog/morozilnye-kamery">Морозильные камеры</a></li>
+                                <li><a href="/catalog/posudomoechnye-mashiny">Посудомоечные машины</a></li>
+                                <li><a href="/catalog/plity">Плиты</a></li>
+                                <li><a href="/catalog/sushilnye-mashiny">Сушильные машины</a></li>
+                                <li><a href="/catalog/aksessuary-dlja-bytovojj-tekhniki">Аксессуары для бытовой техники</a></li>
+                        </ul>
+                    </li>
+                    <li class="dontsplit">
+                        <a href="/catalog/vstraivaemaja-tekhnika">Встраиваемая 
+техника</a>
+                        <ul>
+                                <li><a href="/catalog/vstraivaemye-varochnye-paneli">Встраиваемые варочные панели</a></li>
+                                <li><a href="/catalog/vstraivaemye-duhovye-shkafy">Встраиваемые духовые шкафы</a></li>
+                                <li><a href="/catalog/vstraivaemye-vytjazhki">Встраиваемые вытяжки</a></li>
+                                <li><a href="/catalog/vstraivaemye-holodilniki">Встраиваемые холодильники</a></li>
+                                <li><a href="/catalog/vstraivaemye-posudomoechnye-mashiny">Встраиваемые посудомоечные машины</a></li>
+                                <li><a href="/catalog/vstraivaemye-stiralnye-mashiny">Встраиваемые стиральные машины</a></li>
+                                <li><a href="/catalog/vstraivaemye-mikrovolnovye-pechi">Встраиваемые микроволновые печи</a></li>
+                                <li><a href="/catalog/aksessuary-dlja-vstraivaemojj-tekhniki">Аксессуары для встраиваемой техники</a></li>
+                        </ul>
+                    </li>
+                    <li class="dontsplit">
+                        <a href="/catalog/kukhonnaja-tekhnika">Кухонная техника</a>
+                        <ul>
+                                <li><a href="/catalog/mikrovolnovye-pechi">Микроволновые печи</a></li>
+                                <li><a href="/catalog/chayniky">Чайники</a></li>
+                                <li><a href="/catalog/muliitivarki">Мультиварки</a></li>
+                                <li><a href="/catalog/mjasorubki">Мясорубки</a></li>
+                                <li><a href="/catalog/hlebopechki">Хлебопечки</a></li>
+                                <li><a href="/catalog/blendery">Блендеры</a></li>
+                                <li><a href="/catalog/kukhonnye-kombajjny">Кухонные комбайны</a></li>
+                                <li><a href="/catalog/parovarki">Пароварки</a></li>
+                                <li><a href="/catalog/miksery">Миксеры</a></li>
+                                <li><a href="/catalog/sokovyzhimalki">Соковыжималки</a></li>
+                                <li><a href="/catalog/mini-pechi">Минипечи</a></li>
+                                <li><a href="/catalog/vesy-kukhonnye">Весы кухонные</a></li>
+                                <li><a href="/catalog/tostery-grili-sehndvichnicy">Тостеры / Грили / Сэндвичницы</a></li>
+                                <li><a href="/catalog/kofevarki-kofemashiny">Кофеварки и кофемашины</a></li>
+                                <li><a href="/catalog/termopoty">Термопоты</a></li>
+                                <li><a href="/catalog/jjogurtnica">Йогуртницы</a></li>
+                                <li><a href="/catalog/blinnicy">Блинницы</a></li>
+                                <li><a href="/catalog/lomterezki">Ломтерезки</a></li>
+                                <li><a href="/catalog/sushilki-dlja-ovoshhejj">Сушилки для овощей</a></li>
+                                <li><a href="/catalog/aksessuary-dlja-mbt">Аксессуары для МБТ</a></li>
+                                <li><a href="/catalog/kukhonnaja-utvarii">Прочее</a></li>
+                        </ul>
+                    </li>
+                    <li class="dontsplit">
+                        <a href="/catalog/tekhnika-dlya-doma">Техника для дома</a>
+                        <ul>
+                                <li><a href="/catalog/pylesosy">Пылесосы</a></li>
+                                <li><a href="/catalog/utjugi">Утюги</a></li>
+                                <li><a href="/catalog/gladiliinye-sistemy-i-mashiny">Гладильные системы</a></li>
+                                <li><a href="/catalog/otparivateli">Отпариватели</a></li>
+                                <li><a href="/catalog/parogeneratory">Парогенераторы</a></li>
+                                <li><a href="/catalog/paroochistiteli">Пароочистители</a></li>
+                                <li><a href="/catalog/aksessuary-dlya-domashnej-tekhniki">Аксессуары для домашней техники</a></li>
+                        </ul>
+                    </li>
+                    <li class="dontsplit">
+                        <a href="/catalog/pribory-dlja-uhoda-za-soboj">Приборы для ухода за собой</a>
+                        <ul>
+                                <li><a href="/catalog/pribory-dlja-ukladki-volos">Приборы для укладки волос</a></li>
+                                <li><a href="/catalog/pribory-dlya-britya-i-strizhki-volos">Приборы для бритья и стрижки волос</a></li>
+                                <li><a href="/catalog/pribory-dlya-krasoty-i-zdorovya">Приборы для красоты и здоровья</a></li>
+                                <li><a href="/catalog/ehpiljatory">Эпиляторы</a></li>
+                        </ul>
+                    </li>
+                    <li class="dontsplit">
+                        <a href="/catalog/stroitelstvo-i-remont">Строительство и 
+ремонт</a>
+                        <ul>
+                                <li><a href="/catalog/ehlektroinstrument">Электроинструмент</a></li>
+                        </ul>
+                    </li>
+                    <li class="dontsplit">
+                        <a href="/catalog/klimaticheskaja-tekhnika">Климатическая 
+техника</a>
+                        <ul>
+                                <li><a href="/catalog/obogrevateli">Обогреватели</a></li>
+                                <li><a href="/catalog/vodonagrevateli">Водонагреватели</a></li>
+                                <li><a href="/catalog/obrabotka-vozdukha">Обработка воздуха</a></li>
+                                <li><a href="/catalog/aksessuary-dlja-klimaticheskoi-texniki">Аксессуары для климатической техники</a></li>
+                        </ul>
+                    </li>
+            </ul>
+        </nav>
+        <div class="footerNav-links">
+            <a href="https://clck.yandex.ru/redir/dtype=stred/pid=47/cid=2508/*https://market.yandex.ru/shop/264295/reviews">
+    <img src="https://clck.yandex.ru/redir/dtype=stred/pid=47/cid=2507/*https://grade.market.yandex.ru/?id=264295&action=image&size=2" border="0" width="150" height="101" alt="Читайте отзывы покупателей и оценивайте качество магазина на Яндекс.Маркете" />
+</a>
+
+            <section class="footerNav-links-contacts">
+                    <h3 class="f-hv-bold">8(495)627-5707</h3>
+                
+                <p>
+                    <br/>
+                    <br/>
+                    Заказать технику Unixmart.ru по телефону можно с 10:00 до 20:00 в любой день без выходных
+                    <br/>
+                    <br/>
+                </p>
+                <div class="contacts-phone popup">
+                    <a href="#" data-action="dropdown" id="callback_dropdown">Заказать звонок</a>
+<div class="popup-container card-phone-container" aria-labelledby="callback_dropdown">
+    <span class="popup-container-close" data-action='close'></span>
+    <div class="card-phone-container-head">Укажите номер телефона – оператор сам перезвонит вам через 4 минуты</div>
+<form action="/request" class="requestCallback" method="post">        <input type="phone" placeholder="" value="" name="callbackPhone" class="mask-phone" pattern = "[0-9]\([0-9]{3}\)[0-9]{7}" inputmode = "numeric" />
+        <button type="submit" class="btn btn-apply" id="submitButton">Позвонить</button>
+</form></div>
+                </div>
+            </section>
+            <section class="footerNav-links-social social">
+    <h3>Присоеди&shy;няйтесь к нам</h3>
+    <a href="https://www.facebook.com/unixmart.ru" target="_blank" class="social-item" title="Facebook">
+        <i class="fontello fontello-facebook"></i>
+    </a>
+    <a href="https://vk.com/unixmart" target="_blank" class="social-item" title="Вконтакте">
+        <i class="fontello fontello-vkontakte"></i>
+    </a>
+</section> 
+        </div>
+    </div>
+    <a href="#top" class="footerNav-2top">Наверх</a>
+</div>
+
+    <footer class="footer">
+    <div class="container">
+        <div class="copy">
+            © 2019 официальный интернет-магазин www.unixmart.ru
+        </div>
+        <div class="counter">
+        </div>
+    </div>
+</footer>
+
+
+
+<div class="popup-container goods-buy-container" id="cartPopup">
+    <span class="popup-container-close"></span>
+    <div class="innerContent">
+            <div class="goods-buy-container-title">Ваш товар добавлен в корзину</div>
+    <div class="goods-buy-container-info">В корзине: 0 товаров на сумму <span class="goods-buy-info-sum">0,00</span> р.
+        <a class="buy-link" href="#">Перейти к оформлению</a></div>
+
+    </div>
+</div>    
+
+
+
+    <script src="/Scripts/jquery-2.1.1.min.js"></script>
+    <script src="/Scripts/jquery-ui-1.10.4.custom.min.js"></script>
+    <script src="/Scripts/jquery.validate.min.js"></script>
+    <script src="/Scripts/maskedit.min.js"></script>
+    <script src="/Scripts/jquery.columnizer.js"></script>
+    <script src="/Scripts/jquery.bxslider.min.js"></script>
+    <script src="/Scripts/jquery.nouislider.all.min.js"></script>
+    <script src="/Scripts/jquery.fancybox.min.js"></script>
+    <script src="/Scripts/nnm_popup.js"></script>
+    <script src="/Scripts/ipr_dropdown.js"></script>
+    <script src="/Scripts/common.js"></script>
+    <script src="/Scripts/additional.js"></script>
+    <script src="/Scripts/readmore.min.js"></script>
+
+    
+</body>
+</html>

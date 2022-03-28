@@ -1,0 +1,102 @@
+Array
+(
+    [0] => Array
+        (
+            [0] => category-filter-hover">
+            <a
+                href="//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=3&q=polaris"
+                                onclick="setNavigationUrl({loadUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=3&isAjax=1&q=polaris', stateUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=3&q=polaris', addTs:true}); return false;"
+                            >Смартфони та телефони            <
+            [1] => //allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=3&q=polaris
+            [2] => Смартфони та телефони            
+        )
+
+    [1] => Array
+        (
+            [0] => category-filter-hover">
+            <a
+                href="//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=5269&q=polaris"
+                                onclick="setNavigationUrl({loadUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=5269&isAjax=1&q=polaris', stateUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=5269&q=polaris', addTs:true}); return false;"
+                            >Навушники і акустика            <
+            [1] => //allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=5269&q=polaris
+            [2] => Навушники і акустика            
+        )
+
+    [2] => Array
+        (
+            [0] => category-filter-hover">
+            <a
+                href="//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=928&q=polaris"
+                                onclick="setNavigationUrl({loadUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=928&isAjax=1&q=polaris', stateUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=928&q=polaris', addTs:true}); return false;"
+                            >Планшети, ноутбуки та ПК            <
+            [1] => //allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=928&q=polaris
+            [2] => Планшети, ноутбуки та ПК            
+        )
+
+    [3] => Array
+        (
+            [0] => category-filter-hover">
+            <a
+                href="//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=9&q=polaris"
+                                onclick="setNavigationUrl({loadUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=9&isAjax=1&q=polaris', stateUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=9&q=polaris', addTs:true}); return false;"
+                            >Побутова техніка            <
+            [1] => //allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=9&q=polaris
+            [2] => Побутова техніка            
+        )
+
+    [4] => Array
+        (
+            [0] => category-filter-hover">
+            <a
+                href="//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=5295&q=polaris"
+                                onclick="setNavigationUrl({loadUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=5295&isAjax=1&q=polaris', stateUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=5295&q=polaris', addTs:true}); return false;"
+                            >Туризм та риболовля            <
+            [1] => //allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=5295&q=polaris
+            [2] => Туризм та риболовля            
+        )
+
+    [5] => Array
+        (
+            [0] => category-filter-hover">
+            <a
+                href="//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=4286&q=polaris"
+                                onclick="setNavigationUrl({loadUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=4286&isAjax=1&q=polaris', stateUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=4286&q=polaris', addTs:true}); return false;"
+                            >Сантехніка та ремонт            <
+            [1] => //allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=4286&q=polaris
+            [2] => Сантехніка та ремонт            
+        )
+
+    [6] => Array
+        (
+            [0] => category-filter-hover">
+            <a
+                href="//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=1848&q=polaris"
+                                onclick="setNavigationUrl({loadUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=1848&isAjax=1&q=polaris', stateUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=1848&q=polaris', addTs:true}); return false;"
+                            >Будинок і сад            <
+            [1] => //allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=1848&q=polaris
+            [2] => Будинок і сад            
+        )
+
+    [7] => Array
+        (
+            [0] => category-filter-hover">
+            <a
+                href="//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=2143&q=polaris"
+                                onclick="setNavigationUrl({loadUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=2143&isAjax=1&q=polaris', stateUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=2143&q=polaris', addTs:true}); return false;"
+                            >Товари для дітей            <
+            [1] => //allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=2143&q=polaris
+            [2] => Товари для дітей            
+        )
+
+    [8] => Array
+        (
+            [0] => category-filter-hover">
+            <a
+                href="//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=2742&q=polaris"
+                                onclick="setNavigationUrl({loadUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=2742&isAjax=1&q=polaris', stateUrl: '//allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=2742&q=polaris', addTs:true}); return false;"
+                            >Автотовари            <
+            [1] => //allo.ua/ua/catalogsearch/result/index/form_key/3eeHPPN2K4RmxBiq/?cat=2742&q=polaris
+            [2] => Автотовари            
+        )
+
+)

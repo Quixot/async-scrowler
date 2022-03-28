@@ -1,0 +1,36 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.market.yandex.ru	TRUE	/	FALSE	1627027491	market_cpa	1
+.yandex.ru	TRUE	/	TRUE	1942301091	skid	6217703521626768291
+.market.yandex.ru	TRUE	/	TRUE	2145906000	visits	1626768291-1626768291-1626768291
+.market.yandex.ru	TRUE	/	FALSE	2145906000	cmp-merge	true
+.market.yandex.ru	TRUE	/	FALSE	2145906000	reviews-merge	true
+market.yandex.ru	FALSE	/	FALSE	0	js	1
+market.yandex.ru	FALSE	/	TRUE	1626770093	ugcp	1
+market.yandex.ru	FALSE	/	TRUE	1626814802	dcm	1
+market.yandex.ru	FALSE	/	FALSE	1658304295	currentRegionId	213
+market.yandex.ru	FALSE	/	FALSE	1658304295	currentRegionName	%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%83
+market.yandex.ru	FALSE	/	FALSE	1658304295	mOC	1
+.yandex.ru	TRUE	/	FALSE	1689840295	is_gdpr	0
+.yandex.ru	TRUE	/	FALSE	1689840295	is_gdpr_b	CLmULxD7Og==
+.yandex.ru	TRUE	/	TRUE	1689840295	i	FG6uLY06Iaa4FCJ/kPmHFZAFBkPry6LabCFVnvC+UKNTCooqenlIaIHRS9YEon9T1J2gIWSiag7ahyu0C+hkwsTH08E=
+market.yandex.ru	FALSE	/	FALSE	0	fonts-loaded	1
+.yandex.ru	TRUE	/	FALSE	1942128297	yandexuid	8469550491626768290
+.yandex.ru	TRUE	/	FALSE	1658304297	ymex	1942128297.yrts.1626768297
+.yandex.ru	TRUE	/	FALSE	0	gdpr	0
+.yandex.ru	TRUE	/	FALSE	1658304298	_ym_uid	1626768297471057844
+.yandex.ru	TRUE	/	FALSE	1658304298	_ym_d	1626768298
+.yandex.ru	TRUE	/	FALSE	1626840300	_ym_isad	2
+market.yandex.ru	FALSE	/	FALSE	1658304301	regionChangeMethod	manual
+.market.yandex.ru	TRUE	/	FALSE	2145906000	yandexmarket	48%2CRUR%2C1%2C%2C%2C%2C2%2C0%2C0%2C56%2C0%2C0%2C12%2C0
+.yandex.ru	TRUE	/	FALSE	1626770105	_ym_visorc	b
+.yandex.ru	TRUE	/	FALSE	1629360312	spravka	dD0xNjI2NzY4MzEyO2k9MTcxLjIyLjE4MS4xMjk7RD0xQUY3MDI0NzQ1NkExMEUwQzkxMUFGMTM5M0FGMjlDREQ3QURBOEU4NzkwQzMyRTFCMkY2MzcxMjcwNTQyMEE2O3U9MTYyNjc2ODMxMjk3MjMyODI2NztoPTIxMzE0MjFlMTdhZjUzOWQ2MDM0NjgzYjUwOGM4NmUw
+.market.yandex.ru	TRUE	/	FALSE	1626775513	lr	56
+.market.yandex.ru	TRUE	/	TRUE	0	parent_reqid_seq	1626768290993%2F2944156992000a216cd51d8289c70500%2C1626768313027%2F631e1da664d169f77f0c6e8389c70500
+

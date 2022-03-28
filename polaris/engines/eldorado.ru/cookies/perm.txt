@@ -1,0 +1,79 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.www.eldorado.ru	TRUE	/	FALSE	1613467024	userSplit	B
+www.eldorado.ru	FALSE	/	FALSE	1644916624	reuserid	031cb9c2-9521-4b7d-88e3-be7adb0e1190
+.eldorado.ru	TRUE	/	FALSE	0	_dy_csc_ses	t
+.eldorado.ru	TRUE	/	FALSE	0	__utmc	267034714
+.eldorado.ru	TRUE	/	FALSE	1613381226	__utmt_icc	1
+.eldorado.ru	TRUE	/	FALSE	0	_dyjsession	312394ba40157f91850aa39f7aeb2fd0
+.eldorado.ru	TRUE	/	FALSE	0	dy_fs_page	www.eldorado.ru
+.eldorado.ru	TRUE	/	FALSE	1618561027	digi-SearchVisitor	10%3A1
+www.eldorado.ru	FALSE	/	FALSE	0	dt	1
+.www.eldorado.ru	TRUE	/	FALSE	0	PHPSESSID	7l9qr46h9gvvip93kuf485vnn4
+.www.eldorado.ru	TRUE	/	FALSE	1615972628	ABT_test	B
+.www.eldorado.ru	TRUE	/	FALSE	1644484628	BITRIX_SM_SALE_UID	9263579527
+.www.eldorado.ru	TRUE	/	FALSE	1615972628	ek_ab_test	A
+.www.eldorado.ru	TRUE	/	FALSE	1699780628	AC	1
+www.eldorado.ru	FALSE	/	FALSE	1676452628	USER_AUTH_GTM	0
+www.eldorado.ru	FALSE	/	FALSE	1615972628	bCNT	0%3A0
+www.eldorado.ru	FALSE	/	FALSE	2145916800	BITRIX_SM_ELD_TZ_OFFSET	-120
+.eldorado.ru	TRUE	/	FALSE	1615972635	_dyid	297238599222049810
+.eldorado.ru	TRUE	/	FALSE	0	_dyfs	1613380635182
+.eldorado.ru	TRUE	/	FALSE	0	_dy_lu_ses	312394ba40157f91850aa39f7aeb2fd0%3A1613380635183
+.eldorado.ru	TRUE	/	FALSE	1615972635	_dycst	dk.w.f.ws.
+.eldorado.ru	TRUE	/	FALSE	1615972635	_dy_geo	RU.EU.RU_.RU__
+.eldorado.ru	TRUE	/	FALSE	1615972635	_dy_df_geo	Russia..
+.eldorado.ru	TRUE	/	FALSE	1615972635	_dy_toffset	-1
+.eldorado.ru	TRUE	/	FALSE	1613380645	rr-testCookie	testvalue
+.eldorado.ru	TRUE	/	FALSE	1644916635	rcuid	602a3c1cf22ebc00011f0860
+.eldorado.ru	TRUE	/	FALSE	1618561035	rr-VisitorSegment	3%3A1
+.eldorado.ru	TRUE	/	FALSE	1621156636	_gcl_au	1.1.2059460591.1613380628
+.eldorado.ru	TRUE	/	FALSE	1676452636	uxs_uid	98bfe290-6f6e-11eb-bf84-112df6bf5608
+.eldorado.ru	TRUE	/	FALSE	1616059036	uxs_mig	1
+.eldorado.ru	TRUE	/	FALSE	1615972636	advcake_trackid	f848eb7e-bdaf-fe28-7046-bf5af76ff286
+.eldorado.ru	TRUE	/	FALSE	1615972636	advcake_session_id	16c65f0e-f302-d86f-a792-e4eb83ea87fe
+.eldorado.ru	TRUE	/	FALSE	1640164636	clickcake_id	24f2ae4c-7127-d07f-2185-3914fbc6e2ad
+.eldorado.ru	TRUE	/	FALSE	1613382436	clickcake_sid	7074f629-ac94-ead3-1352-7bb316eaaeb2
+www.eldorado.ru	FALSE	/	FALSE	1613382437	dSesn	5daa283e-8ae6-1797-85e0-8fd99c0cb7bc
+.eldorado.ru	TRUE	/	FALSE	1699780637	top100_id	t1.7278065.227784899.1613380637244
+.eldorado.ru	TRUE	/	FALSE	1699780637	last_visit	1613373437248::1613380637248
+www.eldorado.ru	FALSE	/	FALSE	1613382438	_dvs	0:kl6d6avm:ygq3JrNoxVtPMJWG~D5UZiNjWPuveYq_
+www.eldorado.ru	FALSE	/	FALSE	1676452638	_userGUID	0:kl6d6avm:188azeD9cCubwKiMLFkrupuL6zETw0eZ
+.eldorado.ru	TRUE	/	FALSE	1642151839	tmr_lvid	1a39a606dd9b8a6e7457474fe2e4abf1
+.eldorado.ru	TRUE	/	FALSE	1642151839	tmr_lvidTS	1613380639066
+.eldorado.ru	TRUE	/	FALSE	1644916639	_ym_uid	161338063949375041
+.eldorado.ru	TRUE	/	FALSE	1644916639	_ym_d	1613380639
+.eldorado.ru	TRUE	/	FALSE	1644916640	rrpvid	103143654568985
+.eldorado.ru	TRUE	/	FALSE	1676452640	_ga	GA1.2.1531604155.1613380626
+.eldorado.ru	TRUE	/	FALSE	1613467040	_gid	GA1.2.1210694783.1613380628
+.eldorado.ru	TRUE	/	FALSE	1613380700	_dc_gtm_UA-44012634-4	1
+www.eldorado.ru	FALSE	/	FALSE	1613387840	rete_session	true
+.www.eldorado.ru	TRUE	/	FALSE	1699780641	AUTORIZZ	0
+.www.eldorado.ru	TRUE	/	FALSE	1699780641	lv_user_org	0
+.www.eldorado.ru	TRUE	/	FALSE	1699780641	el_group_user_org	0
+.www.eldorado.ru	TRUE	/	FALSE	1699780641	bonus_cobrand_showed	0
+.eldorado.ru	TRUE	/	FALSE	1647544641	cto_bundle	aMKyR19qayUyQnBBVGZkbCUyRkMyM1VFSm9UZmVHNkNPVVE1YUU1U3pRVkJoUTNwb3N6THAxZXpJNnhTekZMakdyZzNVdHVwcHN2NUdOU1ZlSEJ6RUphczlGcnpMOHlpVGFsVlhvRTM5dEtJZEt5bHFXS0gwRG1rQkNoNG9lV1JxUkh4NTIxUzlXOU1ZZm1iMzd1c2lqV0ZsWWxaQ2p3JTNEJTNE
+www.eldorado.ru	FALSE	/	FALSE	1644916641	iRegionSectionId	36166
+.eldorado.ru	TRUE	/	FALSE	1644916641	cfidsgib-w-eldorado	gN4OwozDLZCZlLwQW67iCGhHUJp02tyscbX0SmQZuktpNGjCt6FUm1dsGH3UQYwtFl+PcBykpVptCDSxljndFSVbFdm1IEotVpH9s4r4U1uIYvGsmT7FgsK+VjbsdkG1CGKxsL3zPqjK2Qaz5tISfiis
+.eldorado.ru	TRUE	/	FALSE	1644916641	__zzatgib-w-eldorado	MDA0dBA=Fz2+aQ==
+.eldorado.ru	TRUE	/	FALSE	1642151839	tmr_reqNum	17
+.eldorado.ru	TRUE	/	TRUE	0	ADRUM	s=1613380641608&r=https%3A%2F%2Fwww.eldorado.ru%2F%3F0
+.eldorado.ru	TRUE	/	FALSE	1621156641	_fbp	fb.1.1613380639993.138769579
+.eldorado.ru	TRUE	/	FALSE	1676452641	_ga_4P3TZK55KZ	GS1.1.1613380636.1.0.1613380641.0
+.eldorado.ru	TRUE	/	FALSE	1615972642	_dy_ses_load_seq	7647%3A1613380642745
+.eldorado.ru	TRUE	/	FALSE	1615972642	_dy_c_att_exps	
+.www.eldorado.ru	TRUE	/	FALSE	1613467043	show_region_popup	0
+.eldorado.ru	TRUE	/	FALSE	1615972643	_dy_c_exps	
+.eldorado.ru	TRUE	/	FALSE	1644916643	_dy_soct	1007167.1011280.1613380626*1009413.1015420.1613380626*1025826.1047956.1613380626*1020255.1036209.1613380627*1028247.1054440.1613380642*1033852.1068353.1613380642*1041695.1094836.1613380642*1003181.1004426.1613380642*1017093.1067478.1613380642*1037180.1080459.1613380643*1007065.1011142.1613380643
+.eldorado.ru	TRUE	/	FALSE	1615972643	_dycnst	dg
+www.eldorado.ru	FALSE	/	FALSE	1642151843	flocktory-uuid	43926c4c-0ebe-43d3-9529-edd59913b0b7-9
+.eldorado.ru	TRUE	/	FALSE	1676452643	__utma	267034714.1531604155.1613380626.1613380626.1613380626.1
+.eldorado.ru	TRUE	/	FALSE	1629148643	__utmz	267034714.1613380626.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.eldorado.ru	TRUE	/	FALSE	1613382443	__utmb	267034714.3.10.1613380626
+

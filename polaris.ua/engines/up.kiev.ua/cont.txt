@@ -1,0 +1,560 @@
+          <div class="order-detail-content">
+            <div class="table-responsive">
+              <table class="table table-bordered search_summary">
+                <thead>
+                  <tr>
+                    <th class="cart_product">Фото</th>
+                    <th>Найменування</th>
+                    <th>Ціна</th>
+                    <th>Наявність</th>
+                    <th>Кількість в замовленні</th>
+                    <th>Гарантія</th>
+                  </tr>
+                </thead>
+                <tbody>
+
+                                    <tr>
+                    <td class="cart_product"><a href="/Sumka_dlya_noutbuka_Asus_16_NEREUS_carry_bag_(90-XB4000BA00010)_chernyy_oliestr.html"><img src="https://up.kiev.ua/id_pic/10/1016_1.jpg" alt="Сумка для ноутбука ASUS 16 NEREUS carry bag (90-XB4000BA00010-)"></a>
+
+                      <p><a href="/Sumka_dlya_noutbuka_Asus_16_NEREUS_carry_bag_(90-XB4000BA00010)_chernyy_oliestr.html" >1016</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Sumka_dlya_noutbuka_Asus_16_NEREUS_carry_bag_(90-XB4000BA00010)_chernyy_oliestr.html">Сумка для ноутбука ASUS 16 NEREUS carry bag (90-XB4000BA00010-)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Sumki_k_noutbukam">Сумки до ноутбуків</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">468.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1016,468.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1016" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Shtativ_Velbon_CX-888_F.html"><img src="https://up.kiev.ua/id_pic/10/1033_1.jpg" alt="Штатив Velbon CX-888/F"></a>
+
+                      <p><a href="/Shtativ_Velbon_CX-888_F.html" >1033</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Shtativ_Velbon_CX-888_F.html">Штатив Velbon CX-888/F</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Shtativy">Штативи</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">1293.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1033,1293.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1033" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/USB_flesh_nakopitely_Transcend_128Gb_JetFlash_760_(TS128GJF760)_128Gba_USB3_0_plastik_chernyy_k_366.html"><img src="https://up.kiev.ua/id_pic/10/1037_1.jpg" alt="USB флеш накопичувач Transcend 128Gb JetFlash 760 (TS128GJF760)"></a>
+
+                      <p><a href="/USB_flesh_nakopitely_Transcend_128Gb_JetFlash_760_(TS128GJF760)_128Gba_USB3_0_plastik_chernyy_k_366.html" >1037</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/USB_flesh_nakopitely_Transcend_128Gb_JetFlash_760_(TS128GJF760)_128Gba_USB3_0_plastik_chernyy_k_366.html">USB флеш накопичувач Transcend 128Gb JetFlash 760 (TS128GJF760)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/USB_Flash">USB Flash</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">566.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1037,566.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1037" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>60</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Disk_DVD-R_Verbatim_4_7Gb_16X_Wra-box_50sht_MATT_serebristyy_(43788).html"><img src="https://up.kiev.ua/id_pic/10/1046_1.jpg" alt="Диск DVD Verbatim 4.7Gb 16X Wrap-box 50шт MATT SILVER (43788)"></a>
+
+                      <p><a href="/Disk_DVD-R_Verbatim_4_7Gb_16X_Wra-box_50sht_MATT_serebristyy_(43788).html" >1046</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Disk_DVD-R_Verbatim_4_7Gb_16X_Wra-box_50sht_MATT_serebristyy_(43788).html">Диск DVD Verbatim 4.7Gb 16X Wrap-box 50шт MATT SILVER (43788)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Kompakt_diski_i_diskety">Компакт-диски та дискети</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">299.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1046,299.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1046" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Kartridgh_NewTone_HP_LJ_P1102_Canon_725_(analog_CE285A).html"><img src="https://up.kiev.ua/id_pic/10/1048_1.jpg" alt="Картридж NewTone для HP LJ P1102/1102w (LC48E)"></a>
+
+                      <p><a href="/Kartridgh_NewTone_HP_LJ_P1102_Canon_725_(analog_CE285A).html" >1048</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Kartridgh_NewTone_HP_LJ_P1102_Canon_725_(analog_CE285A).html">Картридж NewTone для HP LJ P1102/1102w (LC48E)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Kartridghi">Картриджі</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">249.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1048,249.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1048" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Toner_HP_LJ_Universalynyy_№3_PATRON_(T-PN-HU3-085)_85_g.html"><img src="https://up.kiev.ua/id_pic/10/1052_1.jpg" alt="Тонер HP LJ Universal №3 PATRON (PN-HU3-085)"></a>
+
+                      <p><a href="/Toner_HP_LJ_Universalynyy_№3_PATRON_(T-PN-HU3-085)_85_g.html" >1052</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Toner_HP_LJ_Universalynyy_№3_PATRON_(T-PN-HU3-085)_85_g.html">Тонер HP LJ Universal №3 PATRON (PN-HU3-085)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Tonery">Тонери</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">40.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1052,40.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1052" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Toner_HP_LJ1200_WWM_(TB54)_150_g.html"><img src="https://up.kiev.ua/id_pic/10/1053_1.jpg" alt="Тонер HP LJ1000/1150/1200/3300mfp/Canon LBP1210/300/MF3110/3240 WWM (TB54/ТHP1200)"></a>
+
+                      <p><a href="/Toner_HP_LJ1200_WWM_(TB54)_150_g.html" >1053</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Toner_HP_LJ1200_WWM_(TB54)_150_g.html">Тонер HP LJ1000/1150/1200/3300mfp/Canon LBP1210/300/MF3110/3240 WWM (TB54/ТHP1200)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Tonery">Тонери</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">58.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1053,58.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1053" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Stabilizator_Powercom_TCA-3000_3000_Vt_1500_Vt_110-240_220_±_7_4_releyniy_odnofazniy_123x136x102.html"><img src="https://up.kiev.ua/id_pic/10/1063_1.jpg" alt="Стабілізатор TCA-3000 Powercom"></a>
+
+                      <p><a href="/Stabilizator_Powercom_TCA-3000_3000_Vt_1500_Vt_110-240_220_±_7_4_releyniy_odnofazniy_123x136x102.html" >1063</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Stabilizator_Powercom_TCA-3000_3000_Vt_1500_Vt_110-240_220_±_7_4_releyniy_odnofazniy_123x136x102.html">Стабілізатор TCA-3000 Powercom</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Stabilizatory_napryagheniya">Стабілізатори напруги</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">1321.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1063,1321.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1063" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>24</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Stabilizator_Powercom_TCA-600_600_VA_300_Vt_110-240_220_±_7_4_releyniy_odnofazniy_123x136x102_1_6.html"><img src="https://up.kiev.ua/id_pic/10/1064_1.jpg" alt="Стабілізатор TCA-600 Powercom"></a>
+
+                      <p><a href="/Stabilizator_Powercom_TCA-600_600_VA_300_Vt_110-240_220_±_7_4_releyniy_odnofazniy_123x136x102_1_6.html" >1064</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Stabilizator_Powercom_TCA-600_600_VA_300_Vt_110-240_220_±_7_4_releyniy_odnofazniy_123x136x102_1_6.html">Стабілізатор TCA-600 Powercom</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Stabilizatory_napryagheniya">Стабілізатори напруги</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">536.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1064,536.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1064" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>24</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Myshka_A4Tech_N-350-1_seryy_oticheskaya_V-Track_1000_di_rovodnaya_USB.html"><img src="https://up.kiev.ua/id_pic/11/1104_1.jpg" alt="Мишка A4tech N-350-1"></a>
+
+                      <p><a href="/Myshka_A4Tech_N-350-1_seryy_oticheskaya_V-Track_1000_di_rovodnaya_USB.html" >1104</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Myshka_A4Tech_N-350-1_seryy_oticheskaya_V-Track_1000_di_rovodnaya_USB.html">Мишка A4tech N-350-1</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Myshki">Мишки</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">164.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1104,164.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1104" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>12</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Myshka_Rapoo_1190_chernyy_chernyy_opticheskaya_1000_dpi_besprovodnaya_(radio)_USB-nano_USB_Box.html"><img src="https://up.kiev.ua/id_pic/11/1119_1.jpg" alt="Мишка Rapoo 1190 Black"></a>
+
+                      <p><a href="/Myshka_Rapoo_1190_chernyy_chernyy_opticheskaya_1000_dpi_besprovodnaya_(radio)_USB-nano_USB_Box.html" >1119</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Myshka_Rapoo_1190_chernyy_chernyy_opticheskaya_1000_dpi_besprovodnaya_(radio)_USB-nano_USB_Box.html">Мишка Rapoo 1190 Black</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Myshki">Мишки</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">166.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1119,166.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1119" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>24</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Kommutator_meregheviy_D-Link_DGS-1005A_5x10_100_1000TX.html"><img src="https://up.kiev.ua/id_pic/11/1135_1.jpg" alt="Комутатор мережевий D-Link DGS-1005A"></a>
+
+                      <p><a href="/Kommutator_meregheviy_D-Link_DGS-1005A_5x10_100_1000TX.html" >1135</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Kommutator_meregheviy_D-Link_DGS-1005A_5x10_100_1000TX.html">Комутатор мережевий D-Link DGS-1005A</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Kommutatory">Комутатори</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">423.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1135,423.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1135" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>12</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Konnektor_Noname_RJ12_6P4C_100sht.html"><img src="https://up.kiev.ua/id_pic/11/1140_1.jpg" alt="Конектор RJ12 EvroMedia (P64)"></a>
+
+                      <p><a href="/Konnektor_Noname_RJ12_6P4C_100sht.html" >1140</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Konnektor_Noname_RJ12_6P4C_100sht.html">Конектор RJ12 EvroMedia (P64)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Konnektor">Конектор</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">83.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1140,83.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1140" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Patch-kord_10m_DIGITUS_(DK-1511-100)_UTP_10_m_5e_cat_seryy.html"><img src="https://up.kiev.ua/id_pic/11/1142_1.jpg" alt="Патч-корд 10м DIGITUS (DK-1511-100)"></a>
+
+                      <p><a href="/Patch-kord_10m_DIGITUS_(DK-1511-100)_UTP_10_m_5e_cat_seryy.html" >1142</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Patch-kord_10m_DIGITUS_(DK-1511-100)_UTP_10_m_5e_cat_seryy.html">Патч-корд 10м DIGITUS (DK-1511-100)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Patch-kord">Патч-корд</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">171.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1142,171.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1142" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Obloghki_Kristal_180_korichnevі_(dimchatі)_(100sht_).html"><img src="https://up.kiev.ua/id_pic/11/1153_1.jpg" alt="Обкладинка для палітурки bindMARK пл. Кристалл А4 180 мкн (100 шт.) дымч. (40028)"></a>
+
+                      <p><a href="/Obloghki_Kristal_180_korichnevі_(dimchatі)_(100sht_).html" >1153</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Obloghki_Kristal_180_korichnevі_(dimchatі)_(100sht_).html">Обкладинка для палітурки bindMARK пл. Кристалл А4 180 мкн (100 шт.) дымч. (40028)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Politurnye_materialy">Палітурні матеріали</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">186.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1153,186.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1153" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Obloghki_Kristal_180_sinie(100sht_).html"><img src="https://up.kiev.ua/id_pic/11/1155_1.jpg" alt="Обкладинка для палітурки bindMARK пл. Кристалл А4 180 мкн (100 шт.) синяя (40023)"></a>
+
+                      <p><a href="/Obloghki_Kristal_180_sinie(100sht_).html" >1155</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Obloghki_Kristal_180_sinie(100sht_).html">Обкладинка для палітурки bindMARK пл. Кристалл А4 180 мкн (100 шт.) синяя (40023)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Politurnye_materialy">Палітурні матеріали</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">186.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1155,186.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1155" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Toner_HP_LJ_P3015_Static_Control_(HPP3015-590B)_590_g.html"><img src="https://up.kiev.ua/id_pic/11/1183_1.jpg" alt="Тонер HP LJ P3015 Static Control (HPP3015-530BOS2)"></a>
+
+                      <p><a href="/Toner_HP_LJ_P3015_Static_Control_(HPP3015-590B)_590_g.html" >1183</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Toner_HP_LJ_P3015_Static_Control_(HPP3015-590B)_590_g.html">Тонер HP LJ P3015 Static Control (HPP3015-530BOS2)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Tonery">Тонери</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">379.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1183,379.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1183" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Servetki_ColorWay_servetka_dlya_LCD_TFT_monіtorіv_(CW-1071).html"><img src="https://up.kiev.ua/id_pic/11/1194_1.jpg" alt="Серветки ColorWay для LCD/TFT tub-100pcs (CW-1071)"></a>
+
+                      <p><a href="/Servetki_ColorWay_servetka_dlya_LCD_TFT_monіtorіv_(CW-1071).html" >1194</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Servetki_ColorWay_servetka_dlya_LCD_TFT_monіtorіv_(CW-1071).html">Серветки ColorWay для LCD/TFT tub-100pcs (CW-1071)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Servisnyye-materialy">Сервісні матеріали</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">69.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1194,69.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1194" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Kuler_Gembird_FANCASEBALL_80x80x25_3pin_Ball_bearing.html"><img src="https://up.kiev.ua/id_pic/12/1223_1.jpg" alt="Кулер до корпусу GEMBIRD FANCASEBALL"></a>
+
+                      <p><a href="/Kuler_Gembird_FANCASEBALL_80x80x25_3pin_Ball_bearing.html" >1223</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Kuler_Gembird_FANCASEBALL_80x80x25_3pin_Ball_bearing.html">Кулер до корпусу GEMBIRD FANCASEBALL</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Ventilyatory_k_korpusam">Вентилятори до корпусів</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">71.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1223,71.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1223" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>12</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/USB_flesh_nakopitely_Transcend_32Gb_JetFlash_780_chernyy_USB3_0_TS32GJF780_(R-210MB_s_W-75MB_s)_me.html"><img src="https://up.kiev.ua/id_pic/12/1288_1.jpg" alt="USB флеш накопичувач Transcend 32Gb JetFlash 780 (TS32GJF780)"></a>
+
+                      <p><a href="/USB_flesh_nakopitely_Transcend_32Gb_JetFlash_780_chernyy_USB3_0_TS32GJF780_(R-210MB_s_W-75MB_s)_me.html" >1288</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/USB_flesh_nakopitely_Transcend_32Gb_JetFlash_780_chernyy_USB3_0_TS32GJF780_(R-210MB_s_W-75MB_s)_me.html">USB флеш накопичувач Transcend 32Gb JetFlash 780 (TS32GJF780)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/USB_Flash">USB Flash</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">690.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1288,690.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1288" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>24</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Moduly_pamyati_DDR3_4GB_1600_MHz_GoodRam_(GYR1600D364L9_4G)_1600_MHz_PC3-12800_CL9_1_5V_PLAY_kr_726.html"><img src="https://up.kiev.ua/id_pic/14/1408_1.jpg" alt="Модуль памяті для компютера DDR3 4GB 1600 MHz GOODRAM (GYR1600D364L9/4G / GYR1600D364L9S/4G)"></a>
+
+                      <p><a href="/Moduly_pamyati_DDR3_4GB_1600_MHz_GoodRam_(GYR1600D364L9_4G)_1600_MHz_PC3-12800_CL9_1_5V_PLAY_kr_726.html" >1408</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Moduly_pamyati_DDR3_4GB_1600_MHz_GoodRam_(GYR1600D364L9_4G)_1600_MHz_PC3-12800_CL9_1_5V_PLAY_kr_726.html">Модуль памяті для компютера DDR3 4GB 1600 MHz GOODRAM (GYR1600D364L9/4G / GYR1600D364L9S/4G)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Moduli_pamyati_dlya_kompyyutera">Модулі пам'яті для комп'ютера</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">1136.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1408,1136.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1408" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>60</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Moduly_pamyati_DDR3_8Gb_1600_MHz_GoodRam_(GYR1600D364L10_8G)_1600_MHz_PC3-12800_CL10_1_5V_1_planka.html"><img src="https://up.kiev.ua/id_pic/14/1414_1.jpg" alt="Модуль памяті для компютера DDR3 8GB 1600 MHz GOODRAM (GYR1600D364L10/8G)"></a>
+
+                      <p><a href="/Moduly_pamyati_DDR3_8Gb_1600_MHz_GoodRam_(GYR1600D364L10_8G)_1600_MHz_PC3-12800_CL10_1_5V_1_planka.html" >1414</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Moduly_pamyati_DDR3_8Gb_1600_MHz_GoodRam_(GYR1600D364L10_8G)_1600_MHz_PC3-12800_CL10_1_5V_1_planka.html">Модуль памяті для компютера DDR3 8GB 1600 MHz GOODRAM (GYR1600D364L10/8G)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Moduli_pamyati_dlya_kompyyutera">Модулі пам'яті для комп'ютера</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">1023.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1414,1023.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1414" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>60</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Blok_itaniya_Seasonic_SS-460H2U_460W_for_2U_Case_w_RoHS_TUV80_lus_38mm_fan_Active_PFC_Full_Rang.html"><img src="https://up.kiev.ua/id_pic/14/1465_1.jpg" alt="Блок живлення Seasonic 460W (SS-460H2U)"></a>
+
+                      <p><a href="/Blok_itaniya_Seasonic_SS-460H2U_460W_for_2U_Case_w_RoHS_TUV80_lus_38mm_fan_Active_PFC_Full_Rang.html" >1465</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Blok_itaniya_Seasonic_SS-460H2U_460W_for_2U_Case_w_RoHS_TUV80_lus_38mm_fan_Active_PFC_Full_Rang.html">Блок живлення Seasonic 460W (SS-460H2U)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Bloki_pitaniya">Блоки живлення</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">2944.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1465,2944.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1465" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>36</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Kommutator_meregheviy_D-Link_DGS-1008A_8x10_100_1000TX_Plastikoviy_595.html"><img src="https://up.kiev.ua/id_pic/17/1775_1.jpg" alt="Комутатор мережевий D-Link DGS-1008A/B1 (DGS-1008A)"></a>
+
+                      <p><a href="/Kommutator_meregheviy_D-Link_DGS-1008A_8x10_100_1000TX_Plastikoviy_595.html" >1775</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Kommutator_meregheviy_D-Link_DGS-1008A_8x10_100_1000TX_Plastikoviy_595.html">Комутатор мережевий D-Link DGS-1008A/B1 (DGS-1008A)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Kommutatory">Комутатори</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">709.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1775,709.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1775" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>12</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Diski_CD-R_52x_(B-50)_700Mb_Verbatim_Wra_43787.html"><img src="https://up.kiev.ua/id_pic/19/1960_1.jpg" alt="Диск CD Verbatim 700Mb 52x Wrap-box Extra (43787)"></a>
+
+                      <p><a href="/Diski_CD-R_52x_(B-50)_700Mb_Verbatim_Wra_43787.html" >1960</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Diski_CD-R_52x_(B-50)_700Mb_Verbatim_Wra_43787.html">Диск CD Verbatim 700Mb 52x Wrap-box Extra (43787)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Kompakt_diski_i_diskety">Компакт-диски та дискети</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">252.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(1960,252.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty1960" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Obloghki_kart_Kantri_230_g_m2_korichnevye.html"><img src="https://up.kiev.ua/id_pic/20/2030_1.jpg" alt="Обкладинка для палітурки bindMARK карт. Кантри А4 230г/м2 (100 шт.) коричневая (41714)"></a>
+
+                      <p><a href="/Obloghki_kart_Kantri_230_g_m2_korichnevye.html" >2030</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Obloghki_kart_Kantri_230_g_m2_korichnevye.html">Обкладинка для палітурки bindMARK карт. Кантри А4 230г/м2 (100 шт.) коричневая (41714)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Politurnye_materialy">Палітурні матеріали</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">143.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(2030,143.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty2030" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Komlekt_erezaravnih_kartridghіv_WWM_Eson_R200_340_RX500_640_(RC_T048).html"><img src="https://up.kiev.ua/id_pic/21/2148_1.jpg" alt="Комплект перезаправних картриджів WWM Epson R200/340/RX500/640 (RC.T048)"></a>
+
+                      <p><a href="/Komlekt_erezaravnih_kartridghіv_WWM_Eson_R200_340_RX500_640_(RC_T048).html" >2148</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Komlekt_erezaravnih_kartridghіv_WWM_Eson_R200_340_RX500_640_(RC_T048).html">Комплект перезаправних картриджів WWM Epson R200/340/RX500/640 (RC.T048)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/SNPCh">СНПЧ</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">452.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(2148,452.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty2148" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>12</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Val_ervinnoї_zaryadki_HP_LJ_1100_1010_1160_1320_5L_6L(AX)_Static_Control_(HP12PCR-OS_NVRTABPCR-H1.html"><img src="https://up.kiev.ua/id_pic/21/2177_1.jpg" alt="Вал первинної зарядки HP LJ 1100/1010/1160/1320/5L/6L(AX) Static Control (HP12PCR-OS/BPCR-H12OS/NVRTABPCR-H12OS)"></a>
+
+                      <p><a href="/Val_ervinnoї_zaryadki_HP_LJ_1100_1010_1160_1320_5L_6L(AX)_Static_Control_(HP12PCR-OS_NVRTABPCR-H1.html" >2177</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Val_ervinnoї_zaryadki_HP_LJ_1100_1010_1160_1320_5L_6L(AX)_Static_Control_(HP12PCR-OS_NVRTABPCR-H1.html">Вал первинної зарядки HP LJ 1100/1010/1160/1320/5L/6L(AX) Static Control (HP12PCR-OS/BPCR-H12OS/NVRTABPCR-H12OS)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Valy-pervichnoy-zaryadki">Вали первинної зарядки</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">62.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(2177,62.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty2177" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Kommutator_meregheviy_TP-Link_TL-SG1016D_16x10_100_1000TX.html"><img src="https://up.kiev.ua/id_pic/23/2358_1.jpg" alt="Комутатор мережевий TP-Link TL-SG1016D"></a>
+
+                      <p><a href="/Kommutator_meregheviy_TP-Link_TL-SG1016D_16x10_100_1000TX.html" >2358</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Kommutator_meregheviy_TP-Link_TL-SG1016D_16x10_100_1000TX.html">Комутатор мережевий TP-Link TL-SG1016D</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Kommutatory">Комутатори</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">1406.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(2358,1406.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty2358" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>12</span></td>
+                  </tr>
+
+                                  <tr>
+                    <td class="cart_product"><a href="/Patch-kord_3m_DIGITUS_(DK-1511-030)_UTP_3_m_5e_cat_seryy.html"><img src="https://up.kiev.ua/id_pic/23/2360_1.jpg" alt="Патч-корд 3м DIGITUS (DK-1511-030)"></a>
+
+                      <p><a href="/Patch-kord_3m_DIGITUS_(DK-1511-030)_UTP_3_m_5e_cat_seryy.html" >2360</a></p>                    </td>
+
+                    <td class="cart_description"><p class="product-name"><a href="/Patch-kord_3m_DIGITUS_(DK-1511-030)_UTP_3_m_5e_cat_seryy.html">Патч-корд 3м DIGITUS (DK-1511-030)</a></p>
+
+                      
+                        <hr>
+                        <div class="link_sec">Розділ : <a href="/goods/Patch-kord">Патч-корд</a></div>                    </td>
+
+                    <td class="cart_product" ><span><span class="price">67.00 ₴</span></span></td>
+
+                    <td class="availability in-stock"><span class="label">Склад</span></td>
+                    <td class="qty"><a href="#" onclick="add_to_cart_cookie(2360,67.00);" id="add_basket"><span class="glyphicon glyphicon-shopping-cart color_red" aria-hidden="true"></span> замовлення</a><input id="item-qty2360" name="my-item-qty" type="text" value="" class="form-control"></td>
+                    <td class="qty"><span>0</span></td>
+                  </tr>
+
+                
+                </tbody>
+              </table>
+            </div>
+          </div>

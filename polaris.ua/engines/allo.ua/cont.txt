@@ -1,0 +1,107 @@
+HTTP/1.0 200 Connection established
+
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Sat, 23 Jan 2021 08:39:58 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=30
+Set-Cookie: __uzma=f7e5f580-11e0-47df-8800-083166a81a7c; HttpOnly; path=/; Expires=Sat, 24-Jul-21 08:39:58 GMT ; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzmb=1611391198; HttpOnly; path=/; Expires=Sat, 24-Jul-21 08:39:58 GMT ; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzmc=800411057852; HttpOnly; path=/; Expires=Sat, 24-Jul-21 08:39:58 GMT ; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzmd=1611391198; HttpOnly; path=/; Expires=Sat, 24-Jul-21 08:39:58 GMT ; Max-Age=15724800; SameSite=Lax
+Set-Cookie: __uzme=4992; HttpOnly; path=/; Expires=Sat, 24-Jul-21 08:39:58 GMT ; Max-Age=15724800; SameSite=Lax
+Location: http://validate.perfdrive.com/?ssa=9627777a-140d-4ba5-8d9b-85d00dd861c4&ssb=46324201009&ssc=https%3A%2F%2Fallo.ua%2Fru%2Fochistiteli-vozduha%2Fproizvoditel-polaris%2F&ssi=052da122-bjpv-489d-a679-e248b6dbdca5&ssk=support@shieldsquare.com&ssm=42462027606776848104446034470053&ssn=68e5896b1cbe65135d68059add3ab3391a94f7e5f580-11e0-47df-80cc38&sso=9a31b800-083166a81a7cbd87909d8962990c1415988c90e108167093&ssp=39125915481611334621161130558619317&ssq=74123699119889822878091198837917525265645&ssr=MTg1LjEyNy4xNjcuNQ==&sst=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0&ssv=&ssw=
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-UA-Device: desktop
+Set-Cookie: is_bot=0;Max-Age=7776000;Path=/;domain=.allo.ua;SameSite=Lax;
+Set-Cookie: detect_mobile_type=0;Max-Age=7776000;Path=/;domain=.allo.ua;SameSite=Lax;
+
+HTTP/1.1 200 OK
+Date: Sat, 23 Jan 2021 08:39:58 GMT
+Server: Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/7.0.33
+X-Powered-By: PHP/7.0.33
+Set-Cookie: PHPSESSID=60ksvqmnoq3lskv1hdeap1upc0; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Set-Cookie: __uzma=f7e5f580-11e0-47df-8800-083166a81a7c; expires=Thu, 22-Jul-2021 08:39:58 GMT; Max-Age=15552000; path=/
+Set-Cookie: __uzmb=1611391198; expires=Thu, 22-Jul-2021 08:39:58 GMT; Max-Age=15552000; path=/
+Set-Cookie: __uzmc=121141050884; expires=Thu, 22-Jul-2021 08:39:58 GMT; Max-Age=15552000; path=/
+Set-Cookie: __uzmd=1611391198; expires=Thu, 22-Jul-2021 08:39:58 GMT; Max-Age=15552000; path=/
+Vary: Accept-Encoding
+Content-Length: 3186
+Content-Type: text/html; charset=UTF-8
+Via: 1.1 google
+Connection: Keep-Alive
+Proxy-Connection: Keep-Alive
+
+<!DOCTYPE html>
+<html lang="en">
+     <head>
+          <title>ShieldSquare Captcha</title>
+          <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="https://captcha.perfdrive.com/captcha-public/images/favicon.png">
+<link rel="stylesheet" href="https://captcha.perfdrive.com/captcha-public/css/shieldsquare_styles.min.css">
+          <script type="text/javascript">
+	window.SSJSInternal = 21245;
+
+	(function(w, d, e, u, c, g, a, b){
+		w["SSJSConnectorObj"] = w["SSJSConnectorObj"] || {ss_cid : c, domain_info: g};
+		a = d.createElement(e);
+		a.async = true;
+		a.src = u;
+		b = d.getElementsByTagName(e)[0];
+		b.parentNode.insertBefore(a, b);
+	})(window,document,"script","https://cdn.perfdrive.com/aperture/aperture.js","b8c3","auto");
+</script>
+               </head>
+     <body>
+          <div class="container">
+               <div class="row">
+                    <div class="col-1">
+                         <img src="https://captcha.perfdrive.com/captcha-public/images/ss_captcha.png" alt="Captcha Page">
+                    </div>
+                    <div class="col-2">
+                         <h1>We apologize for the inconvenience...</h1>
+                         <p>...but your activity and behavior on this site made us think that you are a bot.</p>
+                         <p><b>Note:</b> A number of things could be going on here.</p>
+                         <ol>
+                              <li>If you are attempting to access this site using an anonymous Private/Proxy network, please disable that and try accessing site again.</li>
+                              <li>Due to previously detected malicious behavior which originated from the network you're using, please request unblock to site.</li>
+                         </ol>
+                    </div>
+               </div>
+               <div class="row">
+                    <br>
+                    <div>
+                    <center>
+                         <p><b> Please solve this CAPTCHA to request unblock to the website </b></p>
+                    </center>
+                    </div>
+                    <br>
+                    <div class="captcha-mid">
+                         <form action="" method=POST style="width:300px;margin-left:auto;margin-right:auto;">
+                         <script type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+                         <div class="g-recaptcha" data-sitekey="6LeH3loUAAAAAI_m15sXabjr8-Iqj2yI3F3JeK8X"></div>
+                         <input type="hidden" id="recaptcha_response" name="recaptcha_response"><br>
+                         <center><br><input type="submit" class="btn btn-success btn-sm" Value="Submit"><br></center>
+                         </form>
+                    </div>
+               </div>
+          </div>
+     </body>
+     <div class="footer">
+          <div class="footer">
+	<p class="text-muted credit">
+		You reached this page when trying to access
+		<b>https://allo.ua/ru/ochistiteli-vozduha/proizvoditel-polaris/</b> from
+		<b>185.127.167.5</b> on
+		<b>January 23 2021, 08:39:58 UTC</b>
+	</p>
+</div>
+     </div>
+</html>

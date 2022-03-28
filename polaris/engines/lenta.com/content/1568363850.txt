@@ -1,0 +1,2230 @@
+
+
+
+<!DOCTYPE html>
+<html lang="ru" dir="ltr">
+
+
+<head>
+
+  <link href="https://lenta.com/catalog/posuda/posuda-dlya-gotovki/kastryuli-kovshi/kovsh-polaris-safari-17l-ap-litojj-alyuminijj-indukciya-005797-kitajj/" rel="canonical" />
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5X2ZNV');</script>
+<!-- End Google Tag Manager -->
+  
+
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+
+  <meta name="apple-mobile-web-app-title" content="Лента">
+  <meta name="apple-itunes-app" content="app-id=1435905858">
+  <meta name="smartbanner:title" content="Лента">
+  <meta name="smartbanner:author" content="LENTA">
+  <meta name="smartbanner:price" content=" ">
+  <meta name="smartbanner:price-suffix-google" content="Вся Лента в твоём телефоне">
+  <meta name="smartbanner:icon-google" content="https://lenta.gcdn.co/static/pics/shortcuts/android-chrome-192x192.aa6c9f9a141495680a3c980de6962d94.png">
+  <meta name="smartbanner:button" content="Установить">
+  <meta name="smartbanner:button-url-google" content="https://play.google.com/store/apps/details?id=com.icemobile.lenta.prod">
+  <meta name="smartbanner:enabled-platforms" content="android">
+  <meta name="smartbanner:hide-path" content="/">
+  <meta name="smartbanner:hide-ttl" content="2592000000">
+
+  
+  <title>Ковш POLARIS Safari 1,7л, а/п, литой алюминий, индукция 005797 – купить в сети магазинов Лента.</title>
+
+  <meta name="description" content="Ковш POLARIS Safari 1,7л, а/п, литой алюминий, индукция 005797  – официальный каталог товаров сети магазинов Лента. Каталог товаров с ценами, информацией о скидках. Собрать список покупок с актуальными ценами."/>
+  <meta name="keywords" content=" – Лента гипермаркет, адреса магазинов, информация о скидках, каталог товаров с ценами, продажа, продукт, питание, косметика, одежда, обувь, канцтовары"/>
+
+  <meta property="og:url" content="https://lenta.com/catalog/posuda/posuda-dlya-gotovki/kastryuli-kovshi/kovsh-polaris-safari-17l-ap-litojj-alyuminijj-indukciya-005797-kitajj/" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Ковш POLARIS Safari 1,7л, а/п, литой алюминий, индукция 005797 – купить в сети магазинов Лента." />
+  <meta property="og:description" content="Ковш POLARIS Safari 1,7л, а/п, литой алюминий, индукция 005797  – официальный каталог товаров сети магазинов Лента. Каталог товаров с ценами, информацией о скидках. Собрать список покупок с актуальными ценами." />
+  <meta property="og:image" content="https://lenta.gcdn.co/globalassets/1/-/46/93/62/138796.png?preset=thumbnail" />
+
+
+  <link rel="icon" href="https://lenta.gcdn.co/static/pics/shortcuts/favicon.dfadb4723ec16ade9405f550d021d988.ico" />
+  <link rel="icon" sizes="16x16" href="https://lenta.gcdn.co/static/pics/shortcuts/favicon-16x16.f8b7265cb6ba9a1eb0de46ef0857fdb6.png">
+  <link rel="icon" sizes="32x32" href="https://lenta.gcdn.co/static/pics/shortcuts/favicon-32x32.fb90679fd6d6da31ec7059b1cd4985e1.png">
+  <link rel="icon" sizes="192x192" href="https://lenta.gcdn.co/static/pics/shortcuts/android-chrome-192x192.aa6c9f9a141495680a3c980de6962d94.png">
+  <link rel="apple-touch-ico" href="https://lenta.gcdn.co/static/pics/shortcuts/apple-touch-icon.573981a012a123f08727367d9a2cb12c.png" />
+
+  <link rel="stylesheet" href="https://lenta.gcdn.co/static/migration.f5eb3a10cb1d70a8b5b7.css" />
+  <link rel="stylesheet" href="https://lenta.gcdn.co/static/catalog.0d71b0df4123aed7c870.css" />
+
+</head>
+
+
+<body>
+  
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5X2ZNV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+  "use strict";
+
+  var eventPropsMapping = {
+    "ga-event-category": "category",
+    "ga-event-action": "action",
+    "ga-event-label": "label",
+    "ga-event-value": "value"
+  };
+
+  function sendEvent(node) {
+
+    var dataLayerPayload = Object.keys(eventPropsMapping).reduce(function(acc, attribute) {
+
+      var prop = eventPropsMapping[attribute];
+      var propValue = node.getAttribute(attribute);
+
+      if (!propValue) {
+        return acc;
+      }
+
+      acc[prop] = propValue;
+      return acc;
+
+    }, {});
+
+    dataLayerPayload.event = "eventTracking";
+
+    dataLayer.push(dataLayerPayload);
+
+  }
+
+  function findParent(node, comparator) {
+
+    if (!node) {
+      return null;
+    }
+
+    while (!comparator(node)) {
+      return findParent(node.parentNode, comparator);
+    }
+
+    return node;
+
+  }
+
+  function handleGaEvent(event) {
+
+    var gaDataNode = findParent(event.target, function (node) {
+      return node.getAttribute && node.getAttribute("ga-on") === "click";
+    });
+
+    if (!gaDataNode) {
+      return;
+    }
+
+    sendEvent(gaDataNode);
+
+  }
+
+  function sendLoadEvent() {
+    var elements = document.querySelectorAll('[ga-on="load"]');
+
+    for (var i = 0; i < elements.length; i++) {
+      sendEvent(elements[i]);
+    }
+  }
+
+  function init() {
+
+    var body = document.body;
+    body.addEventListener("click", handleGaEvent);
+
+    setTimeout(sendLoadEvent, 2000);
+    
+  }
+
+  init();
+
+</script>
+
+
+<div class="scroll-lock ">
+  
+
+  
+
+
+  <div class="scroll-lock__inner page-wrap">
+      <div class="page">
+
+        <header class="header page__header">
+<div class="header__overlay"></div>
+
+
+<div class="header__link-bar">
+
+  <div class="current-store header__location-picker"
+       data-store="null"
+       data-customer-id="2132fbd2-27d4-4bea-a131-9a8e1910c7b6">
+
+    <svg class="icon current-store__icon"><use xlink:href="#location"></use></svg>
+
+      <a href="#"
+         ga-on="click"
+         ga-event-category="catalog:header"
+         ga-event-action="changeStore"
+         data-city-key="spb"
+         data-is-default-city="True"
+         data-url-start-page="/"
+         data-is-default-store="True"
+         class="link current-store__link js-pick-store-toggle js-default-store-notice">
+        
+      </a>
+
+  </div>
+
+  <div class="header__links">
+
+
+
+
+
+
+  </div>
+
+  <div class="header__profile">
+
+    <div class="header__profile-bonuses">
+
+    </div>
+
+          <a class="header__profile-entrance js-person-cabinet-toggler">
+        <svg class="icon "><use xlink:href="#person"></use></svg>
+        Личный кабинет
+      </a>
+
+  </div>
+
+</div>
+
+<div class="header__bar">
+
+  <div class="header__bar-wrap">
+
+    <a href="#" class="header__burger js-header-menu-toggler">
+      <svg class="icon header__three-bars-icon"><use xlink:href="#three-bars"></use></svg>
+    </a>
+
+    <a href="#" class="header__close-link js-header-menu-closer">
+      <svg class="icon header__close-icon"><use xlink:href="#close"></use></svg>
+    </a>
+
+    <div class="header__logo-container">
+      <a href="/" class="header__logo">
+        
+
+<img src="https://lenta.gcdn.co/globalassets/site-logos-and-icons/logo_26_lenta.svg"  />
+
+      </a>
+    </div>
+
+    <div class="header__catalog-menu-container" data-menu="{&quot;catalogUrl&quot;:&quot;/catalog/&quot;,&quot;shoppingListUrl&quot;:&quot;/shoppinglist/&quot;,&quot;searchPageUrl&quot;:&quot;/search/&quot;,&quot;groups&quot;:[]}">
+      <a ga-on="click"
+         ga-event-category="migration:startpage"
+         ga-event-action="goToCatalog"
+         href="/catalog/"
+         class="header__catalog">
+        <svg class="icon "><use xlink:href="#three-bars"></use></svg>
+        Каталог товаров
+      </a>
+    </div>
+
+    <div class="header__search catalog-search" data-search-results-page="/search/">
+      <input type="text"
+             class="catalog-search__field"
+             placeholder="Поиск в каталоге и на сайте"/>
+      <div class="catalog-search__icon">
+        <svg class="icon "><use xlink:href="#search"></use></svg>
+      </div>
+    </div>
+
+    <a href="#" class="header__bar-icon js-open-catalog-search">
+      <svg class="icon "><use xlink:href="#search"></use></svg>
+    </a>
+
+    <a href="#" class="header__bar-icon js-person-cabinet-toggler">
+      <svg class="icon "><use xlink:href="#person"></use></svg>
+    </a>
+
+    <a href="/shoppinglist/"
+       ga-on="click"
+       ga-event-category="migration:startpage"
+       ga-event-action="goToCart"
+       class="header__cart">
+      <svg class="icon "><use xlink:href="#list"></use></svg>
+      <div class="header__cart-counter-container">
+        <span class="header__cart-counter">
+          0
+        </span>
+      </div>
+      <span class="header__cart-text">
+        Список покупок
+      </span>
+    </a>
+
+    <div class="header__profile-menu">
+        <a href="/lk/" class="header__profile-menu-item">
+          <svg class="icon header__entrance-icon"><use xlink:href="#entrance"></use></svg>
+          Вход
+        </a>
+        <a href="/authentication/login/current-card?ReturnUrl=%2flk%2f" class="header__profile-menu-item">
+          Регистрация
+        </a>
+        <a href="/authentication/login/activate-card?ReturnUrl=%2flk%2f" class="header__profile-menu-item">
+          Активация карты
+        </a>
+          </div>
+
+  </div>
+</div>
+
+<nav class="header__main-nav main-nav">
+
+  <div class="main-nav__inner">
+    <div class="main-nav__item">
+  <div class="main-nav__item-label">
+
+      <a
+        ga-on="click"
+        ga-event-category="migration:header-nav"
+        ga-event-action="goToPage"
+        ga-event-label="О компании"
+        href="/o-kompanii/" 
+        class="main-nav__item-link" 
+>
+        О компании
+      </a>
+  </div>
+    <div class="main-nav__item-select">
+
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Ключевые факты"
+          href="/o-kompanii/klyuchevye-fakty/" 
+          class="main-nav__item-option" 
+          >
+          Ключевые факты
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Миссия и ценности"
+          href="/o-kompanii/missiya-i-tsennosti/" 
+          class="main-nav__item-option" 
+          >
+          Миссия и ценности
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Стратегия"
+          href="/o-kompanii/strategiya/" 
+          class="main-nav__item-option" 
+          >
+          Стратегия
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="История"
+          href="/o-kompanii/istoriya/" 
+          class="main-nav__item-option" 
+          >
+          История
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Руководство"
+          href="/o-kompanii/leadership/" 
+          class="main-nav__item-option" 
+          >
+          Руководство
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Пресс-центр"
+          href="/o-kompanii/news/" 
+          class="main-nav__item-option" 
+          >
+          Пресс-центр
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Социальная ответственность"
+          href="/o-kompanii/sotsialnaya-otvetstvennost/" 
+          class="main-nav__item-option" 
+          >
+          Социальная ответственность
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Раскрытие информации"
+          href="/o-kompanii/raskrytie-informatsii/" 
+          class="main-nav__item-option" 
+          >
+          Раскрытие информации
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Страница эмитента на сайте аккредитованного агентства"
+          href="https://www.e-disclosure.ru/portal/company.aspx?id=32010" 
+          class="main-nav__item-option" 
+          target = _blank>
+          Страница эмитента на сайте аккредитованного агентства
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Этический комитет"
+          href="/o-kompanii/eticheskiy-komitet/" 
+          class="main-nav__item-option" 
+          >
+          Этический комитет
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Контактная информация"
+          href="/o-kompanii/kontaktnaya-informatsiya/" 
+          class="main-nav__item-option" 
+          >
+          Контактная информация
+        </a>
+
+    </div>
+</div><div class="main-nav__item">
+<div class="main-nav__item-label">
+
+    <a href="/allmarkets/" class="main-nav__item-link">
+      Магазины
+    </a>
+
+
+</div>
+    <div class="main-nav__item-select">
+
+        <a href="/allmarkets/hypermarkets/" class="main-nav__item-option">
+          Гипермаркеты
+        </a>
+        <a href="/allmarkets/supermarkets/" class="main-nav__item-option">
+          Супермаркеты
+        </a>
+
+    </div>
+</div><div class="main-nav__item">
+  <div class="main-nav__item-label">
+
+      <a
+        ga-on="click"
+        ga-event-category="migration:header-nav"
+        ga-event-action="goToPage"
+        ga-event-label="Акции"
+        href="/goods-actions/" 
+        class="main-nav__item-link" 
+>
+        Акции
+      </a>
+  </div>
+    <div class="main-nav__item-select">
+
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Товары недели"
+          href="/goods-actions/weekly-products/" 
+          class="main-nav__item-option" 
+          >
+          Товары недели
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Хит цена"
+          href="/tcp/" 
+          class="main-nav__item-option" 
+          >
+          Хит цена
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Клуб &quot;Супердетство&quot;"
+          href="/clubs/main/" 
+          class="main-nav__item-option" 
+          target = _blank>
+          Клуб &quot;Супердетство&quot;
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Клуб &quot;Лента бар&quot;"
+          href="https://lenta.com/clubs/bar/main/" 
+          class="main-nav__item-option" 
+          target = _blank>
+          Клуб &quot;Лента бар&quot;
+        </a>
+
+    </div>
+</div><div class="main-nav__item">
+  <div class="main-nav__item-label">
+
+      <a
+        ga-on="click"
+        ga-event-category="migration:header-nav"
+        ga-event-action="goToPage"
+        ga-event-label="Работа в Ленте"
+        href="/rabota-v-lente/" 
+        class="main-nav__item-link" 
+>
+        Работа в Ленте
+      </a>
+  </div>
+    <div class="main-nav__item-select">
+
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Вакансии магазинов"
+          href="http://career.lenta.com/" 
+          class="main-nav__item-option" 
+          target = _blank>
+          Вакансии магазинов
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Вакансии Регионального офиса"
+          href="/link/05e0fa26fa234f999a60d6ecbdb218b1.aspx" 
+          class="main-nav__item-option" 
+          >
+          Вакансии Регионального офиса
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Вакансии Офиса"
+          href="/rabota-v-lente/sanktpeterburg-vakansii-ofisa/" 
+          class="main-nav__item-option" 
+          >
+          Вакансии Офиса
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Вакансии Распределительного центра"
+          href="/rabota-v-lente/sanktpeterburg-vakansii-raspredelitelnogo-centra/" 
+          class="main-nav__item-option" 
+          >
+          Вакансии Распределительного центра
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Студентам"
+          href="/rabota-v-lente/studentam/" 
+          class="main-nav__item-option" 
+          >
+          Студентам
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Контакты"
+          href="/rabota-v-lente/kontakty/" 
+          class="main-nav__item-option" 
+          >
+          Контакты
+        </a>
+
+    </div>
+</div><div class="main-nav__item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Электронные каталоги"
+     href="/digital-catalogues/" 
+     class="main-nav__item-label" >
+      Электронные каталоги
+    </a>
+  </div>
+</div>
+  </div>
+</nav>
+
+<div class="header__menu">
+
+  <nav class="header__menu-nav main-nav--menu">
+    <div class="header__menu-nav-repetition">
+
+        <div ga-on="click"
+             ga-event-category="catalog:header"
+             ga-event-action="changeStore"
+             class="main-nav__item main-nav__item--store js-pick-store-toggle">
+          <a href="#" class="main-nav__item-link main-nav__item-link--picker">
+            <svg class="icon main-nav__item-location-icon"><use xlink:href="#location"></use></svg>
+            <span></span>
+            <svg class="icon main-nav__item-chevron-icon"><use xlink:href="#chevron-right-regular"></use></svg>
+          </a>
+        </div>
+
+      <div ga-on="click"
+           ga-event-category="catalog:header"
+           ga-event-action="goToCatalog"
+           class="main-nav__item main-nav__item--catalog-link js-catalog-menu-toggle"
+           data-menu="{&quot;catalogUrl&quot;:&quot;/catalog/&quot;,&quot;shoppingListUrl&quot;:&quot;/shoppinglist/&quot;,&quot;searchPageUrl&quot;:&quot;/search/&quot;,&quot;groups&quot;:[]}">
+        <a href="#" class="main-nav__item-link">
+          <svg class="icon main-nav__item-logo-icon"><use xlink:href="#sunflower"></use></svg>
+          <span>Каталог товаров</span>
+          <svg class="icon main-nav__item-chevron-icon"><use xlink:href="#chevron-right-regular"></use></svg>
+        </a>
+      </div>
+
+          <div class="main-nav__item js-nav-item">
+            <div class="nav-item">
+
+              <div class="nav-item__label">
+                О компании
+                <svg class="icon nav-item__label-chevron"><use xlink:href="#chevron-down-regular"></use></svg>
+              </div>
+
+              <div class="nav-item__select">
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="О компании"
+                     href="/link/5dce09bc24ae43bba4e30d44b5f35203.aspx"
+                     class="nav-item__option-link">
+                    О компании
+                  </a>
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Ключевые факты"
+                     href="/o-kompanii/klyuchevye-fakty/"
+                     class="nav-item__option-link">
+                    Ключевые факты
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Миссия и ценности"
+                     href="/o-kompanii/missiya-i-tsennosti/"
+                     class="nav-item__option-link">
+                    Миссия и ценности
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Стратегия"
+                     href="/o-kompanii/strategiya/"
+                     class="nav-item__option-link">
+                    Стратегия
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="История"
+                     href="/o-kompanii/istoriya/"
+                     class="nav-item__option-link">
+                    История
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Руководство"
+                     href="/o-kompanii/leadership/"
+                     class="nav-item__option-link">
+                    Руководство
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Пресс-центр"
+                     href="/o-kompanii/news/"
+                     class="nav-item__option-link">
+                    Пресс-центр
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Социальная ответственность"
+                     href="/o-kompanii/sotsialnaya-otvetstvennost/"
+                     class="nav-item__option-link">
+                    Социальная ответственность
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Раскрытие информации"
+                     href="/o-kompanii/raskrytie-informatsii/"
+                     class="nav-item__option-link">
+                    Раскрытие информации
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Страница эмитента на сайте аккредитованного агентства"
+                     href="https://www.e-disclosure.ru/portal/company.aspx?id=32010"
+                     class="nav-item__option-link">
+                    Страница эмитента на сайте аккредитованного агентства
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Этический Комитет"
+                     href="/o-kompanii/eticheskiy-komitet/"
+                     class="nav-item__option-link">
+                    Этический Комитет
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Контактная информация"
+                     href="/o-kompanii/kontaktnaya-informatsiya/"
+                     class="nav-item__option-link">
+                    Контактная информация
+                  </a>
+
+              </div>
+
+            </div>
+          </div>
+          <div class="main-nav__item js-nav-item">
+            <div class="nav-item">
+
+              <div class="nav-item__label">
+                Магазины
+                <svg class="icon nav-item__label-chevron"><use xlink:href="#chevron-down-regular"></use></svg>
+              </div>
+
+              <div class="nav-item__select">
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Магазины"
+                     href="/link/d1045b01dc754bb99fcd01c0a4a58cb6.aspx"
+                     class="nav-item__option-link">
+                    Магазины
+                  </a>
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Гипермаркеты"
+                     href="/allmarkets/hypermarkets/"
+                     class="nav-item__option-link">
+                    Гипермаркеты
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Супермаркеты"
+                     href="/allmarkets/supermarkets/"
+                     class="nav-item__option-link">
+                    Супермаркеты
+                  </a>
+
+              </div>
+
+            </div>
+          </div>
+          <div class="main-nav__item js-nav-item">
+            <div class="nav-item">
+
+              <div class="nav-item__label">
+                Акции
+                <svg class="icon nav-item__label-chevron"><use xlink:href="#chevron-down-regular"></use></svg>
+              </div>
+
+              <div class="nav-item__select">
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Акции"
+                     href="/link/6b90de10b4f74e5095cee1eb5b17ab4a.aspx"
+                     class="nav-item__option-link">
+                    Акции
+                  </a>
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Товары недели"
+                     href="/goods-actions/weekly-products/"
+                     class="nav-item__option-link">
+                    Товары недели
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Хит цена"
+                     href="/tcp/"
+                     class="nav-item__option-link">
+                    Хит цена
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Клуб &quot;Супердетство&quot;"
+                     href="/clubs/main/"
+                     class="nav-item__option-link">
+                    Клуб &quot;Супердетство&quot;
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Клуб &quot;Лента Бар&quot;"
+                     href="/clubs/bar/main/"
+                     class="nav-item__option-link">
+                    Клуб &quot;Лента Бар&quot;
+                  </a>
+
+              </div>
+
+            </div>
+          </div>
+          <div class="main-nav__item js-nav-item">
+            <div class="nav-item">
+
+              <div class="nav-item__label">
+                Работа в Ленте
+                <svg class="icon nav-item__label-chevron"><use xlink:href="#chevron-down-regular"></use></svg>
+              </div>
+
+              <div class="nav-item__select">
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Работа в Ленте"
+                     href="/link/f63e25d9b93a46aeaf872afbb90be063.aspx"
+                     class="nav-item__option-link">
+                    Работа в Ленте
+                  </a>
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Вакансии магазинов"
+                     href="http://career.lenta.com/"
+                     class="nav-item__option-link">
+                    Вакансии магазинов
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Вакансии Офиса"
+                     href="/rabota-v-lente/sanktpeterburg-vakansii-ofisa/"
+                     class="nav-item__option-link">
+                    Вакансии Офиса
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Вакансии Распределительного центра"
+                     href="/rabota-v-lente/sanktpeterburg-vakansii-raspredelitelnogo-centra/"
+                     class="nav-item__option-link">
+                    Вакансии Распределительного центра
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Студентам"
+                     href="/rabota-v-lente/studentam/"
+                     class="nav-item__option-link">
+                    Студентам
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Контакты"
+                     href="/rabota-v-lente/kontakty/"
+                     class="nav-item__option-link">
+                    Контакты
+                  </a>
+
+              </div>
+
+            </div>
+          </div>
+          <div class="main-nav__item js-nav-item">
+            <div class="nav-item">
+
+              <div class="nav-item__label">
+                Покупателям
+                <svg class="icon nav-item__label-chevron"><use xlink:href="#chevron-down-regular"></use></svg>
+              </div>
+
+              <div class="nav-item__select">
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Покупателям"
+                     href="/link/9c823969d7e1414889331af0e22bb9c7.aspx"
+                     class="nav-item__option-link">
+                    Покупателям
+                  </a>
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Мобильное приложение"
+                     href="/pokupatelyam/mobilnoe-prilozhenie/"
+                     class="nav-item__option-link">
+                    Мобильное приложение
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Электронные каталоги"
+                     href="/digital-catalogues/"
+                     class="nav-item__option-link">
+                    Электронные каталоги
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Карта покупателя"
+                     href="/pokupatelyam/karta-pokupatelya/"
+                     class="nav-item__option-link">
+                    Карта покупателя
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Правила предоставления скидок на округление"
+                     href="/pokupatelyam/pravila-predostavleniya-skidok-na-okruglenie/"
+                     class="nav-item__option-link">
+                    Правила предоставления скидок на округление
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Правила подписки на электронные рассылки компании &quot;Лента&quot;"
+                     href="/pokupatelyam/pravila-podpiski-na-elektronnye-rassylki-kompanii-lenta/"
+                     class="nav-item__option-link">
+                    Правила подписки на электронные рассылки компании &quot;Лента&quot;
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Дополнительные услуги"
+                     href="/pokupatelyam/dopolnitelnye-uslugi/"
+                     class="nav-item__option-link">
+                    Дополнительные услуги
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Частная торговая марка"
+                     href="/pokupatelyam/chastnaya-torgovaya-marka/"
+                     class="nav-item__option-link">
+                    Частная торговая марка
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Защита прав потребителей"
+                     href="/pokupatelyam/zashchita-prav-potrebiteley/"
+                     class="nav-item__option-link">
+                    Защита прав потребителей
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Качество товаров"
+                     href="/pokupatelyam/kachestvo-tovarov/"
+                     class="nav-item__option-link">
+                    Качество товаров
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Часто задаваемые вопросы и обратная связь"
+                     href="/pokupatelyam/chasto-zadavaemye-voprosy-i-obratnaya-svyaz/"
+                     class="nav-item__option-link">
+                    Часто задаваемые вопросы и обратная связь
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="&quot;Лента&quot; в мессенджерах"
+                     href="/pokupatelyam/lenta-v-messendzherakh/"
+                     class="nav-item__option-link">
+                    &quot;Лента&quot; в мессенджерах
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Политика Ленты в отношении обработки персональных данных"
+                     href="/pokupatelyam/politika-v-oblasti-obrabotki-personalnykh-dannykh-i-spisok-kontragentov/"
+                     class="nav-item__option-link">
+                    Политика Ленты в отношении обработки персональных данных
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Контактная информация"
+                     href="/pokupatelyam/kontaktnaya-informatsiya/"
+                     class="nav-item__option-link">
+                    Контактная информация
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Лента Зоомаркет"
+                     href="/pokupatelyam/lenta-zoomarket/zoomarket/"
+                     class="nav-item__option-link">
+                    Лента Зоомаркет
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Обратная связь"
+                     href="/pokupatelyam/zadat-vopros-v-otdel-klientskikh-servisov/"
+                     class="nav-item__option-link">
+                    Обратная связь
+                  </a>
+
+              </div>
+
+            </div>
+          </div>
+          <div class="main-nav__item js-nav-item">
+            <div class="nav-item">
+
+              <div class="nav-item__label">
+                Поставщикам
+                <svg class="icon nav-item__label-chevron"><use xlink:href="#chevron-down-regular"></use></svg>
+              </div>
+
+              <div class="nav-item__select">
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Поставщикам"
+                     href="/link/2a72938b42414772b8f8d955c4be1f3f.aspx"
+                     class="nav-item__option-link">
+                    Поставщикам
+                  </a>
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Оставить коммерческое предложение"
+                     href="/postavshchikam/ostavit-kommercheskoe-predlozhenie/"
+                     class="nav-item__option-link">
+                    Оставить коммерческое предложение
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Логистика"
+                     href="/postavshchikam/logistika/"
+                     class="nav-item__option-link">
+                    Логистика
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Обратная связь"
+                     href="/postavshchikam/obratnaya-svyaz/"
+                     class="nav-item__option-link">
+                    Обратная связь
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Кодекс добросовестных практик"
+                     href="/postavshchikam/kodeks-dobrosovestnykh-praktik/"
+                     class="nav-item__option-link">
+                    Кодекс добросовестных практик
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Контроль качества"
+                     href="/postavshchikam/kontrol-kachestva/"
+                     class="nav-item__option-link">
+                    Контроль качества
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Контроль за соблюдением Прейскуранта"
+                     href="/postavshchikam/kontrol-za-soblyudeniem-preyskuranta/"
+                     class="nav-item__option-link">
+                    Контроль за соблюдением Прейскуранта
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Поставщикам Службы эксплуатации и обслуживания"
+                     href="/postavshchikam/postavshchikam-sluzhby-ekspluatatsii-i-obsluzhivaniya/"
+                     class="nav-item__option-link">
+                    Поставщикам Службы эксплуатации и обслуживания
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Поставщикам торгового оборудования"
+                     href="/postavshchikam/postavshchikam-torgovogo-oborudovaniya/"
+                     class="nav-item__option-link">
+                    Поставщикам торгового оборудования
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Поставщикам расходных материалов"
+                     href="/postavshchikam/postavshchikam-raskhodnykh-materialov/"
+                     class="nav-item__option-link">
+                    Поставщикам расходных материалов
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Покупателям оборотной тары"
+                     href="/postavshchikam/pokupatelyam-oborotnoy-tary/"
+                     class="nav-item__option-link">
+                    Покупателям оборотной тары
+                  </a>
+
+              </div>
+
+            </div>
+          </div>
+          <div class="main-nav__item">
+            <a ga-on="click"
+               ga-event-category="migration:mobile-menu"
+               ga-event-action="goToPage"
+               ga-event-label="Для крупных оптовиков"
+               href="/link/cbb3d5aadadf4a69a08840c4fb32017e.aspx"
+               class="main-nav__item-link">
+              Для крупных оптовиков
+            </a>
+          </div>
+          <div class="main-nav__item">
+            <a ga-on="click"
+               ga-event-category="migration:mobile-menu"
+               ga-event-action="goToPage"
+               ga-event-label="Для профессиональных клиентов – программа &#171;Лента ПРО&#187;"
+               href="/link/02459c863f834c629ef281dd68fced8b.aspx"
+               class="main-nav__item-link">
+              Для профессиональных клиентов – программа &#171;Лента ПРО&#187;
+            </a>
+          </div>
+          <div class="main-nav__item">
+            <a ga-on="click"
+               ga-event-category="migration:mobile-menu"
+               ga-event-action="goToPage"
+               ga-event-label="Инвесторам"
+               href="http://www.lentainvestor.com/en/"
+               class="main-nav__item-link">
+              Инвесторам
+            </a>
+          </div>
+          <div class="main-nav__item">
+            <a ga-on="click"
+               ga-event-category="migration:mobile-menu"
+               ga-event-action="goToPage"
+               ga-event-label="Арендаторам"
+               href="/link/7197a32536084955be5ab22767bcff79.aspx"
+               class="main-nav__item-link">
+              Арендаторам
+            </a>
+          </div>
+          <div class="main-nav__item">
+            <a ga-on="click"
+               ga-event-category="migration:mobile-menu"
+               ga-event-action="goToPage"
+               ga-event-label="Региональное развитие"
+               href="/link/8a735cde9d6142b7a7bda204dbaa371b.aspx"
+               class="main-nav__item-link">
+              Региональное развитие
+            </a>
+          </div>
+          <div class="main-nav__item">
+            <a ga-on="click"
+               ga-event-category="migration:mobile-menu"
+               ga-event-action="goToPage"
+               ga-event-label="Продажа непрофильных активов"
+               href="/link/e00157336083476b961bce1ab75e900d.aspx"
+               class="main-nav__item-link">
+              Продажа непрофильных активов
+            </a>
+          </div>
+          <div class="main-nav__item js-nav-item">
+            <div class="nav-item">
+
+              <div class="nav-item__label">
+                Рекламодателям
+                <svg class="icon nav-item__label-chevron"><use xlink:href="#chevron-down-regular"></use></svg>
+              </div>
+
+              <div class="nav-item__select">
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Рекламодателям"
+                     href="/link/f69395ee39954cdcaf3935b65d3cffc8.aspx"
+                     class="nav-item__option-link">
+                    Рекламодателям
+                  </a>
+
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Рекламные возможности"
+                     href="/reklamodatelyam/reklamnye-vozmozhnosti/"
+                     class="nav-item__option-link">
+                    Рекламные возможности
+                  </a>
+                  <a ga-on="click"
+                     ga-event-category="migration:mobile-menu"
+                     ga-event-action="goToPage"
+                     ga-event-label="Контактная информация"
+                     href="/reklamodatelyam/kontaktnaya-informatsiya/"
+                     class="nav-item__option-link">
+                    Контактная информация
+                  </a>
+
+              </div>
+
+            </div>
+          </div>
+          <div class="main-nav__item">
+            <a ga-on="click"
+               ga-event-category="migration:mobile-menu"
+               ga-event-action="goToPage"
+               ga-event-label="Контакты"
+               href="/link/987cd4281ed840f6bfc843efb4df8bec.aspx"
+               class="main-nav__item-link">
+              Контакты
+            </a>
+          </div>
+
+    </div>
+
+  </nav>
+
+</div>
+
+</header>
+
+
+        <main class="page__main">
+          
+  <article class="article">
+    <div class="article__blocks">
+      <div class="article__block">
+
+        
+
+<div class="catalog__breadcrumbs">
+  <nav class="breadcrumbs breadcrumbs--no-h-spacing catalog__breadcrumbs-inner">
+
+    <a href="/" class="breadcrumbs__crumb">
+      Главная
+    </a>
+<svg class="icon breadcrumbs__sep"><use xlink:href="#chevron-right"></use></svg>      <a href="/catalog/" class="breadcrumbs__crumb">
+        Каталог
+      </a>
+
+<svg class="icon breadcrumbs__sep"><use xlink:href="#chevron-right"></use></svg>        <a href="/catalog/posuda/" class="breadcrumbs__crumb">
+          Посуда
+        </a>
+<svg class="icon breadcrumbs__sep"><use xlink:href="#chevron-right"></use></svg>        <a href="/catalog/posuda/posuda-dlya-gotovki/" class="breadcrumbs__crumb">
+          Посуда для готовки
+        </a>
+<svg class="icon breadcrumbs__sep"><use xlink:href="#chevron-right"></use></svg>        <a href="/catalog/posuda/posuda-dlya-gotovki/kastryuli-kovshi/" class="breadcrumbs__crumb">
+          Кастрюли, ковши
+        </a>
+<svg class="icon breadcrumbs__sep"><use xlink:href="#chevron-right"></use></svg>        <a href="/catalog/posuda/posuda-dlya-gotovki/kastryuli-kovshi/kovsh-polaris-safari-17l-ap-litojj-alyuminijj-indukciya-005797-kitajj/" class="breadcrumbs__crumb">
+          Ковш POLARIS Safari 1,7л, а/п, литой алюминий, индукция 005797
+        </a>
+
+  </nav>
+</div>
+
+
+
+        <div class="sku-card js-validation-popup"
+             data-redirect-url=""
+             data-is-no-valid-sku="True">
+          <div class="sku-card__head-info">
+
+            <div class="sku-card__meta">
+              <div class="sku-card__title">
+                Ковш POLARIS Safari 1,7л, а/п, литой алюминий, индукция 005797
+              </div>
+
+              <div class="sku-card__sub-title">
+                Китай 
+              </div>
+            </div>
+
+            <div class="sku-card__slider">
+
+
+              <div class="card-slider">
+                  <div class="sku-card__image-container card-slider__image-container square image-zoom">
+                    <div class="card-slider__image square__inner">
+                      <img src="https://lenta.gcdn.co/globalassets/1/-/46/93/62/138796.png?preset=fulllossywhite" class="card-slider__image-full" alt="Ковш POLARIS Safari 1,7л, а/п, литой алюминий, индукция 005797" data-index="0" />
+                    </div>
+                  </div>
+
+                  <div class="card-slider__carousel">
+                    <div class="card-slider__control-button card-slider__prev-button">
+                      <svg class="icon "><use xlink:href="#chevron-left-regular"></use></svg>
+                    </div>
+
+                    <div class="card-slider__carousel-list">
+                        <div class="card-slider__carousel-item square" data-full-img=https://lenta.gcdn.co/globalassets/1/-/46/93/62/138796.png?preset=fulllossywhite>
+                          <div class="square__inner">
+                            <img src="https://lenta.gcdn.co/globalassets/1/-/46/93/62/138796.png?preset=thumbnail" />
+                          </div>
+                        </div>
+                        <div class="card-slider__carousel-item square" data-full-img=https://lenta.gcdn.co/globalassets/1/-/46/93/62/138797.png?preset=fulllossywhite>
+                          <div class="square__inner">
+                            <img src="https://lenta.gcdn.co/globalassets/1/-/46/93/62/138797.png?preset=thumbnail" />
+                          </div>
+                        </div>
+                        <div class="card-slider__carousel-item square" data-full-img=https://lenta.gcdn.co/globalassets/1/-/46/93/62/138798.png?preset=fulllossywhite>
+                          <div class="square__inner">
+                            <img src="https://lenta.gcdn.co/globalassets/1/-/46/93/62/138798.png?preset=thumbnail" />
+                          </div>
+                        </div>
+                        <div class="card-slider__carousel-item square" data-full-img=https://lenta.gcdn.co/globalassets/1/-/46/93/62/138799.png?preset=fulllossywhite>
+                          <div class="square__inner">
+                            <img src="https://lenta.gcdn.co/globalassets/1/-/46/93/62/138799.png?preset=thumbnail" />
+                          </div>
+                        </div>
+                        <div class="card-slider__carousel-item square" data-full-img=https://lenta.gcdn.co/globalassets/1/-/46/93/62/138800.png?preset=fulllossywhite>
+                          <div class="square__inner">
+                            <img src="https://lenta.gcdn.co/globalassets/1/-/46/93/62/138800.png?preset=thumbnail" />
+                          </div>
+                        </div>
+                        <div class="card-slider__carousel-item square" data-full-img=https://lenta.gcdn.co/globalassets/1/-/46/93/62/138801.png?preset=fulllossywhite>
+                          <div class="square__inner">
+                            <img src="https://lenta.gcdn.co/globalassets/1/-/46/93/62/138801.png?preset=thumbnail" />
+                          </div>
+                        </div>
+                    </div>
+
+                    <div class="card-slider__control-button card-slider__next-button">
+                      <svg class="icon "><use xlink:href="#chevron-right-regular"></use></svg>
+                    </div>
+                  </div>
+
+              </div>
+            </div>
+
+            <div class="sku-card__info">
+
+              <div class="sku-card__top-info">
+              </div>
+
+              <div class="sku-card__bottom-info">
+                <div class="sku-card__overview-description">
+                </div>
+
+                <div class="sku-card__sub-info">
+
+                  <div class="sku-card__notice">
+                    Не является публичной офертой
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+
+
+
+
+          <div class="sku-card__tab sku-card-tab">
+            <ul class="catalog-tabs sku-card-tab__nav">
+
+                <li class="catalog-tabs__tab sku-card-tab__nav-item catalog-tabs__tab--active sku-card-tab__nav-item--active">
+                  Характеристики
+                </li>
+
+
+
+            </ul>
+            <div class="sku-card-tab__content">
+
+              <div class="sku-card-tab__content-item sku-card-tab__content-item--active " >
+
+
+
+                  <div class="sku-card-tab-params">
+                    <div  class="sku-card-tab-params__title">
+                      Основные характеристики
+                    </div>
+
+                    <div class="sku-card-tab-params__description">
+                      
+                    </div>
+
+                    <div class="sku-card-tab-params__group">
+                          <div class="sku-card-tab-params__item">
+                            <dt class="sku-card-tab-params__label-block">
+                              <label class="sku-card-tab-params__label">Артикул</label>
+                            </dt>
+                            <dd class="sku-card-tab-params__value">005797</dd>
+                          </div>
+                          <div class="sku-card-tab-params__item">
+                            <dt class="sku-card-tab-params__label-block">
+                              <label class="sku-card-tab-params__label">Бренд</label>
+                            </dt>
+                            <dd class="sku-card-tab-params__value">POLARIS</dd>
+                          </div>
+                          <div class="sku-card-tab-params__item">
+                            <dt class="sku-card-tab-params__label-block">
+                              <label class="sku-card-tab-params__label">Материал</label>
+                            </dt>
+                            <dd class="sku-card-tab-params__value">АЛЮМИНИЙ</dd>
+                          </div>
+                          <div class="sku-card-tab-params__item">
+                            <dt class="sku-card-tab-params__label-block">
+                              <label class="sku-card-tab-params__label">Количество в упаковке</label>
+                            </dt>
+                            <dd class="sku-card-tab-params__value">1 ШТ</dd>
+                          </div>
+                          <div class="sku-card-tab-params__item">
+                            <dt class="sku-card-tab-params__label-block">
+                              <label class="sku-card-tab-params__label">Линейка</label>
+                            </dt>
+                            <dd class="sku-card-tab-params__value">SAFARI</dd>
+                          </div>
+                    </div>
+                  </div>
+                  <div class="sku-card-tab-params">
+                    <div  class="sku-card-tab-params__title">
+                      Информация о производителе и поставщике
+                    </div>
+
+                    <div class="sku-card-tab-params__description">
+                      
+                    </div>
+
+                    <div class="sku-card-tab-params__group">
+                          <div class="sku-card-tab-params__item">
+                            <dt class="sku-card-tab-params__label-block">
+                              <label class="sku-card-tab-params__label">Страна производителя</label>
+                            </dt>
+                            <dd class="sku-card-tab-params__value">Китай</dd>
+                          </div>
+                    </div>
+                  </div>
+
+              </div>
+
+
+
+            </div>
+          </div>
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </article>
+
+        </main>
+
+        
+<footer class="footer page__footer">
+
+  <div class="footer__common">
+    
+    <div class="footer__menu">
+
+      <nav class="footer__main-nav main-nav--column1">
+
+        <div class="footer__main-nav-repetition"
+             data-date="&lt;div class=&quot;epi-contentfragment&quot;&gt;О Компании&lt;/div&gt;&lt;div class=&quot;epi-contentfragment&quot;&gt;Магазины&lt;/div&gt;&lt;div class=&quot;epi-contentfragment&quot;&gt;Акции&lt;/div&gt;">
+
+          <div class="footer__nav-item">
+  <div class="main-nav__item-label">
+
+      <a
+        ga-on="click"
+        ga-event-category="migration:header-nav"
+        ga-event-action="goToPage"
+        ga-event-label="О Компании"
+        href="/o-kompanii/" 
+        class="main-nav__item-link" 
+>
+        О Компании
+      </a>
+  </div>
+    <div class="main-nav__item-select">
+
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Ключевые факты"
+          href="/o-kompanii/klyuchevye-fakty/" 
+          class="main-nav__item-option" 
+          >
+          Ключевые факты
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Миссия и ценности"
+          href="/o-kompanii/missiya-i-tsennosti/" 
+          class="main-nav__item-option" 
+          >
+          Миссия и ценности
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Стратегия"
+          href="/o-kompanii/strategiya/" 
+          class="main-nav__item-option" 
+          >
+          Стратегия
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="История"
+          href="/o-kompanii/istoriya/" 
+          class="main-nav__item-option" 
+          >
+          История
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Руководство"
+          href="/o-kompanii/leadership/" 
+          class="main-nav__item-option" 
+          >
+          Руководство
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Пресс-центр"
+          href="/o-kompanii/news/" 
+          class="main-nav__item-option" 
+          >
+          Пресс-центр
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Социальная ответственность"
+          href="/o-kompanii/sotsialnaya-otvetstvennost/" 
+          class="main-nav__item-option" 
+          >
+          Социальная ответственность
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Раскрытие информации"
+          href="/o-kompanii/raskrytie-informatsii/" 
+          class="main-nav__item-option" 
+          >
+          Раскрытие информации
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Страница эмитента на сайте аккредитованного агентства"
+          href="https://www.e-disclosure.ru/portal/company.aspx?id=32010" 
+          class="main-nav__item-option" 
+          target = _blank>
+          Страница эмитента на сайте аккредитованного агентства
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Этический Комитет"
+          href="/o-kompanii/eticheskiy-komitet/" 
+          class="main-nav__item-option" 
+          >
+          Этический Комитет
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Контактная информация"
+          href="/o-kompanii/kontaktnaya-informatsiya/" 
+          class="main-nav__item-option" 
+          >
+          Контактная информация
+        </a>
+
+    </div>
+</div><div class="footer__nav-item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Магазины"
+     href="/allmarkets/" 
+     class="main-nav__item-label" >
+      Магазины
+    </a>
+  </div>
+</div><div class="footer__nav-item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Акции"
+     href="/goods-actions/" 
+     class="main-nav__item-label" >
+      Акции
+    </a>
+  </div>
+</div>
+
+        </div>
+
+      </nav>
+
+      <nav class="footer__main-nav main-nav--column2">
+
+        <div class="footer__menu-nav-repetition"
+             data-date="&lt;div class=&quot;epi-contentfragment&quot;&gt;Покупателям&lt;/div&gt;">
+
+          <div class="footer__nav-item">
+  <div class="main-nav__item-label">
+
+      <a
+        ga-on="click"
+        ga-event-category="migration:header-nav"
+        ga-event-action="goToPage"
+        ga-event-label="Покупателям"
+        href="/pokupatelyam/" 
+        class="main-nav__item-link" 
+>
+        Покупателям
+      </a>
+  </div>
+    <div class="main-nav__item-select">
+
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Мобильное приложение"
+          href="/pokupatelyam/mobilnoe-prilozhenie/" 
+          class="main-nav__item-option" 
+          >
+          Мобильное приложение
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Электронные каталоги"
+          href="/digital-catalog/" 
+          class="main-nav__item-option" 
+          >
+          Электронные каталоги
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Карта покупателя"
+          href="/pokupatelyam/karta-pokupatelya/" 
+          class="main-nav__item-option" 
+          >
+          Карта покупателя
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Правила предоставления скидок на округление"
+          href="/pokupatelyam/pravila-predostavleniya-skidok-na-okruglenie/" 
+          class="main-nav__item-option" 
+          >
+          Правила предоставления скидок на округление
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Правила подписки на электронные рассылки компании &quot;Лента&quot;"
+          href="/pokupatelyam/pravila-podpiski-na-elektronnye-rassylki-kompanii-lenta/" 
+          class="main-nav__item-option" 
+          >
+          Правила подписки на электронные рассылки компании &quot;Лента&quot;
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Дополнительные услуги"
+          href="/pokupatelyam/dopolnitelnye-uslugi/" 
+          class="main-nav__item-option" 
+          >
+          Дополнительные услуги
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Частная торговая марка"
+          href="/pokupatelyam/chastnaya-torgovaya-marka/" 
+          class="main-nav__item-option" 
+          >
+          Частная торговая марка
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Защита прав потребителей"
+          href="/pokupatelyam/zashchita-prav-potrebiteley/" 
+          class="main-nav__item-option" 
+          >
+          Защита прав потребителей
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Качество товаров"
+          href="/pokupatelyam/kachestvo-tovarov/" 
+          class="main-nav__item-option" 
+          >
+          Качество товаров
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Часто задаваемые вопросы и обратная связь"
+          href="/pokupatelyam/chasto-zadavaemye-voprosy-i-obratnaya-svyaz/" 
+          class="main-nav__item-option" 
+          >
+          Часто задаваемые вопросы и обратная связь
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Контактная информация"
+          href="/pokupatelyam/kontaktnaya-informatsiya/" 
+          class="main-nav__item-option" 
+          >
+          Контактная информация
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="&quot;Лента&quot; в мессенджерах"
+          href="/pokupatelyam/lenta-v-messendzherakh/" 
+          class="main-nav__item-option" 
+          >
+          &quot;Лента&quot; в мессенджерах
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Политика в области обработки персональных данных и список контрагентов"
+          href="/pokupatelyam/politika-v-oblasti-obrabotki-personalnykh-dannykh-i-spisok-kontragentov/" 
+          class="main-nav__item-option" 
+          >
+          Политика в области обработки персональных данных и список контрагентов
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Лента Зоомаркет"
+          href="/pokupatelyam/lenta-zoomarket/zoomarket/" 
+          class="main-nav__item-option" 
+          >
+          Лента Зоомаркет
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Обратная связь"
+          href="/pokupatelyam/zadat-vopros-v-otdel-klientskikh-servisov/" 
+          class="main-nav__item-option" 
+          >
+          Обратная связь
+        </a>
+
+    </div>
+</div>
+
+        </div>
+
+      </nav>
+
+      <nav class="footer__main-nav main-nav--column3">
+
+        <div class="footer__menu-nav-repetition"
+             data-date="&lt;div class=&quot;epi-contentfragment&quot;&gt;Поставщикам&lt;/div&gt;&lt;div class=&quot;epi-contentfragment&quot;&gt;Для крупных оптовиков&lt;/div&gt;&lt;div class=&quot;epi-contentfragment&quot;&gt;Для профессиональных клиентов – программа &amp;#171;Лента ПРО&amp;#187;&lt;/div&gt;">
+
+          <div class="footer__nav-item">
+  <div class="main-nav__item-label">
+
+      <a
+        ga-on="click"
+        ga-event-category="migration:header-nav"
+        ga-event-action="goToPage"
+        ga-event-label="Поставщикам"
+        href="/postavshchikam/" 
+        class="main-nav__item-link" 
+>
+        Поставщикам
+      </a>
+  </div>
+    <div class="main-nav__item-select">
+
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Оставить коммерческое предложение"
+          href="/postavshchikam/ostavit-kommercheskoe-predlozhenie/" 
+          class="main-nav__item-option" 
+          >
+          Оставить коммерческое предложение
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Логистика"
+          href="/postavshchikam/logistika/" 
+          class="main-nav__item-option" 
+          >
+          Логистика
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Обратная связь"
+          href="/postavshchikam/obratnaya-svyaz/" 
+          class="main-nav__item-option" 
+          >
+          Обратная связь
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Кодекс добросовестных практик"
+          href="/postavshchikam/kodeks-dobrosovestnykh-praktik/" 
+          class="main-nav__item-option" 
+          >
+          Кодекс добросовестных практик
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Контроль качества"
+          href="/postavshchikam/kontrol-kachestva/" 
+          class="main-nav__item-option" 
+          >
+          Контроль качества
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Контроль за соблюдением Прейскуранта"
+          href="/postavshchikam/kontrol-za-soblyudeniem-preyskuranta/" 
+          class="main-nav__item-option" 
+          >
+          Контроль за соблюдением Прейскуранта
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Поставщикам Службы эксплуатации и обслуживания"
+          href="/postavshchikam/postavshchikam-sluzhby-ekspluatatsii-i-obsluzhivaniya/" 
+          class="main-nav__item-option" 
+          >
+          Поставщикам Службы эксплуатации и обслуживания
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Поставщикам торгового оборудования"
+          href="/postavshchikam/postavshchikam-torgovogo-oborudovaniya/" 
+          class="main-nav__item-option" 
+          >
+          Поставщикам торгового оборудования
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Поставщикам расходных материалов"
+          href="/postavshchikam/postavshchikam-raskhodnykh-materialov/" 
+          class="main-nav__item-option" 
+          >
+          Поставщикам расходных материалов
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Покупателям оборотной тары"
+          href="/postavshchikam/pokupatelyam-oborotnoy-tary/" 
+          class="main-nav__item-option" 
+          >
+          Покупателям оборотной тары
+        </a>
+
+    </div>
+</div><div class="footer__nav-item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Для крупных оптовиков"
+     href="/optovikam/" 
+     class="main-nav__item-label" >
+      Для крупных оптовиков
+    </a>
+  </div>
+</div><div class="footer__nav-item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Для профессиональных клиентов – программа &#171;Лента ПРО&#187;"
+     href="/pro/" 
+     class="main-nav__item-label" >
+      Для профессиональных клиентов – программа &#171;Лента ПРО&#187;
+    </a>
+  </div>
+</div>
+
+        </div>
+
+      </nav>
+
+      <nav class="footer__main-nav main-nav--column4">
+
+        <div class="footer__menu-nav-repetition"
+             data-date="&lt;div class=&quot;epi-contentfragment&quot;&gt;Инвесторам&lt;/div&gt;&lt;div class=&quot;epi-contentfragment&quot;&gt;Арендаторам&lt;/div&gt;&lt;div class=&quot;epi-contentfragment&quot;&gt;Борьба с коррупцией&lt;/div&gt;&lt;div class=&quot;epi-contentfragment&quot;&gt;Региональное развитие&lt;/div&gt;&lt;div class=&quot;epi-contentfragment&quot;&gt;Продажа непрофильных активов&lt;/div&gt;&lt;div class=&quot;epi-contentfragment&quot;&gt;Рекламодателям&lt;/div&gt;&lt;div class=&quot;epi-contentfragment&quot;&gt;Контакты&lt;/div&gt;">
+
+          <div class="footer__nav-item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Инвесторам"
+     href="http://www.lentainvestor.com/en/" 
+     class="main-nav__item-label" target = _blank>
+      Инвесторам
+    </a>
+  </div>
+</div><div class="footer__nav-item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Арендаторам"
+     href="/arendatoram/" 
+     class="main-nav__item-label" >
+      Арендаторам
+    </a>
+  </div>
+</div><div class="footer__nav-item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Борьба с коррупцией"
+     href="/o-kompanii/eticheskiy-komitet/" 
+     class="main-nav__item-label" >
+      Борьба с коррупцией
+    </a>
+  </div>
+</div><div class="footer__nav-item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Региональное развитие"
+     href="/regionalnoe-razvitie/" 
+     class="main-nav__item-label" >
+      Региональное развитие
+    </a>
+  </div>
+</div><div class="footer__nav-item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Продажа непрофильных активов"
+     href="/prodazha-neprofilnykh-aktivov/" 
+     class="main-nav__item-label" >
+      Продажа непрофильных активов
+    </a>
+  </div>
+</div><div class="footer__nav-item">
+  <div class="main-nav__item-label">
+
+      <a
+        ga-on="click"
+        ga-event-category="migration:header-nav"
+        ga-event-action="goToPage"
+        ga-event-label="Рекламодателям"
+        href="/reklamodatelyam/" 
+        class="main-nav__item-link" 
+>
+        Рекламодателям
+      </a>
+  </div>
+    <div class="main-nav__item-select">
+
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Рекламные возможности"
+          href="/reklamodatelyam/reklamnye-vozmozhnosti/" 
+          class="main-nav__item-option" 
+          >
+          Рекламные возможности
+        </a>
+        <a
+          ga-on="click"
+          ga-event-category="migration:header-nav"
+          ga-event-action="goToPage"
+          ga-event-label="Контактная информация"
+          href="/reklamodatelyam/kontaktnaya-informatsiya/" 
+          class="main-nav__item-option" 
+          >
+          Контактная информация
+        </a>
+
+    </div>
+</div><div class="footer__nav-item">
+  <div class="main-nav__item-link">
+    <a
+     ga-on="click"
+     ga-event-category="migration:header-nav"
+     ga-event-action="goToPage"
+     ga-event-label="Контакты"
+     href="/o-kompanii/kontaktnaya-informatsiya/" 
+     class="main-nav__item-label" >
+      Контакты
+    </a>
+  </div>
+</div>
+
+        </div>
+
+      </nav>
+
+    </div>
+
+    <div class="footer__info">
+
+      <div class="footer__meta">
+
+        <p class="footer__policy">
+            <a href="/info/personal-data-policy/" class="link">
+              Политика конфиденциальности
+            </a>
+        </p>
+
+        <p class="footer__copyright">
+          &#169; 2019 Lenta.com. Все права защищены
+        </p>
+
+      </div>
+
+      <div class="footer__subscribe">
+
+        <ul class="social-panel footer__subscribe-panel">
+          <li class="social-panel__item"><a ga-on="click"
+   ga-event-category="all-site:footer"
+   ga-event-action="goToSocial"
+   ga-event-label="https://vk.com/lentacom"
+   href="https://vk.com/lentacom"
+   class="linked-image"
+     target="_blank" rel="noopener"  >
+  <img src="https://lenta.gcdn.co/globalassets/site-logos-and-icons/icon_vk2.png"  />
+</a>
+</li><li class="social-panel__item"><a ga-on="click"
+   ga-event-category="all-site:footer"
+   ga-event-action="goToSocial"
+   ga-event-label="https://www.facebook.com/lentacom/"
+   href="https://www.facebook.com/lentacom/"
+   class="linked-image"
+     target="_blank" rel="noopener"  >
+  <img src="https://lenta.gcdn.co/globalassets/site-logos-and-icons/icon_facebook2.png"  />
+</a>
+</li><li class="social-panel__item"><a ga-on="click"
+   ga-event-category="all-site:footer"
+   ga-event-action="goToSocial"
+   ga-event-label="https://ok.ru/group/53286834208943"
+   href="https://ok.ru/group/53286834208943"
+   class="linked-image"
+     target="_blank" rel="noopener"  >
+  <img src="https://lenta.gcdn.co/globalassets/site-logos-and-icons/icon_odnoklassniki2.png"  />
+</a>
+</li><li class="social-panel__item"><a ga-on="click"
+   ga-event-category="all-site:footer"
+   ga-event-action="goToSocial"
+   ga-event-label="https://www.instagram.com/lenta_com/"
+   href="https://www.instagram.com/lenta_com/"
+   class="linked-image"
+     target="_blank" rel="noopener"  >
+  <img src="https://lenta.gcdn.co/globalassets/site-logos-and-icons/icon_instagram2.png"  />
+</a>
+</li><li class="social-panel__item"><a ga-on="click"
+   ga-event-category="all-site:footer"
+   ga-event-action="goToSocial"
+   ga-event-label="https://www.viber.com/lenta.com"
+   href="https://www.viber.com/lenta.com"
+   class="linked-image"
+     target="_blank" rel="noopener"  >
+  <img src="https://lenta.gcdn.co/globalassets/site-logos-and-icons/icon_viber2.png"  />
+</a>
+</li><li class="social-panel__item"><a ga-on="click"
+   ga-event-category="all-site:footer"
+   ga-event-action="goToSocial"
+   ga-event-label="http://tele.gg/lentamarket"
+   href="http://tele.gg/lentamarket"
+   class="linked-image"
+     target="_blank" rel="noopener"  >
+  <img src="https://lenta.gcdn.co/globalassets/site-logos-and-icons/icon_telegram2.png"  />
+</a>
+</li>
+        </ul>
+
+      </div>
+      
+      <div class="footer__feedback">
+        <a href="#" class="button button--small button--link js-feedback-button" tabindex="-1">
+            <svg class="icon "><use xlink:href="#thumbs-up"></use></svg>
+            Оцените работу сайта
+        </a>
+      </div>
+        
+    
+    </div>
+
+  </div>
+
+</footer>
+
+
+        <div class="branding">
+          
+
+          
+
+        </div>
+
+      </div><!-- .page -->
+    </div><!-- .scroll-lock__inner .page-wrap -->
+
+
+  <a href="#" class="page-up-link" tabindex="-1">
+    <svg class="icon "><use xlink:href="#scroll-back"></use></svg>
+  </a>
+</div><!-- .scroll-lock -->
+
+    
+    
+
+
+    <script src="https://lenta.gcdn.co/static/vendor.dc2db124c9c00596bcc5.js"></script>
+    <script src="https://lenta.gcdn.co/static/lib.b9fa078db9c32c70a403.js"></script>
+    <script src="https://lenta.gcdn.co/static/migration.77ac466af7efddadca08.js"></script>
+    <script src="https://lenta.gcdn.co/static/catalog.2ec71f8bea37e2029c38.js"></script>
+</body>
+</html>

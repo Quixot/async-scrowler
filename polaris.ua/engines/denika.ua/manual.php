@@ -1,0 +1,2 @@
+<?php
+//denika.ua

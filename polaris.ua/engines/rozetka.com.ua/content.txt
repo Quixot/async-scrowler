@@ -1,0 +1,427 @@
+<!DOCTYPE html><html lang="ru" style=""><head>
+    <title>
+        Интернет магазин Rozetka.com.ua. Электроника, бытовая техника, одежда и обувь, товары для дома. Официальная
+        гарантия. Доставка по всей Украине.
+    </title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="robots" content="index,follow">
+    <meta charset="utf-8">
+    <script> dataLayer = []; </script>
+    <script>
+        const Cart = new Object({
+            purchases   : [],
+            setPurchases: function (purchases) {
+                this.purchases = purchases;
+            },
+            getPurchases: function () {
+                return this.purchases;
+            },
+        });
+
+    </script>
+
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+    <link rel="icon" href="/favicon.ico">
+    <link rel="icon" href="/assets/icons/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png">
+
+
+    <link rel="manifest" href="/manifest.json">
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function () {
+                navigator.serviceWorker.register('/sw.js').then(function (response) {
+                    // console.log('Service Worker registered.');
+                }).catch(function (error) {
+                    console.error(error);
+                });
+            });
+            window.addEventListener('beforeinstallprompt', function (event) {
+                event.preventDefault()
+            });
+        }
+    </script>
+    <style type="text/css">
+        /* http://meyerweb.com/eric/tools/css/reset/
+           v2.0 | 20110126
+           License: none (public domain)
+        */
+        html, body, div, span, applet, object, iframe,
+        h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+        a, abbr, acronym, address, big, cite, code,
+        del, dfn, em, img, ins, kbd, q, s, samp,
+        small, strike, strong, sub, sup, tt, var,
+        b, u, i, center,
+        dl, dt, dd, ol, ul, li,
+        fieldset, form, label, legend,
+        table, caption, tbody, tfoot, thead, tr, th, td,
+        article, aside, canvas, details, embed,
+        figure, figcaption, footer, header, hgroup,
+        menu, nav, output, ruby, section, summary,
+        time, mark, audio, video {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+            font: inherit;
+            vertical-align: baseline;
+        }
+
+        /* HTML5 display-role reset for older browsers */
+        article, aside, details, figcaption, figure,
+        footer, header, hgroup, menu, nav, section {
+            display: block;
+        }
+
+        body {
+            line-height: 1;
+        }
+
+        ol, ul {
+            list-style: none;
+        }
+
+        blockquote, q {
+            quotes: none;
+        }
+
+        blockquote:before, blockquote:after,
+        q:before, q:after {
+            content: '';
+            content: none;
+        }
+
+        table {
+            border-collapse: collapse;
+            border-spacing: 0;
+        }
+
+        body {
+            font: 62.5%/1.4 BlinkMacSystemFont, -apple-system, Arial, "Segoe UI", Roboto, Helvetica, sans-serif;
+            -webkit-font-smoothing: antialiased;
+            -webkit-tap-highlight-color: transparent;
+            text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+            color: #221f1f;
+        }
+    </style>
+
+    <link rel="preload" href="https://design.rozetka.com.ua/assets/fonts/RozetkaWeb-Regular.woff" as="font" type="font/woff" crossorigin="">
+
+    <link rel="preload" href="https://design.rozetka.com.ua/assets/fonts/RozetkaWeb-Regular.woff2" as="font" type="font/woff2" crossorigin="">
+
+    <link rel="preload" href="https://design.rozetka.com.ua/assets/common/css/common.min.css" as="style">
+
+    <link rel="stylesheet" href="https://design.rozetka.com.ua/assets/common/css/common.min.css">
+
+    <link rel="preload" href="https://design.rozetka.com.ua/assets/common/css/_vars.css" as="style">
+
+    <link rel="stylesheet" href="https://design.rozetka.com.ua/assets/common/css/_vars.css">
+
+    <!--    <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=4d890fca-6dbd-439e-9e9e-d3c0a1af6ef8"></script>-->
+<!--    <script>-->
+<!--        zE(function() {-->
+<!--            zE.hide();-->
+<!--        });-->
+<!--        zE('webWidget', 'setLocale', 'uk');-->
+<!--        zE('webWidget:on', 'close', function () {-->
+<!--            zE(function () {-->
+<!--                zE.hide();-->
+<!--            });-->
+<!--        });-->
+
+<!--        function checkChatAvailability () {-->
+<!--            var xhttp = new XMLHttpRequest();-->
+
+<!--            xhttp.open('GET', 'https://' + window.location.hostname + '/chat_stream/chats/', true);-->
+
+<!--            xhttp.onload = function () {-->
+<!--                try {-->
+<!--                    var responseText = JSON.parse(xhttp.responseText);-->
+<!--                    var incomingChats = +responseText.content.data.incoming_chats;-->
+<!--                    getLoadProperties(incomingChats);-->
+<!--                } catch (e) {-->
+<!--                    suppressChat(true);-->
+<!--                    showWidget();-->
+<!--                }-->
+<!--            };-->
+
+<!--            xhttp.onerror = function () {-->
+<!--                suppressChat(true);-->
+<!--                showWidget();-->
+<!--            };-->
+
+<!--            xhttp.send();-->
+<!--        }-->
+
+<!--        function getLoadProperties (incomingChats) {-->
+<!--            var xhttp = new XMLHttpRequest();-->
+
+<!--            xhttp.open('GET', 'https://' + window.location.hostname + '/chat_config/', true);-->
+
+<!--            xhttp.onload = function () {-->
+<!--                try {-->
+<!--                    var responseText = JSON.parse(xhttp.responseText);-->
+<!--                    var chatLimit = responseText.data[0].attributes.chat_limit;-->
+<!--                    var isChatEnabled = incomingChats <= chatLimit;-->
+<!--                    if (isChatEnabled) {-->
+<!--                        suppressChat(!isChatEnabled);-->
+<!--                        showWidget();-->
+<!--                    } else {-->
+<!--                        suppressChat(true);-->
+<!--                        showWidget();-->
+<!--                    }-->
+<!--                } catch (e) {-->
+<!--                    suppressChat(true);-->
+<!--                    showWidget();-->
+<!--                }-->
+<!--            };-->
+
+<!--            xhttp.onerror = function () {-->
+<!--                suppressChat(true);-->
+<!--                showWidget();-->
+<!--            };-->
+
+<!--            xhttp.send();-->
+<!--        }-->
+
+<!--        function suppressChat (isSuppress) {-->
+<!--            zE('webWidget', 'updateSettings', {-->
+<!--                webWidget: {-->
+<!--                    chat: {-->
+<!--                        suppress: isSuppress,-->
+<!--                    }-->
+<!--                }-->
+<!--            });-->
+<!--        }-->
+
+<!--        function showWidget () {-->
+<!--            zE(function () {-->
+<!--                zE.show();-->
+<!--                zE('webWidget', 'open');-->
+<!--            });-->
+<!--        }-->
+<!--    </script>-->
+<link rel="stylesheet" href="https://xl-static.rozetka.com.ua/styles.8ac0c4395700bf850760.css"><meta http-equiv="origin-trial" content="A88otRz1Fd3Nt567e2IYshC18LL3KGVXpVJW9oTCId4RYaygt23pbb4JqrbdIO/bwZPWEmRjBIRBu/bZbDR7Pg4AAABueyJvcmlnaW4iOiJodHRwczovL2ltYXNkay5nb29nbGVhcGlzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MzQwODMxOTksImlzVGhpcmRQYXJ0eSI6dHJ1ZX0="><meta http-equiv="origin-trial" content="A0gCLbXCcL0R1Oc8tFPDs0G4Elz17w3zHp+Zst66+D17veE2o7fUcPsA114QtSTRqfVJLMeTSdeWOom0CcyCsgYAAAB7eyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MzQwODMxOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A9RQ+LxFazAousxUwSCzaihJjHLO1UyjQp0teZKHl7WdbVjPDfHSKMd6D/ZI5MTjqClFycbl70EFd7cBJWXqKQEAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MzQwODMxOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A6WKeWsdn1Ct+ZPqS9NCxxaiBoQ7wdTkK2/gE69Yu0gfBKJfo1gOvgkGmf5/xaIajT/RUb9AbnF1FsSZ47cCcQcAAACBeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiVHJ1c3RUb2tlbnMiLCJleHBpcnkiOjE2MzQwODMxOTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="A04ZCu7yjrHgwQJK5ISHhH1DSg0qqowEay3n70KO6wV3D2Mj+OX3Kw20aSMitzgdG1xfrN7sOJV/dZIk+RvCzA4AAAB2eyJvcmlnaW4iOiJodHRwczovL2dvb2dsZS5jb206NDQzIiwiZmVhdHVyZSI6IlRydXN0VG9rZW5zIiwiZXhwaXJ5IjoxNjM0MDgzMTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><meta http-equiv="origin-trial" content="A2YAd4xOntTGygIDjApOTtXOgVI3IWsd5OnOGq3RbRkIQwyqYWNl1JGRAcvtm6VOHDj4n07T/J19VqLuJn3MmQ8AAACWeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjMxNjYzOTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="A2c5Ux+hivdkLh/KbZUGr6f7SCR0mZrBVfPJ+/OuDVHNwiYv+Lo83b9z5qL8sod78bQl0pSLtbvRWURo+xRl7AIAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjMxNjYzOTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AzNJ4sd3tVurolpdvWYZ4cmP9Po7RJhEHSqmC3pgxW9fFVZvchhtcMUgHAs97npxMD1jhXHO8s6q6Wy1MMLxKgEAAACceyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjMxNjYzOTk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlLCJ1c2FnZSI6InN1YnNldCJ9"><meta http-equiv="origin-trial" content="AwfG8hAcHnPa/kJ1Co0EvG/K0F9l1s2JZGiDLt2mhC3QI5Fh4qmsmSwrWObZFbRC9ieDaSLU6lHRxhGUF/i9sgoAAACBeyJvcmlnaW4iOiJodHRwczovL2RvdWJsZWNsaWNrLm5ldDo0NDMiLCJmZWF0dXJlIjoiSW50ZXJlc3RDb2hvcnRBUEkiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AwQ7dCmHkvR6FuOFxAuNnktYSQrGbL4dF+eBkrwNLALc69Wr//PnO1yzns3pjUoCaYbKHtVcnng2hU+8OUm0PAYAAACHeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXN5bmRpY2F0aW9uLmNvbTo0NDMiLCJmZWF0dXJlIjoiSW50ZXJlc3RDb2hvcnRBUEkiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><meta http-equiv="origin-trial" content="AysVDPGQTLD/Scn78x4mLwB1tMfje5jwUpAAzGRpWsr1NzoN7MTFhT3ClmImi2svDZA7V6nWGIV8YTPsSRTe0wYAAACHeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ3NlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiSW50ZXJlc3RDb2hvcnRBUEkiLCJleHBpcnkiOjE2MjYyMjA3OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2021082501.js?31062432" async=""></script><script charset="utf-8" src="https://xl-static.rozetka.com.ua/common.1b9e52f9fd96527e6452.js"></script><script charset="utf-8" src="https://xl-static.rozetka.com.ua/37.28b614da81adb6051734.js"></script><script charset="utf-8" src="https://xl-static.rozetka.com.ua/33.e75a57941d069385d002.js"></script><script charset="utf-8" src="https://xl-static.rozetka.com.ua/1.c731f7fae23883e7bea1.js"></script><script charset="utf-8" src="https://xl-static.rozetka.com.ua/2.c9835b6f6bb4652b91fd.js"></script><script charset="utf-8" src="https://xl-static.rozetka.com.ua/3.cf18110f73aecdb95f28.js"></script><script charset="utf-8" src="https://xl-static.rozetka.com.ua/24.b4c916acd4675e57cdc7.js"></script><style>.app-footer{order:3;margin-top:auto}</style><style type="text/css"></style></head>
+<body>
+
+<app-root></app-root>
+
+<!-- svg sprite -->
+<svg style="display: none;">
+    <defs id="symbols"></defs>
+</svg>
+<script>
+    function loadSprite (e) {
+        var t = new XMLHttpRequest;
+        t.open('GET', e, !0), t.onload = function () {
+            t.readyState === t.DONE && 200 === t.status && function (e) {
+                for (var t = (new DOMParser).parseFromString(e, 'text/xml').getElementsByTagName('symbol'), n = 0; n < t.length; n++) {
+                    var o = t.item(n).cloneNode(!0);
+                    document.getElementById('symbols').appendChild(o);
+                }
+            }(t.responseText);
+        }, t.send();
+    }
+</script>
+<!-- /svg sprite -->
+
+<style type="text/css">
+    .chats {
+        position: fixed;
+        z-index: 10;
+        left: 40px;
+        bottom: 40px;
+    }
+
+    .chats.state_visible .chats__list {
+        display: block;
+        -webkit-animation-name: fadeInUp;
+        animation-name: fadeInUp;
+        -webkit-animation-duration: 200ms;
+        animation-duration: 200ms;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+    }
+
+    .chats__toggle {
+        position: relative;
+        z-index: 2;
+        height: 46px;
+        border-radius: 50px;
+        box-shadow: 0 4px 4px rgba(0, 0, 0, .25);
+    }
+
+    @media (min-width: 768px) {
+        .chats__toggle {
+            height: 40px;
+        }
+    }
+
+    .chats__toggle svg {
+        margin-right: 0;
+    }
+
+    @media (min-width: 768px) {
+        .chats__toggle svg {
+            margin-right: 8px;
+        }
+    }
+
+    .chats__toggle-text {
+        display: none;
+    }
+
+    @media (min-width: 768px) {
+        .chats__toggle-text {
+            display: block;
+        }
+    }
+
+    .chats__list {
+        position: absolute;
+        left: 0;
+        bottom: 100%;
+        display: none;
+        padding-top: 16px;
+        padding-bottom: 16px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 4px;
+        background-color: #fff;
+    }
+
+    @keyframes fadeInUp {
+        from {
+            opacity: 0;
+            -webkit-transform: translate3d(0, 50%, 0);
+            transform: translate3d(0, 50%, 0);
+        }
+
+        to {
+            opacity: 1;
+            -webkit-transform: translate3d(0, -8px, 0);
+            transform: translate3d(0, -8px, 0);
+        }
+    }
+
+    .chats__list-item + .chats__list-item {
+        margin-top: 16px;
+    }
+
+    .chats__button {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        min-width: 160px;
+        padding-left: 12px;
+        padding-right: 12px;
+        box-sizing: border-box;
+        font-size: 14px;
+        color: #221f1f;
+    }
+
+    .chats__button:hover {
+        text-decoration: none;
+    }
+
+    .chats__button-icon {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+        margin-right: 12px;
+    }
+
+    .chats__button-icon svg {
+        fill: #fff;
+    }
+
+    .chats__button_type_telegram {
+        background-color: #0088cc;
+    }
+
+    .chats__button_type_viber {
+        background-color: #7d3daf;
+    }
+
+    .chats__button_type_chat {
+        background-color: #00a046;
+    }
+
+    .chats__button_type_facebook {
+        background-color: #1388E2;
+    }
+</style>
+
+<!--<div id="js-chats" class="chats display-none"> &lt;!&ndash; add js_state-visible &ndash;&gt;-->
+<!--    <button class="button button_size_medium button_with_icon button_color_green chats__toggle js-chats-toggle"-->
+<!--            aria-label="Задать вопрос">-->
+<!--        <svg width="14" height="14">-->
+<!--            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-rounded-chat"></use> &lt;!&ndash; поміняти &ndash;&gt;-->
+<!--        </svg>-->
+<!--        <span class="chats__toggle-text js-chats-toggle-text">-->
+<!--            Задать вопрос-->
+<!--        </span>-->
+<!--    </button>-->
+
+<!--    <ul class="chats__list">-->
+<!--        <li class="chats__list-item">-->
+<!--            <a class="chats__button js-chats-item" target="_blank" href="http://m.me/rozetka.ua">-->
+<!--                <span class="chats__button-icon chats__button_type_facebook">-->
+<!--                    <svg width="18" height="18">-->
+<!--                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-facebook-messenger"></use>-->
+<!--                    </svg>-->
+<!--                </span>-->
+<!--                Messenger-->
+<!--            </a>-->
+<!--        </li>-->
+
+<!--        <li class="chats__list-item">-->
+<!--            <a class="chats__button js-chats-item" target="_blank" href="https://t.me/Rozetka_helpBot?start">-->
+<!--                <span class="chats__button-icon chats__button_type_telegram">-->
+<!--                    <svg width="18" height="18">-->
+<!--                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-telegram"></use>-->
+<!--                    </svg>-->
+<!--                </span>-->
+<!--                Telegram-->
+<!--            </a>-->
+<!--        </li>-->
+
+<!--        <li class="chats__list-item">-->
+<!--            <a class="chats__button js-chats-item" target="_blank" href="https://rozetka.com.ua/viber_helpcenter/">-->
+<!--                <span class="chats__button-icon chats__button_type_viber">-->
+<!--                    <svg width="20" height="20">-->
+<!--                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-viber"></use>-->
+<!--                    </svg>-->
+<!--                </span>-->
+<!--                Viber-->
+<!--            </a>-->
+<!--        </li>-->
+
+<!--        <li class="chats__list-item">-->
+<!--            <a id="write-link" class="chats__button js-chats-item" href="javascript:void(0);" onclick="checkChatAvailability()">-->
+<!--                <span class="chats__button-icon chats__button_type_chat">-->
+<!--                    <svg width="16" height="16">-->
+<!--                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-chat-small"></use>-->
+<!--                    </svg>-->
+<!--                </span>-->
+<!--                <span id="write-span">Написать</span>-->
+<!--            </a>-->
+<!--        </li>-->
+<!--    </ul>-->
+<!--</div>-->
+
+<script src="https://xl-static.rozetka.com.ua/runtime.6036c0f30c4d90edb48b.js" defer=""></script><script src="https://xl-static.rozetka.com.ua/polyfills-es5.a86619852a40639e5c12.js" nomodule="" defer=""></script><script src="https://xl-static.rozetka.com.ua/polyfills.83aaa5f44c019f97bcff.js" defer=""></script><script src="https://xl-static.rozetka.com.ua/vendor.d1e54d5c9c0887a1a1fc.js" defer=""></script><script src="https://xl-static.rozetka.com.ua/main.2a63eaa9f8dfacb223e9.js" defer=""></script>
+
+</body></html>

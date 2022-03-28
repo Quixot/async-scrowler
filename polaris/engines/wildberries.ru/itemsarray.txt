@@ -1,0 +1,1151 @@
+Array
+(
+    [6650] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5969807/detail.aspx
+                    [1] => 0_PMG 2027L
+                    [2] => 3989
+                    [3] => 6399
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5969807/detail.aspx
+                    [1] => 0_PMG 2027L
+                    [2] => 3989
+                    [3] => 6399
+                )
+
+        )
+
+    [8177] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6170054/detail.aspx
+                    [1] => 7_PVCR 0826
+                    [2] => 15179
+                    [3] => 21999
+                )
+
+        )
+
+    [15115] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/10557310/detail.aspx
+                    [1] => 5_PVCR 0930 SmartGo
+                    [2] => 19989
+                    [3] => 24999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/10557310/detail.aspx
+                    [1] => 5_PVCR 0930 SmartGo
+                    [2] => 19989
+                    [3] => 24999
+                )
+
+        )
+
+    [12674] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6521709/detail.aspx
+                    [1] => 4_PCM 1535E Adore Cappuccino
+                    [2] => 11039
+                    [3] => 22999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6521709/detail.aspx
+                    [1] => 4_PCM 1535E Adore Cappuccino
+                    [2] => 11039
+                    [3] => 22999
+                )
+
+        )
+
+    [7922] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5641372/detail.aspx
+                    [1] => 2_PGS 1412C
+                    [2] => 2047
+                    [3] => 3199
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5641372/detail.aspx
+                    [1] => 2_PGS 1412C
+                    [2] => 2047
+                    [3] => 3199
+                )
+
+        )
+
+    [8118] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5104979/detail.aspx
+                    [1] => 8_PUH 5806Di
+                    [2] => 2549
+                    [3] => 3999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5104979/detail.aspx
+                    [1] => 8_PUH 5806Di
+                    [2] => 2549
+                    [3] => 3999
+                )
+
+        )
+
+    [5990] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5963861/detail.aspx
+                    [1] => 0_PHS 2405K
+                    [2] => 1525
+                    [3] => 1999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/2790681/detail.aspx
+                    [1] => 0_PHS 2405K
+                    [2] => 1633
+                    [3] => 1999
+                )
+
+        )
+
+    [8332] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585489/detail.aspx
+                    [1] => 2_PGS 1518CA SteamProfi
+                    [2] => 2753
+                    [3] => 3990
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585489/detail.aspx
+                    [1] => 2_PGS 1518CA SteamProfi
+                    [2] => 2753
+                    [3] => 3990
+                )
+
+        )
+
+    [14763] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/10597922/detail.aspx
+                    [1] => 3_PWK 1759CGL
+                    [2] => 1979
+                    [3] => 2999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/10597922/detail.aspx
+                    [1] => 3_PWK 1759CGL
+                    [2] => 2999
+                    [3] => 2999
+                )
+
+        )
+
+    [8389] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5163764/detail.aspx
+                    [1] => 9_PCM 0613A
+                    [2] => 1889
+                    [3] => 2099
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5163764/detail.aspx
+                    [1] => 9_PCM 0613A
+                    [2] => 1889
+                    [3] => 2099
+                )
+
+        )
+
+    [8569] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6855867/detail.aspx
+                    [1] => 9_PMG 3044 PROGEAR INSIDE
+                    [2] => 5999
+                    [3] => 9999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6855867/detail.aspx
+                    [1] => 9_PMG 3044 PROGEAR INSIDE
+                    [2] => 5999
+                    [3] => 9999
+                )
+
+        )
+
+    [12038] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/7053004/detail.aspx
+                    [1] => 8_PIR 2699K Cord[LESS]
+                    [2] => 2799
+                    [3] => 4999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/7053004/detail.aspx
+                    [1] => 8_PIR 2699K Cord[LESS]
+                    [2] => 2799
+                    [3] => 4999
+                )
+
+        )
+
+    [7624] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5963860/detail.aspx
+                    [1] => 4_PHS 2510K
+                    [2] => 1899
+                    [3] => 1899
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5963860/detail.aspx
+                    [1] => 4_PHS 2510K
+                    [2] => 1443
+                    [3] => 1899
+                )
+
+        )
+
+    [8713] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/9290807/detail.aspx
+                    [1] => 3_PHC 2502RC
+                    [2] => 1823
+                    [3] => 1899
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/9290807/detail.aspx
+                    [1] => 3_PHC 2502RC
+                    [2] => 1823
+                    [3] => 1899
+                )
+
+        )
+
+    [14667] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/7066661/detail.aspx
+                    [1] => 7_PMG 1852 RUS
+                    [2] => 3239
+                    [3] => 4499
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/7066661/detail.aspx
+                    [1] => 7_PMG 1852 RUS
+                    [2] => 4499
+                    [3] => 4499
+                )
+
+        )
+
+    [9020] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/9000201/detail.aspx
+                    [1] => 0_PHC 0954
+                    [2] => 1390
+                    [3] => 1390
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/9000201/detail.aspx
+                    [1] => 0_PHC 0954
+                    [2] => 1390
+                    [3] => 1390
+                )
+
+        )
+
+    [8491] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5969798/detail.aspx
+                    [1] => 1_PHM 8518B
+                    [2] => 3599
+                    [3] => 3999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5969798/detail.aspx
+                    [1] => 1_PHM 8518B
+                    [2] => 3599
+                    [3] => 3999
+                )
+
+        )
+
+    [8785] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6280461/detail.aspx
+                    [1] => 5_PHD 2248Ti
+                    [2] => 1999
+                    [3] => 1999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6280461/detail.aspx
+                    [1] => 5_PHD 2248Ti
+                    [2] => 1999
+                    [3] => 1999
+                )
+
+        )
+
+    [6428] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5643303/detail.aspx
+                    [1] => 8_PEA 0829 Fruit Fusion
+                    [2] => 4999
+                    [3] => 4999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5643303/detail.aspx
+                    [1] => 8_PEA 0829 Fruit Fusion
+                    [2] => 4999
+                    [3] => 4999
+                )
+
+        )
+
+    [7625] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5963849/detail.aspx
+                    [1] => 5_PHC 1102R
+                    [2] => 1499
+                    [3] => 1499
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5963849/detail.aspx
+                    [1] => 5_PHC 1102R
+                    [2] => 1499
+                    [3] => 1499
+                )
+
+        )
+
+    [8650] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5969811/detail.aspx
+                    [1] => 0_PWP 2823 Summer
+                    [2] => 3499
+                    [3] => 3499
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5969811/detail.aspx
+                    [1] => 0_PWP 2823 Summer
+                    [2] => 2974
+                    [3] => 3499
+                )
+
+        )
+
+    [7240] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/4984400/detail.aspx
+                    [1] => 0_PIR 2482AK
+                    [2] => 2239
+                    [3] => 2799
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/4984400/detail.aspx
+                    [1] => 0_PIR 2482AK
+                    [2] => 2239
+                    [3] => 2799
+                )
+
+        )
+
+    [7774] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5007905/detail.aspx
+                    [1] => 4_PCM 1527E Adore Crema
+                    [2] => 6659
+                    [3] => 8999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5007905/detail.aspx
+                    [1] => 4_PCM 1527E Adore Crema
+                    [2] => 6659
+                    [3] => 8999
+                )
+
+        )
+
+    [15519] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/9824212/detail.aspx
+                    [1] => 9_PUH 4570 TFD
+                    [2] => 5799
+                    [3] => 9999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/9824212/detail.aspx
+                    [1] => 9_PUH 4570 TFD
+                    [2] => 5799
+                    [3] => 9999
+                )
+
+        )
+
+    [14907] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/10165173/detail.aspx
+                    [1] => 7_PIR 2444K Cord[LESS]
+                    [2] => 2499
+                    [3] => 3999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/10165173/detail.aspx
+                    [1] => 7_PIR 2444K Cord[LESS]
+                    [2] => 2499
+                    [3] => 3999
+                )
+
+        )
+
+    [7735] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/3260250/detail.aspx
+                    [1] => 5_PHS 3214K
+                    [2] => 1549
+                    [3] => 1599
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/3260250/detail.aspx
+                    [1] => 5_PHS 3214K
+                    [2] => 1223
+                    [3] => 1599
+                )
+
+        )
+
+    [8099] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5662352/detail.aspx
+                    [1] => 9_PIR 2480AK 3m
+                    [2] => 2599
+                    [3] => 3299
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5662352/detail.aspx
+                    [1] => 9_PIR 2480AK 3m
+                    [2] => 2599
+                    [3] => 3299
+                )
+
+        )
+
+    [107] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/2290025/detail.aspx
+                    [1] => 7_PET 0804A
+                    [2] => 2199
+                    [3] => 2199
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/2290025/detail.aspx
+                    [1] => 7_PET 0804A
+                    [2] => 2199
+                    [3] => 2199
+                )
+
+        )
+
+    [6667] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585485/detail.aspx
+                    [1] => 7_PWK 2016C
+                    [2] => 1899
+                    [3] => 1899
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585485/detail.aspx
+                    [1] => 7_PWK 2016C
+                    [2] => 1899
+                    [3] => 1899
+                )
+
+        )
+
+    [7994] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5963872/detail.aspx
+                    [1] => 4_PWS 1861DML
+                    [2] => 1899
+                    [3] => 1899
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5963872/detail.aspx
+                    [1] => 4_PWS 1861DML
+                    [2] => 1899
+                    [3] => 1899
+                )
+
+        )
+
+    [8606] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585480/detail.aspx
+                    [1] => 6_PWK 1732CA
+                    [2] => 1999
+                    [3] => 1999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585480/detail.aspx
+                    [1] => 6_PWK 1732CA
+                    [2] => 1799
+                    [3] => 1999
+                )
+
+        )
+
+    [5656] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/4985461/detail.aspx
+                    [1] => 6_PWK 1767CGL
+                    [2] => 1999
+                    [3] => 1999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/4985461/detail.aspx
+                    [1] => 6_PWK 1767CGL
+                    [2] => 1999
+                    [3] => 1999
+                )
+
+        )
+
+    [8782] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6280716/detail.aspx
+                    [1] => 2_PHS 2190K
+                    [2] => 1241
+                    [3] => 1499
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6280716/detail.aspx
+                    [1] => 2_PHS 2190K
+                    [2] => 1241
+                    [3] => 1499
+                )
+
+        )
+
+    [15512] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/9824211/detail.aspx
+                    [1] => 2_PUH 0564 TF
+                    [2] => 1719
+                    [3] => 3999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/9824211/detail.aspx
+                    [1] => 2_PUH 0564 TF
+                    [2] => 1919
+                    [3] => 3999
+                )
+
+        )
+
+    [8262] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5969786/detail.aspx
+                    [1] => 2_EVO 0446DS
+                    [2] => 9519
+                    [3] => 13999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5969786/detail.aspx
+                    [1] => 2_EVO 0446DS
+                    [2] => 9519
+                    [3] => 13999
+                )
+
+        )
+
+    [7055] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5643304/detail.aspx
+                    [1] => 5_PHB 0742
+                    [2] => 2799
+                    [3] => 2799
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5643304/detail.aspx
+                    [1] => 5_PHB 0742
+                    [2] => 2799
+                    [3] => 2799
+                )
+
+        )
+
+    [6041] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5662350/detail.aspx
+                    [1] => 1_PIR 1003T
+                    [2] => 1799
+                    [3] => 1799
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5662350/detail.aspx
+                    [1] => 1_PIR 1003T
+                    [2] => 1799
+                    [3] => 1799
+                )
+
+        )
+
+    [7411] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6280462/detail.aspx
+                    [1] => 1_PHD 2259STi
+                    [2] => 2399
+                    [3] => 3199
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6280462/detail.aspx
+                    [1] => 1_PHD 2259STi
+                    [2] => 2399
+                    [3] => 3199
+                )
+
+        )
+
+    [7856] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585486/detail.aspx
+                    [1] => 6_PWP 2821 Travel
+                    [2] => 2589
+                    [3] => 3499
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585486/detail.aspx
+                    [1] => 6_PWP 2821 Travel
+                    [2] => 2589
+                    [3] => 3499
+                )
+
+        )
+
+    [4980] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5035221/detail.aspx
+                    [1] => 0_PIR 2267AK
+                    [2] => 2199
+                    [3] => 2199
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5035221/detail.aspx
+                    [1] => 0_PIR 2267AK
+                    [2] => 2199
+                    [3] => 2199
+                )
+
+        )
+
+    [4928] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/2290028/detail.aspx
+                    [1] => 8_PHB 0523
+                    [2] => 2199
+                    [3] => 2199
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/2290028/detail.aspx
+                    [1] => 8_PHB 0523
+                    [2] => 2199
+                    [3] => 2199
+                )
+
+        )
+
+    [8938] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5586248/detail.aspx
+                    [1] => 8_PTB 0511G
+                    [2] => 3499
+                    [3] => 3999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5586248/detail.aspx
+                    [1] => 8_PTB 0511G
+                    [2] => 2849
+                    [3] => 3999
+                )
+
+        )
+
+    [8103] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5456645/detail.aspx
+                    [1] => 3_PVC 1516
+                    [2] => 4499
+                    [3] => 4499
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5456645/detail.aspx
+                    [1] => 3_PVC 1516
+                    [2] => 3284
+                    [3] => 4499
+                )
+
+        )
+
+    [8093] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5586240/detail.aspx
+                    [1] => 3_PVC 1618BB
+                    [2] => 4292
+                    [3] => 5299
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5586240/detail.aspx
+                    [1] => 3_PVC 1618BB
+                    [2] => 3762
+                    [3] => 5299
+                )
+
+        )
+
+    [8824] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6390103/detail.aspx
+                    [1] => 4_PIR 3099AK 3m
+                    [2] => 4549
+                    [3] => 6999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6390103/detail.aspx
+                    [1] => 4_PIR 3099AK 3m
+                    [2] => 4549
+                    [3] => 6999
+                )
+
+        )
+
+    [8878] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6045404/detail.aspx
+                    [1] => 8_PWK 1287CC
+                    [2] => 2869
+                    [3] => 3499
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6045404/detail.aspx
+                    [1] => 8_PWK 1287CC
+                    [2] => 2869
+                    [3] => 3499
+                )
+
+        )
+
+    [7201] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585474/detail.aspx
+                    [1] => 1_PTB 0205G
+                    [2] => 3639
+                    [3] => 3999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585474/detail.aspx
+                    [1] => 1_PTB 0205G
+                    [2] => 3639
+                    [3] => 3999
+                )
+
+        )
+
+    [9024] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5643311/detail.aspx
+                    [1] => 4_PWK 1575CL
+                    [2] => 1199
+                    [3] => 1499
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5643311/detail.aspx
+                    [1] => 4_PWK 1575CL
+                    [2] => 1499
+                    [3] => 1499
+                )
+
+        )
+
+    [8797] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6280469/detail.aspx
+                    [1] => 7_PVC 1836
+                    [2] => 5879
+                    [3] => 4999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/6280469/detail.aspx
+                    [1] => 7_PVC 1836
+                    [2] => 5879
+                    [3] => 4999
+                )
+
+        )
+
+    [7461] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5033572/detail.aspx
+                    [1] => 1_PHB 1054AL
+                    [2] => 2404
+                    [3] => 3699
+                )
+
+        )
+
+    [8139] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5456644/detail.aspx
+                    [1] => 9_PIR 2695AK 3m
+                    [2] => 3032
+                    [3] => 3990
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5456644/detail.aspx
+                    [1] => 9_PIR 2695AK 3m
+                    [2] => 3032
+                    [3] => 3990
+                )
+
+        )
+
+    [8702] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5586241/detail.aspx
+                    [1] => 2_PVC 2016
+                    [2] => 6391
+                    [3] => 6799
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5586241/detail.aspx
+                    [1] => 2_PVC 2016
+                    [2] => 6391
+                    [3] => 6799
+                )
+
+        )
+
+    [2822] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/2381245/detail.aspx
+                    [1] => 2_PHS 2058KTi
+                    [2] => 1499
+                    [3] => 1999
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/2381245/detail.aspx
+                    [1] => 2_PHS 2058KTi
+                    [2] => 1999
+                    [3] => 1999
+                )
+
+        )
+
+    [15509] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/9968177/detail.aspx
+                    [1] => 9_PUH 6405 TF
+                    [2] => 10000
+                    [3] => 4499
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/9968177/detail.aspx
+                    [1] => 9_PUH 6405 TF
+                    [2] => 10000
+                    [3] => 4499
+                )
+
+        )
+
+    [8768] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585470/detail.aspx
+                    [1] => 8_PKS 0742DG
+                    [2] => 1199
+                    [3] => 1299
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/5585470/detail.aspx
+                    [1] => 8_PKS 0742DG
+                    [2] => 1079
+                    [3] => 1299
+                )
+
+        )
+
+    [5655] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/2381292/detail.aspx
+                    [1] => 5_PWK 1864CA
+                    [2] => 1799
+                    [3] => 1999
+                )
+
+        )
+
+    [4812] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/3723315/detail.aspx
+                    [1] => 2_PHD 2077i
+                    [2] => 1403
+                    [3] => 1799
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/3723315/detail.aspx
+                    [1] => 2_PHD 2077i
+                    [2] => 1403
+                    [3] => 1799
+                )
+
+        )
+
+    [7291] => Array
+        (
+            [wildberries.ru.profile] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/3641931/detail.aspx
+                    [1] => 1_PTB 0206
+                    [2] => 2799
+                    [3] => 2799
+                )
+
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/3641931/detail.aspx
+                    [1] => 1_PTB 0206
+                    [2] => 2799
+                    [3] => 2799
+                )
+
+        )
+
+    [8076] => Array
+        (
+            [wildberries.ru] => Array
+                (
+                    [0] => https://www.wildberries.ru/catalog/4985106/detail.aspx
+                    [1] => 6_PHM 5009A
+                    [2] => 1987
+                    [3] => 2799
+                )
+
+        )
+
+)

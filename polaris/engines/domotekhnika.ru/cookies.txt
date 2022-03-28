@@ -1,0 +1,24 @@
+
+
+# Cookies for this tab
+# Click here to download them
+# Click here to download cookies for all domains
+
+
+# Netscape HTTP Cookie File
+.domotekhnika.ru	TRUE	/	FALSE	1927097640	usession	eyJpdiI6InlQUjJkV2dFbE5NcDJPMkVKQVJCZkE9PSIsInZhbHVlIjoibVdtMmREY1cwVzRzSUFwZVNBTXpOUnFhc1JCbGs5UU4wQWhmTDRkVEI2VktlVXBvcGRXYTFiZmZDRlpMbFlyTiIsIm1hYyI6IjRhYmVhNzNhNDAzMWFlOTRiNGIzYjgwMmE4YjYxZTkwY2U4OGRiYjgxNjhmMzFjMDM1NDA5OTBhOGRhYWU3ZWQifQ%3D%3D
+.domotekhnika.ru	TRUE	/	FALSE	1643273646	_ym_uid	1611737646761085942
+.domotekhnika.ru	TRUE	/	FALSE	1643273646	_ym_d	1611737646
+.domotekhnika.ru	TRUE	/	FALSE	1611737708	_gat	1
+.domotekhnika.ru	TRUE	/	FALSE	1611737708	_gat_UA-161617067-1	1
+.domotekhnika.ru	TRUE	/	FALSE	1611809648	_ym_isad	2
+.domotekhnika.ru	TRUE	/	FALSE	1611739448	_ym_visorc_21429490	w
+.domotekhnika.ru	TRUE	/	FALSE	1643273649	rcuid	60112a30b9c9bc00010d550f
+.domotekhnika.ru	TRUE	/	FALSE	1611739449	_ym_visorc_61203988	w
+.domotekhnika.ru	TRUE	/	FALSE	1619513649	_fbp	fb.1.1611737648528.1929404667
+.domotekhnika.ru	TRUE	/	FALSE	1611744869	laravel_session	eyJpdiI6InB5UHdtUUZiY3I3c1llWXBhelp0d1E9PSIsInZhbHVlIjoiazJpXC9sZ0RBRnpFbzA1bXY1amdSN2RpZWhETk9aRDdiSXVzQUJmQzJtcGhhN1Z2dVRyTzdMY3ZjUlB6NkpMdEciLCJtYWMiOiI5YzNmNTAzZmQxNDZmYWYxMzUxNWRlMjllMTMwNGU2N2I4NzU5NThhODk1NGNhZjk1YWVkMWY0MDM3ZTliMjkzIn0%3D
+.domotekhnika.ru	TRUE	/	FALSE	1674809670	_ga	GA1.2.325315469.1611737646
+.domotekhnika.ru	TRUE	/	FALSE	1611824070	_gid	GA1.2.1513078682.1611737646
+.domotekhnika.ru	TRUE	/	FALSE	1611737680	rr-testCookie	testvalue
+.domotekhnika.ru	TRUE	/	FALSE	1643273670	rrpvid	231337594376823
+

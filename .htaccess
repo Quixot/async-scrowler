@@ -1,0 +1,5 @@
+AuthUserFile /var/www/.htpasswd
+AuthName "Authorization Required"
+AuthType Basic
+require valid-user
+AddType application/x-httpd-php .php .htm .html
